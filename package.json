@@ -1,0 +1,32 @@
+{
+  "name": "threat-vermus",
+  "version": "1.0.0",
+  "dependencies": {
+    "jquery": "^2.2.0"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-connect": "^1.0.1",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-cssmin": "^1.0.1",
+    "grunt-contrib-imagemin": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-html5-validate": "^0.1.1",
+    "grunt-npmcopy": "^0.1.0",
+    "grunt-postcss": "^0.8.0",
+    "grunt-sass": "^1.1.0",
+    "grunt-wkhtmltopdf": "^0.5.0",
+    "normalize.css": "^4.1.1",
+    "sass-flex-mixin": "^1.0.3",
+    "stylelint": "^6.2.2"
+  },
+  "scripts": {
+    "build": "grunt",
+    "watch": "grunt watch",
+    "deploy": "grunt deploy",
+    "clean": "grunt clean",
+    "start": "grunt run"
+  }
+}
