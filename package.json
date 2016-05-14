@@ -17,8 +17,8 @@
     "grunt-npmcopy": "^0.1.0",
     "grunt-postcss": "^0.8.0",
     "grunt-sass": "^1.1.0",
-    "grunt-wkhtmltopdf": "^0.5.0",
     "normalize.css": "^4.1.1",
+    "phantomjs-pdf": "^0.1.2",
     "sass-flex-mixin": "^1.0.3",
     "stylelint": "^6.2.2"
   },
@@ -27,6 +27,7 @@
     "watch": "grunt watch",
     "deploy": "grunt deploy",
     "clean": "grunt clean",
-    "start": "grunt run"
+    "start": "grunt run",
+    "publish": "grunt publish"
   }
 }

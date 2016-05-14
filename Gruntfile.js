@@ -184,6 +184,7 @@ module.exports = function (grunt) {
   grunt.loadNpmTasks('grunt-html5-validate');
   grunt.loadNpmTasks('grunt-wkhtmltopdf');
 
-  grunt.registerTask('default', ['postcss', 'copy', 'html5validate', 'sass', 'cssmin', 'imagemin', 'npmcopy', 'wkhtmltopdf']);
+  grunt.registerTask('default', ['postcss', 'copy', 'html5validate', 'sass', 'cssmin', 'imagemin', 'npmcopy']);
   grunt.registerTask('run', ['clean', 'default', 'connect', 'watch']);
+  grunt.registerTask('publish', ['clean', 'default', 'wkhtmltopdf']);
 };
