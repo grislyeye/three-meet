@@ -1,5 +1,3 @@
-@import "node_modules/sass-flex-mixin/_flex";
-
 /// Stroke font-character
 /// @param  {Integer} $stroke - Stroke width
 /// @param  {Color}   $color  - Stroke color
@@ -22,6 +20,8 @@
 @mixin stroke($stroke, $color) {
   text-shadow: stroke($stroke, $color);
 }
+
+$page_margin: 1cm;
 
 @import "node_modules/normalize.css/normalize";
 
@@ -93,19 +93,19 @@ body {
   margin-bottom: 0.5cm;
   box-shadow: 0 0 0.5cm rgba(0,0,0,0.5);
   page-break-before: always;
-  padding: 1cm 1cm 1cm 1cm;
+  padding: $page_margin $page_margin $page_margin $page_margin;
   overflow: auto;
+  position: relative;
 }
 
 .page.cover {
   padding-left: 0cm;
   padding-right: 0cm;
   page-break-before: avoid;
-  @include flexbox;
-  @include flex-direction(column);
-  @include flex-wrap(nowrap);
-  @include justify-content(space-between);
-  @include align-items(center);
+}
+
+.page.cover > * {
+  display: block;
 }
 
 @media print {
@@ -114,27 +114,28 @@ body {
   }
 
   .page {
-    width: auto;
-    height: auto;
+//    width: auto;
+//    height: auto;
     box-shadow: none;
   }
 }
 
 img#cover {
   width: 100%;
+  margin-top: auto;
 }
 
 #logos {
   width: 100%;
-  padding-left: 1cm;
-  padding-right: 1cm;
-  @include flexbox;
-  @include flex-direction(row-reverse);
-  @include flex-wrap(nowrap);
+  padding-left: $page_margin;
+  padding-right: $page_margin;
+  direction: rtl;
+  position: absolute;
+  top: 26.7cm;
 }
 
 #logos img {
-  width: 80px;
+  width: 2cm;
   height: auto;
 }
 
