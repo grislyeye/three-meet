@@ -1,0 +1,45 @@
+$page_margin: 1cm;
+
+* {
+  box-sizing: border-box;
+}
+
+@page {
+  size: A4;
+}
+
+.page {
+  background: white;
+  width: 21cm;
+  height: 29.7cm;
+  margin: 0 auto;
+  margin-bottom: 0.5cm;
+  page-break-before: always;
+  padding: $page_margin $page_margin $page_margin $page_margin;
+  overflow: auto;
+  position: relative;
+}
+
+.page.cover {
+  padding-left: 0cm;
+  padding-right: 0cm;
+  page-break-before: avoid;
+}
+
+.page.cover > * {
+  display: block;
+}
+
+img#cover {
+  width: 100%;
+  margin-top: auto;
+}
+
+#logos {
+  width: 100%;
+  padding-left: $page_margin;
+  padding-right: $page_margin;
+  direction: rtl;
+  position: absolute;
+  top: 26.7cm;
+}

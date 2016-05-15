@@ -1,0 +1,41 @@
+@import "stroke";
+@import "fonts";
+
+body {
+  background: lightgrey;
+}
+
+.page {
+  background: white;
+  box-shadow: 0 0 0.5cm rgba(0,0,0,0.5);
+}
+
+@media print {
+  .page {
+    box-shadow: none;
+  }
+
+  body {
+    background: white;
+  }
+}
+
+#logos img {
+  width: 2cm;
+  height: auto;
+}
+
+h1 {
+  font-family: "Andada SC", serif;
+  font-size: 44pt;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.cover h1 {
+  color: red;
+  font-size: 50pt;
+  @include stroke(3, black);
+  margin-top: 0em;
+  margin-bottom: 0cm;
+}

@@ -15,12 +15,10 @@
     "grunt-contrib-watch": "^1.0.0",
     "grunt-html5-validate": "^0.1.1",
     "grunt-npmcopy": "^0.1.0",
-    "grunt-postcss": "^0.8.0",
     "grunt-sass": "^1.1.0",
     "grunt-wkhtmltopdf": "^0.5.0",
     "normalize.css": "^4.1.1",
-    "phantomjs-pdf": "^0.1.2",
-    "stylelint": "^6.2.2"
+    "phantomjs-pdf": "^0.1.2"
   },
   "scripts": {
     "build": "grunt",
