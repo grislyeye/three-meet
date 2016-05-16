@@ -42,11 +42,11 @@ module.exports = function (grunt) {
         tasks: ['copy:main']
       },
       sass: {
-        files: ['main.scss'],
+        files: ['main.scss', 'assets/styles/**'],
         tasks: ['sass', 'cssmin']
       },
       assets: {
-        files: ['assets/**'],
+        files: ['assets/**', '!assets/styles/**'],
         tasks: ['copy:assets', 'imagemin:assets']
       },
       bower_components: {

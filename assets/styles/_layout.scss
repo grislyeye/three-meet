@@ -43,3 +43,9 @@ img#cover {
   position: absolute;
   top: 26.7cm;
 }
+
+.columns {
+  -webkit-columns: 300px 2;
+     -moz-columns: 300px 2;
+          columns: 300px 2;
+}
