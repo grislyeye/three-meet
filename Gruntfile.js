@@ -115,10 +115,6 @@ module.exports = function (grunt) {
       }
     },
 
-    html5validate: {
-      src: 'dist/*.html'
-    },
-
     wkhtmltopdf: {
       dev: {
         src: 'dist/*.html',
@@ -143,10 +139,9 @@ module.exports = function (grunt) {
   grunt.loadNpmTasks('grunt-contrib-clean');
   grunt.loadNpmTasks('grunt-contrib-connect');
   grunt.loadNpmTasks('grunt-npmcopy');
-  grunt.loadNpmTasks('grunt-html5-validate');
   grunt.loadNpmTasks('grunt-wkhtmltopdf');
 
-  grunt.registerTask('default', ['copy', 'html5validate', 'sass', 'cssmin', 'imagemin', 'npmcopy']);
+  grunt.registerTask('default', ['copy', 'sass', 'cssmin', 'imagemin', 'npmcopy']);
   grunt.registerTask('run', ['clean', 'default', 'connect', 'watch']);
   grunt.registerTask('publish', ['clean', 'default', 'wkhtmltopdf']);
 };
