@@ -4,7 +4,8 @@ Static HTML document for 'Threats: Vermus'.
 
 Requirements:
 
-  * [Node.js](http://nodejs.org/).
+  * [Node.js](http://nodejs.org/)
+  * [wkhtmltopdf](http://wkhtmltopdf.org/)
 
 To set-up your environment execute:
 
