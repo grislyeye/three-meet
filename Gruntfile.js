@@ -113,21 +113,6 @@ module.exports = function (grunt) {
           'js/jquery/jquery.js': 'jquery/dist/jquery.min.js'
         }
       }
-    },
-
-    wkhtmltopdf: {
-      dev: {
-        src: 'dist/*.html',
-        dest: 'dist/',
-        args: [
-          '--print-media-type',
-          '--no-pdf-compression',
-          '--margin-bottom', '0mm',
-          '--margin-right', '0mm',
-          '--margin-left', '0mm',
-          '--margin-top', '0mm'
-        ]
-      }
     }
   });
 
@@ -139,9 +124,20 @@ module.exports = function (grunt) {
   grunt.loadNpmTasks('grunt-contrib-clean');
   grunt.loadNpmTasks('grunt-contrib-connect');
   grunt.loadNpmTasks('grunt-npmcopy');
-  grunt.loadNpmTasks('grunt-wkhtmltopdf');
+
+  grunt.registerTask('electron-pdf', '', function () {
+    var exec = require('child_process').execSync;
+    var result = exec("electron-pdf dist/index.html dist/threats-vermus.pdf", { encoding: 'utf8' });
+    grunt.log.writeln(result);
+	// grunt.util.spawn({
+	//   cmd: ['electron-pdf'],
+	//   args: ['dist/index.html', 'dist/threats-vermus.pdf'],
+	// }, function done() {
+	//   grunt.log.ok('Exported HTML to PDF');
+	// });
+  });
 
   grunt.registerTask('default', ['copy', 'sass', 'cssmin', 'imagemin', 'npmcopy']);
   grunt.registerTask('run', ['clean', 'default', 'connect', 'watch']);
-  grunt.registerTask('publish', ['clean', 'default', 'wkhtmltopdf']);
+  grunt.registerTask('publish', ['clean', 'default', 'electron-pdf']);
 };
