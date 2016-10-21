@@ -1,0 +1,17 @@
+{
+  "name": "threat-vermus",
+  "authors": [
+    "Ricardo Gladwell <ricardo@gladwell.me>"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "dnd-stat-block": "^0.3.2"
+  }
+}

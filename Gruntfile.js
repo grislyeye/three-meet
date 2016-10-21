@@ -25,6 +25,7 @@ module.exports = function (grunt) {
         files: [
           {
             expand: true,
+            follow: true,
             cwd: 'bower_components/',
             src: ['**'],
             dest: 'dist/vendor/'
@@ -96,10 +97,24 @@ module.exports = function (grunt) {
     npmcopy: {
       dist: {
         options: {
-          destPrefix: 'dist/vendor'
+          destPrefix: 'dist/vendor',
         },
         files: {
-          'js/jquery/jquery.js': 'jquery/dist/jquery.min.js'
+          'js/jquery/jquery.js': 'jquery/dist/jquery.min.js',
+          'js/webcomponentsjs/webcomponentsjs-lite.js': 'webcomponentsjs/lite.js'
+        }
+      }
+    },
+
+    bowercopy: {
+      options: {
+        clean: true,
+        destPrefix: 'dist/vendor/components'
+      },
+      statblock5e: {
+        files: {
+          // Note: when copying folders, the destination (key) will be used as the location for the folder 
+          'statblock5e': 'statblock5e/src'
         }
       }
     }
@@ -112,6 +127,7 @@ module.exports = function (grunt) {
   grunt.loadNpmTasks('grunt-contrib-clean');
   grunt.loadNpmTasks('grunt-contrib-connect');
   grunt.loadNpmTasks('grunt-npmcopy');
+  grunt.loadNpmTasks('grunt-bowercopy');
 
   grunt.registerTask('default', ['copy', 'sass', 'cssmin', 'npmcopy']);
   grunt.registerTask('run', ['clean', 'default', 'connect', 'watch']);

@@ -1,4 +1,6 @@
 $page_margin: 1cm;
+$page_width: 21cm;
+$internal_page_width: $page_width - (2 * $page_margin);
 
 * {
   box-sizing: border-box;
@@ -10,24 +12,43 @@ $page_margin: 1cm;
 
 .page {
   background: white;
-  width: 21cm;
+  width: $page_width;
   height: 29.7cm;
   margin: 0 auto;
   margin-bottom: 0.5cm;
   page-break-before: always;
   padding: $page_margin $page_margin $page_margin $page_margin;
-  overflow: auto;
+  overflow: hidden;
   position: relative;
+  counter-increment: page-number;
+  z-index: -10;
+}
+
+.page:after {
+  width: $internal_page_width;
+  position: absolute;
+  bottom: 1em;
+  text-align: center;
 }
 
 .page.cover {
-  padding-left: 0cm;
-  padding-right: 0cm;
+  padding-left: 0;
+  padding-right: 0;
+  padding-top: 0;
   page-break-before: avoid;
+}
+
+.page.cover header {
+  padding-top: 2em;
 }
 
 .page.cover > * {
   display: block;
+}
+
+.content img {
+  position: relative;
+  z-index: -5;
 }
 
 img#cover {
@@ -44,8 +65,23 @@ img#cover {
   top: 26.7cm;
 }
 
-.columns {
+.page > .columns {
+  -webkit-column-gap: 2.5em;
+     -moz-column-gap: 2.5em;
+          column-gap: 2.5em;
+
   -webkit-columns: 300px 2;
      -moz-columns: 300px 2;
           columns: 300px 2;
+}
+
+.page > .columns > :first-child {
+  margin-top: 0;
+}
+
+
+section {
+  img {
+    width: $internal_page_width;
+  }
 }

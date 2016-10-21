@@ -46,27 +46,4 @@
   src: url("fonts/Andada-BoldItalic.otf");
 }
 
-
-@font-face {
-  font-family: "TeX Gyre Bonum";
-  src: url("fonts/texgyrebonum-regular.otf");
-}
-
-@font-face {
-  font-family: "TeX Gyre Bonum";
-  font-weight: bold;
-  src: url("fonts/texgyrebonum-bold.otf");
-}
-
-@font-face {
-  font-family: "TeX Gyre Bonum";
-  font-style: italic;
-  src: url("fonts/texgyrebonum-italic.otf");
-}
-
-@font-face {
-  font-family: "TeX Gyre Bonum";
-  font-weight: bold;
-  font-style: italic;
-  src: url("fonts/texgyrebonum-bolditalic.otf");
-}
+@import url(https://fonts.googleapis.com/css?family=Alegreya:400,400italic,700italic,700);

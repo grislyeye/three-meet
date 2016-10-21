@@ -1,0 +1,32 @@
+<dom-module id="grisly-eye-stat-block-theme">
+
+  <template>
+    <style>
+      :root dnd-stat-block {
+        font-size: 11pt;
+        background-color: white;
+        --stat-block-divider-color: red;
+        --stat-block-two-column-width: 19cm;
+        --stat-block-two-column-column-width: 300px;
+      }
+
+      :root dnd-stat-block h1, :root dnd-stat-block h2 {
+        font-family: 'Alegreya', serif;
+        color: red;
+        text-align: left;
+        font-variant: small-caps;
+        text-transform: none;
+      }
+
+    </style>
+  </template>
+
+  <script>
+    HTMLImports.whenReady(function () {
+      Polymer({
+        is: 'grisly-eye-stat-block-theme'
+      });
+    });
+  </script>
+
+</dom-module>

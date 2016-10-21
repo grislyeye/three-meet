@@ -2,10 +2,12 @@
   "name": "threat-vermus",
   "version": "1.0.0",
   "dependencies": {
-    "jquery": "^2.2.0"
+    "jquery": "^3.1.1"
   },
   "devDependencies": {
+    "bower": "^1.7.9",
     "grunt": "^1.0.1",
+    "grunt-bowercopy": "^1.2.4",
     "grunt-cli": "^1.2.0",
     "grunt-contrib-clean": "^1.0.0",
     "grunt-contrib-connect": "^1.0.1",
@@ -14,7 +16,9 @@
     "grunt-contrib-watch": "^1.0.0",
     "grunt-npmcopy": "^0.1.0",
     "grunt-sass": "^1.1.0",
-    "normalize.css": "^4.1.1"
+    "normalize.css": "^5.0.0",
+    "phantomjs-pdf": "^0.1.2",
+    "webcomponentsjs": "^1.0.2"
   },
   "scripts": {
     "build": "grunt",
@@ -22,6 +26,8 @@
     "deploy": "grunt deploy",
     "clean": "grunt clean",
     "start": "grunt run",
-    "publish": "grunt publish"
+    "publish": "grunt publish",
+    "postinstall": "bower install",
+    "postupdate": "bower update"
   }
 }

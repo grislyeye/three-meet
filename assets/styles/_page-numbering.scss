@@ -1,0 +1,8 @@
+.page {
+  counter-increment: page-number;
+}
+
+.page:not(.cover):not(.title):after {
+  content: "Page " counter(page-number);
+  margin-bottom: 1em;
+};
