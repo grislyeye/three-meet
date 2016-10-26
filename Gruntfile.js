@@ -125,19 +125,6 @@ module.exports = function (grunt) {
   grunt.loadNpmTasks('grunt-contrib-connect');
   grunt.loadNpmTasks('grunt-npmcopy');
 
-  grunt.registerTask('electron-pdf', '', function () {
-    var exec = require('child_process').execSync;
-    var result = exec("electron-pdf dist/index.html dist/threats-vermus.pdf", { encoding: 'utf8' });
-    grunt.log.writeln(result);
-	// grunt.util.spawn({
-	//   cmd: ['electron-pdf'],
-	//   args: ['dist/index.html', 'dist/threats-vermus.pdf'],
-	// }, function done() {
-	//   grunt.log.ok('Exported HTML to PDF');
-	// });
-  });
-
   grunt.registerTask('default', ['copy', 'sass', 'cssmin', 'imagemin', 'npmcopy']);
   grunt.registerTask('run', ['clean', 'default', 'connect', 'watch']);
-  grunt.registerTask('publish', ['clean', 'default', 'electron-pdf']);
 };
