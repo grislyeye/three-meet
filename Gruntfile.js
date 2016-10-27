@@ -47,7 +47,7 @@ module.exports = function (grunt) {
       },
       assets: {
         files: ['assets/**', '!assets/styles/**'],
-        tasks: ['copy:assets', 'imagemin:assets']
+        tasks: ['copy:assets']
       },
       bower_components: {
         files: ['bower_components/**'],
@@ -74,17 +74,6 @@ module.exports = function (grunt) {
           src: ['*.css', '!*.min.css'],
           dest: 'dist',
           ext: '.min.css'
-        }]
-      }
-    },
-
-    imagemin: {
-      assets: {
-        files: [{
-          expand: true,
-          cwd: 'dist/images',
-          src: ['**/*.{png,jpg,gif,svg, ico}'],
-          dest: 'dist/images'
         }]
       }
     },
@@ -120,11 +109,10 @@ module.exports = function (grunt) {
   grunt.loadNpmTasks('grunt-contrib-copy');
   grunt.loadNpmTasks('grunt-sass');
   grunt.loadNpmTasks('grunt-contrib-cssmin');
-  grunt.loadNpmTasks('grunt-contrib-imagemin');
   grunt.loadNpmTasks('grunt-contrib-clean');
   grunt.loadNpmTasks('grunt-contrib-connect');
   grunt.loadNpmTasks('grunt-npmcopy');
 
-  grunt.registerTask('default', ['copy', 'sass', 'cssmin', 'imagemin', 'npmcopy']);
+  grunt.registerTask('default', ['copy', 'sass', 'cssmin', 'npmcopy']);
   grunt.registerTask('run', ['clean', 'default', 'connect', 'watch']);
 };
