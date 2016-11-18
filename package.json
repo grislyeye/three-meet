@@ -1,6 +1,6 @@
 {
-  "name": "threat-vermus",
-  "version": "1.0.1",
+  "name": "grisly-eye-doc-template",
+  "version": "0.0.0",
   "dependencies": {
     "grisly-eye-doc-style.git": "git@gitlab.com:grislyeye/grisly-eye-doc-style.git"
   },

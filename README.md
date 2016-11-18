@@ -1,6 +1,6 @@
-# Threats: Vermus
+# Grisly Eye Games Document Template
 
-Static HTML document for 'Threats: Vermus'.
+Static HTML document template for Grisly Eye Games documents.
 
 Requirements:
 
