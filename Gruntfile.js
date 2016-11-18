@@ -88,8 +88,6 @@ module.exports = function (grunt) {
           destPrefix: 'dist/vendor',
         },
         files: {
-          'js/jquery/jquery.js': 'jquery/dist/jquery.min.js',
-          'js/webcomponentsjs/webcomponentsjs-lite.js': 'webcomponentsjs/lite.js',
           'grisly-eye-docs-style': 'grisly-eye-doc-style'
         }
       }

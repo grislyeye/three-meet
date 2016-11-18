@@ -2,7 +2,6 @@
   "name": "threat-vermus",
   "version": "1.0.1",
   "dependencies": {
-    "jquery": "^3.1.1",
     "grisly-eye-doc-style.git": "git@gitlab.com:grislyeye/grisly-eye-doc-style.git"
   },
   "devDependencies": {
@@ -15,10 +14,7 @@
     "grunt-contrib-copy": "^1.0.0",
     "grunt-contrib-watch": "^1.0.0",
     "grunt-npmcopy": "^0.1.0",
-    "grunt-sass": "^1.1.0",
-    "normalize.css": "^5.0.0",
-    "phantomjs-pdf": "^0.1.2",
-    "webcomponentsjs": "^1.0.2"
+    "grunt-sass": "^1.1.0"
   },
   "scripts": {
     "build": "grunt",
