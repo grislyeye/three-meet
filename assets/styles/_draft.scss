@@ -1,4 +1,4 @@
-.content::before {
+.draft .content::before {
   content: url("images/draft-overlay.svg");
   position: absolute;
   top: 0;
