@@ -13,6 +13,7 @@
   ],
   "dependencies": {
     "ink-elements": "^0.0.0",
-    "dnd-stat-block": "^0.3.2"
+    "dnd-stat-block": "^0.3.2",
+    "normalize-css": "^5.0.0"
   }
 }

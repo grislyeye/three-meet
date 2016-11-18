@@ -8,6 +8,10 @@ module.exports = function (grunt) {
           {
             src: 'index.html',
             dest: 'dist/index.html'
+          },
+          {
+            src: 'main.css',
+            dest: 'dist/main.css'
           }
         ]
       },
@@ -42,10 +46,6 @@ module.exports = function (grunt) {
         files: ['index.html'],
         tasks: ['copy:main']
       },
-      sass: {
-        files: ['main.scss', 'assets/styles/**'],
-        tasks: ['sass', 'cssmin']
-      },
       assets: {
         files: ['assets/**', '!assets/styles/**'],
         tasks: ['copy:assets']
@@ -64,18 +64,6 @@ module.exports = function (grunt) {
         files: {
           'dist/main.css': 'main.scss'
         }
-      }
-    },
-
-    cssmin: {
-      target: {
-        files: [{
-          expand: true,
-          cwd: 'dist',
-          src: ['*.css', '!*.min.css'],
-          dest: 'dist',
-          ext: '.min.css'
-        }]
       }
     },
 
@@ -101,7 +89,8 @@ module.exports = function (grunt) {
         },
         files: {
           'js/jquery/jquery.js': 'jquery/dist/jquery.min.js',
-          'js/webcomponentsjs/webcomponentsjs-lite.js': 'webcomponentsjs/lite.js'
+          'js/webcomponentsjs/webcomponentsjs-lite.js': 'webcomponentsjs/lite.js',
+          'grisly-eye-docs-style': 'grisly-eye-doc-style'
         }
       }
     },
@@ -110,25 +99,17 @@ module.exports = function (grunt) {
       options: {
         clean: true,
         destPrefix: 'dist/vendor/components'
-      },
-      statblock5e: {
-        files: {
-          // Note: when copying folders, the destination (key) will be used as the location for the folder 
-          'statblock5e': 'statblock5e/src'
-        }
       }
     }
   });
 
   grunt.loadNpmTasks('grunt-contrib-watch');
   grunt.loadNpmTasks('grunt-contrib-copy');
-  grunt.loadNpmTasks('grunt-sass');
-  grunt.loadNpmTasks('grunt-contrib-cssmin');
   grunt.loadNpmTasks('grunt-contrib-clean');
   grunt.loadNpmTasks('grunt-contrib-connect');
   grunt.loadNpmTasks('grunt-npmcopy');
   grunt.loadNpmTasks('grunt-bowercopy');
 
-  grunt.registerTask('default', ['copy', 'sass', 'cssmin', 'npmcopy']);
+  grunt.registerTask('default', ['copy', 'npmcopy']);
   grunt.registerTask('run', ['clean', 'default', 'connect', 'watch']);
 };
