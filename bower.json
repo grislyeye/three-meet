@@ -12,6 +12,7 @@
     "tests"
   ],
   "dependencies": {
+    "ink-elements": "^0.0.0",
     "dnd-stat-block": "^0.3.2"
   }
 }

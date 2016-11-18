@@ -1,71 +1,38 @@
-$page_margin: 1cm;
-$page_width: 21cm;
-$internal_page_width: $page_width - (2 * $page_margin);
-
 * {
   box-sizing: border-box;
 }
 
-@page {
-  size: A4;
-}
-
-.page {
-  background: white;
-  width: $page_width;
-  height: 29.7cm;
-  margin: 0 auto;
-  margin-bottom: 0.5cm;
-  page-break-before: always;
-  padding: $page_margin $page_margin $page_margin $page_margin;
-  overflow: hidden;
-  position: relative;
-  counter-increment: page-number;
-  z-index: -10;
-}
-
-.page:after {
-  width: $internal_page_width;
-  position: absolute;
-  bottom: 1em;
-  text-align: center;
-}
-
-.page.cover {
+#cover {
   padding-left: 0;
   padding-right: 0;
   padding-top: 0;
-  page-break-before: avoid;
 }
 
-.page.cover header {
-  padding-top: 2em;
+#cover header {
+  padding: 2em;
 }
 
-.page.cover > * {
-  display: block;
+.content {
+  z-index: -10;
 }
 
 .content img {
-  position: relative;
   z-index: -5;
 }
 
-img#cover {
+#cover img {
   width: 100%;
   margin-top: auto;
 }
 
 #logos {
-  width: 100%;
-  padding-left: $page_margin;
-  padding-right: $page_margin;
   direction: rtl;
   position: absolute;
   top: 26.7cm;
+  right: 1cm;
 }
 
-.page > .columns {
+.content > .columns {
   -webkit-column-gap: 2.5em;
      -moz-column-gap: 2.5em;
           column-gap: 2.5em;
@@ -75,13 +42,12 @@ img#cover {
           columns: 300px 2;
 }
 
-.page > .columns > :first-child {
+.content > .columns > :first-child {
   margin-top: 0;
 }
 
-
-section {
+.content {
   img {
-    width: $internal_page_width;
+    width: 19cm;
   }
 }

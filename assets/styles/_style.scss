@@ -4,21 +4,6 @@ body {
   background: lightgrey;
 }
 
-.page {
-  background: white;
-  box-shadow: 0 0 0.5cm rgba(0,0,0,0.5);
-}
-
-@media print {
-  .page {
-    box-shadow: none;
-  }
-
-  body {
-    background: white;
-  }
-}
-
 * {
   font-family: 'Alegreya', serif;
 }
@@ -53,30 +38,26 @@ p {
   margin-top: 0;
 }
 
-.page:after {
-  font-size: small;
-}
-
-.page.cover {
+#cover {
   background-image: url("images/cover-art.png");
   background-color: transparent;
   background-size: cover;
 }
 
-.cover h1 {
+#cover h1 {
   color: red;
   font-size: 50pt;
   margin-top: 0em;
   margin-bottom: 0cm;
 }
 
-.page.cover h1 .subject {
+#cover h1 .subject {
   font-size: 120pt;
   font-family: "Andada SC", serif;
   line-height: 0.8em;
 }
 
-.page.cover header {
+#cover header {
   background-image: url("images/cover-splash.svg");
   background-size: cover;
   height: 100mm;
@@ -89,7 +70,7 @@ p {
   margin-left: 0.5em;
 }
 
-.page.title {
+#title {
   text-align: center;
   
   :first-child {
@@ -97,14 +78,14 @@ p {
   };
 }
 
-.page.title > footer {
+#title > footer {
   margin-top: 2em;
   text-align: left;
   font-size: small;
   font-variant: small-caps;
 }
 
-.page.title > p {
+#title > p {
   font-size: 1.2em;
   margin-left: 2em;
   margin-right: 2em;
@@ -114,11 +95,11 @@ img[src*="seperator"] {
   width: 400px;
 }
 
-.page.title h1 {
+#title h1 {
   margin-bottom: 0.5em;
 }
 
-.page.title h2 {
+#title h2 {
   margin-top: 1em;
   margin-bottom: 1.5em;
   color: black;
@@ -127,7 +108,7 @@ img[src*="seperator"] {
   border-bottom: none;
 }
 
-.page.title img.logo {
+#title img.logo {
   margin-top: 2em;
   margin-bottom: 2em;
 }
