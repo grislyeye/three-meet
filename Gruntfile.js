@@ -43,7 +43,7 @@ module.exports = function (grunt) {
         livereload: true
       },
       html: {
-        files: ['index.html'],
+        files: ['index.html', 'main.css'],
         tasks: ['copy:main']
       },
       assets: {
@@ -82,17 +82,6 @@ module.exports = function (grunt) {
       }
     },
 
-    npmcopy: {
-      dist: {
-        options: {
-          destPrefix: 'dist/vendor',
-        },
-        files: {
-          'grisly-eye-docs-style': 'grisly-eye-doc-style'
-        }
-      }
-    },
-
     bowercopy: {
       options: {
         clean: true,
@@ -105,9 +94,8 @@ module.exports = function (grunt) {
   grunt.loadNpmTasks('grunt-contrib-copy');
   grunt.loadNpmTasks('grunt-contrib-clean');
   grunt.loadNpmTasks('grunt-contrib-connect');
-  grunt.loadNpmTasks('grunt-npmcopy');
   grunt.loadNpmTasks('grunt-bowercopy');
 
-  grunt.registerTask('default', ['copy', 'npmcopy']);
+  grunt.registerTask('default', ['copy']);
   grunt.registerTask('run', ['clean', 'default', 'connect', 'watch']);
 };

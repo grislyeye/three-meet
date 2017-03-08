@@ -1,9 +1,6 @@
 {
-  "name": "grisly-eye-doc-template",
+  "name": "bleak-world",
   "version": "0.0.0",
-  "dependencies": {
-    "grisly-eye-doc-style.git": "git@gitlab.com:grislyeye/grisly-eye-doc-style.git"
-  },
   "devDependencies": {
     "bower": "^1.7.9",
     "grunt": "^1.0.1",
@@ -13,7 +10,6 @@
     "grunt-contrib-connect": "^1.0.1",
     "grunt-contrib-copy": "^1.0.0",
     "grunt-contrib-watch": "^1.0.0",
-    "grunt-npmcopy": "^0.1.0",
     "grunt-sass": "^1.1.0"
   },
   "scripts": {

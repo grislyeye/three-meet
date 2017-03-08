@@ -1,6 +1,6 @@
-# Grisly Eye Games Document Template
+# Bleak World
 
-Static HTML document template for Grisly Eye Games documents.
+Static HTML document for "Bleak World".
 
 Requirements:
 

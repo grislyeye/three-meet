@@ -1,2 +1,40 @@
 @import url('vendor/normalize-css/normalize.css');
-@import url('vendor/grisly-eye-docs-style/main.css');
+@import url(https://fonts.googleapis.com/css?family=Alegreya:400,400italic,700italic,700);
+
+* { 
+  font-family: 'Alegreya', serif;
+  line-height: 1.15;
+  box-sizing: border-box;
+}
+
+body {
+  background: lightgrey;
+}
+
+ink-page#cover {
+  background: black;
+  color: white;
+}
+
+ink-page#cover #logos {
+  direction: rtl;
+  position: absolute;
+  top: 26.7cm;
+  right: 1cm;
+}
+
+ink-page#cover #logos img {
+  width: auto;
+  height: 2cm;
+  margin-left: 0.5em;
+}
+
+
+ink-page#cover h1 {
+  font-size: 3cm;
+  text-align: center;
+}
+
+.content {
+  font-size: 125%;
+}

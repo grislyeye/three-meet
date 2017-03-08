@@ -1,5 +1,5 @@
 {
-  "name": "grisly-eye-doc-style",
+  "name": "bleak-world",
   "authors": [
     "Ricardo Gladwell <ricardo@gladwell.me>"
   ],
@@ -13,7 +13,6 @@
   ],
   "dependencies": {
     "ink-elements": "^0.0.0",
-    "dnd-stat-block": "^0.3.2",
     "normalize-css": "^5.0.0"
   }
 }
