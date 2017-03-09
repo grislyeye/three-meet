@@ -11,6 +11,11 @@ body {
   background: lightgrey;
 }
 
+ink-page {
+  padding-left: 2cm;
+  padding-right: 2cm;
+}
+
 ink-page#cover {
   background: black;
   color: white;
