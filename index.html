@@ -5,11 +5,11 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no"/>
 
-  <title>Bleak World</title>
+  <title>Three Meet</title>
 
   <link href="main.css" rel="stylesheet" />
-  <script src="vendor/webcomponentsjs/webcomponents-lite.min.js" async></script>
-  <link rel="import" href="vendor/ink-elements/ink-doc.html">
+  <script src="vendor/@webcomponents/webcomponentsjs/webcomponents-loader.js"></script>
+  <script type="module" src="vendor/ink-elements/ink-doc.js"></script>
 
 </head>
 
@@ -20,7 +20,7 @@
     <ink-doc class="draft">
       <ink-page id="cover">
 
-        <h1>Bleak World</h1>
+        <h1>Three Meet</h1>
 
         <div id="logos">
           <a href="https://grislyeye.com"><img src="https://grislyeye.com/images/full-logo.png" alt="Grisly Eye Games Logo"></a>
@@ -28,204 +28,554 @@
 
       </ink-page>
 
+      <ink-page class="legal content">
+
+        <P>OPEN GAME LICENSE Version  1.0a</P>
+
+        <P>The following text is the property of Wizards of the Coast, Inc. and is
+        Copyright 2000 Wizards of the Coast, Inc ("Wizards"). All Rights Reserved.</P>
+
+        <P>1. Definitions: (a)"Contributors" means the copyright and/or trademark
+        owners who have contributed Open Game Content; (b)"Derivative Material"
+        means copyrighted material including derivative works and translations
+        (including into other computer languages), potation, modification,
+        correction, addition, extension, upgrade, improvement, compilation,
+        abridgment or other form in which an existing work may be recast,
+        transformed or adapted;  (c) "Distribute" means to reproduce, license, rent,
+        lease, sell, broadcast, publicly display, transmit or otherwise distribute;
+        (d)"Open Game Content" means the game mechanic and includes the methods,
+        procedures, processes and routines to the extent such content does not
+        embody the Product Identity and is an enhancement over the prior art and any
+        additional content clearly identified as Open Game Content by the
+        Contributor,  and means any work covered by this License, including
+        translations and derivative works under copyright law, but specifically
+        excludes Product Identity. (e) "Product Identity" means product and product
+        line names, logos and identifying marks including trade dress; artifacts;
+        creatures characters; stories, storylines, plots, thematic elements,
+        dialogue, incidents, language, artwork, symbols, designs, depictions,
+        likenesses, formats, poses, concepts, themes and graphic, photographic and
+        other visual or audio representations; names and descriptions of characters,
+        spells, enchantments, personalities, teams, personas, likenesses and special
+        abilities; places, locations, environments, creatures, equipment, magical or
+        supernatural abilities or effects, logos, symbols, or graphic designs; and
+        any other trademark or registered trademark clearly identified as Product
+        identity by the owner of the Product Identity, and which specifically
+        excludes the Open Game Content; (f) "Trademark" means the logos, names,
+        mark, sign, motto, designs that are used by a Contributor to identify itself
+        or its products or the associated products contributed to the Open Game
+        License by the Contributor (g) "Use", "Used" or "Using" means to use,
+        Distribute, copy, edit, format, modify, translate and otherwise create
+        Derivative Material of Open Game Content. (h) "You" or "Your" means the
+        licensee in terms of this agreement.</P>
+
+        <P>2. The License:  This License applies to any Open Game Content that contains
+        a notice indicating that the Open Game Content may only be Used under and in
+        terms of this License. You must affix such a notice to any Open Game Content
+        that you Use. No terms may be added to or subtracted from this License
+        except as described by the License itself. No other terms or conditions may
+        be applied to any Open Game Content distributed using this License.</P>
+
+        <P>3.Offer and Acceptance: By Using the Open Game Content You indicate Your
+        acceptance of the terms of this License.</P>
+
+        <P>4. Grant and Consideration: In consideration for agreeing to use this
+        License, the Contributors grant You a perpetual, worldwide, royalty-free,
+        non-exclusive license with the exact terms of this License to Use, the Open
+        Game Content.</P>
+
+        <P>5.Representation of Authority to Contribute: If You are contributing
+        original material as Open Game Content, You represent that Your
+        Contributions are Your original creation and/or You have sufficient rights
+        to grant the rights conveyed by this License.</P>
+
+        <P>6.Notice of License Copyright: You must update the COPYRIGHT NOTICE portion
+        of this License to include the exact text of the COPYRIGHT NOTICE of any
+        Open Game Content You are copying, modifying or distributing, and You must
+        add the title, the copyright date, and the copyright holder's name to the
+        COPYRIGHT NOTICE of any original Open Game Content you Distribute.</P>
+
+        <P>7. Use of Product Identity:  You agree not to Use any Product Identity,
+        including as an indication as to compatibility, except as expressly licensed
+        in another, independent Agreement with the owner of each element of that
+        Product Identity.  You agree not to indicate compatibility or
+        co-adaptability with any Trademark or Registered Trademark in conjunction with a work containing
+        Open Game Content except as expressly licensed in another, independent
+        Agreement with the owner of such Trademark or Registered Trademark. The use of any Product Identity
+        in Open Game Content does not constitute a challenge to the ownership of
+        that Product Identity.  The owner of any Product Identity used in Open Game
+        Content shall retain all rights, title and interest in and to that Product
+        Identity.</P>
+
+        <P>8. Identification: If you distribute Open Game Content You must clearly
+        indicate which portions of the work that you are distributing are Open Game
+        Content.</P>
+
+        <P>9. Updating the License:  Wizards or its designated Agents may publish
+        updated versions of this License.  You may use any authorized version of
+        this License to copy, modify and distribute any Open Game Content originally
+        distributed under any version of this License.</P>
+
+        <P>10 Copy of this License:  You MUST include a copy of this License with every
+        copy of the Open Game Content You Distribute.</P>
+
+        <P>11. Use of Contributor Credits: You may not market or advertise the Open
+        Game Content using the name of any Contributor unless You have written
+        permission from the Contributor to do so.</P>
+
+        <P>12 Inability to Comply: If it is impossible for You to comply with any of
+        the terms of this License with respect to some or all of the Open Game
+        Content due to statute, judicial order, or governmental regulation then You
+        may not Use any Open Game Material so affected.</P>
+
+        <P>13 Termination: This License will terminate automatically if You fail to
+        comply with all terms herein and fail to cure such breach within 30 days of
+        becoming aware of the breach. All sublicenses shall survive the termination
+        of this License.</P>
+
+        <P>14 Reformation: If any provision of this License is held to be
+        unenforceable, such provision shall be reformed only to the extent necessary
+        to make it enforceable.</P>
+
+        <P>15 COPYRIGHT NOTICE<br>
+        Open Game License v 1.0 Copyright 2000, Wizards of the Coast, Inc.</P>
+
+        <p>System Reference Document 5.1 Copyright 2016, Wizards of the Coast, Inc.; Authors Mike Mearls, Jeremy Crawford, Chris Perkins, Rodney Thompson, Peter Lee, James Wyatt, Robert J. Schwalb, Bruce R. Cordell, Chris Sims, and Steve Townshend, based on original material by E. Gary Gygax and Dave Arneson.</p>
+
+        <p>Three Meet Copyright 2019, R.G. Wood.</p>
+
+      </ink-page>
+
       <ink-page class="content">
 
-        <h2>What is Bleak World?</h2>
+        <h2 id="about">What is Three Meet?</h2>
 
-        <p>Bleak World is a... <!-- grimdark Dungeon World hack. It is a world where the age of heroes is long past. A world where greed and corruption thrive. A world of flawed men and women. --></p>
-
-        <ul>
-          <li>...Dungeon World hack</li>
-          <li>...grimdark setting</li>
-          <li>...time after the Age of Heroes has long passed</li>
-          <li>...time when greed and corruption thrive</li>
-          <li>...world of flawed men and women</li>
-        </ul>
-
-        <p>[DEBTS, MASTERS, FLAWS, MISFITS]</p>
-
-        <p class="aside">At the core of Bleak World is the idea of <strong>flaws</strong>. Flaws...
-
-        <ul>
-          <li>...highlight character's frailties. </li>
-          <li>...allow players to showoff their weakness</li>
-          <li>...allow characters to succeed in spite of themselves.</li>
-          <li>...create humor</li>
-          <li>...create sympathy</li>
-          <li>...and allow characters to redeem themselves.</li>
-        </ul>
-            
-      </p>
+        <p><strong>Three Meet</strong> is a low fantasy roleplaying game based (loosely) on the 5th edition of <em>Dungeons and Dragons</em>.</p>
 
       </ink-page>
 
-      <ink-page class="chapter" id="moves">
+      <ink-page class="chapter" id="character-creation">
 
-        <h2>The Moves</h2>
+        <h2>Character Creation</h2>
 
       </ink-page>
 
       <ink-page class="content">
 
-        <h2 id="core-moves">Core Moves</h2>
+        <p>The first step is to create your character. Follow these steps:</p>
 
-        <h3>All Hell Breaks Loose</h3>
+        <h3>1. Determine Attributes</h3>
 
-        <p>When you <strong>act despite an imminent threat</strong> or <strong>suffer a calamity</strong>, say how you deal with it and roll. If you do it by...</p>
+        <p>Your attributes determine your fundamental attributes. The three attributes are: <strong>Cunning</strong> , <strong>Strength</strong> and <strong>Wisdom</strong>:</p>
 
-        <ul>
-          <li>...by powering through, +Body</li>
-          <li>...using charm and social grace, +Face</li>
-          <li>...by getting out the way or acting fast, +Hand</li>
-          <li>...with cunning or quick thinking, +Mind</li>
-          <li>...by exerting your will, +Spirit</li>
-        </ul>
+        <p><strong>Cunning</strong> represents physical agility, wits, manual dexterity, and skill in subterfuge and skullduggery.</p>
 
-        <p>On a 10+ you set out to do what you intended, the threat doesn't come to bear. On a 7-9, you stumble hesitate or flinch: the GM will offer you a worse outcome, hard bargain or ugly choice.</p>
+        <p><strong>Strength</strong> represents raw physical strength, stamina and combat prowess.</p>
 
-        <h3>Hack and Slash</h3>
+        <p><strong>Wisdom</strong> represents intelligence, knowledge and mystical insight.</p>
 
-        <h3>Volley</h3>
+        <p>Assign one of the following scores to each of your attributes: +2, +1, and -1.</p>
 
-        <h3>Defend</h3>
+        <h3>1. Pick Background</h3>
 
-        <h3>Spout Lore</h3>
+        <p>Your background is what your character did before they started a life of adventure. Pick your background from background chapter on page <ink-page-ref ref="backgrounds"></ink-page-ref>.</p>
 
-        <h3>Discern Realities</h3>
+        <h3>2. Pick Background Speciality</h3>
 
-        <h3>Parley</h3>
+        <p>Each background has a number of specialities. Pick one and record your background on your character sheet with your speciality in brackets. For example, if you picked the Minstrel speciality from the Performer background, you would write <q>Performer (Minstrel)</q></p>
 
-        <h3>Aid or Interfere</h3>
+        <h3>3. Pick Folk</h3>
 
-      </ink-page>
+        <p>Your folk is the peoples you grew up with. Pick your folk from Folk chapter on page <ink-page-ref ref="folk"></ink-page-ref>.</p>
 
-      <ink-page class="content">
+        <h3>4. Pick Class</h3>
 
-        <h2 id="special-moves">Special Moves</h2>
-
-        <h3>Last Breath</h3>
-
-        <h3>Make Camp</h3>
-
-        <h3>Take Watch</h3>
-
-        <h3>Take the Hard Road</h3>
-
-        <h3>Carouse</h3>
-
-        <h3>Supply</h3>
-
-        <h3>Recover</h3>
-        <!-- much weaker version of Dungeon World move to represent grittiness-->
-
-        <h3>Outstanding Warrants</h3>
-
-      </ink-page>
-
-      <ink-page class="content">
-
-        <h2 id="debt-moves">Debt Moves</h2>
-
-        <h3>Get in Debt</h3>
-
-        <h3>Call in a Debt</h3>
-
-        <h3>Default on a Debt</h3>
-
-      </ink-page>
-
-      <ink-page class="chapter">
-
-        <h2>The Playbooks</h2>
-
-      </ink-page>
-
-      <ink-page class="content">
-
-        <h2>The Sorcerer</h2>
-
-        <p>Gone are the ancient magi who mastered the arcane arts. All that is left is you. Your magic is a pale shadow to their ancient masterworks. Yet you somehow eke out a modest living doing what others cannot (or won't) do. You've evaded the witch hunters, mastered enough of your art not to be a danger to yourself. Now the real trouble start.</p>
-
-        <h3>1. Choose a name</h3>
-
-        <p>Circe, Morgan, Prospero, Xeno, or Zeranthus</p>
-
-        <h3>2. Choose a title</h3>
-
-        <p>Magician, Sorcerer, Warlock, Witch, or Wizard</p>
-
-        <h3>3. Stats</h3>
-
-        <p>Your stats are Body -1, Face -1, Hand +0, Mind +1, Spirit +1</p>
-
-        <h3>4. Choose a look</h3>
-
-        <p>Choose one for each:</p>
-
-        <p>Haunted eyes, sharp eyes, crazy eyes</p>
-
-        <p>Skull cap, wild hair, shaved head</p>
-
-        <p>Black robes, weird robes, worn robes</p>
-
-        <p>Bent body, pudgy body, thin body</p>
-
-        <h3>5. Choose a flaw</h3>
-
-        <p>Choose a flaw and gain the corresponding move.</p>
-
-        <h4>Bumbling</h4>
-
+        <p>Your class describes your character's vocation. There are three classes, described in full in the class chapter (see page <ink-page-ref ref="classes"></ink-page-ref>): <strong>The Brave</strong>, <strong>The Cunning</strong> and <strong>The Wise</strong>.</p>
         <p></p>
 
-        <h4>Hedge</h4>
+        <h3>5. Pick Archetype</h3>
+
+        <p>Each class has a number of archetypes you may choose from, specialities.</p>
+
+      </ink-page>
+
+      <ink-page class="chapter" id="backgrounds">
+
+        <h2>Backgrounds</h2>
 
       </ink-page>
 
       <ink-page class="content">
 
-        <h4>Wicked</h4>
+        <h3 id="knave">Knave</h3>
 
-        <p>When you <strong>succeed at an Aid, or Parlay move on a roll of 10+</strong> you can choose to fail that roll. If you do hold 1 and choose one:</p>
+        <p>Blackguard, scoundrel, outlaw: these are just some of the names you have been called. You are a common criminal, part of the shadowy underworld.</p>
 
-        <ul>
-          <li>You whisper something to the character, making them Disturbed.</li>
-          <li>You scratch or bite the character, dealing 1d4 damage.</li>
-        </ul>
+        <dl>
+          <dt>Ability Score Adjustment.</dt>
+          <dd>You Cunning increases by +1.</dd>
 
-        <p>You may spend hold to succeed with a 10+ when you roll 9- when <strong>all hell breaks loose</strong>. Choose one of the following:</p>
+          <dt>Skill Proficiencies.</dt>
+          <dd>You gain proficiency with the Deception skill.</dd>
 
-        <ul>
-          <li>Hell isn't ready for you, dark forces intervene to allow you to succeed.</li>
-        </ul>
+          <dt>Equipment.</dt>
+          <dd>?</dd>
 
-        <h3>5. Core Moves</h3>
+          <dt>Thieves' Cant.</dt>
+          <dd>You know thieves’ cant, a secret mix of dialect, jargon, and code that allows you to hide messages in seemingly normal conversation. Only another creature that knows thieves’ cant understands such messages. It takes four times longer to convey such a message than it does to speak the same idea plainly. In addition, you understand a set of secret signs and symbols used to convey short, simple messages, such as whether an area is dangerous or the territory of a thieves’ guild, whether loot is nearby, or whether the people in an area are easy marks or will provide a safe house for thieves on the run.</dd>
 
-        <h4>Ritual</h4>
+          <dt>Speciality.</dt>
+          <dd>You specialised in a particular criminal enterprise. Choose one of the three specialities presented below or one from another source.</dd>
 
-        <h3>6. Choose 2 Moves</h3>
+          <h4>Burglar</h4>
 
-        <h4>Bewitch</h4>
+          <dt>Skill Proficiencies.</dt>
+          <dd>You gain proficiency with the Stealth skill.</dd>
 
-        <h4>Curse</h4>
+          <h4>Dissident</h4>
 
-        <h4>Lash</h4>
+          <dt>Skill Proficiencies.</dt>
+          <dd>You gain proficiency with the Persuasion skill.</dd>
 
-        <h4>Summon</h4>
+          <h4>Highwayman</h4>
 
-        <h4>Ward</h4>
+          <dt>Skill Proficiencies.</dt>
+          <dd>You gain proficiency with the Intimidation skill.</dd>
 
-        <h3>7. Choose Trappings</h3>
+          <h4>Pickpocket</h4>
 
-        <h3>8. Announce yourself</h3>
+          <dt>Skill Proficiencies.</dt>
+          <dd>You gain proficiency with the Sleight of Hand skill.</dd>
+        </dl>
 
-        <p>Announce yourself to the other players as <q>[Name] the [Flaw] [Title]</q>.</p>
-
-        <h3>9. Create Debts</h3>
       </ink-page>
+
+      <ink-page class="content">
+
+        <h3 id="performer">Performer</h3>
+
+        <dl>
+          <dt>Ability Score Adjustment.</dt>
+          <dd>You Cunning increases by +1.</dd>
+
+          <dt>Skill Proficiencies.</dt>
+          <dd>You gain proficiency with the Performance skill.</dd>
+
+          <dt>Equipment.</dt>
+          <dd>A musical instrument (one of your choice), the favor of an admirer (love letter, lock of hair, or trinket), a costume, and a pouch containing 15 gp.</dd>
+
+          <dt>Speciality.</dt>
+          <dd>You have a talent for a particular kind of entertainment. Choose one of the three specialities presented below or one from another source.</dd>
+        </dl>
+
+        <h4>Mummer</h4>
+
+        <p>You are an actor in a troupe. Skilled at mimicry and improvisation, you gain the following benefits:</p>
+
+        <dl>
+          <dt>Disguise Expertise.</dt>
+          <dd>You gain proficiency with a disguise kit. You add double your proficiency bonus to checks you make with it.</dd>
+
+          <dt>Mimicry.</dt>
+          <dd>You can mimic the speech of another person or the sounds made by other creatures. You must have heard the person speaking, or heard the creature make the sound, for at least 1 minute. A successful Wisdom (Insight) check contested by your Charisma (Deception) check allows a listener to determine that the effect is faked.</dd>
+        </dl>
+
+      </ink-page>
+
+      <ink-page class="content">
+
+        <h4>Player</h4>
+
+        <p>You are a travelling minstrel. a mischievous troubadour or street player. Your skill with your chosen instrument gives you the following benefits:</p>
+
+        <dl>
+          <dt>Instrument Expertise.</dt>
+          <dd>You gain proficiency with one type of musical instrument. You add double your proficiency bonus to checks you make with it.</dd>
+
+          <dt>Distracting Melody.</dt>
+          <dd>While playing a musical instrument you are proficient with, you can try to distract one humanoid you can see who can see and hear you. Make a Charisma (Performance) check contested by the humanoid’s Wisdom (Insight) check. If your check succeeds, you grab the humanoid’s attention enough that it makes Wisdom (Perception) and Intelligence (Investigation) checks with disadvantage until you stop performing.</p>
+        </dl>
+
+        <h4>Singer</h4>
+
+        <p>You have been gifted with a talented singing voice and make your living, perhaps by singing bawdy rhymes in taverns or sad ballads in noble courts. You gain the following benefits:</p>
+
+        <dl>
+          <dt>Singing Expertise.</dt>
+          <dd>When singing you add double your proficiency bonus to checks you make with the Performance skill.</dd>
+
+          <dt>A Song For Every Occasion.</dt>
+          <dd>Once you hear a song you never forget it, and can recall and sing it from memory.</dd>
+
+          <dt>Minstrel Lore.</dt>
+          <dd>Ancient lore is often passed down through song, and you know more songs than anyone else you know. When making an Intelligence (Religion) or Intelligence (History) check you can instead chose spend 10 minutes singing an appropriate song you recall from your extensive repertoire of rhymes and ballads. When you finish you can make a Performance check instead. You can only do this once per short rest.</p>
+        </dl>
+
+      </ink-page>
+
+      <ink-page class="chapter" id="folk">
+
+        <h2>Folk</h2>
+
+      </ink-page>
+
+      <ink-page class="content">
+
+        <h3>Mankind</h3>
+
+      </ink-page>
+
+      <ink-page class="content">
+
+        <h3>The Deep Folk</h3>
+
+      </ink-page>
+
+      <ink-page class="content">
+
+        <h3>The Fey</h3>
+
+      </ink-page>
+
+      <ink-page class="chapter" id="classes">
+
+        <h2>Classes</h2>
+
+      </ink-page>
+
+      <ink-page class="content">
+
+        <h3 id="brave">The Brave</h3>
+
+        <table>
+          <thead>
+            <tr>
+              <th>Level</th>
+              <th>Proficiency Bonus</th>
+              <th>Features</th>
+            </tr>
+          </thead>
+
+          <tbody>
+            <tr>
+              <td>1st</td>
+              <td>+2</td>
+              <td>Archetype, ?</td>
+            </tr>
+            <tr>
+              <td>2nd</td>
+              <td>+2</td>
+              <td>?</td>
+            </tr>
+            <tr>
+              <td>3rd</td>
+              <td>+2</td>
+              <td>?</td>
+            </tr>
+            <tr>
+              <td>4th</td>
+              <td>+2</td>
+              <td>?</td>
+            </tr>
+            <tr>
+              <td>5th</td>
+              <td>+3</td>
+              <td>?</td>
+            </tr>
+            <tr>
+              <td>6th</td>
+              <td>+3</td>
+              <td>?</td>
+            </tr>
+            <tr>
+              <td>7th</td>
+              <td>+3</td>
+              <td>?</td>
+            </tr>
+            <tr>
+              <td>8th</td>
+              <td>+3</td>
+              <td>?</td>
+            </tr>
+            <tr>
+              <td>9th</td>
+              <td>+4</td>
+              <td>?</td>
+            </tr>
+            <tr>
+              <td>10th</td>
+              <td>+4</td>
+              <td>?</td>
+            </tr>
+          </tbody>
+        </table>
+
+        <h4>Archetype</h4>
+
+        <p>You choose an archetype: Berserker, Fighter or Paladin.</p>
+
+      </ink-page>
+
+      <ink-page class="content">
+        <h3 id="cunning">The Cunning</h3>
+
+        <p>The Cunning are those who rely on their wits to survive.</p>
+
+        <table>
+          <thead>
+            <tr>
+              <th>Level</th>
+              <th>Proficiency Bonus</th>
+              <th>Sneak Attack</th>
+              <th>Features</th>
+            </tr>
+          </thead>
+
+          <tbody>
+            <tr>
+              <td>1st</td>
+              <td>+2</td>
+              <td>1d6</td>
+              <td>Archetype, Expertise, Sneak Attack</td>
+            </tr>
+            <tr>
+              <td>2nd</td>
+              <td>+2</td>
+              <td>1d6</td>
+              <td>Cunning Action</td>
+            </tr>
+            <tr>
+              <td>3rd</td>
+              <td>+2</td>
+              <td>2d6</td>
+              <td>Archetype feature</td>
+            </tr>
+            <tr>
+              <td>4th</td>
+              <td>+2</td>
+              <td>2d6</td>
+              <td>Ability Score Improvement</td>
+            </tr>
+            <tr>
+              <td>5th</td>
+              <td>+3</td>
+              <td>3d6</td>
+              <td>Uncanny Dodge</td>
+            </tr>
+            <tr>
+              <td>6th</td>
+              <td>+3</td>
+              <td>3d6</td>
+              <td>Expertise</td>
+            </tr>
+            <tr>
+              <td>7th</td>
+              <td>+3</td>
+              <td>4d6</td>
+              <td>Evasion</td>
+            </tr>
+            <tr>
+              <td>8th</td>
+              <td>+3</td>
+              <td>4d6</td>
+              <td>Ability Score Improvement</td>
+            </tr>
+            <tr>
+              <td>9th</td>
+              <td>+4</td>
+              <td>5d6</td>
+              <td>Archetype feature</td>
+            </tr>
+            <tr>
+              <td>10th</td>
+              <td>+4</td>
+              <td>5d6</td>
+              <td>Ability Score Improvement</td>
+            </tr>
+          </tbody>
+        </table>
+
+        <h4>Archetype</h4>
+
+        <p>You choose an archetype: Bard, Ranger or Rogue.</p>
+
+      </ink-page>
+
+      <ink-page class="content">
+
+        <h3 id="wise">The Wise</h3>
+
+        <table>
+          <thead>
+            <tr>
+              <th>Level</th>
+              <th>Proficiency Bonus</th>
+              <th>Features</th>
+            </tr>
+          </thead>
+
+          <tbody>
+            <tr>
+              <td>1st</td>
+              <td>+2</td>
+              <td>Archetype, E?</td>
+            </tr>
+            <tr>
+              <td>2nd</td>
+              <td>+2</td>
+              <td>?</td>
+            </tr>
+            <tr>
+              <td>3rd</td>
+              <td>+2</td>
+              <td>?</td>
+            </tr>
+            <tr>
+              <td>4th</td>
+              <td>+2</td>
+              <td>?</td>
+            </tr>
+            <tr>
+              <td>5th</td>
+              <td>+3</td>
+              <td>?</td>
+            </tr>
+            <tr>
+              <td>6th</td>
+              <td>+3</td>
+              <td>?</td>
+            </tr>
+            <tr>
+              <td>7th</td>
+              <td>+3</td>
+              <td>?</td>
+            </tr>
+            <tr>
+              <td>8th</td>
+              <td>+3</td>
+              <td>?</td>
+            </tr>
+            <tr>
+              <td>9th</td>
+              <td>+4</td>
+              <td>?</td>
+            </tr>
+            <tr>
+              <td>10th</td>
+              <td>+4</td>
+              <td>?</td>
+            </tr>
+          </tbody>
+        </table>
+
+        <h4>Archetype</h4>
+
+        <p>You choose an archetype: Sorcerer or Priest.</p>
+
+      </ink-page>
+
     </ink-doc>
 
   </main>
-  
+
 </body>
 </html>

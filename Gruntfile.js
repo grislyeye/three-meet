@@ -7,11 +7,11 @@ module.exports = function (grunt) {
         files: [
           {
             src: 'index.html',
-            dest: 'dist/index.html'
+            dest: 'dist/html/index.html'
           },
           {
             src: 'main.css',
-            dest: 'dist/main.css'
+            dest: 'dist/html/main.css'
           }
         ]
       },
@@ -21,18 +21,7 @@ module.exports = function (grunt) {
             expand: true,
             cwd: 'assets/',
             src: ['**', '!styles/**'],
-            dest: 'dist/'
-          }
-        ],
-      },
-      bower_components: {
-        files: [
-          {
-            expand: true,
-            follow: true,
-            cwd: 'bower_components/',
-            src: ['**'],
-            dest: 'dist/vendor/'
+            dest: 'dist/html/'
           }
         ],
       }
@@ -62,7 +51,7 @@ module.exports = function (grunt) {
       },
       dist: {
         files: {
-          'dist/main.css': 'main.scss'
+          'dist/html/main.css': 'main.scss'
         }
       }
     },
@@ -75,17 +64,23 @@ module.exports = function (grunt) {
       server: {
         options: {
           port: 8000,
-          base: 'dist',
+          base: 'dist/html/',
           hostname: 'localhost',
           livereload: true
         }
       }
     },
 
-    bowercopy: {
-      options: {
-        clean: true,
-        destPrefix: 'dist/vendor/components'
+    npmcopy: {
+      dist: {
+        options: {
+          destPrefix: 'dist/html/vendor'
+        },
+        files: {
+          '@polymer': '@polymer',
+          '@webcomponents': '@webcomponents',
+          'ink-elements': 'ink-elements'
+        }
       }
     }
   });
@@ -94,8 +89,8 @@ module.exports = function (grunt) {
   grunt.loadNpmTasks('grunt-contrib-copy');
   grunt.loadNpmTasks('grunt-contrib-clean');
   grunt.loadNpmTasks('grunt-contrib-connect');
-  grunt.loadNpmTasks('grunt-bowercopy');
+  grunt.loadNpmTasks('grunt-npmcopy');
 
-  grunt.registerTask('default', ['copy']);
+  grunt.registerTask('default', ['copy', 'npmcopy']);
   grunt.registerTask('run', ['clean', 'default', 'connect', 'watch']);
 };

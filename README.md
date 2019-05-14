@@ -1,6 +1,6 @@
-# Bleak World
+# Three Meet
 
-Static HTML document for "Bleak World".
+Static HTML document for "Three Meet" roleplaying game.
 
 Requirements:
 

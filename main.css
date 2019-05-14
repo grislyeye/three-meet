@@ -1,7 +1,7 @@
 @import url('vendor/normalize-css/normalize.css');
 @import url(https://fonts.googleapis.com/css?family=Alegreya:400,400italic,700italic,700);
 
-* { 
+* {
   font-family: 'Alegreya', serif;
   line-height: 1.15;
   box-sizing: border-box;
@@ -47,4 +47,23 @@ ink-page#cover h1 {
 
 .content {
   font-size: 125%;
+}
+
+.legal {
+  columns: 2;
+  font-size: small;
+}
+
+.content dl dt {
+  float: left;
+  clear: left;
+  margin-left: 1rem;
+  margin-right: 5px;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.content dl dd {
+  margin-left: 0;
+  margin-bottom: 1rem;
 }
