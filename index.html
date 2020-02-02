@@ -8,8 +8,7 @@
   <title>Three Meet</title>
 
   <link href="main.css" rel="stylesheet" />
-  <script src="vendor/@webcomponents/webcomponentsjs/webcomponents-loader.js"></script>
-  <script type="module" src="vendor/ink-elements/ink-doc.js"></script>
+  <script type="module" src="ink.js"></script>
 
 </head>
 
@@ -17,8 +16,8 @@
 
   <main>
 
-    <ink-doc class="draft">
-      <ink-page id="cover">
+    <ink-doc>
+      <section id="cover">
 
         <h1>Three Meet</h1>
 
@@ -26,9 +25,9 @@
           <a href="https://grislyeye.com"><img src="https://grislyeye.com/images/full-logo.png" alt="Grisly Eye Games Logo"></a>
         </div>
 
-      </ink-page>
+      </section>
 
-      <ink-page class="legal content">
+      <section class="legal content">
 
         <P>OPEN GAME LICENSE Version  1.0a</P>
 
@@ -143,23 +142,23 @@
 
         <p>Three Meet Copyright 2019, R.G. Wood.</p>
 
-      </ink-page>
+      </section>
 
-      <ink-page class="content">
+      <section class="content">
 
         <h2 id="about">What is Three Meet?</h2>
 
         <p><strong>Three Meet</strong> is a low-fantasy roleplaying game.</p>
 
-      </ink-page>
+      </section>
 
-      <ink-page class="chapter" id="character-creation">
+      <section class="chapter" id="character-creation">
 
         <h2>Character Creation</h2>
 
-      </ink-page>
+      </section>
 
-      <ink-page class="content">
+      <section class="content">
 
         <p>The first step is to create your character. Follow these steps:</p>
 
@@ -193,47 +192,27 @@
 
         <p>Your class describes your character's vocation. There are three classes, described in full in the class chapter (see page <ink-page-ref ref="classes"></ink-page-ref>): <strong>The Brave</strong>, <strong>The Cunning</strong> and <strong>The Wise</strong>.</p>
 
-      </ink-page>
-
-      <ink-page class="content">
-
         <h3>5. Pick an Archetype</h3>
 
         <p>Each class has a number of archetypes you may choose from, specialities.</p>
 
-      </ink-page>
+      </section>
 
-      <ink-page class="chapter" id="backgrounds">
+      <section class="chapter" id="backgrounds">
 
         <h2>Backgrounds</h2>
 
-      </ink-page>
+      </section>
 
-      <ink-page class="content">
+      <section class="content">
 
         <h3 id="artisan">Artisan</h3>
 
-      </ink-page>
-
-      <ink-page class="content">
-
         <h3 id="bailiff">Bailiff</h3>
-
-      </ink-page>
-
-      <ink-page class="content">
 
         <h3 id="barbarian">Barbarian</h3>
 
-      </ink-page>
-
-      <ink-page class="content">
-
         <h3 id="cleric">Cleric</h3>
-
-      </ink-page>
-
-      <ink-page class="content">
 
         <h3 id="knave">Knave</h3>
 
@@ -281,21 +260,9 @@
           <dd>You gain proficiency with the Sleight of Hand skill.</dd>
         </dl>
 
-      </ink-page>
-
-      <ink-page class="content">
-
         <h3 id="noble">Noble</h3>
 
-      </ink-page>
-
-      <ink-page class="content">
-
         <h3 id="nomad">Nomad</h3>
-
-      </ink-page>
-
-      <ink-page class="content">
 
         <h3 id="performer">Performer</h3>
 
@@ -325,10 +292,6 @@
           <dd>You can mimic the speech of another person or the sounds made by other creatures. You must have heard the person speaking, or heard the creature make the sound, for at least 1 minute. A successful Wisdom (Insight) check contested by your Charisma (Deception) check allows a listener to determine that the effect is faked.</dd>
         </dl>
 
-      </ink-page>
-
-      <ink-page class="content">
-
         <h4>Player</h4>
 
         <p>You are a travelling minstrel. a mischievous troubadour or street player. Your skill with your chosen instrument gives you the following benefits:</p>
@@ -356,57 +319,37 @@
           <dd>Ancient lore is often passed down through song, and you know more songs than anyone else you know. When making an Intelligence (Religion) or Intelligence (History) check you can instead chose spend 10 minutes singing an appropriate song you recall from your extensive repertoire of rhymes and ballads. When you finish you can make a Performance check instead. You can only do this once per short rest.</p>
         </dl>
 
-      </ink-page>
-
-      <ink-page class="content">
-
         <h3 id="sage">Sage</h3>
-
-      </ink-page>
-
-      <ink-page class="content">
 
         <h3 id="seafarer">Seafarer</h3>
 
-      </ink-page>
-
-      <ink-page class="content">
-
         <h3 id="warrior">Soldier</h3>
 
-      </ink-page>
+      </section>
 
-      <ink-page class="chapter" id="folk">
+      <section class="chapter" id="folk">
 
         <h2>Folk</h2>
 
-      </ink-page>
+      </section>
 
-      <ink-page class="content">
+      <section class="content">
 
         <h3>Mankind</h3>
 
-      </ink-page>
-
-      <ink-page class="content">
-
         <h3>The Deep Folk</h3>
-
-      </ink-page>
-
-      <ink-page class="content">
 
         <h3>The Fey</h3>
 
-      </ink-page>
+      </section>
 
-      <ink-page class="chapter" id="classes">
+      <section class="chapter" id="classes">
 
         <h2>Classes</h2>
 
-      </ink-page>
+      </section>
 
-      <ink-page class="content">
+      <section class="content">
 
         <h3 id="brave">The Brave</h3>
 
@@ -515,9 +458,6 @@
 
         <p>As Flurry of Arrows, except you can make two extra ranged attacks as a bonus action.</p>
 
-      </ink-page>
-
-      <ink-page class="content">
         <h3 id="cunning">The Cunning</h3>
 
         <p>The Cunning are those who rely on their wits to survive.</p>
@@ -599,10 +539,6 @@
         <h4>Archetype</h4>
 
         <p>You choose an archetype: Ranger, Rogue, Trickster or Witch.</p>
-
-      </ink-page>
-
-      <ink-page class="content">
 
         <h3 id="wise">The Wise</h3>
 
@@ -706,15 +642,15 @@
 
         <p>You choose an archetype: Disciple or Sorcerer.</p>
 
-      </ink-page>
+      </section>
 
-      <ink-page class="chapter" id="rules">
+      <section class="chapter" id="rules">
 
         <h2>Rules</h2>
 
-      </ink-page>
+      </section>
 
-      <ink-page class="content" id="rules">
+      <section class="content" id="rules">
 
         <h3>Rolling</h3>
 
@@ -735,7 +671,7 @@
 
         <p>All characters start play with a number of <strong>luck points</strong> equal to 1 + their luck ability score. They can spend a luck point on any ability check, saving throw or attack roll and gain advantage. Your luck points refresh after a long rest.</p>
 
-      </ink-page>
+      </section>
 
     </ink-doc>
 

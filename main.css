@@ -11,12 +11,65 @@ body {
   background: lightgrey;
 }
 
+@page {
+  size: A4;
+  margin: 0.5in;
+  background: white;
+
+  @bottom-center {
+    content: counter(page);
+  }
+}
+
+@page cover {
+  background-color: black;
+  background-size: cover;
+
+  margin: 0px;
+  padding: 0px;
+
+  @bottom-center {
+    content: none;
+  }
+}
+
+
+@page title {
+  @bottom-center {
+    content: none;
+  }
+}
+
+section#title {
+  page: title;
+}
+
+section#cover {
+  page: cover;
+}
+
 ink-page {
   padding-left: 2cm;
   padding-right: 2cm;
 }
 
-ink-page#cover, ink-page.chapter {
+
+
+@page chapter {
+  background-color: black;
+
+  @bottom-center {
+    content: none;
+  }
+}
+
+section.chapter {
+  page: chapter;
+}
+
+
+section#cover,
+section.chapter {
   background: black;
   color: white;
 }
@@ -26,21 +79,20 @@ ink-page#cover, ink-page.chapter {
   text-align: center;
 }
 
-ink-page#cover #logos {
+#cover #logos {
   direction: rtl;
   position: absolute;
   top: 26.7cm;
   right: 1cm;
 }
 
-ink-page#cover #logos img {
+#cover #logos img {
   width: auto;
   height: 2cm;
   margin-left: 0.5em;
 }
 
-
-ink-page#cover h1 {
+#cover h1 {
   font-size: 3cm;
   text-align: center;
 }
@@ -66,4 +118,16 @@ ink-page#cover h1 {
 .content dl dd {
   margin-left: 0;
   margin-bottom: 1rem;
+}
+
+@media screen {
+  body {
+    background-color: whitesmoke;
+  }
+
+  .pagedjs_page {
+    background-color: #fdfdfd;
+    margin: 2em auto;
+    box-shadow: 0 0 0.5cm rgba(0, 0, 0, 0.5);
+  }
 }

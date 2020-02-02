@@ -1,6 +1,8 @@
 module.exports = function (grunt) {
   'use strict';
 
+  var resolve = require('rollup-plugin-node-resolve')
+
   grunt.initConfig({
     copy: {
       main: {
@@ -39,9 +41,12 @@ module.exports = function (grunt) {
         files: ['assets/**', '!assets/styles/**'],
         tasks: ['copy:assets']
       },
-      bower_components: {
-        files: ['bower_components/**'],
-        tasks: ['copy:bower_components']
+      rollup_modules: {
+        files: [
+          'node_modules/ink-elements/**/*',
+          '!node_modules/ink-elements/**/node_modules/**/*'
+        ],
+        tasks: ['rollup']
       }
     },
 
@@ -71,15 +76,16 @@ module.exports = function (grunt) {
       }
     },
 
-    npmcopy: {
+    rollup: {
+      options: {
+        format: 'es',
+        plugins: [
+          resolve()
+        ]
+      },
       dist: {
-        options: {
-          destPrefix: 'dist/html/vendor'
-        },
         files: {
-          '@polymer': '@polymer',
-          '@webcomponents': '@webcomponents',
-          'ink-elements': 'ink-elements'
+          'dist/html/ink.js': 'ink.js'
         }
       }
     }
@@ -89,8 +95,8 @@ module.exports = function (grunt) {
   grunt.loadNpmTasks('grunt-contrib-copy');
   grunt.loadNpmTasks('grunt-contrib-clean');
   grunt.loadNpmTasks('grunt-contrib-connect');
-  grunt.loadNpmTasks('grunt-npmcopy');
+  grunt.loadNpmTasks('grunt-rollup');
 
-  grunt.registerTask('default', ['copy', 'npmcopy']);
+  grunt.registerTask('default', ['copy', 'rollup']);
   grunt.registerTask('run', ['clean', 'default', 'connect', 'watch']);
 };

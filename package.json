@@ -2,16 +2,17 @@
   "name": "three-meet",
   "version": "0.0.0",
   "devDependencies": {
-    "grunt": "^1.0.1",
-    "grunt-cli": "^1.2.0",
+    "grunt": "^1.0.4",
+    "grunt-cli": "^1.3.2",
     "grunt-contrib-clean": "^2.0.0",
-    "grunt-contrib-connect": "^2.0.0",
+    "grunt-contrib-connect": "^2.1.0",
     "grunt-contrib-copy": "^1.0.0",
-    "grunt-contrib-watch": "^1.0.0",
-    "grunt-sass": "^3.0.2",
-    "grunt-npmcopy": "^0.1.0",
-    "ink-cli": "^0.0.8",
-    "polymer-cli": "^1.9.7"
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-rollup": "^10.2.0",
+    "grunt-sass": "^3.1.0",
+    "polymer-cli": "^1.9.11",
+    "rollup-plugin-node-resolve": "^5.2.0",
+    "scribe-cli": "^1.0.0"
   },
   "scripts": {
     "build": "grunt",
@@ -19,11 +20,9 @@
     "deploy": "grunt deploy",
     "clean": "grunt clean",
     "start": "grunt run",
-    "publish": "npm run build --scripts-prepend-node-path=true && ink publish"
+    "publish": "npm run build --scripts-prepend-node-path=true && scribe --size A4 publish"
   },
   "dependencies": {
-    "@polymer/polymer": "^3.0.5",
-    "@webcomponents/webcomponentsjs": "2.2.7",
-    "ink-elements": "^0.4.2"
+    "ink-elements": "^2.0.1"
   }
 }
