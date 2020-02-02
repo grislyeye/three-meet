@@ -1,0 +1,9 @@
+@page title {
+  @bottom-center {
+    content: none;
+  }
+}
+
+section#title {
+  page: title;
+}

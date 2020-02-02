@@ -22,7 +22,7 @@ module.exports = function (grunt) {
           {
             expand: true,
             cwd: 'assets/',
-            src: ['**', '!styles/**'],
+            src: ['**'],
             dest: 'dist/html/'
           }
         ],
@@ -38,7 +38,7 @@ module.exports = function (grunt) {
         tasks: ['copy:main']
       },
       assets: {
-        files: ['assets/**', '!assets/styles/**'],
+        files: ['assets/**'],
         tasks: ['copy:assets']
       },
       rollup_modules: {
@@ -47,17 +47,6 @@ module.exports = function (grunt) {
           '!node_modules/ink-elements/**/node_modules/**/*'
         ],
         tasks: ['rollup']
-      }
-    },
-
-    sass: {
-      options: {
-        sourceMap: true
-      },
-      dist: {
-        files: {
-          'dist/html/main.css': 'main.scss'
-        }
       }
     },
 

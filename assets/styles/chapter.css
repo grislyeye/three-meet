@@ -1,0 +1,22 @@
+
+@page chapter {
+  background-color: black;
+
+  @bottom-center {
+    content: none;
+  }
+}
+
+section.chapter {
+  page: chapter;
+}
+
+section.chapter {
+  background: black;
+  color: white;
+}
+
+.chapter h2 {
+  font-size: 1.5cm;
+  text-align: center;
+}

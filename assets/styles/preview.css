@@ -1,0 +1,11 @@
+@media screen {
+  body {
+    background-color: whitesmoke;
+  }
+
+  .pagedjs_page {
+    background-color: #fdfdfd;
+    margin: 2em auto;
+    box-shadow: 0 0 0.5cm rgba(0, 0, 0, 0.5);
+  }
+}
