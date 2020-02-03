@@ -1,4 +1,6 @@
 @page title {
+  margin: 1cm;
+
   @bottom-center {
     content: none;
   }
