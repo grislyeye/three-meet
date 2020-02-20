@@ -4,6 +4,7 @@
 @import url('styles/cover.css');
 @import url('styles/title.css');
 @import url('styles/chapter.css');
+@import url('styles/content.css');
 
 * {
   font-family: 'Alegreya', serif;
@@ -21,25 +22,7 @@
   }
 }
 
-.content {
-  font-size: 125%;
-}
-
 .legal {
   columns: 2;
   font-size: small;
-}
-
-.content dl dt {
-  float: left;
-  clear: left;
-  margin-left: 1rem;
-  margin-right: 5px;
-  font-weight: bold;
-  font-style: italic;
-}
-
-.content dl dd {
-  margin-left: 0;
-  margin-bottom: 1rem;
 }

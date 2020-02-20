@@ -1,0 +1,17 @@
+.content {
+  font-size: 125%;
+}
+
+.content dl dt {
+  float: left;
+  clear: left;
+  margin-left: 1rem;
+  margin-right: 5px;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.content dl dd {
+  margin-left: 0;
+  margin-bottom: 1rem;
+}
