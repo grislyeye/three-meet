@@ -25,3 +25,7 @@
 .content header + * {
   page-break-before: avoid;
 }
+
+section.content > section {
+  page-break-after: always;
+}
