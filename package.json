@@ -1,27 +1,12 @@
 {
   "name": "three-meet",
   "version": "0.0.0",
-  "devDependencies": {
-    "grunt": "^1.1.0",
-    "grunt-cli": "^1.3.2",
-    "grunt-contrib-clean": "^2.0.0",
-    "grunt-contrib-connect": "^2.1.0",
-    "grunt-contrib-copy": "^1.0.0",
-    "grunt-contrib-watch": "^1.1.0",
-    "grunt-rollup": "^11.1.0",
-    "polymer-cli": "^1.9.11",
-    "rollup-plugin-node-resolve": "^5.2.0",
-    "scribe-cli": "^1.0.1"
-  },
+  "description": "A low-fantasy hack of 5E",
   "scripts": {
-    "build": "grunt",
-    "watch": "grunt watch",
-    "deploy": "grunt deploy",
-    "clean": "grunt clean",
-    "start": "grunt run",
-    "publish": "npm run build --scripts-prepend-node-path=true && scribe --size A4 publish"
+    "start": "docsify serve ./"
   },
+  "author": "R.G. Wood <ric@grislyeye.com>",
   "dependencies": {
-    "ink-elements": "^2.0.1"
+    "docsify": "^4.11.6"
   }
 }

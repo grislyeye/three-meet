@@ -1,36 +1,7 @@
 # Three Meet
 
-Static HTML document for "Three Meet" roleplaying game.
+**Three Meet** is a low-fantasy hack of the fifth edition of the world's most popular table-top roleplaying game (5E). It offers the following new features:
 
-Requirements:
+## Consolidated Attributes
 
-  * [Node.js](http://nodejs.org/)
-  * [Yarn](https://yarnpkg.com/)
-
-To set-up your environment execute:
-
-    $ yarn install
-
-To build execute:
-
-    $ yarn run build
-
-To test:
-
-    $ yarn run start
-
-And open http://localhost:8000 in your browser.
-
-To clean build:
-
-    $ yarn run clean
-
-To publish as a PDF:
-
- 1. Open in Chrome
- 2. Click File -> Print...
- 3. Click on `More settings`
- 4. Set `Paper size` to `A4`
- 5. Set `Margins` to `None
- 6. Click in `Open PDF in Preview`
- 7. Then click File -> Save...
+**Three Meet** consolidates confusing pair of ability scores (Strength/Constitution and Intelligence/Wisdom and Dexterity) for simplicity: **Cunning** (for rogues), **Strength** (for fighters) and **Wisdom** (for wizards and clerics), as well as a “wild card” attribute, Luck.
