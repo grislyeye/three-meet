@@ -1,0 +1,36 @@
+@import url(https://fonts.googleapis.com/css?family=Alegreya:400,400italic,700italic,700);
+@import '../_core.css';
+@import '_andada-font.css';
+@import '_headers.css';
+@import '_sidebar.css';
+@import '_search.css';
+@import '_table.css';
+@import '_links.css';
+@import '_example-roll.css';
+
+* {
+  --theme-color: white;
+}
+
+.content  {
+  font-family: 'Alegreya', serif;
+  line-height: 1.15;
+  font-size: 16pt;
+  color: rgb(237, 237, 237);
+}
+
+body {
+  background-color: black;
+}
+
+.anchor span {
+  color: white;
+}
+
+.anchor:hover {
+  text-decoration: none;
+}
+
+.content strong {
+  font-style: italic;
+}

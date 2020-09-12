@@ -1,0 +1,21 @@
+ .content table th {
+  text-align: left
+ }
+
+.content table td, .content table th {
+  border: none;
+  border-bottom: 1px solid #ddd;
+}
+
+.content table thead tr {
+  border: none;
+}
+
+.markdown-section table tr:nth-child(2n) {
+    background-color: black;
+}
+
+.content table th.numbers,
+.content table td.numbers {
+  text-align: center;
+}

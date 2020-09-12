@@ -1,7 +1,9 @@
 # Three Meet
 
-**Three Meet** is a low-fantasy hack of the fifth edition of the world's most popular table-top roleplaying game (5E). It offers the following new features:
+A low-fantasy, grimdark 5E hack for bad times.
 
-## Consolidated Attributes
+To play pick a GM, [create your character](pages/characters/creating.md), choose a [background](pages/backgrounds/index.md) and [class](pages/classes/index.md), read the [basic](pages/rules/rolling.md) and [combat rules](pages/combat/order.md), and you're ready to play.
 
-**Three Meet** consolidates confusing pair of ability scores (Strength/Constitution and Intelligence/Wisdom and Dexterity) for simplicity: **Cunning** (for rogues), **Strength** (for fighters) and **Wisdom** (for wizards and clerics), as well as a “wild card” attribute, Luck.
+## Credits
+
+**Design and Layout:** [R.G. Wood](https://grislyeye.com)
