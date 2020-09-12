@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "docsify": "^4.11.6",
-    "docsify-pagination": "^2.6.0"
+    "docsify": "^4.11.6"
   }
 }

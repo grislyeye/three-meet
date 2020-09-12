@@ -6,12 +6,8 @@
     "start": "docsify serve ./book",
     "clean": "rm -rf dist",
     "install": "npm --prefix ./book install -–production ./book",
-    "build": "mkdir -p dist && rsync -av --progress book/ dist/ --exclude node_modules && mkdir -p dist/node_modules && mkdir -p dist/node_modules/docsify && cp -R book/node_modules/docsify/* dist/node_modules/docsify/",
+    "build": "rsync -av --progress book/ dist/ --exclude node_modules/prismjs",
     "deploy": "npm run clean && npm run build && butler push dist/ grislyeye/three-meet:HTML"
   },
-  "author": "R.G. Wood <ric@grislyeye.com>",
-  "devDependencies": {
-    "@open-wc/rollup-plugin-html": "^1.2.3",
-    "rollup": "^2.26.11"
-  }
+  "author": "R.G. Wood <ric@grislyeye.com>"
 }
