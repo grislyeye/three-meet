@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "docsify": "^4.11.6"
+    "docsify": "git+ssh://git@github.com:docsifyjs/docsify.git#c25af329490916aef821f694a2a5e2388778daef"
   }
 }

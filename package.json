@@ -9,5 +9,8 @@
     "build": "rsync -av --progress book/ dist/ --exclude node_modules/prismjs",
     "deploy": "npm run clean && npm run build && butler push dist/ grislyeye/three-meet:HTML"
   },
-  "author": "R.G. Wood <ric@grislyeye.com>"
+  "author": "R.G. Wood <ric@grislyeye.com>",
+  "dependencies": {
+    "docsify": "^4.11.6"
+  }
 }
