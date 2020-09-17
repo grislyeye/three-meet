@@ -1,0 +1,14 @@
+section.cover {
+  background: url("../../assets/images/cover.png") no-repeat scroll center !important;
+  background-size: cover !important;
+}
+
+section.cover .cover-main {
+  margin-left: 0;
+  margin-right: 0;
+  display: none;
+}
+
+.cover-main img[src*="cover"] {
+  width: 100%;
+}

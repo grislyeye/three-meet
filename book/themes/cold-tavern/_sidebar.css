@@ -1,0 +1,45 @@
+.sidebar h1 {
+  font-family: Angel Rhapsody;
+  color: white;
+  font-size: 32pt;
+}
+
+.sidebar-nav {
+  font-family: 'Alegreya', serif;
+  color: white;
+}
+
+.sidebar li {
+  margin: 6px 0 6px 0;
+}
+
+.sidebar ul li a {
+  color: white;
+  font-size: 18px;
+  font-weight: normal;
+  overflow: hidden;
+  text-decoration: none;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.sidebar ul li a:hover {
+  text-decoration: underline;
+}
+
+.sidebar ul li ul {
+  padding: 0;
+}
+
+.sidebar ul li.active a {
+  border-right: 2px solid;
+  font-weight: 600;
+  text-decoration: none;
+  color: white;
+}
+
+.app-sub-sidebar li::before {
+  content: '-';
+  padding-right: 4px;
+  float: left;
+}

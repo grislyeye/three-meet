@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "docsify": "git+ssh://git@github.com:docsifyjs/docsify.git#c25af329490916aef821f694a2a5e2388778daef"
+    "docsify": "git+ssh://git@github.com:docsifyjs/docsify.git#c25af329490916aef821f694a2a5e2388778daef",
+    "docsify-themeable": "^0.8.1"
   }
 }

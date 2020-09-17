@@ -1,3 +1,2 @@
-# Three Meet
-
-A low fantasy 5E hack by R.G. Wood
+<!-- ![Three Meet](assets/images/cover.png "Three Meet") -->
+Blah

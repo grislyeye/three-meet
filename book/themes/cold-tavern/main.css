@@ -1,0 +1,28 @@
+@import url(https://fonts.googleapis.com/css?family=Alegreya:400,400italic,700italic,700);
+@import '../_core.css';
+@import '_andada-font.css';
+@import '_angel-rhapsody-font.css';
+@import '_cover.css';
+@import '_headers.css';
+@import '_sidebar.css';
+
+.content  {
+  font-family: 'Alegreya', serif;
+  line-height: 1.15;
+  font-size: 16pt;
+  color: rgb(237, 237, 237);
+}
+
+body {
+  background-color: black;
+}
+
+
+.anchor span {
+  color: white;
+}
+
+.anchor:hover {
+  text-decoration: none;
+}
+
