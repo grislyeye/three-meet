@@ -1,1 +1,3 @@
-* [What is this?](about.md)
+* Rules
+  * [Rolling](rolling.md)
+  * [Advantage/Disadvantage](advantage.md)

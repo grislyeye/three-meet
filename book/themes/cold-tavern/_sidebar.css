@@ -1,3 +1,7 @@
+.sidebar {
+  border-right: 1px solid white;
+}
+
 .sidebar h1 {
   font-family: Angel Rhapsody;
   color: white;
@@ -13,9 +17,14 @@
   margin: 6px 0 6px 0;
 }
 
-.sidebar ul li a {
+.sidebar ul li {
   color: white;
   font-size: 18px;
+  font-weight: bold;
+}
+
+.sidebar ul li a {
+  color: white;
   font-weight: normal;
   overflow: hidden;
   text-decoration: none;
@@ -42,4 +51,8 @@
   content: '-';
   padding-right: 4px;
   float: left;
+}
+
+.sidebar-toggle {
+  background: black;
 }

@@ -5,6 +5,11 @@
 @import '_cover.css';
 @import '_headers.css';
 @import '_sidebar.css';
+@import '_search.css';
+
+* {
+  --theme-color: white;
+}
 
 .content  {
   font-family: 'Alegreya', serif;
@@ -16,7 +21,6 @@
 body {
   background-color: black;
 }
-
 
 .anchor span {
   color: white;

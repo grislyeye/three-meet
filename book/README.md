@@ -1,27 +1,5 @@
-# The Tavern
+# What is this?
 
-One cold night
+**Three Meet** is a low-fantasy roleplaying game. If you not sure what that means you're way off the beaten track, my friend.
 
-Three met
 
-In a tavern.
-
-A weary soldier
-
-A crooked mage
-
-And a smug rogue.
-
-What they discussed
-
-None might say.
-
-But when they left
-
-They went about
-
-A bloody business.
-
-No legend did they make.
-
-Only infamy.
