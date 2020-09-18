@@ -1,0 +1,23 @@
+.content span.example-roll {
+  font-size: 100px;
+  color: white;
+}
+
+.content span.example-roll > img {
+  height: 100px;
+  vertical-align: middle;
+}
+
+.content span.example-roll span.bonus {
+  display: inline-flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.content span.example-roll span.bonus span.caption {
+  text-transform: capitalize;
+  font-size: 14pt;
+  text-align: center;
+  font-variant-caps: small-caps;
+  border-top: 1px solid #ddd;;
+}

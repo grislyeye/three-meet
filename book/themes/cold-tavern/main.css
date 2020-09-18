@@ -6,6 +6,9 @@
 @import '_headers.css';
 @import '_sidebar.css';
 @import '_search.css';
+@import '_table.css';
+@import '_links.css';
+@import '_example-roll.css';
 
 * {
   --theme-color: white;

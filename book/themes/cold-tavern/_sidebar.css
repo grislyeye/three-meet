@@ -21,6 +21,7 @@
   color: white;
   font-size: 18px;
   font-weight: bold;
+  font-variant-caps: small-caps;
 }
 
 .sidebar ul li a {
@@ -30,6 +31,7 @@
   text-decoration: none;
   text-overflow: ellipsis;
   white-space: nowrap;
+  font-variant-caps: normal;
 }
 
 .sidebar ul li a:hover {

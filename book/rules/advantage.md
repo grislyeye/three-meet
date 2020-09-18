@@ -11,3 +11,21 @@ When you roll with advantage or disadvantage:
  3. If you have disadvantage use the lower of the rolls
  4. Advantage and disadvantage do not stack: you either have one, or you don't
  5. Advantage and disadvantage cancel out: if you have both you roll normally
+
+For example, with advantage:
+
+<span class="example-roll">
+  <img src="assets/images/d20-12.svg" style="width: 100px;">
+  <img src="assets/images/d20-12.svg" style="width: 100px;">
+  =
+  16
+</span>
+
+With disadvantage:
+
+<span class="example-roll">
+  <img src="assets/images/d20-12.svg" style="width: 100px;">
+  <img src="assets/images/d20-12.svg" style="width: 100px;">
+  =
+  16
+</span>
