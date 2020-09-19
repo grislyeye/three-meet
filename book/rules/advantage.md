@@ -14,18 +14,30 @@ When you roll with advantage or disadvantage:
 
 For example, with advantage:
 
-<span class="example-roll">
-  <img src="assets/images/d20-12.svg" style="width: 100px;">
-  <img src="assets/images/d20-12.svg" style="width: 100px;">
+<div class="example-roll">
+  <div class="roll">
+    <img src="assets/images/d20.svg" style="width: 100px;">
+    <span class="result">5</span>
+  </div>
+  <div class="roll">
+    <img src="assets/images/d20.svg" style="width: 100px;">
+    <span class="result">16</span>
+  </div>
   =
   16
-</span>
+  </div>
 
 With disadvantage:
 
-<span class="example-roll">
-  <img src="assets/images/d20-12.svg" style="width: 100px;">
-  <img src="assets/images/d20-12.svg" style="width: 100px;">
+<div class="example-roll">
+  <div class="roll">
+    <img src="assets/images/d20.svg" style="width: 100px;">
+    <span class="result">20</span>
+  </div>
+  <div class="roll">
+    <img src="assets/images/d20.svg" style="width: 100px;">
+    <span class="result">9</span>
+  </div>
   =
-  16
-</span>
+  9
+  </div>

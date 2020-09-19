@@ -14,10 +14,13 @@ These depend on one of your ability scores. When asked to make these rolls:
 
 For example, Maeve is asked to make a Cunning saving throw. Maeve's adds their Cunning (+2), and their Proficiency (+2) as they are proficient in Cunning saving throws. They roll a d20 for a result of 12 and add a +4, getting 16.
 
-<span class="example-roll">
-  <img src="assets/images/d20-12.svg" style="width: 100px;">
+<div class="example-roll">
+  <div class="roll">
+    <img src="assets/images/d20.svg" style="width: 100px;">
+    <span class="result">12</span>
+  </div>
   <span class="bonus">+2 <span class="caption">Cunning</span></span>
   <span class="bonus">+2 <span class="caption">Proficiency</span></span>
   =
   16
-</span>
+</div>
