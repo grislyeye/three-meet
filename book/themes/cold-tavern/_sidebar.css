@@ -17,7 +17,13 @@
   margin: 6px 0 6px 0;
 }
 
-.sidebar ul li {
+ul > li {
+  color: grey;
+  font-variant-caps: normal;
+  font-weight: normal;
+}
+
+.sidebar .sidebar-nav > ul > li {
   color: white;
   font-size: 18px;
   font-weight: bold;

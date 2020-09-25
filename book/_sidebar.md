@@ -1,65 +1,64 @@
 * Rules
   * [Ability Scores](rules/ability-scores.md)
-    * [Might](rules/might.md)
-    * [Cunning](rules/cunning.md)
-    * [Wisdom](rules/wisdom.md)
+    * Might
+    * Cunning
+    * Wisdom
     * [Luck](rules/luck.md)
   * [Rolling](rules/rolling.md)
   * [Advantage/Disadvantage](rules/advantage.md)
-  * [Proficiency](rules/proficiency.md)
-  * [Ability Checks](rules/ability-checks.md)
-    * [Contests](rules/ability-check-contests.md)
-    * [Passive Checks](rules/ability-check-passive.md)
-    * [Group Checks](rules/ability-check-group.md)
-    * [Skills](rules/skills.md)
-      * [Acrobatics](rules/skills/acrobatics.md)
-      * [Athletics](rules/skills/athletics.md)
-      * [Animal Handling](rules/skills/animal-handling.md)
-      * [Arcana](rules/skills/arcana.md)
-      * [Deception](rules/skills/deception.md)
-      * [History](rules/skills/history.md)
-      * [Insight](rules/skills/insight.md)
-      * [Intimidation](rules/skills/intimidation.md)
-      * [Investigation](rules/skills/investigation.md)
-      * [Medicine](rules/skills/medicine.md)
-      * [Nature](rules/skills/nature.md)
-      * [Perception](rules/skills/perception.md)
-      * [Performance](rules/skills/performance.md)
-      * [Persuasion](rules/skills/persuasion.md)
-      * [Religion](rules/skills/religion.md)
-      * [Sleight of Hand](rules/skills/sleight.md)
-      * [Stealth](rules/skills/Stealth.md)
-      * [Survival](rules/skills/Surival.md)
-  * [Saving Throws](rules/saving-throws.md)
-  * [Movement](rules/movement.md)
+  * Proficiency
+  * Ability Checks
+    * Contests
+    * Passive Checks
+    * Group Checks
+    * [Skills
+      * Acrobatics
+      * Athletics
+      * Animal Handling
+      * Arcana
+      * Deception
+      * History
+      * Insight
+      * Intimidation
+      * Investigation
+      * Medicine
+      * Nature
+      * Perception
+      * Performance
+      * Persuasion
+      * Religion
+      * Sleight of Hand
+      * Stealth
+      * Survival
+  * Saving Throws
+  * Movement
 * Characters
-  * [Creating Characters](characters/creating.md)
-  * [Backgrounds](characters/backgrounds.md)
-    * [Inspiration](characters/backgrounds/inspiration.md)
-    * [Artisan](characters/backgrounds/artisan.md)
-    * [Bailiff](characters/backgrounds/bailiff.md)
-    * [Barbarian](characters/backgrounds/barbarian.md)
-    * [Cleric](characters/backgrounds/cleric.md)
-    * [Knave](characters/backgrounds/knave.md)
-    * [Noble](characters/backgrounds/noble.md)
-    * [Nomad](characters/backgrounds/nomad.md)
-    * [Performer](characters/backgrounds/performer.md)
-    * [Sage](characters/backgrounds/sage.md)
-    * [Seafarer](characters/backgrounds/seafarer.md)
-    * [Soldier](characters/backgrounds/soldier.md)
-  * [Classes](characters/classes.md)
-    * [The Mighty](characters/mighty.md)
-    * [The Cunning](characters/cunning.md)
-    * [The Wise](characters/wise.md)
+  * Creating Characters
+  * Backgrounds
+    * Inspiration
+    * Artisan
+    * Bailiff
+    * Barbarian
+    * Cleric
+    * Knave
+    * Noble
+    * Nomad
+    * Performer
+    * Sage
+    * Seafarer
+    * Soldier
+  * Classes
+    * The Mighty
+    * The Cunning
+    * The Wise
 * Equipment
-  * [Usage Die](rules/usage.md)
+  * [Usage Die](equipment/usage.md)
   * [Wealth](equipment/wealth.md)
-  * [Items](equipment/items.md)
-  * [Armor](equipment/armor.md)
-  * [Weapons](equipment/weapons.md)
-  * [Gear](equipment/gear.md)
-  * [Tools](equipment/tools.md)
-  * [Lifestyles](equipment/lifestyles.md)
+  * Items
+  * Armour
+  * Weapons
+  * Gear
+  * Lifestyles
 * Running the Game
   * Vision and Light
   * Resting
