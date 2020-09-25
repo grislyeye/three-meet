@@ -1,6 +1,6 @@
 # Wealth
 
-Wealth is measured in consumable treasures and containers for coins or jewels, such as pouches of coins and gold statues. These are rated using [usage die](/rules/usage.md).
+Wealth is measured in consumable treasures and containers for coins or jewels, such as pouches of coins and gold statues. These are also items rated using [usage die](/rules/usage.md).
 
 For example, you might have a d4 small pouch for of copper pieces or 6 pouches stuffed full of gold coins (d6 each).
 
@@ -39,7 +39,7 @@ For example, you might have a d4 small pouch for of copper pieces or 6 pouches s
   </tbody>
 </table>
 
-You roll the treasure item's usage die when you spend it. Each [item](/equipment/items.md) or service has a die cost. You cannot buy an item that costs more than the usage die of the treasure you are using.
+You roll the treasure item's usage die when you spend it. Each [item](/equipment/items.md) or service has a cost die representing it's relative price. You do not have enough wealth to buy an item whose cost die is greater than your treasure usage die.
 
 <aside>
 
