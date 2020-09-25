@@ -1,4 +1,4 @@
 @font-face {
   font-family: "Angel Rhapsody";
-  src: url("fonts/Angel-Rhapsody.otf");
+  src: url("fonts/Angel-Rhapsody.otf") format("opentype");
 }
