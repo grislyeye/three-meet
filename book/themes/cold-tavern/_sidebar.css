@@ -17,7 +17,7 @@
   margin: 6px 0 6px 0;
 }
 
-ul > li {
+.sidebar ul > li {
   color: grey;
   font-variant-caps: normal;
   font-weight: normal;
