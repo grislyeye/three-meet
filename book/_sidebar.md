@@ -3,7 +3,6 @@
     * Might
     * Cunning
     * Wisdom
-    * [Luck](rules/luck.md)
   * [Rolling](rules/rolling.md)
   * [Advantage/Disadvantage](rules/advantage.md)
   * Proficiency
