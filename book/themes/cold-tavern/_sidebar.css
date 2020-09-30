@@ -2,7 +2,7 @@
   border-right: 1px solid white;
 }
 
-.sidebar h1 {
+.sidebar h1.app-name {
   font-family: Angel-Rhapsody, serif;
   color: white;
   font-size: 32pt;
