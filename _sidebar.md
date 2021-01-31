@@ -5,6 +5,7 @@
   + [Rolling](pages/rules/rolling.md)
   + [Advantage/Disadvantage](pages/rules/advantage.md)
   + [Proficiency](pages/rules/proficiency.md)
+  * [Usage Die](pages/rules/usage.md)
   + [Rests](pages/rules/rests.md)
   + [Skills](pages/characters/skills.md)
 + [Backgrounds](pages/backgrounds/index.md)
@@ -21,6 +22,8 @@
   + [Moves](pages/combat/moves.md)
   + [Attacks](pages/combat/attacks.md)
   + [Health](pages/combat/health.md)
+* Equipment
+  * [Wealth](pages/equipment/wealth.md)
 + Colophon
   + [Links](links.md)
   + [Design Notes](design-notes.md)
