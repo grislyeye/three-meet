@@ -1,0 +1,14 @@
+.content a {
+  color: rgb(237, 237, 237);
+  font-style: italic;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.content a.anchor {
+  font-style: normal;
+}
+
+.content a:hover {
+  text-decoration: underline;
+}

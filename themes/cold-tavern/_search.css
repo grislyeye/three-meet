@@ -1,0 +1,8 @@
+.search input {
+  color: white;
+  background-color: black;
+}
+
+.search .matching-posts {
+  color: white;
+}

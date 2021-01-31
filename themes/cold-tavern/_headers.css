@@ -1,0 +1,30 @@
+.content h1 {
+  color: white;
+  font-size: 80px;
+}
+
+.content h2 {
+  font-size: 35px;
+  width: 100%;
+  border-bottom: 1px solid;
+  margin-top: 1.5em;
+}
+
+.content h3 {
+  font-size: 25px;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+.content h3 + * {
+  margin-top: 0.5em;
+}
+
+.content h4 {
+  margin-bottom: 0.5em;
+  font-style: italic;
+}
+
+.content h4 + * {
+  margin-top: 0.5em;
+}

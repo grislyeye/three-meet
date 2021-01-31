@@ -1,0 +1,74 @@
+.sidebar {
+  border-right: 1px solid white;
+}
+
+.sidebar h1.app-name {
+  font-family: 'Alegreya', serif;
+  font-weight: bold;
+  color: white;
+  font-size: 32pt;
+}
+
+.sidebar-nav {
+  font-family: 'Alegreya', serif;
+  color: white;
+}
+
+.sidebar li {
+  margin: 6px 0 6px 0;
+}
+
+.sidebar ul > li {
+  color: grey;
+  font-variant-caps: normal;
+  font-weight: normal;
+}
+
+.sidebar .sidebar-nav > ul > li {
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+  font-variant-caps: small-caps;
+}
+
+.sidebar ul li a {
+  color: white;
+  font-weight: normal;
+  overflow: hidden;
+  text-decoration: none;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-variant-caps: normal;
+}
+
+.sidebar ul li a:hover {
+  text-decoration: underline;
+}
+
+.sidebar ul li ul {
+  padding: 0;
+}
+
+.sidebar-nav > ul > li > a {
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+  font-variant-caps: small-caps;
+}
+
+.sidebar ul li.active a {
+  border-right: 2px solid;
+  font-weight: 600;
+  text-decoration: none;
+  color: white;
+}
+
+.app-sub-sidebar li::before {
+  content: '-';
+  padding-right: 4px;
+  float: left;
+}
+
+.sidebar-toggle {
+  background: black;
+}
