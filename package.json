@@ -15,7 +15,7 @@
   "scripts": {
     "start": "docsify serve ./",
     "clean": "rm -rf dist",
-    "build": "rsync -av --progress --exclude dist/ --exclude nodemodules/ --exclude .git/ ./ dist/ && npm install --production",
+    "build": "rsync -av --progress --exclude dist/ --exclude node_modules/ --exclude .git --exclude .gitignore --include '.*' ./ dist/ && npm install --production",
     "predeploy": "npm run clean && npm run build",
     "deploy": "gh-pages -d dist -b gh-pages -t"
   },
