@@ -17,7 +17,7 @@
     "clean": "rm -rf dist",
     "build": "rsync -av --progress --exclude dist/ --exclude nodemodules/ --exclude .git/ ./ dist/ && npm install --production",
     "predeploy": "npm run clean && npm run build",
-    "deploy": "gh-pages -d dist -b gh-pages"
+    "deploy": "gh-pages -d dist -b gh-pages -t"
   },
   "dependencies": {
     "docsify": "^4.11.6",
