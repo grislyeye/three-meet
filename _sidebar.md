@@ -12,6 +12,7 @@
   + [Knave](pages/backgrounds/knave.md)
   + [Sage](pages/backgrounds/sage.md)
   + [Soldier](pages/backgrounds/soldier.md)
+  + [Wildlander](pages/backgrounds/wildlander.md)
 + [Classes](pages/classes/index.md)
   + [The Mighty](pages/classes/mighty.md)
   + [The Cunning](pages/classes/cunning.md)
