@@ -14,7 +14,7 @@ You also gain advantage on Persuasion [checks](pages/rules/rolling.md?id=checks)
 
 ### Speciality
 
-You specialised in a particular criminal enterprise. Choose a speciality and gain it's features. Knave specialities include: Burglar.
+You specialised in a particular criminal enterprise. Choose a speciality and gain it's features. Knave specialities include: Burglar, Highwayman, Mountebank, Pickpocket, and Thug.
 
 ## Burglar
 
@@ -25,3 +25,27 @@ You specialised in a particular criminal enterprise. Choose a speciality and gai
 ### Second-Story Work
 
 You gain the ability to climb twice as fast. When you make a running jump double the distance you can cover.
+
+## Highwayman
+
+| Level             | Speciality Features    |
+| ----------------- | - |
+| 1st               |  |
+
+## Mountebank
+
+| Level             | Speciality Features    |
+| ----------------- | - |
+| 1st               |  |
+
+## Pickpocket
+
+| Level             | Speciality Features    |
+| ----------------- | - |
+| 1st               |  |
+
+## Thug
+
+| Level             | Speciality Features    |
+| ----------------- | - |
+| 1st               |  |
