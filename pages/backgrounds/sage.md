@@ -12,7 +12,11 @@ Once per rest you gain advantage on one [check](pages/rules/rolling.md?id=checks
 
 ### Speciality
 
-Choose a speciality and gain it's features. Sage specialities include: Occultist.
+Choose a speciality and gain it's features. Sage specialities include: Hermit, Scholar, and Occultist.
+
+## Hermit
+
+## Scholar
 
 ## Occultist
 
