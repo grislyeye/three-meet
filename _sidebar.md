@@ -9,6 +9,7 @@
   + [Skills](pages/characters/skills.md)
 + [Backgrounds](pages/backgrounds/index.md)
   + [Acolyte](pages/backgrounds/acolyte.md)
+  + [Bailiff](pages/backgrounds/bailiff.md)
   + [Knave](pages/backgrounds/knave.md)
   + [Sage](pages/backgrounds/sage.md)
   + [Soldier](pages/backgrounds/soldier.md)
