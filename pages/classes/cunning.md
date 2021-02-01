@@ -16,14 +16,23 @@ Choose an archetype and gain it's features. The Cunning archetypes include: Arch
 
 You are a skilled bowman, trained in bow and arrow. With a keen eye, you rarely miss your mark.
 
-| Level | Archetype Features |
-| ----  | ------------------ |
+| Level | Archetype Features                         |
+| ----  | ------------------------------------------ |
 | 1st   | Archery, Proficient: Perception            |
+| 3rd   | Flurry of Arrows                           |
+| 8th   | Improved Flurry of Arrows                  |
 
 ### Archery
 
 You gain a +2 bonus to attack rolls you make with ranged weapons.
 
+### Flurry of Arrows
+
+Once per turn, when you make a ranged attack you can make an extra ranged attack with the same weapon.
+
+### Improved Flurry of Arrows
+
+As Flurry of Arrows, except you can make two extra ranged attacks.
 
 ## Rogue
 
