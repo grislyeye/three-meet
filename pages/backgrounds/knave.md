@@ -4,7 +4,7 @@ Blackguard, scoundrel, outlaw: these are just some of the names you have been ca
 
 | Level             | Background Features    |
 | ----------------- | - |
-| 1st               | +1 [Cunning](pages/characters/attributes.md?id=cunning), Proficient: Sleight, Thieves' Cant, Speciality |
+| 1st               | +1 [Cunning](pages/characters/attributes.md?id=cunning), Proficient: Deception, Thieves' Cant, Speciality |
 
 ### Thieves' Cant
 
@@ -30,22 +30,22 @@ You gain the ability to climb twice as fast. When you make a running jump double
 
 | Level             | Speciality Features    |
 | ----------------- | - |
-| 1st               |  |
+| 1st               | Proficient: Animal Handling |
 
 ## Mountebank
 
 | Level             | Speciality Features    |
 | ----------------- | - |
-| 1st               |  |
+| 1st               | Proficient: Persuasion |
 
 ## Pickpocket
 
 | Level             | Speciality Features    |
 | ----------------- | - |
-| 1st               |  |
+| 1st               | Proficient: Sleight |
 
 ## Thug
 
 | Level             | Speciality Features    |
 | ----------------- | - |
-| 1st               |  |
+| 1st               | Proficient: Intimidation |
