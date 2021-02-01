@@ -10,6 +10,7 @@
 + [Backgrounds](pages/backgrounds/index.md)
   + [Acolyte](pages/backgrounds/acolyte.md)
   + [Knave](pages/backgrounds/knave.md)
+  + [Noble](pages/backgrounds/noble.md)
   + [Sage](pages/backgrounds/sage.md)
   + [Soldier](pages/backgrounds/soldier.md)
 + [Classes](pages/classes/index.md)
