@@ -4,7 +4,7 @@ Blackguard, scoundrel, outlaw: these are just some of the names you have been ca
 
 | Level             | Background Features    |
 | ----------------- | - |
-| 1st               | +1 [Cunning](pages/characters/attributes.md?id=cunning), Proficient: Sleight, Thieves' Cant, Speciality |
+| 1st               | +1 [Cunning](pages/characters/attributes.md?id=cunning), Proficient: Deception, Thieves' Cant, Speciality |
 
 ### Thieves' Cant
 
@@ -14,7 +14,7 @@ You also gain advantage on Persuasion [checks](pages/rules/rolling.md?id=checks)
 
 ### Speciality
 
-You specialised in a particular criminal enterprise. Choose a speciality and gain it's features. Knave specialities include: Burglar.
+You specialised in a particular criminal enterprise. Choose a speciality and gain it's features. Knave specialities include: Burglar, Highwayman, Mountebank, Pickpocket, and Thug.
 
 ## Burglar
 
@@ -25,3 +25,27 @@ You specialised in a particular criminal enterprise. Choose a speciality and gai
 ### Second-Story Work
 
 You gain the ability to climb twice as fast. When you make a running jump double the distance you can cover.
+
+## Highwayman
+
+| Level             | Speciality Features    |
+| ----------------- | - |
+| 1st               | Proficient: Animal Handling |
+
+## Mountebank
+
+| Level             | Speciality Features    |
+| ----------------- | - |
+| 1st               | Proficient: Persuasion |
+
+## Pickpocket
+
+| Level             | Speciality Features    |
+| ----------------- | - |
+| 1st               | Proficient: Sleight |
+
+## Thug
+
+| Level             | Speciality Features    |
+| ----------------- | - |
+| 1st               | Proficient: Intimidation |
