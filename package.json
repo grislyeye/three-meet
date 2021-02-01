@@ -1,6 +1,6 @@
 {
   "name": "three-meet",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A low-fantasy roleplaying game based on 5E",
   "author": "R.G. Wood <ric@grislyeye.com> (https://grislyeye.com)",
   "homepage": "https://github.com/grislyeye/three-meet#readme",
@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "docsify": "^4.11.6",
-    "docsify-themeable": "^0.8.1"
+    "docsify-themeable": "^0.8.4"
   },
   "devDependencies": {
     "docsify-cli": "^4.4.2",
