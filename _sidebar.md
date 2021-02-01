@@ -11,6 +11,7 @@
   + [Acolyte](pages/backgrounds/acolyte.md)
   + [Knave](pages/backgrounds/knave.md)
   + [Sage](pages/backgrounds/sage.md)
+  + [Seafarer](pages/backgrounds/seafarer.md)
   + [Soldier](pages/backgrounds/soldier.md)
 + [Classes](pages/classes/index.md)
   + [The Mighty](pages/classes/mighty.md)
