@@ -1,6 +1,6 @@
 # Luck
 
-**Luck** represents fortune's favour, your natural talent, or your raw confidence. All seasoned characters start with some **Luck**. Otherwise they wouldn't be around in the first place.
+**Luck** represents fortune's favour, your natural talent, or raw confidence. All seasoned characters start with some **Luck**. Otherwise they wouldn't be around in the first place.
 
 **Luck** is a [usage die](pages/rules/usage.md) resource and starts at **d10**. Every time you want to **test your luck** you can roll your **Luck**. If you succeed, you gain [advantage](pages/rules/advantage.md) on the next roll.
 
