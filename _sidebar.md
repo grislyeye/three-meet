@@ -7,6 +7,8 @@
   + [Proficiency](pages/rules/proficiency.md)
   + [Rests](pages/rules/rests.md)
   + [Skills](pages/characters/skills.md)
+  + [Usage Die](pages/rules/usage.md)
+  + [Luck](pages/rules/luck.md)
 + [Backgrounds](pages/backgrounds/index.md)
   + [Acolyte](pages/backgrounds/acolyte.md)
   + [Knave](pages/backgrounds/knave.md)
