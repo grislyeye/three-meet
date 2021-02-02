@@ -35,4 +35,7 @@ as Open Game Content by the Contributor, and means any work covered by this Lice
 
 * Open Game License v 1.0 Copyright 2000, Wizards of the Coast, Inc.
 * System Reference Document 5.1 Copyright 2016, Wizards of the Coast, Inc.; Authors Mike Mearls, Jeremy Crawford, Chris Perkins, Rodney Thompson, Peter Lee, James Wyatt, Robert J. Schwalb, Bruce R. Cordell, Chris Sims, and Steve Townshend, based on original material by E. Gary Gygax and Dave Arneson.
-* Three Meet 1.0 Copyright 2020-2021, R.G Wood
+* The original roleplaying game "The Black Hack" text, tables, all artwork, logos and layout are Copyright 2016, David Black.
+* "Additional Things" text, tables, artwork and layout are Copyright 2016, David Black.
+* This website is Copyright 2016-2017, Bruno Bord.
+* Three Meet 1.0 Copyright 2020-2021, R.G Wood.
