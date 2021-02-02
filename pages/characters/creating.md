@@ -14,23 +14,27 @@ Your background is what your did before began you started adventuring. Choose a 
 
 Your class describes your vocation. Choose a [class](pages/classes/index.md).
 
-### 4. Name Yourself
+### 4. Determine Luck
+
+You start with **d10** [Luck](pages/rules/luck.md). If you forfeit your [background](pages/backgrounds/index.md) attribute bonus it starts at **d20**.
+
+### 5. Name Yourself
 
 Choose a name. Characters have a short and simple given name, and a descriptive nickname or title. For example, Ugly Jack or Ser Anne.
 
-### 5. What is Your Bond?
+### 6. What is Your Bond?
 
 Your bond is your current mission in life, the purpose which has lead you to a life of adventure. Choose a bond (don't worry, you can change it later).
 
-### 6. What is Your Flaw?
+### 7. What is Your Flaw?
 
 Your flaw is some weakness that could be exploited against you. Choose a flaw.
 
-### 7. What are Your Traits?
+### 8. What are Your Traits?
 
 Your traits are the quirks that make you unique. Choose two traits.
 
-### 8. Choose Allegiances
+### 9. Choose Allegiances
 
 Allegiances are the folk you owe loyalty to, the groups you belong to and the principles by which you leave. Pick three allegiances and rank them as major, medium and minor.
 
