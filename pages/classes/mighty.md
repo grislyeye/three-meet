@@ -14,19 +14,7 @@ You have a limited well of stamina that you can draw on to protect yourself from
 
 ### Archetype
 
-Choose an archetype and gain it's features. The Mighty archetypes include: Archer and Defender.
-
-## Archer
-
-You are a skilled bowman, trained in bow and arrow. With a keen eye, you rarely miss your mark.
-
-| Level | Archetype Features |
-| ----  | ------------------ |
-| 1st   | Archery, Proficient: Perception            |
-
-### Archery
-
-You gain a +2 bonus to attack rolls you make with ranged weapons.
+Choose an archetype and gain it's features. The Mighty archetypes include: Defender.
 
 ## Defender
 

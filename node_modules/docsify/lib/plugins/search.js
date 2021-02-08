@@ -109,6 +109,13 @@
     return token.text;
   }
 
+  function getListData(token) {
+    if (!token.text && token.type === 'list') {
+      token.text = token.raw;
+    }
+    return token.text;
+  }
+
   function saveData(maxAge, expireKey, indexKey) {
     localStorage.setItem(expireKey, Date.now() + maxAge);
     localStorage.setItem(indexKey, JSON.stringify(INDEXS));
@@ -121,6 +128,7 @@
     var slugify = window.Docsify.slugify;
     var index = {};
     var slug;
+    var title = '';
 
     tokens.forEach(function (token) {
       if (token.type === 'heading' && token.depth <= depth) {
@@ -134,7 +142,16 @@
           slug = router.toURL(path, { id: slugify(escapeHtml(token.text)) });
         }
 
-        index[slug] = { slug: slug, title: str, body: '' };
+        if (str) {
+          title = str
+            .replace(/<!-- {docsify-ignore} -->/, '')
+            .replace(/{docsify-ignore}/, '')
+            .replace(/<!-- {docsify-ignore-all} -->/, '')
+            .replace(/{docsify-ignore-all}/, '')
+            .trim();
+        }
+
+        index[slug] = { slug: slug, title: title, body: '' };
       } else {
         if (!slug) {
           return;
@@ -144,10 +161,12 @@
           index[slug] = { slug: slug, title: '', body: '' };
         } else if (index[slug].body) {
           token.text = getTableData(token);
+          token.text = getListData(token);
 
           index[slug].body += '\n' + (token.text || '');
         } else {
           token.text = getTableData(token);
+          token.text = getListData(token);
 
           index[slug].body = index[slug].body
             ? index[slug].body + token.text
@@ -157,6 +176,13 @@
     });
     slugify.clear();
     return index;
+  }
+
+  function ignoreDiacriticalMarks(keyword) {
+    if (keyword && keyword.normalize) {
+      return keyword.normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+    }
+    return keyword;
   }
 
   /**
@@ -180,6 +206,8 @@
       var post = data[i];
       var matchesScore = 0;
       var resultStr = '';
+      var handlePostTitle = '';
+      var handlePostContent = '';
       var postTitle = post.title && post.title.trim();
       var postContent = post.body && post.body.trim();
       var postUrl = post.slug || '';
@@ -188,14 +216,23 @@
         keywords.forEach(function (keyword) {
           // From https://github.com/sindresorhus/escape-string-regexp
           var regEx = new RegExp(
-            keyword.replace(/[|\\{}()[\]^$+*?.]/g, '\\$&'),
+            ignoreDiacriticalMarks(keyword).replace(
+              /[|\\{}()[\]^$+*?.]/g,
+              '\\$&'
+            ),
             'gi'
           );
           var indexTitle = -1;
           var indexContent = -1;
+          handlePostTitle = postTitle
+            ? ignoreDiacriticalMarks(postTitle)
+            : postTitle;
+          handlePostContent = postContent
+            ? ignoreDiacriticalMarks(postContent)
+            : postContent;
 
-          indexTitle = postTitle ? postTitle.search(regEx) : -1;
-          indexContent = postContent ? postContent.search(regEx) : -1;
+          indexTitle = postTitle ? handlePostTitle.search(regEx) : -1;
+          indexContent = postContent ? handlePostContent.search(regEx) : -1;
 
           if (indexTitle >= 0 || indexContent >= 0) {
             matchesScore += indexTitle >= 0 ? 3 : indexContent >= 0 ? 2 : 0;
@@ -215,7 +252,7 @@
 
             var matchContent =
               '...' +
-              escapeHtml(postContent)
+              handlePostContent
                 .substring(start, end)
                 .replace(
                   regEx,
@@ -229,7 +266,7 @@
 
         if (matchesScore > 0) {
           var matchingPost = {
-            title: escapeHtml(postTitle),
+            title: handlePostTitle,
             content: postContent ? resultStr : '',
             url: postUrl,
             score: matchesScore,
@@ -252,13 +289,14 @@
     var namespaceSuffix = '';
 
     // only in auto mode
-    if (isAuto && config.pathNamespaces) {
+    if (paths.length && isAuto && config.pathNamespaces) {
       var path = paths[0];
 
       if (Array.isArray(config.pathNamespaces)) {
         namespaceSuffix =
-          config.pathNamespaces.find(function (prefix) { return path.startsWith(prefix); }) ||
-          namespaceSuffix;
+          config.pathNamespaces.filter(
+            function (prefix) { return path.slice(0, prefix.length) === prefix; }
+          )[0] || namespaceSuffix;
       } else if (config.pathNamespaces instanceof RegExp) {
         var matches = path.match(config.pathNamespaces);
 
@@ -266,6 +304,13 @@
           namespaceSuffix = matches[0];
         }
       }
+      var isExistHome = paths.indexOf(namespaceSuffix + '/') === -1;
+      var isExistReadme = paths.indexOf(namespaceSuffix + '/README') === -1;
+      if (isExistHome && isExistReadme) {
+        paths.unshift(namespaceSuffix + '/');
+      }
+    } else if (paths.indexOf('/') === -1 && paths.indexOf('/README') === -1) {
+      paths.unshift('/');
     }
 
     var expireKey = resolveExpireKey(config.namespace) + namespaceSuffix;

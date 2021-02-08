@@ -1,0 +1,14 @@
+{
+  "extends": "eslint-config-airbnb",
+  "env": {
+    "browser": true,
+    "node": true
+  },
+  "rules": {
+    "comma-dangle": [1, "always-multiline"],
+    "indent": [2, 3],
+    "no-console": 0,
+    "no-use-before-define": 0,
+    "linebreak-style": 2
+  }
+}
