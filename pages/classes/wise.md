@@ -10,7 +10,7 @@
 
 ### Archetype
 
-You specialised in a particular criminal enterprise. Choose an archetype and gain it's features. The Wise archetypes include: Blessed and Sorcerer.
+Choose an archetype and gain it's features. The Wise archetypes include: Blessed and Sorcerer.
 
 ## Blessed
 
