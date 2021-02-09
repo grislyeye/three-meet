@@ -4,9 +4,13 @@
 
 **Starting Equipment:** Quarterstaff (1d6)
 
-| Level | Proficiency | Class Features  |
-| ----  | ----------- |- |
-| 1st   | +2          | Archetype, Proficient: Insight, Proficient: [Cunning](pages/characters/attributes.md?id=cunning) [saves](pages/rules/rolling.md?id=saves), Proficient: All weapons, shields and armour |
+| Level | Proficiency | Wise | Class Features  |
+| ----  | ----------- |----- | - |
+| 1st   | +2          | d4   | Archetype, Proficient: Insight, Proficient: [Cunning](pages/characters/attributes.md?id=cunning) [saves](pages/rules/rolling.md?id=saves), Proficient: All weapons, shields and armour |
+
+### Wise
+
+**Wise** is a [usage die](rules/usage-die.md) that represents the resources you draw upon to use your class features. These could be intellectual will, arcane might or divine favour.
 
 ### Archetype
 
@@ -26,7 +30,7 @@ You can touch one willing creature. For 1 minute the target can roll a d4 and ad
 
 ### Miracles
 
-You can perform one of the miracles below once per rest. Each miracle takes an action to perform.
+You can perform the miracles below. Each miracle takes an action to perform. Roll your **Wise**.
 
 #### Miracle: Halo
 
