@@ -34,7 +34,7 @@ You fight quick and dirty, preferring to use your fists and whatever else you ca
 
 ### Brawl
 
-You can roll a d4 in place of the normal damage of your unarmed strike.
+You can roll a d6 in place of the normal damage of your unarmed strike.
 
 ### Flurry of Blows
 
