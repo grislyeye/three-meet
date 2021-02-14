@@ -7,6 +7,7 @@
 | Level | Proficiency | Class Features  |
 | ----  | ----------- |- |
 | 1st   | +2          | Archetype, Second Wind, Proficient: [Might](pages/characters/attributes.md?id=might) [saves](rules/rolling.md?id=saves), Proficient: Athletics |
+| 1st   | +2          | Action Surge |
 
 ### Second Wind
 
@@ -14,16 +15,29 @@ You have a limited well of stamina that you can draw on to protect yourself from
 
 ### Archetype
 
-Choose an archetype and gain it's features. The Mighty archetypes include: Defender.
+Choose an archetype and gain it's features. The Mighty archetypes include: **Brawler**.
 
-## Defender
+### Action Surge
 
-You fight to protect.
+Starting at 2nd level, you can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action.
+
+Once you use this feature, you must finish a rest before you can use it again.
+
+## Brawler
+
+You fight quick and dirty, preferring to use your fists and whatever else you can get your hands on. There is no honour is such combat, and you're not above a dirty trick or two.
 
 | Level | Archetype Features |
 | ----  | ------------------ |
-| 1st   | Protection, Proficient: Intimidation         |
+| 1st   | Brawl, Proficient: Intimidation |
+| 3rd   | Flurry of Blows |
 
-### Protection
+### Brawl
 
-When a creature you can see attacks a target other than you that is within 5 feet of you, you can impose disadvantage on the attack roll. You must be wielding a shield.
+You can roll a d4 in place of the normal damage of your unarmed strike.
+
+### Flurry of Blows
+
+Immediately after you make an [attack](pages/combat/attacks) on your turn, you two unarmed strikes, or improvised weapons as a bonus action.
+
+Once you use this feature, you must finish a rest before you can use it again.
