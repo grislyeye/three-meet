@@ -1,6 +1,9 @@
 + Characters
   + [Creating Characters](pages/characters/creating.md)
   + [Attributes](pages/characters/attributes.md)
+    + [Might](pages/characters/attributes/might.md)
+    + [Cunning](pages/characters/attributes/cunning.md)
+    + [Wisdom](pages/characters/attributes/wisdom.md)
   + [Skills](pages/characters/skills.md)
 + Basic Rules
   + [Rolling](pages/rules/rolling.md)
