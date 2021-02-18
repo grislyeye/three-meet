@@ -30,7 +30,6 @@ You fight quick and dirty, preferring to use your fists and whatever else you ca
 | Level | Archetype Features |
 | ----  | ------------------ |
 | 1st   | Brawl, Proficient: Intimidation |
-| 3rd   | Flurry of Blows |
 
 ### Brawl
 
