@@ -38,6 +38,6 @@ You can roll a d6 in place of the normal damage of your unarmed strike.
 
 ### Flurry of Blows
 
-Immediately after you make an [attack](pages/combat/attacks) on your turn, you two unarmed strikes, or improvised weapons as a bonus action.
+Immediately after you make an [attack](pages/combat/attacks) on your turn, you can make two unarmed strikes, or improvised weapons as a bonus action.
 
 Once you use this feature, you must finish a rest before you can use it again.
