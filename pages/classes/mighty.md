@@ -34,7 +34,7 @@ You fight quick and dirty, preferring to use your fists and whatever else you ca
 
 ### Brawl
 
-You can roll a d6 in place of the normal damage of your unarmed strike.
+You can roll a d6 + [Might](pages/characters/attributes.md?id=might) in place of the normal damage of your [unarmed strike](pages/combat/attacks?id=unarmed-strike). You can also use your bonus [action](pages/combat/actions?id=bonus-action) to [grapple](pages/combat/attacks?id=grapple) an opponent.
 
 ### Flurry of Blows
 
