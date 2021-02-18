@@ -7,7 +7,6 @@
 | Level | Proficiency | Class Features  |
 | ----  | ----------- |- |
 | 1st   | +2          | Archetype, Second Wind, Proficient: [Might](pages/characters/attributes.md?id=might) [saves](rules/rolling.md?id=saves), Proficient: Athletics |
-| 1st   | +2          | Action Surge |
 
 ### Second Wind
 
@@ -16,12 +15,6 @@ You have a limited well of stamina that you can draw on to protect yourself from
 ### Archetype
 
 Choose an archetype and gain it's features. The Mighty archetypes include: **Brawler**.
-
-### Action Surge
-
-Starting at 2nd level, you can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action.
-
-Once you use this feature, you must finish a rest before you can use it again.
 
 ## Brawler
 
