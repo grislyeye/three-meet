@@ -10,39 +10,7 @@
 
 ### Archetype
 
-You specialised in a particular criminal enterprise. Choose an archetype and gain it's features. The Wise archetypes include: Blessed and Sorcerer.
-
-## Blessed
-
-You are chosen of the gods and their holy light shines through you.
-
-| Level | Archetype Features |
-| ----  | - |
-| 1st   | Bless, Miracles, Proficient: Persuasion |
-
-### Blessing
-
-You can touch one willing creature. For 1 minute the target can roll a d4 and add the number rolled to one [saves](pages/rules/rolling.md?id=saves) or [saves](pages/rules/rolling.md?id=check). It can roll the die before or after making the roll. The effect then ends.
-
-### Miracles
-
-You can perform one of the miracles below once per rest. Each miracle takes an action to perform.
-
-#### Miracle: Halo
-
-You can manifest a radiant halo. It sheds light in a 30-foot radius. You can bless up to three creatures of your choice who are touched by this light. For 1 minute whenever a target makes an attack roll or a saving throw, the target can roll a d4 and add the number rolled to the [saves](pages/combat/attacks.md) or [saves](pages/rules/rolling.md?id=saves).
-
-#### Miracle: Healing Touch
-
-A creature you touch regains a number of hit points equal to 1d8 + [Wisdom](pages/characters/attributes.md?id=wisdom) modifier.
-
-#### Miracle: Healing Word
-
-A creature of your choice that you can see within 60 feet regains hit points equal to 1d4 + your [Wisdom](pages/characters/attributes.md?id=wisdom).
-
-#### Miracle: Sacred Light
-
-A shaft of holy light breaks upon a creature that you can see within 60 feet. The target must succeed a [Cunning](pages/characters/attributes.md?id=cunning) [save](pages/rules/rolls?id=saves) or take 1d8 damage.
+Choose an archetype and gain it's features. The Wise archetypes include:**Sorcerer**.
 
 ## Sorcerer
 

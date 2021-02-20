@@ -5,6 +5,7 @@ The rules here are designed to be open and anyone is free to make their own hack
 This project has the following requirements:
 
   * [Node.js/NPM](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+  * [Butler](https://itch.io/docs/butler/installing.html)
 
 ## Run
 
@@ -21,6 +22,12 @@ Execute:
 
 ```sh
 $ npm run deploy
+```
+
+deploy to itch.io:
+
+```sh
+$ npm run itch:deploy
 ```
 
 ## Future Work

@@ -15,16 +15,22 @@
   "scripts": {
     "start": "docsify serve ./",
     "clean": "rm -rf dist",
-    "build": "rsync -av --progress --exclude dist/ --exclude node_modules/ --exclude .git --exclude .gitignore --include '.*' ./ dist/ && npm install --production",
+    "build": "rsync -av --progress --exclude dist/ --exclude .git --exclude .gitignore --exclude node_modules --include '.*' ./ dist/ && npm install --production  --no-optional --prefix dist && rm -rf dist/node_modules/prismjs",
     "predeploy": "npm run clean && npm run build",
-    "deploy": "gh-pages -d dist -b gh-pages -t"
+    "deploy": "gh-pages -d dist -b gh-pages -t",
+    "deploy:itch": "butler push dist/ grislyeye/three-meet:HTML"
   },
   "dependencies": {
-    "docsify": "^4.11.6",
-    "docsify-themeable": "^0.8.1"
+    "docsify": "^4.12.0",
+    "docsify-themeable": "^0.8.4",
+    "itch": "^0.2.2",
+    "prism": "^1.0.0"
   },
   "devDependencies": {
     "docsify-cli": "^4.4.2",
     "gh-pages": "^3.1.0"
+  },
+  "optionalDependencies": {
+    "prism": "^1.0.0"
   }
 }
