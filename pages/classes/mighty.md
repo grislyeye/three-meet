@@ -15,15 +15,3 @@ You have a limited well of stamina that you can draw on to protect yourself from
 ### Archetype
 
 Choose an archetype and gain it's features. The Mighty archetypes include: Defender.
-
-## Defender
-
-You fight to protect.
-
-| Level | Archetype Features |
-| ----  | ------------------ |
-| 1st   | Protection, Proficient: Intimidation         |
-
-### Protection
-
-When a creature you can see attacks a target other than you that is within 5 feet of you, you can impose disadvantage on the attack roll. You must be wielding a shield.
