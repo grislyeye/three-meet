@@ -12,6 +12,7 @@
   + [Rests](pages/rules/rests.md)
 + [Backgrounds](pages/backgrounds/index.md)
   + [Knave](pages/backgrounds/knave.md)
+  + [Sage](pages/backgrounds/sage.md)
 + [Classes](pages/classes/index.md)
   + [The Mighty](pages/classes/mighty.md)
   + [The Cunning](pages/classes/cunning.md)
