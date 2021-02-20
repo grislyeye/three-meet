@@ -11,6 +11,7 @@
   + [Proficiency](pages/rules/proficiency.md)
   + [Rests](pages/rules/rests.md)
 + [Backgrounds](pages/backgrounds/index.md)
+  + [Acolyte](pages/backgrounds/acolyte.md)
   + [Knave](pages/backgrounds/knave.md)
 + [Classes](pages/classes/index.md)
   + [The Mighty](pages/classes/mighty.md)
