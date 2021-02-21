@@ -26,4 +26,4 @@ You fight quick and dirty, preferring to use your fists and whatever else you ca
 
 ### Brawl
 
-You can roll a d6 + [Might](pages/characters/attributes.md?id=might) in place of the normal damage of your [unarmed strike](pages/combat/attacks?id=unarmed-strike). Additionally, on a successful hit with an unarmed strike you can use your [reaction](pages/combat/actions?id=reactions) to attempt to [grapple](pages/combat/attacks?id=grapple) the target.
+You can make a **Brawl Attack (Melee 1d6, Versatile 1d8)** when unarmed. If you successfully hit with your brawl attack you can use your [reaction](pages/combat/actions?id=reactions) to attempt to [grapple](pages/combat/attacks?id=grapple) or [shove](pages/combat/attacks?id=shove) the target.
