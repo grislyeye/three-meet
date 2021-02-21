@@ -6,11 +6,15 @@
 
 | Level | Proficiency | Class Features  |
 | ----  | ----------- |- |
-| 1st   | +2          | Archetype, Proficient: [Cunning](pages/characters/attributes.md?id=cunning) [saves](pages/rules/rolling.md?id=saves), Proficient: Any 1 Skill |
+| 1st   | +2          | Archetype, Expertise, Proficient: [Cunning](pages/characters/attributes.md?id=cunning) [saves](pages/rules/rolling.md?id=saves), Proficient: Any 1 Skill |
 
 ### Archetype
 
 Choose an archetype and gain it's features. The Cunning archetypes include: **Rogue**.
+
+### Expertise
+
+Choose two of your skill or tool proficiencies. Your proficiency bonus is doubled for [checks](pages/rules/rolling?id=checks) with these proficiencies.
 
 ## Rogue
 
