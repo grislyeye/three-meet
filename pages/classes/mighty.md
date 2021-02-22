@@ -10,7 +10,7 @@
 
 ### Archetype
 
-Choose an archetype and gain it's features. The Mighty archetypes include: **Berserker** and Defender.
+Choose an archetype and gain it's features. The Mighty archetypes include: **Berserker**.
 
 ### Surge
 
@@ -24,15 +24,15 @@ On your turn, you can regain [Health](pages/combat/health.md) equal to 1d10 + yo
 
 ## Berserker
 
-You fight with fury and without regard for your own safety. You push through the pain with pure rage.
+You fight with blind fury, without regard for your own safety.
 
 | Level | Archetype Features |
 | ----  | ------------------ |
-| 1st   | Unarmoured Defence, Surge: Rage, Proficient: Intimidation |
+| 1st   | Reckless Attack, Surge: Rage, Proficient: Intimidation |
 
-### Unarmoured Defence
+### Reckless Attack
 
-While you are not wearing armour, your Defence equals 10 + Cunning + Might.
+ When you make your first attack on your turn, you can decide to attack recklessly. Doing so gives you [advantage](pages/rules/advantage) on melee [attacks](pages/combat/attacks) during this turn, but attacks against you have advantage until your next turn.
 
 ### Surge: Rage
 
@@ -40,6 +40,5 @@ On your turn, you can use your surge to enter a rage as a bonus action. While ra
 
  + You have advantage on [Might](pages/attributes?id=might) [checks](pages/rules/rolling?id=checks) and [saves](pages/rules/rolling?id=saves).
  + When you make a melee [attack](pages/combat/attacks.md), you gain a +2 bonus to the damage roll.
- + You take half damage.
 
 Your rage lasts for 1 minute.
