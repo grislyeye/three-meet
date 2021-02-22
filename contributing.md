@@ -21,14 +21,18 @@ $ npm start
 Execute:
 
 ```sh
+$ git tag vX.X.X
+$ git push origin vX.X.X
 $ npm run deploy
 ```
 
-deploy to itch.io:
+Deploy to itch.io:
 
 ```sh
 $ npm run itch:deploy
 ```
+
+**Note:** Three Meet uses [semantic versioning](https://semver.org/).
 
 ## Future Work
 

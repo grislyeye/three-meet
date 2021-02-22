@@ -6,24 +6,15 @@
 
 | Level | Proficiency | Class Features  |
 | ----  | ----------- |- |
-| 1st   | +2          | Archetype, Proficient: [Cunning](pages/characters/attributes.md?id=cunning) [saves](pages/rules/rolling.md?id=saves), Proficient: Any 1 Skill |
+| 1st   | +2          | Archetype, Expertise, Proficient: [Cunning](pages/characters/attributes.md?id=cunning) [saves](pages/rules/rolling.md?id=saves), Proficient: Any 1 Skill |
 
 ### Archetype
 
-Choose an archetype and gain it's features. The Cunning archetypes include: Archer, and Rogue.
+Choose an archetype and gain it's features. The Cunning archetypes include: **Rogue**.
 
-## Archer
+### Expertise
 
-You are a skilled bowman, trained in bow and arrow. With a keen eye, you rarely miss your mark.
-
-| Level | Archetype Features |
-| ----  | ------------------ |
-| 1st   | Archery, Proficient: Perception            |
-
-### Archery
-
-You gain a +2 bonus to attack rolls you make with ranged weapons.
-
+Choose two of your skill or tool proficiencies. Your proficiency bonus is doubled for [checks](pages/rules/rolling?id=checks) with these proficiencies.
 
 ## Rogue
 

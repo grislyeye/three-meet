@@ -43,15 +43,3 @@ On your turn, you can use your surge to enter a rage as a bonus action. While ra
  + You take half damage.
 
 Your rage lasts for 1 minute.
-
-## Defender
-
-You fight to protect.
-
-| Level | Archetype Features |
-| ----  | ------------------ |
-| 1st   | Protection, Proficient: Intimidation         |
-
-### Protection
-
-When a creature you can see attacks a target other than you that is within 5 feet of you, you can impose disadvantage on the attack roll. You must be wielding a shield.
