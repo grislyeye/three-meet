@@ -22,8 +22,12 @@ You fight quick and dirty, preferring to use your fists and whatever else you ca
 
 | Level | Archetype Features |
 | ----  | ------------------ |
-| 1st   | Brawl, Proficient: Intimidation |
+| 1st   | Brawl, Surge: Flurry of Blows, Proficient: Intimidation |
 
 ### Brawl
 
 You can make a **Brawl Attack (Melee 1d6, Versatile 1d8)** when unarmed. If you successfully hit with your brawl attack you can use your [bonus action](pages/combat/actions?id=bonus-actions) to attempt to [grapple](pages/combat/attacks?id=grapple) or [shove](pages/combat/attacks?id=shove) the target.
+
+### Surge: Flurry of Blows
+
+Immediately after you [attack](pages/combat/attacks) on your turn, you can make two brawl attacks as a [bonus action](pages/combat/actions?id=bonus-actions).
