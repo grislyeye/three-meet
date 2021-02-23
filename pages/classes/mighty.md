@@ -6,11 +6,17 @@
 
 | Level | Proficiency | Class Features  |
 | ----  | ----------- |- |
-| 1st   | +2          | Archetype, Second Wind, Proficient: [Might](pages/characters/attributes.md?id=might) [saves](rules/rolling.md?id=saves), Proficient: Athletics |
+| 1st   | +2          | Archetype, Surge, Proficient: [Might](pages/characters/attributes.md?id=might) [saves](rules/rolling.md?id=saves), Proficient: Athletics |
 
-### Second Wind
+### Surge
 
-You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can regain Health equal to 1d10 + your level. Once you use this feature, you must finish a rest before you can use it again.
+You have a limited well of stamina that you can draw on to fuel feats of strength. You start with two such surge effects: Second Wind and an effect determined by your archetype.
+
+When you use your Surge, you choose which surge effect to use. You must then finish a rest to use your Surge again.
+
+#### Surge: Second Wind
+
+On your turn, you can regain [Health](pages/combat/health.md) equal to 1d10 + your level.
 
 ### Archetype
 
