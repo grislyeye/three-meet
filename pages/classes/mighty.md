@@ -20,7 +20,7 @@ On your turn, you can regain [Health](pages/combat/health.md) equal to 1d10 + yo
 
 ### Archetype
 
-Choose an archetype and gain it's features. The Mighty archetypes include: **Brawler**.
+Choose an archetype and gain its features. The Mighty archetypes include: **Brawler**.
 
 ## Brawler
 
