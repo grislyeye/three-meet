@@ -14,7 +14,7 @@ You also gain advantage on Persuasion [checks](pages/rules/rolling.md?id=checks)
 
 ### Speciality
 
-You specialised in a particular criminal enterprise. Choose a speciality and gain it's features. Knave specialities include: Burglar.
+You specialised in a particular criminal enterprise. Choose a speciality and gain it's features. Knave specialities include: **Burglar** and **Ragamuffin**.
 
 ## Burglar
 
@@ -25,3 +25,15 @@ You specialised in a particular criminal enterprise. Choose a speciality and gai
 ### Second-Story Work
 
 You gain the ability to climb twice as fast. When you make a running jump double the distance you can cover.
+
+## Ragamuffin
+
+You grew up running the city streets, playing games, stealing food, dodging the watch, scrapping and generally running amok. You survived, despite the odds, by making yourself useful to the local
+
+| Level             | Speciality Features    |
+| ----------------- | - |
+| 1st               | Proficient: Deception, Street Wise |
+
+### Street Wise
+
+You're not just off the streets, you *are* the streets. Whenever you make a [check](pages/rules/rolling?id=checks) related to city streets you have [advantage](pages/rules/advantage.md). This includes exploration, finding information, general awareness, or hiding.
