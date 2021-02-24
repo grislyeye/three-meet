@@ -36,4 +36,4 @@ You grew up running the city streets, playing games, stealing food, dodging the 
 
 ### Street Wise
 
-You're not just off the streets, you *are* the streets. Whenever you make a [check](pages/rules/rolling?id=checks) related to city streets you have [advantage](pages/rules/advantage.md). This includes exploration, finding information, general awareness, or hiding.
+You're not just off the streets, you *are* the streets. You, and anyone accompanying you, move twice as fast through city streets.
