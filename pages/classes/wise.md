@@ -6,7 +6,7 @@
 
 | Level | Proficiency | Class Features  |
 | ----  | ----------- |- |
-| 1st   | +2          | Archetype, Proficient: Insight, Proficient: [Cunning](pages/characters/attributes.md?id=cunning) [saves](pages/rules/rolling.md?id=saves), Proficient: All weapons, shields and armour |
+| 1st   | +2          | Archetype, Proficient: Insight, Proficient: [Cunning](pages/characters/attributes.md?id=cunning) [saves](pages/rules/rolling.md?id=saves) |
 
 ### Archetype
 
