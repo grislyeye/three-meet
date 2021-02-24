@@ -28,7 +28,7 @@ You gain the ability to climb twice as fast. When you make a running jump double
 
 ## Ragamuffin
 
-You grew up running the city streets, playing games, stealing food, dodging the watch, scrapping and generally running amok. You survived, despite the odds, by making yourself useful to the local
+You grew up running the city streets, playing games, stealing food, dodging the watch, scrapping and generally running amok. You survived, despite the odds, through your wits and by making yourself useful to the local criminal elements.
 
 | Level             | Speciality Features    |
 | ----------------- | - |
