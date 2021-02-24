@@ -1,17 +1,19 @@
 .content h1 {
+  font-family: 'Alegreya', serif;
   color: white;
-  font-size: 80px;
+  font-size: 72px;
 }
 
 .content h2 {
-  font-size: 35px;
+  font-family: 'Alegreya', serif;
+  font-size: 48px;
   width: 100%;
-  border-bottom: 1px solid;
   margin-top: 1.5em;
 }
 
 .content h3 {
-  font-size: 25px;
+  font-family: 'Alegreya', serif;
+  font-size: 32px;
   margin-top: 1.5em;
   margin-bottom: 0.5em;
 }
@@ -21,10 +23,40 @@
 }
 
 .content h4 {
+  font-family: 'Alegreya', serif;
   margin-bottom: 0.5em;
   font-style: italic;
+  font-variant: small-caps;
 }
 
 .content h4 + * {
   margin-top: 0.5em;
+}
+
+.content header {
+  margin-bottom: 0;
+}
+
+.content header h1,
+.content header h2,
+.content header h3,
+.content header h4 {
+  margin-bottom: 0;
+}
+
+.content header .subheading {
+  font-family: 'Alegreya Sans SC', serif;
+  margin-top: 0;
+}
+
+.content header h1 + p.subheading {
+  margin-bottom: 3em;
+}
+
+.content header h2 + p.subheading {
+  font-size: 0.8em;
+}
+
+.content header h3 + p.subheading {
+  font-size: 0.7em;
 }
