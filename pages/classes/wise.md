@@ -10,7 +10,15 @@
 
 ### Archetype
 
-Choose an archetype and gain its features. The Wise archetypes include:**Sorcerer**.
+Choose an archetype and gain its features. The Wise archetypes include: **Commander** and **Sorcerer**.
+
+## Commander
+
+Not all can fight, some must command. You are a leader, a tactician. Issuing orders and inspiriting greatness in others.
+
+| Level | Archetype Features |
+| ----  | - |
+| 1st   | Rally, Command, Proficient: Heavy Armour |
 
 ## Sorcerer
 
