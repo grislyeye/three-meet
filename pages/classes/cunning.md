@@ -10,7 +10,7 @@
 
 ### Archetype
 
-Choose an archetype and gain it's features. The Cunning archetypes include: **Rogue**.
+Choose an archetype and gain its features. The Cunning archetypes include: **Rogue**.
 
 ### Expertise
 

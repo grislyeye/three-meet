@@ -14,4 +14,4 @@ You have a limited well of stamina that you can draw on to protect yourself from
 
 ### Archetype
 
-Choose an archetype and gain it's features. The Mighty archetypes include: Defender.
+Choose an archetype and gain its features. The Mighty archetypes include: Defender.

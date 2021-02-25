@@ -10,7 +10,7 @@
 
 ### Archetype
 
-Choose an archetype and gain it's features. The Wise archetypes include:**Sorcerer**.
+Choose an archetype and gain its features. The Wise archetypes include:**Sorcerer**.
 
 ## Sorcerer
 

@@ -1,6 +1,6 @@
 # Attacks
 
-You cam make one melee or ranged attack per turn. When you make an attack:
+You can make one melee or ranged attack per turn. When you make an attack:
 
  1. Choose a target
  2. Determine [advantage/disadvantage](pages/rules/advantage.md) and any bonuses or penalties:

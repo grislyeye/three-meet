@@ -14,7 +14,7 @@ You also gain advantage on Persuasion [checks](pages/rules/rolling.md?id=checks)
 
 ### Speciality
 
-You specialised in a particular criminal enterprise. Choose a speciality and gain it's features. Knave specialities include: Burglar.
+You specialised in a particular criminal enterprise. Choose a speciality and gain its features. Knave specialities include: Burglar.
 
 ## Burglar
 
