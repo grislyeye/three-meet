@@ -26,7 +26,7 @@ You gain a +2 bonus to attack rolls you make with ranged weapons.
 
 ### Aim
 
-You can use an action to line-up your shot. On your next ranged attack you gain advantage and deal an extra 1d10 damage.
+You can use a bonus action to line-up your shot on a particular target. Choose a creature you can see within range and mark it. For 1 minute you have advantage on attacks against the target and deal an extra 1d6 damage to the target whenever you hit it with a ranged attack.
 
 ## Rogue
 
