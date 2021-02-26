@@ -18,12 +18,15 @@ You are a skilled bowman, trained in bow and arrow. With a keen eye, you rarely 
 
 | Level | Archetype Features |
 | ----  | ------------------ |
-| 1st   | Archery, Proficient: Perception            |
+| 1st   | Archery, Aim, Proficient: Perception            |
 
 ### Archery
 
 You gain a +2 bonus to attack rolls you make with ranged weapons.
 
+### Aim
+
+You can use an action to line-up your shot. On your next ranged attack you gain advantage and deal an extra 1d10 damage.
 
 ## Rogue
 
