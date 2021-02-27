@@ -38,7 +38,7 @@ You fight with blind fury, without regard for your own safety.
 
 On your turn, you can use your surge to enter a rage as a bonus action. While raging, you gain the following benefits:
 
- + You have advantage on [Might](pages/attributes?id=might) [checks](pages/rules/rolling?id=checks) and [saves](pages/rules/rolling?id=saves).
+ + You have advantage on [Might](pages/characters/attributes/might.md) [checks](pages/rules/rolling.md?id=checks) and [saves](pages/rules/rolling.md?id=saves).
  + When you make a melee [attack](pages/combat/attacks.md), you gain a +2 bonus to the damage roll.
 
 Your rage lasts for 1 minute.
