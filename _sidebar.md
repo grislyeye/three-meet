@@ -1,5 +1,4 @@
 + Characters
-  + [Creating Characters](pages/characters/creating.md)
   + [Attributes](pages/characters/attributes.md)
     + [Might](pages/characters/attributes/might.md)
     + [Cunning](pages/characters/attributes/cunning.md)
