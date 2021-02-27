@@ -26,7 +26,7 @@
 
 </header>
 
-Choose an archetype and gain its features. The Cunning archetypes include: **Rogue**.
+Choose an archetype and gain its features. The Cunning archetypes include: **Sneak**.
 
 <header>
 
@@ -40,13 +40,13 @@ Choose two of your skill or tool proficiencies. Your proficiency bonus is double
 
 <header>
 
-## Rogue
+## Sneak
 
 <p class="subheading">Archetype</p>
 
 </header>
 
-You play fast and dirty, hiding in shadows and darting out to attack.
+You play fast and deadly, hiding in shadows and darting out to attack.
 
 | Level | Features |
 | ----  | - |
