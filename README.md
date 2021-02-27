@@ -2,7 +2,7 @@
 
 # Three Meet
 
-<p class="subheading">A low-fantasy 5E hack</p>
+<p class="subheading">A low-fantasy 5E hack for dark times</p>
 
 </header>
 
