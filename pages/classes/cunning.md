@@ -24,10 +24,6 @@ You are a skilled bowman, trained in bow and arrow. With a keen eye, you rarely 
 | ----  | ------------------ |
 | 1st   | Archery, Aim, Proficient: Perception            |
 
-### Archery
-
-You gain a +2 bonus to attack rolls you make with ranged weapons.
-
 ### Aim
 
 You can use a bonus action to line-up your shot on a particular target. Choose a creature you can see within range and mark it. For 1 minute you don't need advantage on your **cunning attack** for ranged attacks against the marked target, if you don't have disadvantage on your attack.
