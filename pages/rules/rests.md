@@ -1,4 +1,10 @@
+<header>
+
 # Rests
+
+<p class="subheading">Attribute</p>
+
+</header>
 
 The world is a trying place, and adventurers easily become weary. They need rest–time to sleep and eat, tend their wounds, refresh their minds and spirits.
 

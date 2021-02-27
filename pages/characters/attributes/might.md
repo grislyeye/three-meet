@@ -1,4 +1,10 @@
+<header>
+
 # Might
+
+<p class="subheading">Attribute</p>
+
+</header>
 
 **Might** is a measure of your raw strength, endurance, and vital force.
 

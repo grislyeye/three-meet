@@ -1,4 +1,10 @@
+<header>
+
 # Proficiency
+
+<p class="subheading">Rule</p>
+
+</header>
 
 **Proficiency** is a bonus representing your growing expertise.
 

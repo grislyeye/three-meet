@@ -1,4 +1,10 @@
+<header>
+
 # Attributes
+
+<p class="subheading">Rule</p>
+
+</header>
 
 All creatures are described by 3 attributes representing their physical and mental characteristics: [Might](pages/characters/attributes/might.md), [Cunning](pages/characters/attributes/cunning.md) and [Wisdom](pages/characters/attributes/wisdom.md).
 

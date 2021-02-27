@@ -60,3 +60,7 @@
 .content header h3 + p.subheading {
   font-size: 0.7em;
 }
+
+.content header h4 + p.subheading {
+  font-size: 0.7em;
+}

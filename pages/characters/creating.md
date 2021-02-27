@@ -1,4 +1,10 @@
+<header>
+
 # Creating Characters
+
+<p class="subheading">Rule</p>
+
+</header>
 
 To create your character fill out the [character sheet](https://github.com/grislyeye/three-meet-char-sheet/releases/download/v0.0.1/three-meet-char-sheet-0.0.1.pdf) using these steps:
 

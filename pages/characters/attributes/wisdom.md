@@ -1,4 +1,10 @@
+<header>
+
 # Wisdom
+
+<p class="subheading">Attribute</p>
+
+</header>
 
 **Wisdom** is a measure of your speed, agility, perceptiveness and guile.
 

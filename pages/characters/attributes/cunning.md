@@ -1,4 +1,10 @@
+<header>
+
 # Cunning
+
+<p class="subheading">Attribute</p>
+
+</header>
 
 **Cunning** is a measure of your speed, agility, perceptiveness and guile.
 

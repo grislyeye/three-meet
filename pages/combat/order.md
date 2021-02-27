@@ -1,4 +1,10 @@
+<header>
+
 # Order of Combat
+
+<p class="subheading">Rule</p>
+
+</header>
 
 A typical combat encounter is a clash between two sides, a flurry of weapon swings, feints, parries, footwork, and spellcasting.
 
@@ -16,7 +22,13 @@ The order of combat is as follows:
  4. When everyone has had a turn, the round ends
  5. Repeat step 3 until fighting stops
 
+<header>
+
 ## Initiative
+
+<p class="subheading">Rule</p>
+
+</header>
 
 **Initiative** determines the order of turns during combat:
 
