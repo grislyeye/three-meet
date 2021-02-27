@@ -6,5 +6,11 @@
 
 </header>
 
-To play pick a GM, [create your character](pages/characters/creating.md), choose a [background](pages/backgrounds/index.md) and [class](pages/classes/index.md), read the [basic](pages/rules/rolling.md) and [combat rules](pages/combat/order.md), and you're ready to play.
+To start playing **Three Meet**:
 
+### 1. Prepare
+
+  + Pick a player to be gamesmaster
+  + Print some [character sheets](https://github.com/grislyeye/three-meet-char-sheet/releases/download/v0.0.1/three-meet-char-sheet-0.0.1.pdf)
+
+[![Grisly Eye Games](assets/images/grisly-eye-games-logo.png)](https://grislyeye.com)

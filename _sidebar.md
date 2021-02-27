@@ -22,7 +22,6 @@
   + [Attacks](pages/combat/attacks.md)
   + [Health](pages/combat/health.md)
 + Colophon
-  + [Links](links.md)
   + [Design Notes](design-notes.md)
   + [Contributing](contributing.md)
   + [License](license.md)
