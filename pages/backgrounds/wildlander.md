@@ -26,7 +26,7 @@ Choose a speciality and gain it's features. Soldier specialities include: **Hunt
 
 ### Starting
 
-**Proficiencies:** Nature
+**Proficiencies:** Perception
 
 ### Hunting
 
@@ -34,12 +34,16 @@ As a bonus action you can mark a single creature as your prey. You must succeed 
 
 ## Ranger
 
+Wanderers, guides and protectors of the wilds.
+
 | Level             | Features    |
 | ----------------- | - |
-| 1st               | Nature Explorer |
+| 1st               | Wanderer |
 
 ### Starting
 
-**Proficiencies:** Perception (or Investigation?)
+**Proficiencies:** Investigation
 
-### Nature Explorer
+### Wanderer
+
+You, and anyone else who accompanies you, can ignore non-magical difficult terrain when exploring the wilderness.
