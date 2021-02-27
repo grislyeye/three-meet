@@ -16,7 +16,7 @@ The game organizes the chaos of combat into a cycle of rounds and turns:
 The order of combat is as follows:
 
  1. Establish where all the characters and monsters are located
- 2. Roll [initiative](pages/combat/order.md?od=initiative) to determine the order of combatants' turns.
+ 2. Roll [initiative](pages/combat/order.md?id=initiative) to determine the order of combatants' turns.
  3. Each participant takes a turn in initiative order
  4. On your turn you can take one [move](pages/combat/moves.md) and one [attack](pages/combat/attacks.md)
  4. When everyone has had a turn, the round ends
