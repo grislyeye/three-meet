@@ -36,7 +36,7 @@ Choose an archetype and gain its features. The Cunning archetypes include: **Sne
 
 </header>
 
-Choose two of your skill or tool proficiencies. Your proficiency bonus is doubled for [checks](pages/rules/rolling?id=checks) with these proficiencies.
+Choose two of your skill or tool proficiencies. Your proficiency bonus is doubled for [checks](pages/rules/rolling.md?id=checks) with these proficiencies.
 
 <header>
 
