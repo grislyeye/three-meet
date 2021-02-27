@@ -26,4 +26,4 @@
   + [Design Notes](design-notes.md)
   + [Contributing](contributing.md)
   + [License](license.md)
-  + [Thanks](thanks.md)
+  + [Credits](credits.md)

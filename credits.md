@@ -1,4 +1,8 @@
-# Thanks
+# Credits
+
+Writing, game design and Layout by [R.G. Wood](https://grislyeye.com).
+
+## Thanks
 
 I'd like to give thanks to everyone who contributed to the 5E rules over the yeras (Jeremy Crawford, Chris Perkins, Rodney Thompson, Peter Lee, James Wyatt, Robert J. Schwalb, Bruce R. Cordell, Chris Sims, and Steve Townshend, based on original material by E. Gary Gygax and Dave Arneson).
 
