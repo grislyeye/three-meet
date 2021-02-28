@@ -16,7 +16,21 @@ Choose one type of favoured terrain: arctic, coast, desert, forest, grassland, m
 
 ### Speciality
 
-Choose a speciality and gain it's features. Soldier specialities include: **Hunter** and **Ranger**.
+Choose a speciality and gain it's features. Soldier specialities include: **Cunning Folk**, **Hunter** and **Ranger**.
+
+## Cunning Folk
+
+You are a healer, a hedge practitioner of forgotten arts who dwells away from civilisation, searching the wilds for rare herbs.
+
+## Hunter
+
+| Level             | Features    |
+| ----------------- | - |
+| 1st               | ??? |
+
+### Starting
+
+**Proficiencies:** Medicine
 
 ## Hunter
 
