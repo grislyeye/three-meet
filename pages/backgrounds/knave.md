@@ -32,9 +32,7 @@ You also gain advantage on Persuasion [checks](pages/rules/rolling.md?id=checks)
 
 </header>
 
-You specialised in a particular criminal enterprise. Choose a speciality and gain its features. Knave specialities include: Burglar.
-
-<header>
+You specialised in a particular criminal enterprise. Choose a speciality and gain its features. Knave specialities include: **Burglar** and **Mountebank**.
 
 <header>
 
@@ -57,3 +55,25 @@ You specialised in a particular criminal enterprise. Choose a speciality and gai
 </header>
 
 You gain the ability to climb twice as fast. When you make a running jump double the distance you can cover.
+
+<header>
+
+## Mountebank
+
+<p class="subheading">Speciality</p>
+
+</header>
+
+| Level             | Features    |
+| ----------------- | - |
+| 1st               | Proficient: Deception, Flummox |
+
+<header>
+
+### Flummox
+
+<p class="subheading">1st-level Mountebank speciality feature</p>
+
+</header>
+
+You excel at fast-talking gullible marks, leaving them confused and susceptible to deception. On a successful Cunning (Deception) check you can confuse and befuddle one non-hostile creature. For 10 minutes you and your allies have [advantage](pages/rules/advantage.md) on all Cunning (Deception and Persuasion) checks against the target. The mark realizes they've been lied to when the effect ends, you fail a Deception check, or you attack them. You must [rest](pages/rules/rests.md) before you can use this feature again.
