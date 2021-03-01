@@ -2,7 +2,7 @@
 
 # Rests
 
-<p class="subheading">Attribute</p>
+<p class="subheading">Rule</p>
 
 </header>
 
