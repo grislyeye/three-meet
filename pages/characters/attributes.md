@@ -6,12 +6,38 @@
 
 </header>
 
-All creatures are described by 3 attributes representing their physical and mental characteristics: [Might](pages/characters/attributes/might.md), [Cunning](pages/characters/attributes/cunning.md) and [Wisdom](pages/characters/attributes/wisdom.md).
+All creatures are described by 3 **attributes** representing their physical and mental characteristics:
 
-Attributes follow these rules:
+<section class="small summaries">
 
- * The are rated from -5 to +8
- * A rating of 0 is average
- * Most creatures are within the -2 to +4 range
+<section class="summary">
 
-Ability scores are used for [checks, attacks and saves](pages/rules/rolling.md).
+### [Might](pages/characters/attributes/might.md)
+
+Strength, stamina, fitness, vitality, and combat prowess.
+
+</section>
+
+<section class="summary">
+
+### [Cunning](pages/characters/attributes/cunning.md)
+
+Wits, agility, dexterousness, charm, perceptiveness, and guile.
+
+</section>
+
+<section class="summary">
+
+### [Wisdom](pages/characters/attributes/wisdom.md)
+
+Intelligence, intuition, knowledge, spirituality, and ingeniousness.
+
+</section>
+</section>
+
+**Attributes** are:
+
+ * Used for [checks, attacks and saves](pages/rules/rolling.md)
+ * Rated from -5 to +8
+ * 0 is average
+ * -2 to +4 is the range for most characters
