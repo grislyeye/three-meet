@@ -51,5 +51,3 @@ To start playing:
 </section>
 
 </section>
-
-[![Grisly Eye Games](assets/images/grisly-eye-games-logo.png)](https://grislyeye.com)

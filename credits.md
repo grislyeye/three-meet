@@ -1,6 +1,12 @@
+<header>
+
+[![By Grisly Eye Games](assets/images/grisly-eye-games-logo.png)](https://grislyeye.com)
+
 # Credits
 
-Writing, game design and Layout by [R.G. Wood](https://grislyeye.com).
+</header>
+
+Writing, game design and layout by [R.G. Wood](https://grislyeye.com).
 
 ## Thanks
 
