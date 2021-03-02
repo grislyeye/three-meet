@@ -28,7 +28,7 @@ To start playing:
   + Assign one of +2, 0 and -1 to each of your [attributes](pages/characters/attributes.md)
   + Choose a [background](pages/backgrounds/index.md)
   + Choose a [class](pages/classes/index.md)
-  + Describe your [character](pages/characters.md)
+  + Describe your [character](pages/characters/describing.md)
 
 </section>
 

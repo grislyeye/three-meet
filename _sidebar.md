@@ -1,6 +1,7 @@
 + Characters
   + [Attributes](pages/characters/attributes.md)
   + [Skills](pages/characters/skills.md)
+  + [Describing](pages/characters/describing.md)
 + [Backgrounds](pages/backgrounds/index.md)
   + [Knave](pages/backgrounds/knave.md)
 + [Classes](pages/classes/index.md)
