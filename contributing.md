@@ -2,6 +2,8 @@
 
 The rules here are designed to be open and anyone is free to make their own hacks. You can get involved, propose changes or copy the rules on [Github](https://github.com/grislyeye/three-meet). See the [license](license.md) for more information.
 
+Contributions should follow the high-level goals in the [design notes](design-notes.md).
+
 You can [report issues](https://github.com/grislyeye/three-meet/issues/new) and get involved in design on our [Github page](https://github.com/grislyeye/three-meet).
 
 Related projects include:
