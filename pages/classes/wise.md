@@ -8,13 +8,13 @@
 
 | Level | Proficiency | Class Features  |
 | ----  | ----------- |- |
-| 1st   | +2          | Archetype, Proficient: Insight, Proficient: [Wise](pages/characters/attributes.md?id=wise) [saves](pages/rules/rolling.md?id=saves) |
+| 1st   | +2          | Archetype, Proficient: Insight, Proficient: [Wisdom](pages/characters/attributes.md?id=wise) [saves](pages/rules/rolling.md?id=saves) |
 
 ### Starting Stats
 
 **Starting Health:** 6 + [Might](pages/characters/attributes.md?id=might)
 
-**Proficiencies:** Insight, [Wise](pages/characters/attributes.md?id=wise) [saves](rules/rolling.md?id=saves)
+**Proficiencies:** Insight, [Wisdom](pages/characters/attributes.md?id=wise) [saves](rules/rolling.md?id=saves)
 
 **Starting Equipment:** Quarterstaff (1d6)
 
