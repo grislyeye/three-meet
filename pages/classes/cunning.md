@@ -42,7 +42,7 @@ Choose two of your skill or tool proficiencies. Your proficiency bonus is double
 
 ## Sneak
 
-<p class="subheading">Archetype</p>
+<p class="subheading">Cunning archetype</p>
 
 </header>
 
