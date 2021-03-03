@@ -40,6 +40,47 @@ Choose two of your skill or tool proficiencies. Your proficiency bonus is double
 
 <header>
 
+## Enchanter
+
+<p class="subheading">Cunning archetype</p>
+
+</header>
+
+| Level | Features |
+| ----  | - |
+| 1st   | Enchant |
+
+<header>
+
+### Enchant
+
+<p class="subheading">1st-level Enchanter feature</p>
+
+</header>
+
+<header>
+
+#### Charm
+
+<p class="subheading">1st-level Enchanter spell</p>
+
+</header>
+
+You attempt to charm a target you can see within range. It must make a [Wisdom](pages/characters/attributes.md?id=wisdom) [save](pages/rules/rolling.md?id=saves). It does so with advantage if you or your allies are fighting it. If it fails the saving throw, it can't attack you and you have advantage on any social [check](pages/rules/rolling.md?id=checks) with it. When the spell ends, the target knows it was charmed by you.
+
+<header>
+
+#### Sleep
+
+<p class="subheading">1st-level Enchanter spell</p>
+
+</header>
+
+You make your opponents fall asleep for 1 minute. Roll 5d8. You can target a number of creatures within 90 feet of you whose total [Health](pages/combat/health.md) are equal to or lower than this result.
+
+<header>
+
+
 ## Sneak
 
 <p class="subheading">Cunning archetype</p>
