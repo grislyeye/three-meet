@@ -60,7 +60,7 @@ You command dark forces to afflict an enemy within range that you can see. Make 
 
 ### Sorcery
 
-<p class="subheading">Class</p>
+<p class="subheading">1st-level Sorcerer archetype feature</p>
 
 </header>
 
