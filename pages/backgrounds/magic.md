@@ -49,4 +49,4 @@ Pick a magical gift from below.
 
 </header>
 
-This gleaming onyx bracelet cannot be removed. It allows you to hear and commands the... things that linger beyond the shadows. While you're wearing it you have **Darkvision**.
+This gleaming onyx bracelet cannot be removed. It allows you to hear and commands the... things that linger beyond the shadows. While wearing it you have **Darkvision**.
