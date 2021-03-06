@@ -32,7 +32,7 @@ Choose an archetype and gain its features. The Wise archetypes include:**Sorcere
 
 ## Sorcerer
 
-<p class="subheading">Wise archetype</p>
+<p class="subheading">Magical Wise archetype</p>
 
 </header>
 
