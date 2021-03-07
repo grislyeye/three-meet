@@ -41,12 +41,14 @@ Through your gift you can tap into mystic powers or communicate with spirits. Yo
 
 Pick a magical gift from below.
 
-<header>
+<section class="summaries">
+
+<section class="summary">
 
 #### Bracelet of Shadows
 
-<p class="subheading">Magical Gift</p>
+This gleaming onyx bracelet cannot be removed. It allows you to hear and command the... things that linger beyond the shadows. While wearing it you have **Darkvision**.
 
-</header>
+</section>
 
-This gleaming onyx bracelet cannot be removed. It allows you to hear and commands the... things that linger beyond the shadows. While wearing it you have **Darkvision**.
+</section>
