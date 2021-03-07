@@ -51,4 +51,12 @@ This gleaming onyx bracelet cannot be removed. It allows you to hear and command
 
 </section>
 
+<section class="summary">
+
+#### Whistler's Knack
+
+You are [proficient](pages/rules/proficiency.md) in curious tune only you can whistle. Pick one [skill](pages/characters/skills.md), or [tool](pages/equipment/tools.md). You can whistle your tune instead of using this skill or tool.
+
+</section>
+
 </section>
