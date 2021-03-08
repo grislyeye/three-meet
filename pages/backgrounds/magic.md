@@ -6,6 +6,8 @@
 
 </header>
 
+If the GM allows you can choose a **magic speciality** instead of one of the specialities from your chosen [background](pages/backgrounds/index.md).
+
 <header>
 
 ## Gift Bearer
