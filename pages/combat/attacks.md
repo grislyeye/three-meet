@@ -27,6 +27,7 @@ Attacks are described by a number of **tags** listed in parenthesis after it's n
 | Melee     | Melee attack damage
 | Ranged    | Ranged attack damage
 | Light     | You can add your [Cunning](pages/characters/attributes.md?id=cunning) instead of [Might](pages/characters/attributes.md?id=might) to melee damage, and attack rolls.
+| Spell     | You can add your [Wisdom](pages/characters/attributes.md?id=wisdom) instead of [Might](pages/characters/attributes.md?id=might), or [Cunning](pages/characters/attributes.md?id=cunning) to attack rolls. You do not add an [Attribute](pages/characters/attributes.md) to your damage.
 | Versatile | You can use this damage if the attack is made with two hands.
 
 <header>

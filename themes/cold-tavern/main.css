@@ -9,6 +9,7 @@
 @import '_lists.css';
 @import '_example-roll.css';
 @import '_summaries.css';
+@import '_spells.css';
 
 * {
   --theme-color: white;
