@@ -36,4 +36,4 @@ You grew up running the city streets, playing games, stealing food, dodging the 
 
 ### Street Wise
 
-You're not just off the streets, you *are* the streets. You, and anyone accompanying you, move twice as fast through city streets.
+You can add double your proficiency bonus to any [Wisdom](pages/characters/attributes/wisdom.md) [check](pages/rules/rolling?id=checks) related to cities.
