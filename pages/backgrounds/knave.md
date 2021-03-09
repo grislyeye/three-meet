@@ -30,7 +30,7 @@ You know thieves’ cant, a secret code of dialect, hand-signs, jargon, ciphers,
 
 </header>
 
-You specialised in a particular criminal enterprise. Choose a speciality and gain its features. Knave specialities include: Burglar.
+You specialised in a particular criminal enterprise. Choose a speciality and gain its features. Knave specialities include:  **Burglar** and **Ragamuffin**.
 
 <header>
 
@@ -55,3 +55,15 @@ You specialised in a particular criminal enterprise. Choose a speciality and gai
 </header>
 
 You gain the ability to climb twice as fast. When you make a running jump double the distance you can cover.
+
+## Ragamuffin
+
+You grew up running the city streets, playing games, stealing food, dodging the watch, scrapping and generally running amok. You survived, despite the odds, through your wits and by making yourself useful to the local criminal elements.
+
+| Level             | Speciality Features    |
+| ----------------- | - |
+| 1st               | Proficient: Deception, Street Wise |
+
+### Street Wise
+
+You can add double your proficiency bonus to any [Wisdom](pages/characters/attributes/wisdom.md) [check](pages/rules/rolling?id=checks) related to cities.
