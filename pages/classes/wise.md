@@ -1,42 +1,98 @@
+<header>
+
 # The Wise
 
-**Starting Health:** 6 + [Might](pages/characters/attributes.md?id=might)
+<p class="subheading">Class</p>
 
-**Starting Equipment:** Quarterstaff (1d6)
+</header>
 
 | Level | Proficiency | Class Features  |
 | ----  | ----------- |- |
-| 1st   | +2          | Archetype, Proficient: Insight, Proficient: [Cunning](pages/characters/attributes.md?id=cunning) [saves](pages/rules/rolling.md?id=saves), Proficient: All weapons, shields and armour |
+| 1st   | +2          | Archetype, Proficient: Insight, Proficient: [Wisdom](pages/characters/attributes.md?id=wisdom) [saves](pages/rules/rolling.md?id=saves) |
+
+### Starting Stats
+
+**Starting Health:** 6 + [Might](pages/characters/attributes.md?id=might)
+
+**Proficiencies:** Insight, [Wisdom](pages/characters/attributes.md?id=wisdom) [saves](rules/rolling.md?id=saves)
+
+**Starting Equipment:** Quarterstaff (1d6)
+
+<header>
 
 ### Archetype
 
-Choose an archetype and gain it's features. The Wise archetypes include:**Sorcerer**.
+<p class="subheading">1st-level Wise class feature</p>
+
+</header>
+
+Choose an archetype and gain its features. The Wise archetypes include:**Sorcerer**.
+
+<header>
 
 ## Sorcerer
+
+<p class="subheading">Wise archetype</p>
+
+</header>
 
 You are a practitioner of forbidden, arcane arts.
 
 | Level | Archetype Features |
 | ----  | - |
-| 1st   | Sorcery, Stricken, Proficient: Arcana |
+| 1st   | Sorcery, Stricken |
+
+<header>
+
+### Starting Stats
+
+**Proficiencies:** Arcana
 
 ### Stricken
 
+<p class="subheading">1st-level Sorcerer archetype feature</p>
+
+</header>
+
 You command dark forces to afflict an enemy within range that you can see. Make a ranged [spell attack](pages/combat/attacks.md?id=spell-attacks) against a target within 120 ft. On a hit, the target takes 1d10 damage.
+
+<header>
 
 ### Sorcery
 
+<p class="subheading">1st-level Sorcerer archetype feature</p>
+
+</header>
+
 You have knowledge of magical spells and command arcane forces. You can cast one of the spells below once per rest. Each spell takes an action to cast.
 
-#### Spell: Baleful Touch
+<header>
+
+#### Baleful Touch
+
+<p class="subheading">1st-level Sorcerer spell</p>
+
+</header>
 
 You channel baleful energies through your body that withers the flesh of those it comes into contact with. Make a melee [spell attack](pages/combat/attacks.md?id=spell-attacks) against a target. On a hit, the target takes 3d10 damage.
 
-#### Spell: Dark Whispers
+<header>
+
+#### Dark Whispers
+
+<p class="subheading">1st-level Sorcerer spell</p>
+
+</header>
 
 You summon dark spirits that whisper in the ear of a creature of your choice that you can see. The target must succeed on a [Wisdom](pages/characters/attributes.md?id=wisdom) [save](pages/rules/rolling.md?id=saves) or take 3d6 damage
 
-#### Spell: Minor Enchantment
+<header>
+
+#### Minor Enchantment
+
+<p class="subheading">1st-level Sorcerer spell</p>
+
+</header>
 
 You intone unspeakable words that trigger command impulses in your victims. You can use an action to do one of the following:
 
@@ -44,6 +100,12 @@ You intone unspeakable words that trigger command impulses in your victims. You 
 
   * You make your opponents fall asleep for 1 minute. Roll 5d8. You can target a number of creatures within 90 feet of you whose total [Health](pages/combat/health.md) are equal to or lower than this result.
 
-#### Spell: Minor Ward
+<header>
+
+#### Minor Ward
+
+<p class="subheading">1st-level Sorcerer spell</p>
+
+</header>
 
 You touch a willing creature (including yourself) who isn't wearing armour, and a protective ward surrounds it until the spell ends. The target's [Defence](pages/combat/defence.md) becomes 13 + its [Wisdom](pages/characters/attributes.md?id=wisdom) attribute. The spell ends if the target dons armour or if you dismiss the spell as an action.

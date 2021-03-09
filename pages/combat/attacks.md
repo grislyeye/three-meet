@@ -1,6 +1,12 @@
+<header>
+
 # Attacks
 
-You cam make one melee or ranged attack per turn. When you make an attack:
+<p class="subheading">Rule</p>
+
+</header>
+
+You can make one melee or ranged attack per turn. When you make an attack:
 
  1. Choose a target
  2. Determine [advantage/disadvantage](pages/rules/advantage.md) and any bonuses or penalties:
@@ -14,7 +20,13 @@ You cam make one melee or ranged attack per turn. When you make an attack:
   1. Your [Cunning](pages/characters/attributes.md?id=cunning) is added to ranged damage
   2. Your [Might](pages/characters/attributes.md?id=might) is added to melee damage
 
+<header>
+
 ## Defence
+
+<p class="subheading">Rule</p>
+
+</header>
 
 Defence determines how difficult you are to hit. Defence is determined:
 
