@@ -28,8 +28,9 @@ You can make one melee or ranged attack per turn. When you make an attack:
 
 </header>
 
-Defence determines how difficult you are to hit. Defence is determined:
+**Defence** determines how difficult you are to hit:
 
- + Your armour
- + Any shields you carry, and
- + [Cunning](pages/characters/attributes.md?id=cunning) is added to your Defence
+ + Your base **Defence** is determined by your armour
+ + If you're not wearing armour it is 10
+ + Shields and other equipment can improve your **Defence**
+ + Add your [Cunning](pages/characters/attributes.md?id=cunning) to your **Defence**
