@@ -14,6 +14,7 @@
   + [Advantage/Disadvantage](pages/rules/advantage.md)
   + [Proficiency](pages/rules/proficiency.md)
   + [Rests](pages/rules/rests.md)
+  + [Conditions](pages/rules/conditions.md)
 + Combat
   + [Order of Combat](pages/combat/order.md)
   + [Moves](pages/combat/moves.md)
