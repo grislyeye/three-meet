@@ -21,7 +21,7 @@ This project has the following requirements:
 Execute:
 
 ```sh
-$ git@github.com:grislyeye/three-meet.git
+$ git clone git@github.com:grislyeye/three-meet.git
 $ cd three-meet
 ```
 
