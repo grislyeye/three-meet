@@ -130,7 +130,7 @@ Your **Spell Difficulty** is:
 
 </header>
 
-You pull back the veil, revealing a glimpse of what lies beyond the mortal realm. Each creature in a 10-foot cube originating from you must make a [Wisdom](pages/characters/attributes.md?id=wisdom) [save](pages/rules/rolling.md?id=saves) against your **Spell Difficulty**. Creatures that fail their saves are **Frightened** by you until the end of your next turn.
+You pull back the veil, revealing a glimpse of what lies beyond the mortal realm. Each creature in a 10-foot cube originating from you must make a [Wisdom](pages/characters/attributes.md?id=wisdom) [save](pages/rules/rolling.md?id=saves) against your **Spell Difficulty**. Creatures that fail their saves are [Frightened](pages/rules/conditions?id=frightened) by you until the end of your next turn.
 
 </section>
 
