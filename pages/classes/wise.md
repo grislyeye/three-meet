@@ -16,7 +16,7 @@
 
 **Proficiencies:** Insight, [Wisdom](pages/characters/attributes.md?id=wisdom) [saves](rules/rolling.md?id=saves)
 
-**Starting Equipment:** Quarterstaff (1d6)
+**Starting Equipment:** Quarterstaff (Melee 1d6)
 
 <header>
 
@@ -32,7 +32,7 @@ Choose an archetype and gain its features. The Wise archetypes include: **[Sorce
 
 ## Sorcerer
 
-<p class="subheading">Wise archetype</p>
+<p class="subheading">Magical Wise archetype</p>
 
 </header>
 
@@ -54,7 +54,7 @@ You are a practitioner of forbidden, arcane arts.
 
 </header>
 
-You command dark forces to afflict an enemy. You gain the Stricken (1d10, Ranged 120ft) [spell attack](pages/combat/attacks.md?id=spell-attacks).
+You command dark forces to afflict an enemy. You gain the Stricken (Ranged 1d10) [attack](pages/combat/attacks.md).
 
 <header>
 

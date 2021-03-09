@@ -16,7 +16,7 @@
 
 **Proficiencies:** Athletics, [Might](pages/characters/attributes.md?id=might) [saves](rules/rolling.md?id=saves), all armor, shields, simple weapons, and martial weapons
 
-**Starting Equipment:** Shield (+2 Defence), Chain Mail (Defence 16), Longsword (Melee 1d8, Versatile 1d10), and a Shortbow (Ranged 1d8)
+**Starting Equipment:** Chain Mail (Defence 16), Shield (+2 Defence), Longsword (Melee 1d8, Versatile 1d10), and a Shortbow (Ranged 1d8)
 
 <header>
 

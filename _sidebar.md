@@ -4,6 +4,7 @@
   + [Describing](pages/characters/describing.md)
 + [Backgrounds](pages/backgrounds/index.md)
   + [Knave](pages/backgrounds/knave.md)
+  + [Magic Specialities](pages/backgrounds/magic.md)
 + [Classes](pages/classes/index.md)
   + [The Mighty](pages/classes/mighty.md)
   + [The Cunning](pages/classes/cunning.md)
