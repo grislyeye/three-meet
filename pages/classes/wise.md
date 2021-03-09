@@ -32,15 +32,15 @@ Choose an archetype and gain its features. The Wise archetypes include:**Sorcere
 
 ## Sorcerer
 
-<p class="subheading">Wise archetype</p>
+<p class="subheading">Magical Wise archetype</p>
 
 </header>
 
 You are a practitioner of forbidden, arcane arts.
 
-| Level | Archetype Features |
-| ----  | - |
-| 1st   | Sorcery, Stricken |
+| Level | Archetype Features | Spell Slots |
+| ----  | ------------------ | ----------- |
+| 1st   | Stricken, Sorcery  | 2           |
 
 <header>
 
@@ -54,7 +54,7 @@ You are a practitioner of forbidden, arcane arts.
 
 </header>
 
-You command dark forces to afflict an enemy within range that you can see. Make a ranged [spell attack](pages/combat/attacks.md?id=spell-attacks) against a target within 120 ft. On a hit, the target takes 1d10 damage.
+You command dark forces to afflict an enemy. You gain the Stricken (1d10, Ranged 120ft) [spell attack](pages/combat/attacks.md?id=spell-attacks).
 
 <header>
 
@@ -78,27 +78,23 @@ You channel baleful energies through your body that withers the flesh of those i
 
 <header>
 
+#### Dark Revelation
+
+<p class="subheading">1st-level Sorcerer spell</p>
+
+</header>
+
+You pull back the veil, revealing a glimpse of what lies beneath the mortal realm. You can cause each creature in a 10-foot cube originating from you to make a [Wisdom](pages/characters/attributes.md?id=wisdom) [save](pages/rules/rolling.md?id=saves) against your spell save Difficulty. Creatures that fail their saves are frightened by you until the end of your next turn.
+
+<header>
+
 #### Dark Whispers
 
 <p class="subheading">1st-level Sorcerer spell</p>
 
 </header>
 
-You summon dark spirits that whisper in the ear of a creature of your choice that you can see. The target must succeed on a [Wisdom](pages/characters/attributes.md?id=wisdom) [save](pages/rules/rolling.md?id=saves) or take 3d6 damage
-
-<header>
-
-#### Minor Enchantment
-
-<p class="subheading">1st-level Sorcerer spell</p>
-
-</header>
-
-You intone unspeakable words that trigger command impulses in your victims. You can use an action to do one of the following:
-
-  * You attempt to charm a target you can see within range. It must make a [Wisdom](pages/characters/attributes.md?id=wisdom) [save](pages/rules/rolling.md?id=saves). It does so with advantage if you or your allies are fighting it. If it fails the saving throw, it can't attack you and you have advantage on any social [check](pages/rules/rolling.md?id=checks) with it. When the spell ends, the target knows it was charmed by you.
-
-  * You make your opponents fall asleep for 1 minute. Roll 5d8. You can target a number of creatures within 90 feet of you whose total [Health](pages/combat/health.md) are equal to or lower than this result.
+You summon spirits that whisper in the ear of a creature of your choice that you can see. The target must succeed on a [Wisdom](pages/characters/attributes.md?id=wisdom) [save](pages/rules/rolling.md?id=saves) or take 3d6 damage
 
 <header>
 

@@ -13,7 +13,8 @@
 }
 
 .content .summaries .summary h3,
-.content .summaries .summary h2 {
+.content .summaries .summary h2,
+.content .summaries .summary h4 {
   font-family: 'Alegreya Sans SC', serif;
   margin-top: 0.5em;
 }
@@ -27,4 +28,9 @@
   font-weight: normal;
   font-size: 0.8em;
   margin-bottom: 0.1em;
+}
+
+.content .summaries .summary h4 * {
+  font-weight: normal;
+  font-size: 1em;
 }
