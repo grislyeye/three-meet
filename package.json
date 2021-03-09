@@ -21,7 +21,7 @@
     "deploy:itch": "butler push dist/ grislyeye/three-meet:HTML"
   },
   "dependencies": {
-    "docsify": "^4.12.0",
+    "docsify": "^4.11.4",
     "docsify-pagination": "^2.6.1",
     "docsify-themeable": "^0.8.4",
     "itch": "^0.2.2"
