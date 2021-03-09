@@ -16,7 +16,7 @@
 
 **Proficiencies:** Insight, [Wisdom](pages/characters/attributes.md?id=wisdom) [saves](rules/rolling.md?id=saves)
 
-**Starting Equipment:** Quarterstaff (1d6)
+**Starting Equipment:** Quarterstaff (Melee 1d6)
 
 <header>
 
@@ -54,7 +54,7 @@ You are a practitioner of forbidden, arcane arts.
 
 </header>
 
-You command dark forces to afflict an enemy. You gain the Stricken (1d10, Ranged 120ft) [spell attack](pages/combat/attacks.md?id=spell-attacks).
+You command dark forces to afflict an enemy. You gain the Stricken (Ranged 1d10) [attack](pages/combat/attacks.md).
 
 <header>
 
@@ -74,7 +74,7 @@ You have knowledge of magical spells and command arcane forces. You can cast one
 
 </header>
 
-You channel baleful energies through your body that withers the flesh of those it comes into contact with. Make a melee [spell attack](pages/combat/attacks.md?id=spell-attacks) against a target. On a hit, the target takes 3d10 damage.
+You channel baleful energies through your body that withers the flesh of those it comes into contact with. You gain the Baleful Touch (Melee 3d10) [attack](pages/combat/attacks.md).
 
 <header>
 

@@ -16,7 +16,7 @@
 
 **Proficiencies:** Any 1 skill, [Cunning](pages/characters/attributes.md?id=cunning) [saves](pages/rules/rolling.md?id=saves)
 
-**Starting Equipment:** Leather Armour (Defence 11), 2 x Dagger (1d4), and a Crossbow (1d8)
+**Starting Equipment:** Leather Armour (Defence 11), 2 Daggers (Melee 1d4, Ranged 1d4, Light), and a Crossbow (Ranged 1d8)
 
 <header>
 

@@ -6,19 +6,28 @@
 
 </header>
 
-You can make one melee or ranged attack per turn. When you make an attack:
+You can make one attack per turn. When you make an attack:
 
  1. Choose a target
- 2. Determine [advantage/disadvantage](pages/rules/advantage.md) and any bonuses or penalties:
-  1. [Might](pages/characters/attributes.md?id=might) is added to your attack roll for melee attacks
-  2. [Cunning](pages/characters/attributes.md?id=cunning) is added for ranged attacks
-  2. [Wisdom](pages/characters/attributes.md?id=wisdom) is added for magic attacks
-  3. Add your [Proficiency](pages/rules/proficiency.md) if you are proficient with the weapon
- 3. Make the attack [roll](pages/rules/rolling.md?id=checks)
+ 2. Make a [roll](pages/rules/rolling.md?id=checks)
+ 3. Add your [Proficiency](pages/rules/proficiency.md) if you are proficient with the attack
  4. The difficulty is the opponent's **Defence**
- 4. If you hit roll the damage of the weapon or effect:
-  1. Your [Cunning](pages/characters/attributes.md?id=cunning) is added to ranged damage
-  2. Your [Might](pages/characters/attributes.md?id=might) is added to melee damage
+ 5. If you hit roll for damage
+
+When making a **melee attack** add your [Might](pages/characters/attributes.md?id=might) to the roll and damage.
+
+When making a **ranged attack** add your [Cunning](pages/characters/attributes.md?id=cunning) to the roll and damage.
+
+### Describing Attacks
+
+Attacks are described by a number of **tags** listed in parenthesis after it's name. For example, Longsword (Melee 1d8, Versatile 1d10) is a weapon that can make a versatile, melee attack.
+
+| Tag       | Description |
+| --------- | - |
+| Melee     | Melee attack damage
+| Ranged    | Ranged attack damage
+| Light     | You can add your [Cunning](pages/characters/attributes.md?id=cunning) instead of [Might](pages/characters/attributes.md?id=might) to melee damage, and attack rolls.
+| Versatile | You can use this damage if the attack is made with two hands.
 
 <header>
 
