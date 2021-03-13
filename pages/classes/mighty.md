@@ -28,11 +28,11 @@ You fight with blind fury, without regard for your own safety.
 
 | Level | Archetype Features |
 | ----  | ------------------ |
-| 1st   | Reckless Attack, Surge: Rage, Proficient: Intimidation |
+| 1st   | Savagery, Surge: Rage, Proficient: Intimidation |
 
-### Reckless Attack
+### Savagery
 
- When you make your first attack on your turn, you can decide to attack recklessly. Doing so gives you [advantage](pages/rules/advantage) on melee [attacks](pages/combat/attacks) during this turn, but attacks against you have advantage until your next turn.
+When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon, you can reroll the die.
 
 ### Surge: Rage
 
