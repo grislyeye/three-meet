@@ -36,4 +36,4 @@ You can make a **Brawl Attack (Melee 1d6, Versatile 1d8)** when unarmed. If you 
 
 ### Surge: Flurry of Blows
 
-Immediately after you [attack](pages/combat/attacks.md) on your turn, you can make two brawl attacks as a [bonus action](pages/combat/actions.md?id=bonus-actions).
+Immediately after you [attack](pages/combat/attacks.md) on your turn, you can make another brawl attack as a [bonus action](pages/combat/actions.md?id=bonus-actions).
