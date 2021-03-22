@@ -32,7 +32,7 @@ You fight quick and dirty, preferring to use your fists and whatever else you ca
 
 ### Brawl
 
-You can make a **Brawl Attack (Melee 1d6, Versatile 1d8)** when unarmed. If you successfully hit with your brawl attack you can use your [bonus action](pages/combat/actions.md?id=bonus-actions) to attempt to [grapple](pages/combat/attacks.md?id=grapple) or [shove](pages/combat/attacks.md?id=shove) the target.
+You can make a **Brawl Attack (Melee 1d6, Versatile 1d8)** when unarmed. If you successfully hit with your brawl attack you can use your [bonus action](pages/combat/actions.md?id=bonus-actions) to attempt to [grapple](pages/combat/attacks.md?id=grapple) or [shove](pages/combat/attacks.md?id=shove) the target. Additionally you are proficient with improvised weapons.
 
 ### Surge: Flurry of Blows
 
