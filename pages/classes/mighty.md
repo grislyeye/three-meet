@@ -32,7 +32,7 @@ You fight quick and dirty, preferring to use your fists and whatever else you ca
 
 ### Brawl
 
-You can make a **Brawl Attack (Melee 1d6, Versatile 1d8)** when unarmed (you are proficient with this attack). When can engage in two-weapon fighting with your Brawl Attack. When you so you can add your ability modifier to the damage of the second attack. Additionally you are proficient with improvised weapons.
+You can make a **Brawl Attack (Melee 1d6, Versatile 1d8)** when unarmed (you are proficient with this attack). When can engage in [two-weapon fighting](???) with your Brawl Attack. When you so you can add your ability modifier to the damage of the second attack. Additionally you are proficient with improvised weapons.
 
 ### Surge: Flurry of Blows
 
