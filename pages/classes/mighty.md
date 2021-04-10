@@ -10,7 +10,7 @@
 
 ### Archetype
 
-Choose an archetype and gain it's features. The Mighty archetypes include: **Berserker**.
+Choose an archetype and gain it's features. The Mighty archetypes include: [Weapons Master](pages/classes/mighty.md?id=weapons-master).
 
 ### Surge
 
@@ -22,23 +22,18 @@ When you use your Surge, you choose which feat to use. You must then finish a re
 
 On your turn, you can regain [Health](pages/combat/health.md) equal to 1d10 + your level.
 
-## Berserker
+## Weapons Master
 
-You fight with blind fury, without regard for your own safety.
+You have focussed your practice on a particular weapon, with which your skill is unparalleled.
 
 | Level | Archetype Features |
 | ----  | ------------------ |
-| 1st   | Savagery, Surge: Rage, Proficient: Intimidation |
+| 1st   | Signature Weapon, Surge: True Strike, Proficient: Smith's Tools |
 
-### Savagery
+### Signature Weapon
 
-When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon, you can reroll the die.
+Choose a weapon (longsword, mace, etc.) as your **Signature Weapon**. You gain a +2 bonus to attacks with that weapon.
 
-### Surge: Rage
+### Surge: True Strike
 
-On your turn, you can use your surge to enter a rage as a bonus action. While raging, you gain the following benefits:
-
- + You have advantage on [Might](pages/characters/attributes/might.md) [checks](pages/rules/rolling.md?id=checks) and [saves](pages/rules/rolling.md?id=saves).
- + When you make a melee [attack](pages/combat/attacks.md), you gain a +2 bonus to the damage roll.
-
-Your rage lasts for 1 minute.
+You can use your surge to get an automatic [critical hit](pages/combat/attacks.md?id=critical-hit) on one successful attack roll with your **Signature Weapon**.
