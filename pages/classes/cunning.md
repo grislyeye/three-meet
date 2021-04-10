@@ -26,7 +26,7 @@
 
 </header>
 
-Choose an archetype and gain its features. The Cunning archetypes include: **Sneak**.
+Choose an archetype and gain its features. The Cunning archetypes include: [Shadow](pages/classes/cunning.md?id=shadow).
 
 <header>
 
@@ -40,7 +40,7 @@ Choose two of your skill or tool proficiencies. Your proficiency bonus is double
 
 <header>
 
-## Sneak
+## Shadow
 
 <p class="subheading">Cunning archetype</p>
 
