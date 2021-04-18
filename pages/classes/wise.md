@@ -1,81 +1,165 @@
+<header>
+
 # The Wise
 
-**Starting Health:** 6 + [Might](pages/characters/attributes.md?id=might)
+<p class="subheading">Class</p>
 
-**Starting Equipment:** Quarterstaff (1d6)
+</header>
 
 | Level | Proficiency | Class Features  |
 | ----  | ----------- |- |
-| 1st   | +2          | Archetype, Proficient: Insight, Proficient: [Cunning](pages/characters/attributes.md?id=cunning) [saves](pages/rules/rolling.md?id=saves), Proficient: All weapons, shields and armour |
+| 1st   | +2          | Archetype, Proficient: Insight, Proficient: [Wisdom](pages/characters/attributes.md?id=wisdom) [saves](pages/rules/rolling.md?id=saves) |
+
+### Starting Stats
+
+**Starting Health:** 6 + [Might](pages/characters/attributes.md?id=might)
+
+**Proficiencies:** Insight, [Wisdom](pages/characters/attributes.md?id=wisdom) [saves](rules/rolling.md?id=saves)
+
+**Starting Equipment:** Quarterstaff (Melee 1d6)
+
+<header>
 
 ### Archetype
 
-You specialised in a particular criminal enterprise. Choose an archetype and gain it's features. The Wise archetypes include: Blessed and Sorcerer.
+<p class="subheading">1st-level Wise class feature</p>
 
-## Blessed
+</header>
 
-You are chosen of the gods and their holy light shines through you.
+Choose an archetype and gain its features. The Wise archetypes include: **[Sorcerer](pages/classes/wise.md?id=sorcerer)**.
 
-| Level | Archetype Features |
-| ----  | - |
-| 1st   | Bless, Miracles, Proficient: Persuasion |
-
-### Blessing
-
-You can touch one willing creature. For 1 minute the target can roll a d4 and add the number rolled to one [saves](pages/rules/rolling.md?id=saves) or [saves](pages/rules/rolling.md?id=check). It can roll the die before or after making the roll. The effect then ends.
-
-### Miracles
-
-You can perform one of the miracles below once per rest. Each miracle takes an action to perform.
-
-#### Miracle: Halo
-
-You can manifest a radiant halo. It sheds light in a 30-foot radius. You can bless up to three creatures of your choice who are touched by this light. For 1 minute whenever a target makes an attack roll or a saving throw, the target can roll a d4 and add the number rolled to the [saves](pages/combat/attacks.md) or [saves](pages/rules/rolling.md?id=saves).
-
-#### Miracle: Healing Touch
-
-A creature you touch regains a number of hit points equal to 1d8 + [Wisdom](pages/characters/attributes.md?id=wisdom) modifier.
-
-#### Miracle: Healing Word
-
-A creature of your choice that you can see within 60 feet regains hit points equal to 1d4 + your [Wisdom](pages/characters/attributes.md?id=wisdom).
-
-#### Miracle: Sacred Light
-
-A shaft of holy light breaks upon a creature that you can see within 60 feet. The target must succeed a [Cunning](pages/characters/attributes.md?id=cunning) [save](pages/rules/rolls?id=saves) or take 1d8 damage.
+<header>
 
 ## Sorcerer
 
+<p class="subheading">Magical Wise archetype</p>
+
+</header>
+
 You are a practitioner of forbidden, arcane arts.
 
-| Level | Archetype Features |
-| ----  | - |
-| 1st   | Sorcery, Stricken, Proficient: Arcana |
+| Level | Archetype Features         | Spell Slots |
+| ----  | -------------------------- | ----------- |
+| 1st   | Stricken, Rituals, Sorcery | 2           |
+
+<header>
+
+### Starting Stats
+
+**Proficiencies:** Arcana
 
 ### Stricken
 
-You command dark forces to afflict an enemy within range that you can see. Make a ranged [spell attack](pages/combat/attacks.md?id=spell-attacks) against a target within 120 ft. On a hit, the target takes 1d10 damage.
+<p class="subheading">1st-level Sorcerer archetype feature</p>
+
+</header>
+
+You command dark forces to afflict an enemy. You gain the Stricken (Ranged 1d10, Spell) [attack](pages/combat/attacks.md).
+
+<header>
+
+### Rituals
+
+<p class="subheading">1st-level Sorcerer archetype feature</p>
+
+</header>
+
+You can cast the rituals below. A ritual takes 10 minutes to cast.
+
+<header>
+
+<section class="spells">
+
+<section class="spell">
+
+<header>
+
+#### Disguise Self
+
+<p class="subheading">1st-level Sorcerer ritual</p>
+
+</header>
+
+You make yourself, including your clothing, armour, weapons, and other belongings on your person, look different for 1 hour, or until you dismiss the disguise. A creature examining you closely can discern you are disguised on a successful [Investigation](pages/characters/skills.md?id=investigation) [check](pages/rules/rolling.md?id=checks) (Difficulty 10). If they succeed your disguise vanishes.
+
+</section>
+
+<section class="spell">
+
+<header>
+
+#### Summon Minor Spirit
+
+<p class="subheading">1st-level Sorcerer ritual</p>
+
+</header>
+
+You summon a spirit (1 Health, 10 Defence). It is insubstantial and cannot interact with the physical world. It always obeys your commands and can be used to stealthily observe and report back to you. It vanishes after 10 minutes or when you dismiss it. It can be noticed on a [Perception](pages/characters/skills.md?id=perception) [check](pages/rules/rolling.md?id=checks) (Difficulty 15).
+
+</section>
+
+</section>
 
 ### Sorcery
 
-You have knowledge of magical spells and command arcane forces. You can cast one of the spells below once per rest. Each spell takes an action to cast.
+<p class="subheading">1st-level Sorcerer archetype feature</p>
 
-#### Spell: Baleful Touch
+</header>
 
-You channel baleful energies through your body that withers the flesh of those it comes into contact with. Make a melee [spell attack](pages/combat/attacks.md?id=spell-attacks) against a target. On a hit, the target takes 3d10 damage.
+You can cast spells. To cast a spell you must expend a spell slot. Each spell takes an action to cast. You regain all expended spell slots when you finish a rest.
 
-#### Spell: Dark Whispers
+Your **Spell Difficulty** is:
 
-You summon dark spirits that whisper in the ear of a creature of your choice that you can see. The target must succeed on a [Wisdom](pages/characters/attributes.md?id=wisdom) [save](pages/rules/rolling.md?id=saves) or take 3d6 damage
+<div class="example-roll">
+  8
+  +
+  <span class="bonus"> <span class="caption">Proficiency</span></span>
+  +
+  <span class="bonus"> <span class="caption">Wisdom</span></span>
+</div>
 
-#### Spell: Minor Enchantment
+<section class="spells">
 
-You intone unspeakable words that trigger command impulses in your victims. You can use an action to do one of the following:
+<section class="spell">
 
-  * You attempt to charm a target you can see within range. It must make a [Wisdom](pages/characters/attributes.md?id=wisdom) [save](pages/rules/rolling.md?id=saves). It does so with advantage if you or your allies are fighting it. If it fails the saving throw, it can't attack you and you have advantage on any social [check](pages/rules/rolling.md?id=checks) with it. When the spell ends, the target knows it was charmed by you.
+<header>
 
-  * You make your opponents fall asleep for 1 minute. Roll 5d8. You can target a number of creatures within 90 feet of you whose total [Health](pages/combat/health.md) are equal to or lower than this result.
+#### Dark Revelation
 
-#### Spell: Minor Ward
+<p class="subheading">1st-level Sorcerer spell</p>
+
+</header>
+
+You pull back the veil, revealing a glimpse of what lies beyond the mortal realm. Each creature in a 10-foot cube originating from you must make a [Wisdom](pages/characters/attributes.md?id=wisdom) [save](pages/rules/rolling.md?id=saves) against your **Spell Difficulty**. Creatures that fail their saves are [Frightened](pages/rules/conditions?id=frightened) by you until the end of your next turn.
+
+</section>
+
+<section class="spell">
+
+<header>
+
+#### Insidious Whispers
+
+<p class="subheading">1st-level Sorcerer spell</p>
+
+</header>
+
+You summon unseen spirits that whisper horrific things in the ear of a creature of your choice that you can see. The target must succeed on a [Wisdom](pages/characters/attributes.md?id=wisdom) [save](pages/rules/rolling.md?id=saves) against your **Spell Difficulty** or take 3d6 damage.
+
+</section>
+
+<section class="spell">
+
+<header>
+
+#### Minor Ward
+
+<p class="subheading">1st-level Sorcerer spell</p>
+
+</header>
 
 You touch a willing creature (including yourself) who isn't wearing armour, and a protective ward surrounds it until the spell ends. The target's [Defence](pages/combat/defence.md) becomes 13 + its [Wisdom](pages/characters/attributes.md?id=wisdom) attribute. The spell ends if the target dons armour or if you dismiss the spell as an action.
+
+</section>
+
+</section>

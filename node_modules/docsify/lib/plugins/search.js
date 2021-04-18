@@ -130,7 +130,7 @@
     var slug;
     var title = '';
 
-    tokens.forEach(function (token) {
+    tokens.forEach(function(token, tokenIndex) {
       if (token.type === 'heading' && token.depth <= depth) {
         var ref = getAndRemoveConfig(token.text);
         var str = ref.str;
@@ -153,6 +153,15 @@
 
         index[slug] = { slug: slug, title: title, body: '' };
       } else {
+        if (tokenIndex === 0) {
+          slug = router.toURL(path);
+          index[slug] = {
+            slug: slug,
+            title: path !== '/' ? path.slice(1) : 'Home Page',
+            body: token.text || '',
+          };
+        }
+
         if (!slug) {
           return;
         }

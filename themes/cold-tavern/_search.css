@@ -1,6 +1,11 @@
+.search {
+  font-family: 'Alegreya Sans SC', sans-serif;
+}
+
 .search input {
   color: white;
   background-color: black;
+  font-family: 'Alegreya Sans SC', sans-serif;
 }
 
 .search .matching-posts {
