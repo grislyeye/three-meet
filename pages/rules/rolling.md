@@ -1,4 +1,10 @@
+<header>
+
 # Rolling
+
+<p class="subheading">Rule</p>
+
+</header>
 
 In Three Meet you'll be asked to roll d4s, d8s, d10s, d12s, d20s and d100s. There are three main rolls:
 
@@ -6,7 +12,13 @@ In Three Meet you'll be asked to roll d4s, d8s, d10s, d12s, d20s and d100s. Ther
  * [saves](pages/rules/rolling.md?id=saves)
  * [attacks](pages/combat/attacks.md)
 
+<header>
+
 ## Checks
+
+<p class="subheading">Rule</p>
+
+</header>
 
 These depend on one of your attributes. When asked to make a **check**:
 
@@ -19,7 +31,13 @@ These depend on one of your attributes. When asked to make a **check**:
 
 Rolls can be modified by [advantage/disadvantage](pages/rules/advantage.md) or disadvantage.
 
-## Difficulty
+<header>
+
+### Difficulty
+
+<p class="subheading">Rule</p>
+
+</header>
 
 The **difficulty** of task is represented by a number. The most common difficulties are as follows:
 
@@ -49,7 +67,13 @@ He fails the roll, and the guard remains unconvinced.
 
 A **check** tests your innate talent and training to overcome a challenge.
 
+<header>
+
 ## Saves
+
+<p class="subheading">Rule</p>
+
+</header>
 
 A **save** represents an attempt to resist a spell, a trap, a poison, a disease, or a similar threat.
 
