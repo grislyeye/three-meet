@@ -1,18 +1,30 @@
+<header>
+
 # The Mighty
+
+<p class="subheading">Class</p>
+
+</header>
+
+| Level | Proficiency | Features  |
+| ----  | ----------- |- |
+| 1st   | +2          | Surge, Archetype |
+
+### Starting Stats
 
 **Starting Health:** 10 + [Might](pages/characters/attributes.md?id=might)
 
-**Starting Equipment:** Shield (+2 Defence), Chain Mail (Defence 16), Longsword (1d8), and a Shortbow (1d8)
+**Proficiencies:** Athletics, [Might](pages/characters/attributes.md?id=might) [saves](rules/rolling.md?id=saves), all armor, shields, simple weapons, and martial weapons
 
-| Level | Proficiency | Class Features  |
-| ----  | ----------- |- |
-| 1st   | +2          | Archetype, Surge, Proficient: [Might](pages/characters/attributes.md?id=might) [saves](rules/rolling.md?id=saves), Proficient: Athletics |
+**Starting Equipment:** Chain Mail (Defence 16), Shield (+2 Defence), Longsword (Melee 1d8, Versatile 1d10), and a Shortbow (Ranged 1d8)
 
-### Archetype
-
-Choose an archetype and gain it's features. The Mighty archetypes include: **Berserker**.
+<header>
 
 ### Surge
+
+<p class="subheading">1st-level Cunning class feature</p>
+
+</header>
 
 You have a limited well of stamina that you can draw on to fuel feats of strength. You start with two such feats: Second Wind and a feat determined by your archetype.
 
@@ -22,6 +34,16 @@ When you use your Surge, you choose which feat to use. You must then finish a re
 
 On your turn, you can regain [Health](pages/combat/health.md) equal to 1d10 + your level.
 
+<header>
+
+### Archetype
+
+<p class="subheading">1st-level Might class feature</p>
+
+</header>
+
+Choose an archetype and gain it's features. The Mighty archetypes include: [Berserker](pages/classes/mighty.md?id=berserker).
+
 ## Berserker
 
 You fight with blind fury, without regard for your own safety.
@@ -30,11 +52,23 @@ You fight with blind fury, without regard for your own safety.
 | ----  | ------------------ |
 | 1st   | Savagery, Surge: Rage, Proficient: Intimidation |
 
+<header>
+
 ### Savagery
+
+<p class="subheading">1st-level Berserker archetype feature</p>
+
+</header>
 
 When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon, you can reroll the die.
 
+<header>
+
 ### Surge: Rage
+
+<p class="subheading">1st-level Berserker archetype feature</p>
+
+</header>
 
 On your turn, you can use your surge to enter a rage as a bonus action. While raging, you gain the following benefits:
 
