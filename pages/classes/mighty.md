@@ -22,7 +22,7 @@
 
 ### Surge
 
-<p class="subheading">1st-level Cunning class feature</p>
+<p class="subheading">1st-level Mighty class feature</p>
 
 </header>
 
@@ -38,13 +38,19 @@ On your turn, you can regain [Health](pages/combat/health.md) equal to 1d10 + yo
 
 ### Archetype
 
-<p class="subheading">1st-level Might class feature</p>
+<p class="subheading">1st-level Mighty class feature</p>
 
 </header>
 
 Choose an archetype and gain it's features. The Mighty archetypes include: [Berserker](pages/classes/mighty.md?id=berserker).
 
+<header>
+
 ## Berserker
+
+<p class="subheading">Mighty archetype</p>
+
+</header>
 
 You fight with blind fury, without regard for your own safety.
 
