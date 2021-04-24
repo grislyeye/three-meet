@@ -30,11 +30,35 @@ You know thieves’ cant, a secret code of dialect, hand-signs, jargon, ciphers,
 
 </header>
 
-You specialised in a particular criminal enterprise. Choose a speciality and gain its features. Knave specialities include:  **Burglar** and **Ragamuffin**.
+You specialised in a particular criminal enterprise. Choose a speciality and gain its features. Knave specialities include: **Assassin**, **Burglar**, and **Ragamuffin**.
 
 <header>
 
 <header>
+
+## Assassin
+
+<p class="subheading">Speciality</p>
+
+</header>
+
+<header>
+
+</header>
+
+| Level             | Features    |
+| ----------------- | - |
+| 1st               | Proficient: Stealth, Stalk |
+
+<header>
+
+### Stalk
+
+<p class="subheading">1st-level Assassin speciality feature</p>
+
+</header>
+
+You can spend 10 minutes observing a creature to mark it. You have advantage on any [Check](pages/rules/rolling?id=checks) to track, or hide from your mark. You can only have one mark at a time.
 
 ## Burglar
 
