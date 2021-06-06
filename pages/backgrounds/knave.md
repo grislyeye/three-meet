@@ -72,8 +72,8 @@ You can add double your proficiency bonus to any [Wisdom](pages/characters/attri
 
 | Level             | Speciality Features    |
 | ----------------- | - |
-| 1st               | Proficient: Intimidation, Strong Arm |
+| 1st               | Proficient: Intimidation, Tough |
 
-### Strong Arm
+### Tough
 
-Once per rest you can put on an intimidating demeanour. For the next 10 minutes you have Advantage on Intimidation checks, but Disadvantage on Persuasion checks. Additionally, you have Advantage on Saves to resist Intimidation checks or the Frightening condition.
+You can use [Intimidation](pages/characters/skills#intimidation), when you would normally roll for [Insight](pages/characters/skills#insight) or [Deception](pages/characters/skills#deception).
