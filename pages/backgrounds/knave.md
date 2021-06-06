@@ -78,4 +78,4 @@ You're basically a thug, running enforcement, protection rackets, or acting as b
 
 ### Tough
 
-You can use [Intimidation](pages/characters/skills#intimidation), when you would normally roll for [Insight](pages/characters/skills#insight) or [Deception](pages/characters/skills#deception).
+You can make an [Intimidation](pages/characters/skills#intimidation) [Check](pages/rules/rolling#checks), when you would normally make a [Check](pages/rules/rolling#checks) for [Insight](pages/characters/skills#insight) or [Deception](pages/characters/skills#deception).
