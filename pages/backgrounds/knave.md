@@ -70,7 +70,7 @@ You have advantage on checks to escape bonds such as manacles, or nets. Addition
 
 ## Ruffian
 
-You're basically a thug, running enforcement, protection rackets, or acting as bodyguards to your criminal masters.
+You're basically a thug, running enforcement, protection rackets, or acting as bodyguard to your criminal masters.
 
 | Level             | Speciality Features    |
 | ----------------- | - |
