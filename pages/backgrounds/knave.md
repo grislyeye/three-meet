@@ -62,11 +62,11 @@ You grew up running the city streets, playing games, stealing food, dodging the 
 
 | Level             | Speciality Features    |
 | ----------------- | - |
-| 1st               | Proficient: Deception, Street Wise |
+| 1st               | Proficient: Deception, Slippery |
 
-### Street Wise
+### Slippery
 
-You can add double your proficiency bonus to any [Wisdom](pages/characters/attributes/wisdom.md) [check](pages/rules/rolling?id=checks) related to cities.
+You have advantage on checks to escape bonds such as manacles, or nets. Additionally, you have advantage on checks to evade being followed or tracked.
 
 ## Ruffian
 
