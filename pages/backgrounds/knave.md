@@ -78,4 +78,4 @@ You're basically a thug, running enforcement, protection rackets, or acting as b
 
 ### Tough
 
-You can make an [Intimidation](pages/characters/skills#intimidation) [Check](pages/rules/rolling#checks), when you would normally make a [Check](pages/rules/rolling#checks) for [Insight](pages/characters/skills#insight) or [Deception](pages/characters/skills#deception).
+You're tough as old boots. While you are not wearing any armour, your [Defence](pages/combat/attacks?id=defence) equals **10 + [Cunning](pages/characters/attributes?id=cunning) + [Might](pages/characters/attributes?id=might)**.
