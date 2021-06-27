@@ -66,7 +66,7 @@ You fight to protect. Cleaving close to your allies, you intercept attacks so th
 
 </header>
 
-When a creature you can see attacks a target other than you that is within 5 feet of you, you can impose disadvantage on the attack roll. You must be wielding a shield or weapon.
+You can use your [Reaction](pages/combat/actions.md?id=reaction) to impose disadvantage on an [Attack](pages/combat/attacks.md) that targets an ally. The target must be within 5 feet of you, and you must be wielding a shield or weapon
 
 <header>
 
@@ -76,4 +76,4 @@ When a creature you can see attacks a target other than you that is within 5 fee
 
 </header>
 
-When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your [Reaction](pages/combat/actions.md?id=reaction) to reduce the damage of that attack by <strong>1d10 + your level</strong>. You must be wielding a shield or weapon.
+You can use your [Reaction](pages/combat/actions.md?id=reaction) to reduce the damage of an [Attack](pages/combat/attacks.md) that targets an ally by <strong>1d10 + your level</strong>. The target must be within 5 feet of you, and you must be wielding a shield or weapon.
