@@ -76,4 +76,4 @@ When a creature you can see attacks a target other than you that is within 5 fee
 
 </header>
 
-When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your [reaction](pages/combat/actions.md?id=reaction) to reduce the damage of that attack by 1d10 + your level [Health](pages/combat/health.md). You must be wielding a shield or weapon.
+When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your [Reaction](pages/combat/actions.md?id=reaction) to reduce the damage of that attack by <strong>1d10 + your level</strong>. You must be wielding a shield or weapon.
