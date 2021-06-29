@@ -76,4 +76,4 @@ You can use your [Reaction](pages/combat/actions.md?id=reaction) to impose disad
 
 </header>
 
-If an ally you can see is hit by an [Attack](pages/combat/attacks.md) you can use your [Reaction](pages/combat/actions.md?id=reaction) to take the [Disengage]() action and [Move]() to be within 5 feet of that ally. If you succeed you reduce the damage of the [Attack](pages/combat/attacks.md) by <strong>1d10 + your level</strong>. You must be wielding a shield or weapon.
+When an ally is hit by an [Attack](pages/combat/attacks.md) you can use your [Reaction](pages/combat/actions.md?id=reaction) to [Disengage]() and [Move](). If you reach within 5 feet of that ally, the damage to your ally is reduced by <strong>1d10 + your level</strong>. You must be wielding a shield or weapon.
