@@ -56,7 +56,7 @@ You fight to protect. Cleaving close to your allies, you intercept attacks so th
 
 | Level | Archetype Features |
 | ----  | ------------------ |
-| 1st   | Defend, Surge: Block, Proficient: Intimidation         |
+| 1st   | Defend, Surge: Intercept, Proficient: Intimidation         |
 
 <header>
 
@@ -70,7 +70,7 @@ You can use your [Reaction](pages/combat/actions.md?id=reaction) to impose disad
 
 <header>
 
-### Surge: Block
+### Surge: Intercept
 
 <p class="subheading">1st-level Defender archetype feature</p>
 
