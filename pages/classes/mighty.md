@@ -56,7 +56,7 @@ You fight to protect. Cleaving close to your allies, you intercept attacks so th
 
 | Level | Archetype Features |
 | ----  | ------------------ |
-| 1st   | Defend, Surge: Intercept, Proficient: Intimidation         |
+| 1st   | Defend, Surge: Block, Proficient: Intimidation         |
 
 <header>
 
@@ -66,14 +66,14 @@ You fight to protect. Cleaving close to your allies, you intercept attacks so th
 
 </header>
 
-You can use your [Reaction](pages/combat/actions.md?id=reaction) to impose disadvantage on an [Attack](pages/combat/attacks.md) that targets an ally. The target must be within 5 feet of you.
+You can use your [Reaction](pages/combat/actions.md?id=reaction) to impose disadvantage on an [Attack](pages/combat/attacks.md) that targets an ally. The target must be within 5 feet of you, and you must be wielding a melee weapon or shield.
 
 <header>
 
-### Surge: Intercept
+### Surge: Block
 
 <p class="subheading">1st-level Defender archetype feature</p>
 
 </header>
 
-When an ally is hit by an [Attack](pages/combat/attacks.md) you can use your [Reaction](pages/combat/actions.md?id=reaction) to move up to your **Speed** towards them. You do not provoke an **Opportunity Attack** with your movement. If you reach within 5 feet of that ally, the damage to from the [Attack](pages/combat/attacks.md) is reduced by <strong>1d10 + your level</strong>.
+You can use your [Reaction](pages/combat/actions.md?id=reaction) to reduce the damage from an [Attack](pages/combat/attacks.md) that targets an ally by <strong>1d10 + Proficiency</strong>. The target must be within 5 feet of you, and you must be wielding a melee weapon or shield.
