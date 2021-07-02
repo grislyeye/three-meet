@@ -1,71 +1,49 @@
+<header>
+
 # Attributes
 
-All creatures are described by 3 attributes representing their physical and mental characteristics: [Might](pages/characters/attributes.md?id=might), [Cunning](pages/characters/attributes.md?id=cunning) and Wisdom.
+<p class="subheading">Rule</p>
 
-Attributes follow these rules:
+</header>
 
- * The are rated from -5 to +8
- * A rating of 0 is average
- * Most creatures are within the -2 to +4 range
+All creatures are described by 3 **attributes** representing their physical and mental characteristics:
 
-Ability scores are used for [checks, attacks and saves](pages/rules/rolling.md).
+**Attributes** are:
+
+ * Used for [checks, attacks and saves](pages/rules/rolling.md)
+ * Rated from -5 to +8
+ * 0 is average
+ * -2 to +4 is the range for most characters
+
+<section class="small summaries">
+
+<section class="summary">
 
 ## Might
 
-**Might** is a measure of your raw strength, endurance, and vital force.
+Raw strength, stamina, and combat prowess.
 
-You can use **Might** to:
+Added to [Health](pages/combat/health.md), and melee [Attacks](pages/combat/attacks.md) and [Damage](pages/combat/attacks.md) rolls.
 
- * Swing a sword at a goblin
- * Recover from pestilence
- * Jump a wide ravine
- * Lift heavy objects
- * March for many days
- * Quaff ale
+</section>
 
-**Might** modifies your:
-
- * [Health](pages/combat/health.md)
- * [Damage](pages/combat/attacks.md)
- * [Attacks](pages/combat/attacks.md)
+<section class="summary">
 
 ## Cunning
 
-**Cunning** is a measure of your speed, agility, perceptiveness and guile.
+Wits, speed, agility, dexterousness, charm, perceptiveness, and guile.
 
-You can use **Cunning** to:
+Added to [Initiative](pages/combat/order.md?id=initiative), [Defence](pages/combat/attacks.md?id=defence), and ranged [Attacks](pages/combat/attacks.md) and [Damage](pages/combat/attacks.md) rolls.
 
- * Steer a cart
- * Pick a lock
- * Dodge the swing of an axe
- * Fast-talk a guard
- * Disable a trap
- * Sneak through an enemy camp
- * Sing a soothing ballad
- * Win at cards
+</section>
 
-**Cunning** modifies your:
-
- * [Attacks](pages/combat/attacks.md)
- * [Defence](pages/combat/attacks.md?id=defence)
- * [Initiative](pages/combat/order.md?id=initiative)
+<section class="summary">
 
 ## Wisdom
 
-**Wisdom** is a measure of your speed, agility, perceptiveness and guile.
+Intelligence, intuition, knowledge, spirituality, and ingeniousness.
 
-You can use **Wisdom** to:
+Added to spell [Attacks](pages/combat/attacks.md).
 
- * Recall historical lore
- * Learn new languages
- * Resist the hypnotic gaze of a enchanter
- * Follow your intuition
- * Read a person
- * Meditate on a puzzle
- * Brew a healing remedy
- * Find your way through an unmapped wilderness
-
-**Wisdom** modifies your:
-
- * [Attacks](pages/combat/attacks.md)
-
+</section>
+</section>
