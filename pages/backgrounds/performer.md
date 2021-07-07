@@ -6,21 +6,9 @@
 
 ### Speciality
 
-You have a talent for a particular kind of entertainment. Choose one of the three specialities: Mummer, Player and Singer.
+You have a talent for a particular kind of entertainment. Choose one of the three specialities: Minstrel, Mummer, and Singer.
 
-## Mummer
-
-You are an actor in a troupe. Skilled at mimicry and improvisation.
-
-| Level             | Speciality Features    |
-| ----------------- | - |
-| 1st               | Proficient: Disguise kit, Mummery |
-
-### Mummery
-
-Your talent for acting not only entertains, it's also useful for manipulating others. You can use the [Performance Proficiency]() where you would normally use [Deception]() or [Persuasion]().
-
-## Player
+## Minstrel
 
 You are a travelling minstrel. a mischievous troubadour or street player.
 
@@ -35,6 +23,18 @@ You gain proficiency with one type of musical instrument. You add double your pr
 ### Distracting Melodies
 
 While playing a musical instrument you are proficient with, you can try to distract one humanoid you can see who can see and hear you. Make a Charisma (Performance) check contested by the humanoid’s Wisdom (Insight) check. If your check succeeds, you grab the humanoid’s attention enough that it makes Wisdom (Perception or Investigation) checks with disadvantage until you stop performing.
+
+## Mummer
+
+You are an actor in a troupe. Skilled at mimicry and improvisation.
+
+| Level             | Speciality Features    |
+| ----------------- | - |
+| 1st               | Proficient: Disguise kit, Mummery |
+
+### Mummery
+
+Your talent for acting not only entertains, it's also useful for manipulating others. You can use the [Performance Proficiency]() where you would normally use [Deception]() or [Persuasion]().
 
 ## Singer
 
