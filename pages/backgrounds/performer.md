@@ -14,11 +14,11 @@ You are an actor in a troupe. Skilled at mimicry and improvisation.
 
 | Level             | Speciality Features    |
 | ----------------- | - |
-| 1st               | Proficient: Disguise kit, Mimicry |
+| 1st               | Proficient: Disguise kit, Mummery |
 
-### Mimicry
+### Mummery
 
-You can mimic the speech of another person or the sounds made by other creatures. You must have heard the person speaking, or heard the creature make the sound, for at least 1 minute. A successful Wisdom (Insight) check contested by your Charisma (Deception) check allows a listener to determine that the effect is faked.
+Your talent for acting not only entertains, it's also useful for manipulating others. You can use the [Performance Proficiency]() where you would normally use [Deception]() or [Persuasion]().
 
 ## Player
 
