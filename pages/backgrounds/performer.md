@@ -31,7 +31,7 @@ You are a travelling minstrel. a mischievous troubadour or street player.
 
 ### Instrument Expertise
 
-You gain proficiency with one type of musical instrument. You add double your proficiency bonus to checks you make with it.</dd>
+You gain proficiency with one type of musical instrument. You add double your proficiency bonus to checks you make with it.
 
 ### Distracting Melodies
 
@@ -55,4 +55,3 @@ When singing you add double your proficiency bonus to checks you make with the P
 ### Minstrel Lore
 
 Ancient lore is often passed down through song, and you know more songs than anyone else you know. When making an Intelligence (Religion) or Intelligence (History) check you can instead chose spend 10 minutes singing an appropriate song you recall from your extensive repertoire of rhymes and ballads. When you finish you can make a Performance check instead.
-
