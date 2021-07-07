@@ -28,7 +28,6 @@ You are a travelling minstrel. a mischievous troubadour or street player.
 | ----------------- | - |
 | 1st               | Instrument Expertise, Distracting Melodies |
 
-
 ### Instrument Expertise
 
 You gain proficiency with one type of musical instrument. You add double your proficiency bonus to checks you make with it.
