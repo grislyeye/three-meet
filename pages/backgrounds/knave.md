@@ -66,4 +66,4 @@ You're basically a thug, running enforcement, protection rackets, or acting as b
 
 ### Tough
 
-You're tough as old boots. While you are not wearing any armour, your [Defence](pages/combat/attacks?id=defence) equals **10 + [Cunning](pages/characters/attributes?id=cunning) + [Might](pages/characters/attributes?id=might)**.
+While you are not wearing any armour, your [Defence](pages/combat/attacks?id=defence) equals **10 + [Cunning](pages/characters/attributes?id=cunning) + [Might](pages/characters/attributes?id=might)**.
