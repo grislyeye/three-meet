@@ -79,6 +79,6 @@ When you roll a 1 or 2 on a damage die for an attack you make with a melee weapo
 On your turn, you can use your surge to enter a rage as a bonus action. While raging, you gain the following benefits:
 
  + You have advantage on [Might](pages/characters/attributes/might.md) [checks](pages/rules/rolling.md?id=checks) and [saves](pages/rules/rolling.md?id=saves).
- + When you make a melee [attack](pages/combat/attacks.md), you gain a +2 bonus to the damage roll.
+ + You take half damage from [Attacks](pages/combat/attacks).
 
 Your rage lasts for 1 minute.
