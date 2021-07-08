@@ -49,7 +49,7 @@ Pick a magical gift from below.
 
 #### Bracelet of Shadows
 
-This gleaming onyx bracelet cannot be removed. It allows you to hear and command the... things that linger beyond the shadows. While wearing it you have **Darkvision**.
+This gleaming onyx bracelet cannot be removed. It allows you to hear and command the... things that linger beyond the shadows. While wearing the bracelet you can see normally in low-light and darkness.
 
 </section>
 
