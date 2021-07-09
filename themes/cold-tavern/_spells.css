@@ -1,0 +1,9 @@
+.content .spells {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  column-gap: 1em;
+}
+
+.content .spells > .spell {
+  /*margin: 1em*/
+}

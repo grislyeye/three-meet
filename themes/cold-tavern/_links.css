@@ -1,6 +1,5 @@
 .content a {
-  color: rgb(237, 237, 237);
-  font-style: italic;
+  color: white;
   text-decoration: none;
   font-weight: bold;
 }
@@ -11,4 +10,11 @@
 
 .content a:hover {
   text-decoration: underline;
+}
+
+.content h1 a:hover,
+.content h2 a:hover,
+.content h3 a:hover,
+.content h4 a:hover {
+  text-decoration: none;
 }

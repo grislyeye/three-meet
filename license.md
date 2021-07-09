@@ -35,4 +35,6 @@ as Open Game Content by the Contributor, and means any work covered by this Lice
 
 * Open Game License v 1.0 Copyright 2000, Wizards of the Coast, Inc.
 * System Reference Document 5.1 Copyright 2016, Wizards of the Coast, Inc.; Authors Mike Mearls, Jeremy Crawford, Chris Perkins, Rodney Thompson, Peter Lee, James Wyatt, Robert J. Schwalb, Bruce R. Cordell, Chris Sims, and Steve Townshend, based on original material by E. Gary Gygax and Dave Arneson.
-* Three Meet 1.0 Copyright 2020-2021, R.G Wood
+* Swords & Wizardry Core Rules, Copyright 2008 Matthew J. Finch. 13th Age, Copyright 2013 Fire Opal Media.
+* Low Fantasy Gaming (Original), Copyright Pickpocket Press 2016.
+* Three Meet 0.2.0 Copyright 2020-2021, R.G Wood

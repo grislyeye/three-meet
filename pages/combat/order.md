@@ -1,4 +1,10 @@
+<header>
+
 # Order of Combat
+
+<p class="subheading">Rule</p>
+
+</header>
 
 A typical combat encounter is a clash between two sides, a flurry of weapon swings, feints, parries, footwork, and spellcasting.
 
@@ -10,13 +16,19 @@ The game organizes the chaos of combat into a cycle of rounds and turns:
 The order of combat is as follows:
 
  1. Establish where all the characters and monsters are located
- 2. Roll [initiative](pages/combat/order.md?od=initiative) to determine the order of combatants' turns.
+ 2. Roll [initiative](pages/combat/order.md?id=initiative) to determine the order of combatants' turns.
  3. Each participant takes a turn in initiative order
  4. On your turn you can take one [move](pages/combat/moves.md) and one [attack](pages/combat/attacks.md)
  4. When everyone has had a turn, the round ends
  5. Repeat step 3 until fighting stops
 
+<header>
+
 ## Initiative
+
+<p class="subheading">Rule</p>
+
+</header>
 
 **Initiative** determines the order of turns during combat:
 

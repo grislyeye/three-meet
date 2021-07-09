@@ -1,43 +1,97 @@
+<header>
+
 # The Cunning
+
+<p class="subheading">Class</p>
+
+</header>
+
+| Level | Proficiency | Features  |
+| ----  | ----------- |- |
+| 1st   | +2          | Archetype, Expertise |
+
+### Starting Stats
 
 **Starting Health:** 8 + [Might](pages/characters/attributes.md?id=might)
 
-**Starting Equipment:** Leather Armour (Defence 11), Dagger (1d4), and a Crossbow (1d8)
+**Proficiencies:** Any 1 skill, [Cunning](pages/characters/attributes.md?id=cunning) [saves](pages/rules/rolling.md?id=saves)
 
-| Level | Proficiency | Class Features  |
-| ----  | ----------- |- |
-| 1st   | +2          | Cunning Attack, Archetype, Proficient: [Cunning](pages/characters/attributes.md?id=cunning) [saves](pages/rules/rolling.md?id=saves), Proficient: Any 1 Skill |
+**Starting Equipment:** Leather Armour (Defence 11), 2 Daggers (Melee 1d4, Ranged 1d4, Light), and a Crossbow (Ranged 1d8)
 
-### Cunning Attack
-
-You can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage.
+<header>
 
 ### Archetype
 
-Choose an archetype and gain it's features. The Cunning archetypes include: Archer, and Rogue.
+<p class="subheading">1st-level Cunning class feature</p>
 
-## Archer
+</header>
 
-You are a skilled bowman, trained in bow and arrow. With a keen eye, you rarely miss your mark.
+Choose an archetype and gain its features. The Cunning archetypes include: [Shadow](pages/classes/cunning.md?id=shadow).
 
-| Level | Archetype Features |
-| ----  | ------------------ |
-| 1st   | Archery, Aim, Proficient: Perception            |
+<header>
 
-### Aim
+### Expertise
 
-You can use a bonus action to line-up your shot on a particular target. Choose a creature you can see within range and mark it. For 1 minute you don't need advantage on your **cunning attack** for ranged attacks against the marked target, if you don't have disadvantage on your attack.
+<p class="subheading">1st-level Cunning class feature</p>
 
-You can only mark one target at a time.
+</header>
 
-## Rogue
+Choose two of your skill or tool proficiencies. Your proficiency bonus is doubled for [checks](pages/rules/rolling.md?id=checks) with these proficiencies.
 
-You play fast and dirty, hiding in shadows and darting out to attack.
+<header>
 
-| Level | Archetype Features |
+## Shadow
+
+<p class="subheading">Cunning archetype</p>
+
+</header>
+
+You play fast and deadly, hiding in shadows and darting out to attack.
+
+| Level | Features |
 | ----  | - |
-| 1st   | Proficient: Stealth, Sneak Attack |
+| 1st   | Sneak Attack |
+
+<header>
+
+### Starting Stats
+
+**Proficiencies:** Stealth
 
 ### Sneak Attack
 
-You don't need advantage on your **cunning attack** if another enemy of the target is within 5 feet of it, that enemy isn't incapacitated, and you don't have disadvantage on the attack roll.
+<p class="subheading">1st-level Rogue archetypes feature</p>
+
+</header>
+
+You can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll.
+
+You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't incapacitated, and you don't have disadvantage on the attack roll.
+
+## Swashbuckler
+
+<p class="subheading">Cunning archetype</p>
+
+</header>
+
+You play fast and deadly, hiding in shadows and darting out to attack.
+
+| Level | Features |
+| ----  | - |
+| 1st   | s |
+
+<header>
+
+### Starting Stats
+
+**Proficiencies:** Acrobatics
+
+### Sneak Attack
+
+<p class="subheading">1st-level Swashbuckler archetypes feature</p>
+
+</header>
+
+You can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll.
+
+You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't incapacitated, and you don't have disadvantage on the attack roll.
