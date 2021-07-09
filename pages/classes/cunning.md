@@ -8,7 +8,7 @@
 
 | Level | Proficiency | Features  |
 | ----  | ----------- |- |
-| 1st   | +2          | Archetype, Expertise |
+| 1st   | +2          | Archetype, Expertise, Cunning Attack |
 
 ### Starting Stats
 
@@ -20,13 +20,15 @@
 
 <header>
 
-### Archetype
+### Cunnning Attack
 
 <p class="subheading">1st-level Cunning class feature</p>
 
 </header>
 
-Choose an archetype and gain its features. The Cunning archetypes include: [Shadow](pages/classes/cunning.md?id=shadow).
+You can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll.
+
+<header>
 
 <header>
 
@@ -37,6 +39,14 @@ Choose an archetype and gain its features. The Cunning archetypes include: [Shad
 </header>
 
 Choose two of your skill or tool proficiencies. Your proficiency bonus is doubled for [checks](pages/rules/rolling.md?id=checks) with these proficiencies.
+
+### Archetype
+
+<p class="subheading">1st-level Cunning class feature</p>
+
+</header>
+
+Choose an archetype and gain its features. The Cunning archetypes include: [Shadow](pages/classes/cunning.md?id=shadow) and [Swashbuckler](pages/classes/cunning.md?id=swashbuckler).
 
 <header>
 
@@ -64,9 +74,7 @@ You play fast and deadly, hiding in shadows and darting out to attack.
 
 </header>
 
-You can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll.
-
-You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't incapacitated, and you don't have disadvantage on the attack roll.
+You can use your **Cunning Attack** on a target if it is **Engaged** with an enemy.
 
 ## Swashbuckler
 
@@ -78,7 +86,7 @@ You play fast and deadly, hiding in shadows and darting out to attack.
 
 | Level | Features |
 | ----  | - |
-| 1st   | s |
+| 1st   | Acrobatic Attack |
 
 <header>
 
@@ -86,12 +94,10 @@ You play fast and deadly, hiding in shadows and darting out to attack.
 
 **Proficiencies:** Acrobatics
 
-### Sneak Attack
+### Acrobatic Attack
 
 <p class="subheading">1st-level Swashbuckler archetypes feature</p>
 
 </header>
 
-You can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll.
-
-You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't incapacitated, and you don't have disadvantage on the attack roll.
+If you did not start your turn within reach of a target, you can use your **Cunning Attack**. You must be attacking with a **Finesse Melee Weapon**
