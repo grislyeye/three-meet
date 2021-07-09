@@ -28,41 +28,7 @@ Your noble upbringing gave you access to tutors, and other idle pursuits like ho
 
 </header>
 
-Choose a speciality and gain its features. Noble specialities include: **Bastard**, **Courtier**, **Knight**, and **Scion**.
-
-<header>
-
-## Bastard
-
-<p class="subheading">Speciality</p>
-
-</header>
-
-<header>
-
-## Courtier
-
-<p class="subheading">Speciality</p>
-
-</header>
-
-<header>
-
-## Knight
-
-<p class="subheading">Speciality</p>
-
-</header>
-
-<header>
-
-### Squire
-
-<p class="subheading">1st-level Knight speciality feature</p>
-
-</header>
-
-You are accompanied by a **Squire (d10 Retainer, Armed)**.
+Choose a speciality and gain its features. Noble specialities include **Scion**.
 
 <header>
 
@@ -86,4 +52,4 @@ You are the child of a high-ranking noble, perhaps a baron or even a monarch. Yo
 
 </header>
 
-You are accompanied by a **Servant (d8 Retainer, Attends, Equipped)**.
+You are accompanied by a **Servant (d8 Support Retainer, Equipped)**.
