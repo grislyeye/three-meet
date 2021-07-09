@@ -28,7 +28,15 @@ Your noble upbringing gave you access to tutors, and other idle pursuits like ho
 
 </header>
 
-Choose a speciality and gain its features. Noble specialities include **Scion**.
+Choose a speciality and gain its features. Noble specialities include **Courtier** and **Scion**.
+
+<header>
+
+## Courtier
+
+<p class="subheading">Speciality</p>
+
+</header>
 
 <header>
 
