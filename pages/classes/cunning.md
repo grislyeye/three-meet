@@ -82,8 +82,6 @@ You can use your **Cunning Attack** on a target if it is **Engaged** with an ene
 
 </header>
 
-You play fast and deadly, hiding in shadows and darting out to attack.
-
 | Level | Features |
 | ----  | - |
 | 1st   | Acrobatic Attack |
