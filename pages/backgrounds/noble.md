@@ -28,7 +28,23 @@ Your noble upbringing gave you access to tutors, and other idle pursuits like ho
 
 </header>
 
-Choose a speciality and gain its features. Noble specialities include **Scion**.
+Choose a speciality and gain its features. Noble specialities include: **Knight**, and **Scion**.
+
+## Knight
+
+<p class="subheading">Speciality</p>
+
+</header>
+
+<header>
+
+### Squire
+
+<p class="subheading">1st-level Knight speciality feature</p>
+
+</header>
+
+You are accompanied by a **Squire (d10 Retainer, Armed)**.
 
 <header>
 
