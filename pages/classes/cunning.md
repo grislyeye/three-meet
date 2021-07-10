@@ -64,7 +64,7 @@ You play fast and deadly, hiding in shadows and darting out to attack.
 
 ### Starting Stats
 
-**Proficiencies:** Stealth
+**Proficiencies:** Perception, Stealth
 
 ### Sneak Attack
 
