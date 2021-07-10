@@ -42,7 +42,7 @@ Choose a speciality and gain its features. Noble specialities include **Scion**.
 | ----------------- | - |
 | 1st               | Servant |
 
-You are the descendant of a wealthy family. You've led an idle life, and stand to inherit and inherit well. Which brings its own problems...
+You are the descendant of a wealthy family.
 
 <header>
 
