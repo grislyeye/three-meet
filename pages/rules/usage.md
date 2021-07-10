@@ -1,4 +1,10 @@
+<header>
+
 # Usage Die
+
+<p class="subheading">Rule</p>
+
+</header>
 
 Usage die are used to represent consumable, limited item and resources. Usage die can be d4s, d6s, d8s, d10s, d12s and d20s. When that item or resource is used its usage die is rolled.
 
