@@ -30,8 +30,6 @@ You can deal an extra 1d6 damage to one creature you hit with an attack if you h
 
 <header>
 
-<header>
-
 ### Expertise
 
 <p class="subheading">1st-level Cunning class feature</p>
