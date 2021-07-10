@@ -22,6 +22,7 @@
   + [Attacks](pages/combat/attacks.md)
   + [Health](pages/combat/health.md)
 * Equipment
+  * [Retainers](pages/equipment/retainers.md)
   * [Wealth](pages/equipment/wealth.md)
 + Colophon
   + [Design Notes](design-notes.md)
