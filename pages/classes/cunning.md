@@ -26,7 +26,7 @@
 
 </header>
 
-You can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll.
+You can deal an extra 1d6 damage to one creature you hit with an attack, if you have advantage on the attack roll. You must be wielding a **Finesse Weapon**.
 
 <header>
 
@@ -44,7 +44,7 @@ Choose two of your skill or tool proficiencies. Your proficiency bonus is double
 
 </header>
 
-Choose an archetype and gain its features. The Cunning archetypes include: [Shadow](pages/classes/cunning.md?id=shadow) and [Swashbuckler](pages/classes/cunning.md?id=swashbuckler).
+Choose an archetype and gain its features. **The Cunning** archetypes include: [Shadow](pages/classes/cunning.md?id=shadow) and [Swashbuckler](pages/classes/cunning.md?id=swashbuckler).
 
 <header>
 
