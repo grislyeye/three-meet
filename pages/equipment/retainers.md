@@ -25,11 +25,15 @@ To **Replenish** your **Retainer** you can:
   <tbody>
     <tr>
       <td>Companion</td>
-      <td>Supply</td>
+      <td>Errand, Supply</td>
     </tr>
     <tr>
       <td>Contact</td>
       <td>Investigate</td>
+    </tr>
+    <tr>
+      <td>Guard</td>
+      <td>Attack</td>
     </tr>
   </tbody>
 </table>
@@ -37,6 +41,22 @@ To **Replenish** your **Retainer** you can:
 ## Actions
 
 <section class="small summaries">
+
+<section class="summary">
+
+## Attack
+
+Your **Retainer** fights on your behalf for one combat.
+
+</section>
+
+<section class="summary">
+
+## Errand
+
+Your **Retainer** performs a simple task on your behalf.
+
+</section>
 
 <section class="summary">
 
