@@ -76,24 +76,26 @@ You can use your **Cunning Attack** on a target if it is **Engaged** with an ene
 
 ## Swashbuckler
 
+With wit, flair, and fancy footwork you run rings around your opponents.
+
 <p class="subheading">Cunning archetype</p>
 
 </header>
 
 | Level | Features |
 | ----  | - |
-| 1st   | Acrobatic Attack |
+| 1st   | Riposte |
 
 <header>
 
 ### Starting Stats
 
-**Proficiencies:** Acrobatics
+**Proficiencies:** Deception, Acrobatics
 
-### Acrobatic Attack
+### Riposte
 
 <p class="subheading">1st-level Swashbuckler archetypes feature</p>
 
 </header>
 
-If you did not start your turn within reach of a target, you can use your **Cunning Attack**. You must be attacking with a **Finesse Melee Weapon**
+You can make a cutting remark that puts your opponent on the back foot. As a **Bonus Action** you can make an **Opposed** [Deception](pages/characters/skills.md?id=deception) [Check](pages/rules/rolling.md#checks), contested by your opponent's [Deception](pages/characters/skills.md?id=deception). If you succeed you can use your [Cunning Attack](#cunning-attack) against your opponent.
