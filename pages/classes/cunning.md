@@ -20,7 +20,7 @@
 
 <header>
 
-### Cunnning Attack
+### Cunning Attack
 
 <p class="subheading">1st-level Cunning class feature</p>
 
