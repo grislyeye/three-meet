@@ -26,7 +26,7 @@
 
 </header>
 
-You can deal an extra 1d6 damage to one creature you hit with an attack, if you have advantage on the attack roll. You must be wielding a **Finesse Weapon**.
+You can deal an extra 1d6 damage to one creature you hit with an attack, if you have advantage on the attack roll. You must be wielding a **Finesse or Ranged Weapon** for your attack.
 
 <header>
 
