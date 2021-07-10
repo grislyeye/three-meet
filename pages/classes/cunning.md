@@ -76,7 +76,7 @@ You can use your **Cunning Attack** on a target if it is **Engaged** with an ene
 
 ## Swashbuckler
 
-With wit, flair, and fancy footwork you run rings around your opponents.
+With wit, flair, and fancy footwork, you run rings around your opponents.
 
 <p class="subheading">Cunning archetype</p>
 
@@ -98,4 +98,4 @@ With wit, flair, and fancy footwork you run rings around your opponents.
 
 </header>
 
-You can make a cutting remark that puts your opponent on the back foot. As a **Bonus Action** you can make an **Opposed** [Deception](pages/characters/skills.md?id=deception) [Check](pages/rules/rolling.md#checks), contested by your opponent's [Deception](pages/characters/skills.md?id=deception). If you succeed you can use your [Cunning Attack](#cunning-attack) against your opponent.
+You can make a cutting remark that puts your opponent on the back foot. As a **Bonus Action** you can make an **Opposed** [Deception](pages/characters/skills.md?id=deception) [Check](pages/rules/rolling.md#checks), contested by your opponent's [Deception](pages/characters/skills.md?id=deception). If you succeed, you can use your [Cunning Attack](#cunning-attack) against your opponent.
