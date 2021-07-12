@@ -14,6 +14,7 @@
   + [Rolling](pages/rules/rolling.md)
   + [Advantage/Disadvantage](pages/rules/advantage.md)
   + [Proficiency](pages/rules/proficiency.md)
+  * [Usage Die](pages/rules/usage.md)
   + [Rests](pages/rules/rests.md)
   + [Conditions](pages/rules/conditions.md)
 + Combat
@@ -21,6 +22,9 @@
   + [Moves](pages/combat/moves.md)
   + [Attacks](pages/combat/attacks.md)
   + [Health](pages/combat/health.md)
+* Equipment
+  * [Retainers](pages/equipment/retainers.md)
+  * [Wealth](pages/equipment/wealth.md)
 + Colophon
   + [Design Notes](design-notes.md)
   + [Contributing](contributing.md)
