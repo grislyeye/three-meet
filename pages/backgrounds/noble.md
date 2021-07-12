@@ -38,11 +38,11 @@ Choose a speciality and gain its features. Noble specialities include **Scion**.
 
 </header>
 
+You are the descendant of a wealthy family.
+
 | Level             | Features    |
 | ----------------- | - |
 | 1st               | Servant |
-
-You are the descendant of a wealthy family.
 
 <header>
 
