@@ -8,7 +8,7 @@
 
 | Level | Proficiency | Features  |
 | ----  | ----------- |- |
-| 1st   | +2          | Archetype, Expertise |
+| 1st   | +2          | Archetype, Expertise, Cunning Attack |
 
 ### Starting Stats
 
@@ -20,13 +20,13 @@
 
 <header>
 
-### Archetype
+### Cunning Attack
 
 <p class="subheading">1st-level Cunning class feature</p>
 
 </header>
 
-Choose an archetype and gain its features. The Cunning archetypes include: [Shadow](pages/classes/cunning.md?id=shadow).
+You can deal an extra 1d6 damage to one creature you hit with an attack, if you have advantage on the attack roll. You must be wielding a **Finesse or Ranged Weapon** for your attack.
 
 <header>
 
@@ -37,6 +37,14 @@ Choose an archetype and gain its features. The Cunning archetypes include: [Shad
 </header>
 
 Choose two of your skill or tool proficiencies. Your proficiency bonus is doubled for [checks](pages/rules/rolling.md?id=checks) with these proficiencies.
+
+### Archetype
+
+<p class="subheading">1st-level Cunning class feature</p>
+
+</header>
+
+Choose an archetype and gain its features. **The Cunning** archetypes include: [Shadow](pages/classes/cunning.md?id=shadow) and [Swashbuckler](pages/classes/cunning.md?id=swashbuckler).
 
 <header>
 
@@ -56,7 +64,7 @@ You play fast and deadly, hiding in shadows and darting out to attack.
 
 ### Starting Stats
 
-**Proficiencies:** Stealth
+**Proficiencies:** Perception, Stealth
 
 ### Sneak Attack
 
@@ -64,6 +72,30 @@ You play fast and deadly, hiding in shadows and darting out to attack.
 
 </header>
 
-You can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll.
+You can use your **Cunning Attack** on a target if it is **Engaged** with an enemy.
 
-You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't incapacitated, and you don't have disadvantage on the attack roll.
+## Swashbuckler
+
+With wit, flair, and fancy footwork, you run rings around your opponents.
+
+<p class="subheading">Cunning archetype</p>
+
+</header>
+
+| Level | Features |
+| ----  | - |
+| 1st   | Riposte |
+
+<header>
+
+### Starting Stats
+
+**Proficiencies:** Deception, Acrobatics
+
+### Riposte
+
+<p class="subheading">1st-level Swashbuckler archetypes feature</p>
+
+</header>
+
+You can make a cutting remark that puts your opponent on the back foot. As a **Bonus Action** you can make an **Opposed** [Deception](pages/characters/skills.md?id=deception) [Check](pages/rules/rolling.md#checks), contested by your opponent's [Deception](pages/characters/skills.md?id=deception). If you succeed, you can use your [Cunning Attack](#cunning-attack) against your opponent.
