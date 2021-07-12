@@ -6,6 +6,8 @@
 
 </header>
 
+You are high-born, a member of the second estate.
+
 | Level             | Background Features    |
 | ----------------- | - |
 | 1st               | +1 [Cunning](pages/characters/attributes.md?id=cunning), Proficient: Persuasion, Privilege, Speciality |
