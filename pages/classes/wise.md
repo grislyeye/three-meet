@@ -12,7 +12,7 @@
 
 ### Starting Stats
 
-**Starting Health:** 6 + [Might](pages/characters/attributes.md?id=might)
+**Starting Health:** 8 + [Might](pages/characters/attributes.md?id=might)
 
 **Proficiencies:** Insight, [Wisdom](pages/characters/attributes.md?id=wisdom) [saves](rules/rolling.md?id=saves)
 
