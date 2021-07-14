@@ -42,7 +42,7 @@ On your turn, you can regain [Health](pages/combat/health.md) equal to 1d10 + yo
 
 </header>
 
-Choose an archetype and gain it's features. The Mighty archetypes include: [Berserker](pages/classes/mighty.md?id=berserker).
+Choose an archetype and gain it's features. The Mighty archetypes include: [Berserker](pages/classes/mighty.md?id=berserker) and [Defender](pages/classes/mighty.md?id=defender).
 
 <header>
 
@@ -82,3 +82,37 @@ On your turn, you can use your surge to enter a rage as a bonus action. While ra
  + You take half damage from [Attacks](pages/combat/attacks).
 
 Your rage lasts for 1 minute.
+
+<header>
+
+## Defender
+
+<p class="subheading">Mighty archetype</p>
+
+</header>
+
+You fight to protect. Cleaving close to your allies, you intercept attacks so they can continue to deal damage.
+
+| Level | Archetype Features |
+| ----  | ------------------ |
+| 1st   | Defend, Surge: Block, Proficient: Intimidation         |
+
+<header>
+
+### Defend
+
+<p class="subheading">1st-level Defender archetype feature</p>
+
+</header>
+
+You can use your [Reaction](pages/combat/actions.md?id=reaction) to impose disadvantage on an [Attack](pages/combat/attacks.md) that targets an ally. The target must be within 5 feet of you, and you must be wielding a melee weapon or shield.
+
+<header>
+
+### Surge: Block
+
+<p class="subheading">1st-level Defender archetype feature</p>
+
+</header>
+
+You can use your [Reaction](pages/combat/actions.md?id=reaction) to reduce the damage from an [Attack](pages/combat/attacks.md) that targets an ally by <strong>1d10 + your Level</strong>. The target must be within 5 feet of you, and you must be wielding a melee weapon or shield.
