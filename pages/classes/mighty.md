@@ -42,7 +42,48 @@ On your turn, you can regain [Health](pages/combat/health.md) equal to 1d10 + yo
 
 </header>
 
-Choose an archetype and gain it's features. The Mighty archetypes include: [Defender](pages/classes/mighty.md?id=defender).
+Choose an archetype and gain it's features. The Mighty archetypes include: [Berserker](pages/classes/mighty.md?id=berserker) and [Defender](pages/classes/mighty.md?id=defender).
+
+<header>
+
+## Berserker
+
+<p class="subheading">Mighty archetype</p>
+
+</header>
+
+You fight with blind fury, without regard for your own safety.
+
+| Level | Archetype Features |
+| ----  | ------------------ |
+| 1st   | Savagery, Surge: Rage, Proficient: Intimidation |
+
+<header>
+
+### Savagery
+
+<p class="subheading">1st-level Berserker archetype feature</p>
+
+</header>
+
+When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon, you can reroll the die.
+
+<header>
+
+### Surge: Rage
+
+<p class="subheading">1st-level Berserker archetype feature</p>
+
+</header>
+
+On your turn, you can use your surge to enter a rage as a bonus action. While raging, you gain the following benefits:
+
+ + You have advantage on [Might](pages/characters/attributes/might.md) [checks](pages/rules/rolling.md?id=checks) and [saves](pages/rules/rolling.md?id=saves).
+ + You take half damage from [Attacks](pages/combat/attacks).
+
+Your rage lasts for 1 minute.
+
+<header>
 
 ## Defender
 
