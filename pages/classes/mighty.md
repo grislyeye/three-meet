@@ -76,4 +76,4 @@ You can use your [Reaction](pages/combat/actions.md?id=reaction) to impose disad
 
 </header>
 
-You can use your [Reaction](pages/combat/actions.md?id=reaction) to reduce the damage from an [Attack](pages/combat/attacks.md) that targets an ally by <strong>1d10 + Proficiency</strong>. The target must be within 5 feet of you, and you must be wielding a melee weapon or shield.
+You can use your [Reaction](pages/combat/actions.md?id=reaction) to reduce the damage from an [Attack](pages/combat/attacks.md) that targets an ally by <strong>1d10 + your Level</strong>. The target must be within 5 feet of you, and you must be wielding a melee weapon or shield.
