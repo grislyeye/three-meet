@@ -25,7 +25,7 @@ To start playing:
 
 ### 2. Create a character
 
-  + Assign one of +2, 0 and -1 to each of your [attributes](pages/characters/attributes.md)
+  + Assign one of +2, +1 and -1 to each of your [attributes](pages/characters/attributes.md)
   + Choose a [background](pages/backgrounds/index.md)
   + You may choose a [magic speciality](pages/backgrounds/magic.md) if your GM allows
   + Choose a [class](pages/classes/index.md)

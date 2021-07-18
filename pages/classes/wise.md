@@ -8,7 +8,7 @@
 
 | Level | Proficiency | Class Features  |
 | ----  | ----------- |- |
-| 1st   | +2          | Archetype, Proficient: Insight, Proficient: [Wisdom](pages/characters/attributes.md?id=wisdom) [saves](pages/rules/rolling.md?id=saves) |
+| 1st   | +2          | +1 [Wisdom](pages/characters/attributes.md?id=wisdom), Archetype, Proficient: Insight, Proficient: [Wisdom](pages/characters/attributes.md?id=wisdom) [saves](pages/rules/rolling.md?id=saves) |
 
 ### Starting Stats
 

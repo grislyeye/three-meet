@@ -8,7 +8,7 @@
 
 | Level | Proficiency | Features  |
 | ----  | ----------- |- |
-| 1st   | +2          | Surge, Archetype |
+| 1st   | +2          | +1 [Might](pages/characters/attributes.md?id=might), Surge, Archetype |
 
 ### Starting Stats
 

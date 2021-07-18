@@ -8,7 +8,7 @@
 
 | Level | Proficiency | Features  |
 | ----  | ----------- |- |
-| 1st   | +2          | Archetype, Expertise, Cunning Attack |
+| 1st   | +2          | +1 [Cunning](pages/characters/attributes.md?id=cunning), Archetype, Expertise, Cunning Attack |
 
 ### Starting Stats
 
