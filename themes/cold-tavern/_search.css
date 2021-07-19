@@ -3,11 +3,11 @@
 }
 
 .search input {
-  color: white;
-  background-color: black;
+  color: black;
+  background-color: rgb(239, 239, 239);
   font-family: 'Alegreya Sans SC', sans-serif;
 }
 
 .search .matching-posts {
-  color: white;
+  color: black;
 }
