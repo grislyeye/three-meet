@@ -16,6 +16,10 @@
   color: black;
 }
 
+.sidebar-nav > ul {
+  margin-left: 3em;
+}
+
 .sidebar li {
   margin: 6px 0 6px 0;
 }
@@ -73,4 +77,5 @@
 
 .sidebar-toggle {
   background: black;
+  width: auto;
 }
