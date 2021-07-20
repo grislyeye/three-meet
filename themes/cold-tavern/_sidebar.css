@@ -16,10 +16,6 @@
   color: black;
 }
 
-.sidebar-nav > ul {
-  margin-left: 3em;
-}
-
 .sidebar li {
   margin: 6px 0 6px 0;
 }
@@ -76,6 +72,10 @@
 }
 
 .sidebar-toggle {
-  background: black;
   width: auto;
+  margin: 1em;
+  padding:  1em;
+  background-color: black;
+  border-radius: 50%;
+  position: fixed;
 }
