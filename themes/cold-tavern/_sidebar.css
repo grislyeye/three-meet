@@ -1,21 +1,20 @@
-.sidebar {
+main .sidebar {
+  background-color: rgb(239, 239, 239);
   border-right: 1px solid white;
+  z-index: 10;
 }
 
 .sidebar h1.app-name {
   font-family: 'Alegreya', serif;
   font-weight: bold;
-  color: white;
+  color: black;
   font-size: 32pt;
+  display: none;
 }
 
 .sidebar-nav {
   font-family: 'Alegreya', serif;
-  color: white;
-}
-
-.sidebar-nav > ul {
-  margin-left: 3em;
+  color: black;
 }
 
 .sidebar li {
@@ -23,20 +22,20 @@
 }
 
 .sidebar ul > li {
-  color: grey;
+  color: black;
   font-variant-caps: normal;
-  font-weight: normal;
+  font-weight: bold;
 }
 
 .sidebar .sidebar-nav > ul > li {
-  color: white;
-  font-size: 18px;
+  color: black;
+  font-size: 16px;
   font-weight: bold;
   font-variant-caps: small-caps;
 }
 
 .sidebar ul li a {
-  color: white;
+  color: black;
   font-weight: normal;
   overflow: hidden;
   text-decoration: none;
@@ -54,7 +53,7 @@
 }
 
 .sidebar-nav > ul > li > a {
-  color: white;
+  color: black;
   font-size: 18px;
   font-weight: bold;
   font-variant-caps: small-caps;
@@ -64,7 +63,7 @@
   border-right: 2px solid;
   font-weight: 600;
   text-decoration: none;
-  color: white;
+  color: black;
 }
 
 .app-sub-sidebar li::before {
@@ -73,7 +72,31 @@
   float: left;
 }
 
+body.sticky .sidebar-toggle {
+  top: 0;
+}
+
 .sidebar-toggle {
-  background: black;
   width: auto;
+  margin: 3em;
+  padding: 1em;
+  background-color: lightgray;
+  border-radius: 50%;
+  height: 50px;
+  z-index: 5;
+}
+
+.sidebar-toggle-button {
+  width: 24px;
+  height: 24px;
+}
+
+.sidebar-toggle-button:before {
+  font-family: "Font Awesome 5 Free";
+  content: "\f0c9";
+  font-size: 20px;
+}
+
+.sidebar-toggle span {
+  display: none;
 }
