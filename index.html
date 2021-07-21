@@ -10,7 +10,7 @@
   <link rel="stylesheet" href="https://unpkg.com/@fortawesome/fontawesome-free/css/fontawesome.css" />
   <link rel="stylesheet" href="https://unpkg.com/@fortawesome/fontawesome-free/css/solid.css" />
 </head>
-<body>
+<body class="close">
   <div id="app"></div>
   <script>
     window.$docsify = {
@@ -41,8 +41,6 @@
       document.onkeydown = (event) => {
         if (event.key == "Escape" && !body.classList.contains("close")) sidebarToggleButton.click()
       }
-
-      sidebarToggleButton.click()
     }, 1000)
   </script>
 
