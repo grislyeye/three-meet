@@ -1,19 +1,27 @@
 .search {
-  font-family: 'Alegreya Sans SC', sans-serif;
+  font-family: 'Alegreya', sans-serif;
 }
 
 .sidebar .search input {
   color: black;
   background-color: rgb(239, 239, 239);
-  font-family: 'Alegreya Sans SC', sans-serif;
   border: 1px solid darkgrey;
+  font-family: 'Alegreya Sans SC', sans-serif;
 }
 
 .sidebar .search .matching-post {
-  color: black;
+  color: darkgrey;
   border-bottom: 1px solid darkgrey;
 }
 
 .sidebar .search .matching-post:last-child {
   border-bottom: 1px solid darkgrey;
+}
+
+.sidebar .search .matching-post a:hover {
+  color: black;
+}
+
+.sidebar .search .matching-post .search-keyword {
+  color: black;
 }
