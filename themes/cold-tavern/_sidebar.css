@@ -2,7 +2,7 @@ main .sidebar {
   background-color: rgb(239, 239, 239);
   border-right: 1px solid white;
   font-weight: bold;
-  padding-top: 100px;
+  z-index: 10;
 }
 
 .sidebar h1.app-name {
@@ -84,6 +84,7 @@ body.sticky .sidebar-toggle {
   background-color: lightgray;
   border-radius: 50%;
   height: 50px;
+  z-index: 5;
 }
 
 .sidebar-toggle-button {
