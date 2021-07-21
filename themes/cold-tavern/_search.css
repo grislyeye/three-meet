@@ -2,12 +2,25 @@
   font-family: 'Alegreya Sans SC', sans-serif;
 }
 
-.search input {
-  color: black;
+.sidebar .search input {
+  color: darkgrey;
   background-color: rgb(239, 239, 239);
   font-family: 'Alegreya Sans SC', sans-serif;
+  border: 1px solid darkgrey;
+  margin: 1em;
+}
+
+.sidebar .search input:focus {
+  color: black;
+  border: 1px solid black;
 }
 
 .search .matching-posts {
   color: black;
+}
+
+.results-panel {
+  border: 1px solid darkgrey;
+  margin: 1em;
+  padding: 1em;
 }
