@@ -1,0 +1,24 @@
+nav.app-nav {
+  font-family: 'Alegreya', serif;
+  color: white;
+}
+
+nav.app-nav h2 {
+  font-weight: bold;
+  font-size: 15em;
+  margin: 0;
+  writing-mode: vertical-rl;
+  text-orientation: mixed;
+  margin-right: 1em;
+  color: #565656;
+  white-space: nowrap;
+}
+
+nav.app-nav h2 a {
+  color: inherit;
+  text-decoration: none;
+}
+
+nav.app-nav .anchor {
+  display: none;
+}

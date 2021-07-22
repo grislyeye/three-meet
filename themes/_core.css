@@ -105,17 +105,7 @@ li input[type='checkbox'] {
   list-style: none;
   margin: 0;
 }
-.app-nav a {
-  color: inherit;
-  font-size: 16px;
-  text-decoration: none;
-  transition: color 0.3s;
-}
 .app-nav a:hover {
-  color: var(--theme-color, #0074d9);
-}
-.app-nav a.active {
-  border-bottom: 2px solid var(--theme-color, #0074d9);
   color: var(--theme-color, #0074d9);
 }
 .app-nav li {
