@@ -80,7 +80,7 @@ You can cast the rituals below. A ritual takes 10 minutes to cast.
 
 </header>
 
-You make yourself, including your clothing, armour, weapons, and other belongings on your person, look different for 1 hour, or until you dismiss the disguise. A creature examining you closely can discern you are disguised on a successful [Investigation](pages/characters/skills.md?id=investigation) [check](pages/rules/rolling.md?id=checks) (Difficulty 10). If they succeed your disguise vanishes.
+You make yourself, including your clothing, armour, weapons, and other belongings on your person, look different for 1 hour, or until you dismiss the disguise. A creature examining you closely can discern you are disguised on a successful [Investigation](pages/characters/skills.md?id=investigation) [Check](pages/rules/rolling.md?id=checks) (Difficulty 10). If they succeed your disguise vanishes.
 
 </section>
 
