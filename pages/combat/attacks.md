@@ -9,18 +9,18 @@
 You can make one attack per turn. When you make an attack:
 
  1. Choose a target
- 2. Make a [roll](pages/rules/rolling.md?id=checks)
+ 2. Make a [Check](pages/rules/rolling.md?id=checks)
  3. Add your [Proficiency](pages/rules/proficiency.md) if you are proficient with the attack
  4. The difficulty is the opponent's **Defence**
  5. If you hit roll for damage
 
-When making a **melee attack** add your [Might](pages/characters/attributes.md?id=might) to the roll and damage.
+When making a **Melee Attack** add your [Might](pages/characters/attributes.md?id=might) to the roll and damage.
 
-When making a **ranged attack** add your [Cunning](pages/characters/attributes.md?id=cunning) to the roll and damage.
+When making a **Ranged Attack** add your [Cunning](pages/characters/attributes.md?id=cunning) to the roll and damage.
 
 ### Describing Attacks
 
-Attacks are described by a number of **tags** listed in parenthesis after it's name. For example, Longsword (Melee 1d8, Versatile 1d10) is a weapon that can make a versatile, melee attack.
+Attacks are described by a number of **Tags** listed in parenthesis after it's name. For example, Longsword (Melee 1d8, Versatile 1d10) is a weapon that can make a versatile, melee attack.
 
 | Tag       | Description |
 | --------- | - |

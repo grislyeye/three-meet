@@ -25,11 +25,11 @@ To start playing:
 
 ### 2. Create a character
 
-  + Assign one of +2, +1 and -1 to each of your [attributes](pages/characters/attributes.md)
-  + Choose a [background](pages/backgrounds/index.md)
-  + You may choose a [magic speciality](pages/backgrounds/magic.md) if your GM allows
-  + Choose a [class](pages/classes/index.md)
-  + Describe your [character](pages/characters/describing.md)
+  + Assign one of +2, +1 and -1 to each of your [Attributes](pages/characters/attributes.md)
+  + Choose a [Background](pages/backgrounds/index.md)
+  + You may choose a [Magic Speciality](pages/backgrounds/magic.md) if your GM allows
+  + Choose a [Class](pages/classes/index.md)
+  + Describe your [Character](pages/characters/describing.md)
 
 </section>
 
@@ -37,8 +37,8 @@ To start playing:
 
 ### 3. Learn the rules
 
-  + Read the [basic rules](pages/rules.md)
-  + Read the [combat rules](pages/combat.md)
+  + Read the [Basic Rules](pages/rules.md)
+  + Read the [Combat Rules](pages/combat.md)
 
 </section>
 
