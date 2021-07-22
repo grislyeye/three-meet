@@ -52,6 +52,12 @@ $ npm run itch:deploy
 
 **Note:** Three Meet uses [semantic versioning](https://semver.org/).
 
+## Style Guide
+
+ 1. Key terms should be in bold and capitalised for emphasis, e.g. **Proficiency**.
+ 2. Key terms should be linked, e.g. [Proficiency]().
+ 3. Avoid using too many key terms in a text block to avoid visual overload.
+
 ## Future Work
 
 My main design goal with **Three Meet** is to keep things focussed and simple, while not losing the solid 5E core rules.
