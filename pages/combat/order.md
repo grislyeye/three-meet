@@ -18,7 +18,7 @@ The order of combat is as follows:
  1. Establish where all the characters and monsters are located.
  2. Roll [Initiative](pages/combat/order.md?id=initiative) to determine the order of combatants' turns.
  3. Each participant takes a **Turn** in initiative order.
- 4. On your **Turn** you can take one [Move](pages/combat/moves.md) and one [Attack](pages/combat/attacks.md).
+ 4. On your **Turn** you can take one [Move](pages/combat/moves.md), one [Attack](pages/combat/attacks.md), and one [Bonus Action](pages/combat/bonus-actions.md).
  4. When everyone has had a **Turn**, the **Round** ends.
  5. Repeat step 3 until fighting stops.
 

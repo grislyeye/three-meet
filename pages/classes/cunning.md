@@ -26,7 +26,7 @@
 
 </header>
 
-You can deal an extra 1d6 damage to one creature you hit with an attack, if you have advantage on the attack roll. You must be wielding a **Finesse or Ranged Weapon** for your attack.
+You can deal an extra 1d6 damage to one creature you hit with an attack, if you have advantage on the attack roll. You must be wielding a [Finesse](pages/combat/attacks.md?id=describing-attacks) or [Ranged Attack](pages/combat/attacks.md?id=describing-attacks) weapon.
 
 <header>
 
@@ -72,7 +72,7 @@ You play fast and deadly, hiding in shadows and darting out to attack.
 
 </header>
 
-You can use your **Cunning Attack** on a target if it is **Engaged** with an enemy.
+You can use your **Cunning Attack** on a target if it is close to an ally.
 
 ## Swashbuckler
 
@@ -98,4 +98,4 @@ With wit, flair, and fancy footwork, you run rings around your opponents.
 
 </header>
 
-You can make a cutting remark that puts your opponent on the back foot. As a **Bonus Action** you can make an **Opposed** [Deception](pages/characters/skills.md?id=deception) [Check](pages/rules/rolling.md#checks), contested by your opponent's [Deception](pages/characters/skills.md?id=deception). If you succeed, you can use your [Cunning Attack](#cunning-attack) against your opponent.
+You can make a cutting remark that puts your opponent on the back foot. As a [Bonus Action](pages/combat/bonus-actions.md) you can make an [Deception Contest](pages/rules/rolling.md#contests), contested by your opponent's [Deception](pages/characters/skills.md?id=deception). If you succeed, you can use your [Cunning Attack](#cunning-attack) against your opponent.

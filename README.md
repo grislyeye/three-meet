@@ -37,8 +37,8 @@ To start playing:
 
 ### 3. Learn the rules
 
-  + Read the [Basic Rules](pages/rules.md)
-  + Read the [Combat Rules](pages/combat.md)
+  + Read the [Basic Rules](pages/rules/rolling.md)
+  + Read the [Combat Rules](pages/combat/order.md)
 
 </section>
 

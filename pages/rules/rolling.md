@@ -9,6 +9,7 @@
 In Three Meet you'll be asked to roll d4s, d8s, d10s, d12s, d20s and d100s. There are three main rolls:
 
  * [Checks](pages/rules/rolling.md?id=checks)
+ * [Contests](pages/rules/rolling.md?id=contests)
  * [Saves](pages/rules/rolling.md?id=saves)
  * [Attacks](pages/combat/attacks.md)
 
@@ -66,6 +67,22 @@ He fails the roll, and the guard remains unconvinced.
 </div>
 
 A **Check** tests your innate talent and training to overcome a challenge.
+
+<header>
+
+## Contests
+
+<p class="subheading">Rule</p>
+
+</header>
+
+Sometimes your efforts are directly opposed by another creature. When this happens you can make a **Contest**:
+
+  1. Both participants make a **Check**
+  2. Compare the total of the two **Checks**:
+    1. If your total is greater than your opponent's you win the **Contest**
+    2. If your total is less than your opponent's you lose
+    3. If your totals are equal the situation remains unchanged
 
 <header>
 
