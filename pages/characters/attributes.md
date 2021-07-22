@@ -6,11 +6,11 @@
 
 </header>
 
-All creatures are described by 3 **attributes** representing their physical and mental characteristics:
+All creatures are described by three **Attributes** representing their physical and mental characteristics:
 
 **Attributes** are:
 
- * Used for [checks, attacks and saves](pages/rules/rolling.md)
+ * Used for [Checks, Attacks and Saves](pages/rules/rolling.md)
  * Rated from -5 to +8
  * 0 is average
  * -2 to +4 is the range for most characters

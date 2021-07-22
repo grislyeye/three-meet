@@ -14,7 +14,7 @@
 
 **Starting Health:** 10 + [Might](pages/characters/attributes.md?id=might)
 
-**Proficiencies:** Athletics, [Might](pages/characters/attributes.md?id=might) [saves](rules/rolling.md?id=saves), all armor, shields, simple weapons, and martial weapons
+**Proficiencies:** Athletics, [Might](pages/characters/attributes.md?id=might) [Saves](rules/rolling.md?id=saves), all armor, shields, simple weapons, and martial weapons
 
 **Starting Equipment:** Chain Mail (Defence 16), Shield (+2 Defence), Longsword (Melee 1d8, Versatile 1d10), and a Shortbow (Ranged 1d8)
 
@@ -32,7 +32,7 @@ When you use your Surge, you choose which feat to use. You must then finish a re
 
 #### Surge: Second Wind
 
-On your turn, you can regain [Health](pages/combat/health.md) equal to 1d10 + your level.
+On your turn, you can regain [Health](pages/combat/health.md) equal to **1d10 + your level**.
 
 <header>
 
@@ -74,4 +74,4 @@ You can use your [Reaction](pages/combat/actions.md?id=reaction) to impose disad
 
 </header>
 
-You can use your [Reaction](pages/combat/actions.md?id=reaction) to reduce the damage from an [Attack](pages/combat/attacks.md) that targets an ally by <strong>1d10 + your Level</strong>. The target must be within 5 feet of you, and you must be wielding a melee weapon or shield.
+You can use your [Reaction](pages/combat/actions.md?id=reaction) to reduce the damage from an [Attack](pages/combat/attacks.md) that targets an ally by 1d10 + your Level. The target must be within 5 feet of you, and you must be wielding a melee weapon or shield.

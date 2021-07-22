@@ -14,7 +14,7 @@
 
 **Starting Health:** 8 + [Might](pages/characters/attributes.md?id=might)
 
-**Proficiencies:** Any 1 skill, [Cunning](pages/characters/attributes.md?id=cunning) [saves](pages/rules/rolling.md?id=saves)
+**Proficiencies:** Any 1 skill, [Cunning](pages/characters/attributes.md?id=cunning) [Saves](pages/rules/rolling.md?id=saves)
 
 **Starting Equipment:** Leather Armour (Defence 11), 2 Daggers (Melee 1d4, Ranged 1d4, Light), and a Crossbow (Ranged 1d8)
 
