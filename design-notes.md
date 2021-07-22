@@ -26,7 +26,7 @@ Magical creatures are extremely rare, and many mechanics from spells and monster
 
 ### Meaningful Terms
 
-5E comes with a lot of obscure terminology, like HP, saving throws and AC. Three Meet uses natural language terms, such as [Health](pages/combat/health.md) or [saves](pages/rules/rolling.md?id=saves).
+5E comes with a lot of obscure terminology, like HP, saving throws and AC. Three Meet uses natural language terms, such as [Health](pages/combat/health.md) or [Saves](pages/rules/rolling.md?id=saves).
 
 </section>
 
@@ -36,7 +36,7 @@ Magical creatures are extremely rare, and many mechanics from spells and monster
 
 I've always found the 5E ability scores confusing and ambiguous.
 
-In **Three Meet** ability scores have been merged into three [attributes](pages/characters/attributes.md): [Might](pages/characters/attributes.md?id=might) (Strength and Constitution), [Cunning](pages/characters/attributes.md?id=cunning) (Dexterity and Charisma), and [Wisdom](pages/characters/attributes.md?id=wisdom) (Intelligence and Wisdom).
+In **Three Meet** ability scores have been merged into three [Attributes](pages/characters/attributes.md): [Might](pages/characters/attributes.md?id=might) (Strength and Constitution), [Cunning](pages/characters/attributes.md?id=cunning) (Dexterity and Charisma), and [Wisdom](pages/characters/attributes.md?id=wisdom) (Intelligence and Wisdom).
 
 </section>
 
@@ -44,7 +44,7 @@ In **Three Meet** ability scores have been merged into three [attributes](pages/
 
 ### No Races
 
-Avoiding issues with traditional races, **Three Meet** does away with them. We remove races from the rules. Instead, [backgrounds](pages/backgrounds/index.md) provide these kinds of features, gained through lived experience, training, and fortune.
+Avoiding issues with traditional races, **Three Meet** does away with them. We remove races from the rules. Instead, [Backgrounds](pages/backgrounds/index.md) provide these kinds of features, gained through lived experience, training, and fortune.
 
 </section>
 
@@ -52,9 +52,9 @@ Avoiding issues with traditional races, **Three Meet** does away with them. We r
 
 ### Utility Features in Backgrounds
 
-Utility features have been removed from classes, and moved to backgrounds. Class features are combat-related only.
+Utility features have been removed from classes, and moved to [Backgrounds](pages/backgrounds/index.md). [Class](pages/class/index.md) features are combat-related only.
 
-The intention is that backgrounds provide the fictional archetypes, while classes focus on combat-related features.
+The intention is that [Backgrounds](pages/backgrounds/index.md) provide the fictional archetypes, while [Classes](pages/classes/index.md) focus on combat-related features.
 
 </section>
 
