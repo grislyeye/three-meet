@@ -6,6 +6,8 @@
 
 </header>
 
+You are high-born, a member of the second estate.
+
 | Level             | Background Features    |
 | ----------------- | - |
 | 1st               | +1 [Cunning](pages/characters/attributes.md?id=cunning), Proficient: Persuasion, Privilege, Speciality |
@@ -38,11 +40,11 @@ Choose a speciality and gain its features. Noble specialities include **Scion**.
 
 </header>
 
+You are the descendant of a wealthy family.
+
 | Level             | Features    |
 | ----------------- | - |
 | 1st               | Servant |
-
-You are the descendant of a wealthy family.
 
 <header>
 
@@ -52,4 +54,4 @@ You are the descendant of a wealthy family.
 
 </header>
 
-You are accompanied by a **Servant (d8 Support Retainer, Equipped)**.
+You are accompanied by a servant retainer.

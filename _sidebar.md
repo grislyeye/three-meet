@@ -20,6 +20,8 @@
   + [Order of Combat](pages/combat/order.md)
   + [Moves](pages/combat/moves.md)
   + [Attacks](pages/combat/attacks.md)
+  + [Bonus Actions](pages/combat/bonus-actions.md)
+  + [Reactions](pages/combat/reactions.md)
   + [Health](pages/combat/health.md)
 + Colophon
   + [Design Notes](design-notes.md)

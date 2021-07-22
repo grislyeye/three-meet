@@ -6,7 +6,7 @@
 
 </header>
 
-If the GM allows, you can choose a **magic speciality** instead of one of the specialities from your chosen [background](pages/backgrounds/index.md).
+If the GM allows, you can choose a **Magic Speciality** instead of one of the **Specialities** from your chosen [Background](pages/backgrounds/index.md).
 
 <header>
 
@@ -57,7 +57,7 @@ This gleaming onyx bracelet cannot be removed. It allows you to hear and command
 
 #### Whistler's Knack
 
-You are [Proficient](pages/rules/proficiency.md) in a curious tune only you can whistle. You can use its [Proficiency](pages/rules/proficiency.md) instead of one substitute [Skill](pages/characters/skills.md) or [Tool](pages/equipment/tools.md) [Proficiency](pages/rules/proficiency.md) of your choice.
+You are [Proficient](pages/rules/proficiency.md) in a curious tune only you can whistle. You can use its [Proficiency](pages/rules/proficiency.md) instead of a substitute [Proficiency](pages/rules/proficiency.md) of your choice.
 
 </section>
 
