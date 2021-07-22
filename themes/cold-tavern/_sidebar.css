@@ -9,7 +9,6 @@ main .sidebar {
   font-weight: bold;
   color: black;
   font-size: 32pt;
-  display: none;
 }
 
 .sidebar-nav {
