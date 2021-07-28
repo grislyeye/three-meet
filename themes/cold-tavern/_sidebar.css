@@ -96,6 +96,10 @@ body.sticky .sidebar-toggle {
   font-size: 20px;
 }
 
+.sidebar-toggle:hover {
+  background-color: white;
+}
+
 .sidebar-toggle span {
   display: none;
 }
