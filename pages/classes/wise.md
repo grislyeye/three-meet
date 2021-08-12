@@ -40,13 +40,23 @@ You are a practitioner of forbidden, arcane arts.
 
 | Level | Archetype Features         | Spell Slots |
 | ----  | -------------------------- | ----------- |
-| 1st   | Stricken, Rituals, Sorcery | 2           |
-
-<header>
+| 1st   | Minor Sorcery, Stricken, Rituals, Sorcery | 2           |
 
 ### Starting Stats
 
 **Proficiencies:** Arcana
+
+<header>
+
+### Minor Sorcery
+
+<p class="subheading">1st-level Sorcerer archetype feature</p>
+
+</header>
+
+You can create small, harmless sensory effects, such as hand-sized illusions, whispers, marks or symbols, or small appearance changes. These can last up to 1 hour.
+
+<header>
 
 ### Stricken
 
