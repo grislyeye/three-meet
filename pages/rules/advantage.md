@@ -6,7 +6,7 @@
 
 </header>
 
-Circumstances, spells and special abilities can give you **Advantage** or **Disadvantage** on [Checks](pages/rules/rolling.md?id=checks), [Saves](pages/rules/rolling.md?id=saves), or [Attacks](pages/combat/attacks.md):
+Circumstances, spells and special abilities can give you **Advantage** or **Disadvantage** on [Checks](pages/rules/rolling/checks.md), [Saves](pages/rules/rolling/saves.md), or [Attacks](pages/combat/attacks.md):
 
   1. When you **roll with advantage** roll two d20s and use the highest.
   2. When you **roll with disadvantage** roll two d20s and use the lowest.

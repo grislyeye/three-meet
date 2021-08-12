@@ -14,7 +14,7 @@
 
 **Starting Health:** 10 + [Might](pages/characters/attributes.md?id=might)
 
-**Proficiencies:** Athletics, [Might](pages/characters/attributes.md?id=might) [Saves](pages/rules/rolling.md?id=saves), all armor, shields, simple weapons, and martial weapons
+**Proficiencies:** Athletics, [Might](pages/characters/attributes.md?id=might) [Saves](pages/rules/rolling/saves.md), all armor, shields, simple weapons, and martial weapons
 
 **Starting Equipment:** Chain Mail (Defence 16), Shield (+2 Defence), Longsword (Melee 1d8, Versatile 1d10), and a Shortbow (Ranged 1d8)
 
@@ -64,7 +64,7 @@ You fight to protect. Cleaving close to your allies, you intercept attacks so th
 
 </header>
 
-You can use your [Reaction](pages/combat/actions.md?id=reaction) to impose disadvantage on an [Attack](pages/combat/attacks.md) that targets an ally. The target must be within 5 feet of you, and you must be wielding a melee weapon or shield.
+You can use your [Reaction](pages/combat/reactions.md) to impose disadvantage on an [Attack](pages/combat/attacks.md) that targets an ally. The target must be within 5 feet of you, and you must be wielding a melee weapon or shield.
 
 <header>
 

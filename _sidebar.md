@@ -1,7 +1,7 @@
 + Characters
   + [Attributes](pages/characters/attributes.md)
   + [Skills](pages/characters/skills.md)
-  + [Describing](pages/characters/describing.md)
+  + [Allegiances](pages/characters/allegiances.md)
 + [Backgrounds](pages/backgrounds/index.md)
   + [Knave](pages/backgrounds/knave.md)
   + [Noble](pages/backgrounds/noble.md)
@@ -12,6 +12,9 @@
   + [The Wise](pages/classes/wise.md)
 + Basic Rules
   + [Rolling](pages/rules/rolling.md)
+    + [Checks](pages/rules/rolling/checks.md)
+    + [Contests](pages/rules/rolling/contests.md)
+    + [Saves](pages/rules/rolling/saves.md)
   + [Advantage/Disadvantage](pages/rules/advantage.md)
   + [Proficiency](pages/rules/proficiency.md)
   + [Rests](pages/rules/rests.md)

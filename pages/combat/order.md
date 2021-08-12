@@ -32,7 +32,7 @@ The order of combat is as follows:
 
 **Initiative** determines the order of turns during combat:
 
- + When combat starts, every participant makes a [Cunning](pages/characters/attributes.md?id=cunning) [Check](pages/rules/rolling.md?id=checks).
+ + When combat starts, every participant makes a [Cunning](pages/characters/attributes.md?id=cunning) [Check](pages/rules/rolling/checks.md).
  + This determines their place in the **Initiative** order.
  + The GM makes one roll for an entire group of identical creatures.
  + Combatants act in order, from the highest to the lowest initiative.

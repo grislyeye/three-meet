@@ -14,7 +14,7 @@
 
 **Starting Health:** 8 + [Might](pages/characters/attributes.md?id=might)
 
-**Proficiencies:** Any 1 skill, [Cunning](pages/characters/attributes.md?id=cunning) [Saves](pages/rules/rolling.md?id=saves)
+**Proficiencies:** Any 1 skill, [Cunning](pages/characters/attributes.md?id=cunning) [Saves](pages/rules/rolling/saves.md)
 
 **Starting Equipment:** Leather Armour (Defence 11), 2 Daggers (Melee 1d4, Ranged 1d4, Light), and a Crossbow (Ranged 1d8)
 
@@ -36,7 +36,7 @@ You can deal an extra 1d6 damage to one creature you hit with an attack, if you 
 
 </header>
 
-Choose two of your skill or tool proficiencies. Your proficiency bonus is doubled for [checks](pages/rules/rolling.md?id=checks) with these proficiencies.
+Choose two of your skill or tool proficiencies. Your proficiency bonus is doubled for [checks](pages/rules/rolling/checks.md) with these proficiencies.
 
 ### Archetype
 

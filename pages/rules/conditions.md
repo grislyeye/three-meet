@@ -14,7 +14,7 @@
 
 ## Frightened
 
-  + A **Frightened** creature has [Disadvantage](pages/rules/advantage) on [Checks](pages/rules/rolling.md?id=checks) and [Attacks](pages/combat/attacks.md) while the source of its fear is within line of sight.
+  + A **Frightened** creature has [Disadvantage](pages/rules/advantage) on [Checks](pages/rules/rolling/checks.md) and [Attacks](pages/combat/attacks.md) while the source of its fear is within line of sight.
   + The creature can't willingly move closer to the source of its fear.
 
 </section>
