@@ -14,7 +14,7 @@
 
 **Starting Health:** 8 + [Might](pages/characters/attributes.md?id=might)
 
-**Proficiencies:** Insight, [Wisdom](pages/characters/attributes.md?id=wisdom) [Saves](rules/rolling.md?id=saves)
+**Proficiencies:** Insight, [Wisdom](pages/characters/attributes.md?id=wisdom) [Saves](pages/rules/rolling.md?id=saves)
 
 **Starting Equipment:** Quarterstaff (Melee 1d6)
 

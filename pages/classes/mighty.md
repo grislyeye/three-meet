@@ -64,7 +64,7 @@ You fight to protect. Cleaving close to your allies, you intercept attacks so th
 
 </header>
 
-You can use your [Reaction](pages/combat/actions.md?id=reaction) to impose disadvantage on an [Attack](pages/combat/attacks.md) that targets an ally. The target must be within 5 feet of you, and you must be wielding a melee weapon or shield.
+You can use your [Reaction](pages/combat/reactions.md) to impose disadvantage on an [Attack](pages/combat/attacks.md) that targets an ally. The target must be within 5 feet of you, and you must be wielding a melee weapon or shield.
 
 <header>
 
