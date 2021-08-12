@@ -104,7 +104,7 @@ You make yourself, including your clothing, armour, weapons, and other belonging
 
 </header>
 
-You summon a spirit (1 Health, 10 Defence). It is insubstantial and cannot interact with the physical world. It always obeys your commands and can be used to stealthily observe and report back to you. It vanishes after 10 minutes or when you dismiss it. It can be noticed on a [Perception](pages/characters/skills.md?id=perception) [Check](pages/rules/rolling/checks.md) (Difficulty 15).
+You summon a **Minor Spirit (1 Health, 10 Defence, Stealth +4)**. It always obeys your commands and can be used to move small objects, and stealthily observe and report back to you. It vanishes after 10 minutes or when you dismiss it.
 
 </section>
 
