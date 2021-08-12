@@ -6,7 +6,7 @@
 
 </header>
 
-Skills are a specific area of expertise. [Proficiency](pages/rules/proficiency.md) in a skill represents a focus on that area. They are typically used in [Checks](pages/rules/rolling.md?id=checks).
+Skills are a specific area of expertise. [Proficiency](pages/rules/proficiency.md) in a skill represents a focus on that area. They are typically used in [Checks](pages/rules/rolling/checks.md).
 
 The skills are as follows:
 

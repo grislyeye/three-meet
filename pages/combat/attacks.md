@@ -9,7 +9,7 @@
 You can make one attack per turn. When you make an attack:
 
  1. Choose a target
- 2. Make a [Check](pages/rules/rolling.md?id=checks)
+ 2. Make a [Check](pages/rules/rolling/checks.md)
  3. Add your [Proficiency](pages/rules/proficiency.md) if you are proficient with the attack
  4. The difficulty is the opponent's **Defence**
  5. If you hit roll for damage

@@ -12,6 +12,9 @@
   + [The Wise](pages/classes/wise.md)
 + Basic Rules
   + [Rolling](pages/rules/rolling.md)
+    + [Checks](pages/rules/rolling/checks.md)
+    + [Contests](pages/rules/rolling/contests.md)
+    + [Saves](pages/rules/rolling/saves.md)
   + [Advantage/Disadvantage](pages/rules/advantage.md)
   + [Proficiency](pages/rules/proficiency.md)
   + [Rests](pages/rules/rests.md)

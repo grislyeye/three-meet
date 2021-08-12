@@ -8,13 +8,13 @@
 
 | Level | Proficiency | Class Features  |
 | ----  | ----------- |- |
-| 1st   | +2          | +1 [Wisdom](pages/characters/attributes.md?id=wisdom), Archetype, Proficient: Insight, Proficient: [Wisdom](pages/characters/attributes.md?id=wisdom) [Saves](pages/rules/rolling.md?id=saves) |
+| 1st   | +2          | +1 [Wisdom](pages/characters/attributes.md?id=wisdom), Archetype, Proficient: Insight, Proficient: [Wisdom](pages/characters/attributes.md?id=wisdom) [Saves](pages/rules/rolling/saves.md) |
 
 ### Starting Stats
 
 **Starting Health:** 8 + [Might](pages/characters/attributes.md?id=might)
 
-**Proficiencies:** Insight, [Wisdom](pages/characters/attributes.md?id=wisdom) [Saves](pages/rules/rolling.md?id=saves)
+**Proficiencies:** Insight, [Wisdom](pages/characters/attributes.md?id=wisdom) [Saves](pages/rules/rolling/saves.md)
 
 **Starting Equipment:** Quarterstaff (Melee 1d6)
 
@@ -80,7 +80,7 @@ You can cast the rituals below. A ritual takes 10 minutes to cast.
 
 </header>
 
-You make yourself, including your clothing, armour, weapons, and other belongings on your person, look different for 1 hour, or until you dismiss the disguise. A creature examining you closely can discern you are disguised on a successful [Investigation](pages/characters/skills.md?id=investigation) [Check](pages/rules/rolling.md?id=checks) (Difficulty 10). If they succeed your disguise vanishes.
+You make yourself, including your clothing, armour, weapons, and other belongings on your person, look different for 1 hour, or until you dismiss the disguise. A creature examining you closely can discern you are disguised on a successful [Investigation](pages/characters/skills.md?id=investigation) [Check](pages/rules/rolling/checks.md) (Difficulty 10). If they succeed your disguise vanishes.
 
 </section>
 
@@ -94,7 +94,7 @@ You make yourself, including your clothing, armour, weapons, and other belonging
 
 </header>
 
-You summon a spirit (1 Health, 10 Defence). It is insubstantial and cannot interact with the physical world. It always obeys your commands and can be used to stealthily observe and report back to you. It vanishes after 10 minutes or when you dismiss it. It can be noticed on a [Perception](pages/characters/skills.md?id=perception) [Check](pages/rules/rolling.md?id=checks) (Difficulty 15).
+You summon a spirit (1 Health, 10 Defence). It is insubstantial and cannot interact with the physical world. It always obeys your commands and can be used to stealthily observe and report back to you. It vanishes after 10 minutes or when you dismiss it. It can be noticed on a [Perception](pages/characters/skills.md?id=perception) [Check](pages/rules/rolling/checks.md) (Difficulty 15).
 
 </section>
 
@@ -130,7 +130,7 @@ Your **Spell Difficulty** is:
 
 </header>
 
-You pull back the veil, revealing a glimpse of what lies beyond the mortal realm. Each creature in a 10-foot cube originating from you must make a [Wisdom](pages/characters/attributes.md?id=wisdom) [Save](pages/rules/rolling.md?id=saves) against your **Spell Difficulty**. Creatures that fail their saves are [Frightened](pages/rules/conditions?id=frightened) by you until the end of your next turn.
+You pull back the veil, revealing a glimpse of what lies beyond the mortal realm. Each creature in a 10-foot cube originating from you must make a [Wisdom](pages/characters/attributes.md?id=wisdom) [Save](pages/rules/rolling/saves.md) against your **Spell Difficulty**. Creatures that fail their saves are [Frightened](pages/rules/conditions?id=frightened) by you until the end of your next turn.
 
 </section>
 
@@ -144,7 +144,7 @@ You pull back the veil, revealing a glimpse of what lies beyond the mortal realm
 
 </header>
 
-You summon unseen spirits that whisper horrific things in the ear of a creature of your choice that you can see. The target must succeed on a [Wisdom](pages/characters/attributes.md?id=wisdom) [Save](pages/rules/rolling.md?id=saves) against your **Spell Difficulty** or take 3d6 damage.
+You summon unseen spirits that whisper horrific things in the ear of a creature of your choice that you can see. The target must succeed on a [Wisdom](pages/characters/attributes.md?id=wisdom) [Save](pages/rules/rolling/saves.md) against your **Spell Difficulty** or take 3d6 damage.
 
 </section>
 
