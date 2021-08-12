@@ -1,7 +1,7 @@
 + Characters
   + [Attributes](pages/characters/attributes.md)
   + [Skills](pages/characters/skills.md)
-  + [Describing](pages/characters/describing.md)
+  + [Allegiances](pages/characters/allegiances.md)
 + [Backgrounds](pages/backgrounds/index.md)
   + [Knave](pages/backgrounds/knave.md)
   + [Noble](pages/backgrounds/noble.md)

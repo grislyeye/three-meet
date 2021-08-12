@@ -29,7 +29,7 @@ To start playing:
   + Choose a [Background](pages/backgrounds/index.md)
   + You may choose a [Magic Speciality](pages/backgrounds/magic.md) if your GM allows
   + Choose a [Class](pages/classes/index.md)
-  + Describe your [Character](pages/characters/describing.md)
+  + Choose your [Allegiances](pages/characters/allegiances.md)
 
 </section>
 
