@@ -12,18 +12,18 @@ You can make one attack per turn. When you make an attack:
  2. Make a [Check](pages/rules/rolling/checks.md)
  3. Add your [Proficiency](pages/rules/proficiency.md) if you are proficient with the attack
  4. The difficulty is the opponent's **Defence**
- 5. If you hit roll for damage
+ 5. If you hit, roll for damage
 
 ### Describing Attacks
 
-Attacks are described by a number of **Tags** listed in parenthesis after it's name. For example, Longsword (Melee 1d8, Versatile 1d10) is a weapon that can make a versatile, melee attack.
+Attacks are described by a number of **Tags** listed in parentheses after its name. For example, Longsword (Melee 1d8, Versatile 1d10) is a weapon that can make a versatile, melee attack.
 
 | Tag       | Description |
 | --------- | - |
 | Melee     | Melee attack damage. Add your [Might](pages/characters/attributes.md?id=might) to the roll and damage.
 | Ranged    | Ranged attack damage. Add your [Cunning](pages/characters/attributes.md?id=cunning) to the roll and damage.
 | Finesse   | You can add your [Cunning](pages/characters/attributes.md?id=cunning) instead of [Might](pages/characters/attributes.md?id=might) to melee damage, and attack rolls.
-| Spell     | You can add your [Wisdom](pages/characters/attributes.md?id=wisdom) instead of [Might](pages/characters/attributes.md?id=might), or [Cunning](pages/characters/attributes.md?id=cunning) to attack rolls. You do not add an [Attribute](pages/characters/attributes.md) to your damage.
+| Spell     | Add your [Wisdom](pages/characters/attributes.md?id=wisdom), instead of [Might](pages/characters/attributes.md?id=might) or [Cunning](pages/characters/attributes.md?id=cunning), to attack rolls. You do not add an [Attribute](pages/characters/attributes.md) to your damage.
 | Versatile | You can use this damage if the attack is made with two hands.
 
 <header>
