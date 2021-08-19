@@ -32,7 +32,7 @@ When you use your Surge, you choose which feat to use. You must then finish a re
 
 #### Surge: Second Wind
 
-On your turn, you can regain [Health](pages/combat/health.md) equal to **1d10 + your level**.
+As a [Bonus Action](pages/combat/bonus-actions.md) you can regain [Health](pages/combat/health.md) equal to **1d10 + your level**.
 
 <header>
 
@@ -74,4 +74,4 @@ You can use your [Reaction](pages/combat/reactions.md) to impose disadvantage on
 
 </header>
 
-You can use your [Reaction](pages/combat/actions.md?id=reaction) to reduce the damage from an [Attack](pages/combat/attacks.md) that targets an ally by 1d10 + your Level. The target must be within 5 feet of you, and you must be wielding a melee weapon or shield.
+You can use your [Reaction](pages/combat/actions.md?id=reaction) to reduce the damage from an [Attack](pages/combat/attacks.md) that targets an ally by **1d10 + your Level**. The target must be within 5 feet of you, and you must be wielding a melee weapon or shield.

@@ -154,7 +154,7 @@ You pull back the veil, revealing a glimpse of what lies beyond the mortal realm
 
 </header>
 
-You summon unseen spirits that whisper horrific things in the ear of a creature of your choice that you can see. The target must succeed on a [Wisdom](pages/characters/attributes.md?id=wisdom) [Save](pages/rules/rolling/saves.md) against your **Spell Difficulty** or take 3d6 damage.
+You summon unseen spirits that whisper horrific things in the ear of a creature of your choice that you can see. The target must make a [Wisdom](pages/characters/attributes.md?id=wisdom) [Save](pages/rules/rolling/saves.md) against your **Spell Difficulty**. It takes **2d10** damage on a failed save, or half as much damage on a successful one.
 
 </section>
 
