@@ -74,4 +74,4 @@ You can use your [Reaction](pages/combat/reactions.md) to impose disadvantage on
 
 </header>
 
-You can use your [Reaction](pages/combat/actions.md?id=reaction) to reduce the damage from an [Attack](pages/combat/attacks.md) that targets an ally by 1d10 + your Level. The target must be within 5 feet of you, and you must be wielding a melee weapon or shield.
+You can use your [Reaction](pages/combat/actions.md?id=reaction) to reduce the damage from an [Attack](pages/combat/attacks.md) that targets an ally by **1d10 + your Level**. The target must be within 5 feet of you, and you must be wielding a melee weapon or shield.
