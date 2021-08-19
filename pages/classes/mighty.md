@@ -32,7 +32,7 @@ When you use your Surge, you choose which feat to use. You must then finish a re
 
 #### Surge: Second Wind
 
-On your turn, you can regain [Health](pages/combat/health.md) equal to **1d10 + your level**.
+As a [Bonus Action](pages/combat/bonus-actions.md) you can regain [Health](pages/combat/health.md) equal to **1d10 + your level**.
 
 <header>
 
