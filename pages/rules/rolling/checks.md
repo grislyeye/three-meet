@@ -8,7 +8,7 @@
 
 A **Check** tests your innate talent and training to overcome a challenge. When asked to make a **Check** the GM determines the [Difficulty](#difficulty), which [Attribute](pages/characters/attributes.md) applies, and if you are proficient.
 
-Roll a d20 and add your [Attributes](pages/characters/attributes.md). And your [Proficiency](pages/rules/proficiency.md), if you are proficient:
+Roll a d20 and add your [Attribute](pages/characters/attributes.md). And your [Proficiency](pages/rules/proficiency.md), if you are proficient:
 
 <div class="example-roll">
   <div class="roll">
