@@ -13,6 +13,7 @@
 + Basic Rules
   + [Rolling](pages/rules/rolling.md)
     + [Checks](pages/rules/rolling/checks.md)
+    + [Group Checks](pages/rules/rolling/group.md)
     + [Contests](pages/rules/rolling/contests.md)
     + [Saves](pages/rules/rolling/saves.md)
   + [Advantage/Disadvantage](pages/rules/advantage.md)

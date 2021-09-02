@@ -36,7 +36,7 @@ You can deal an extra 1d6 damage to one creature you hit with an attack, if you 
 
 </header>
 
-Choose two of your skill or tool proficiencies. Your proficiency bonus is doubled for [checks](pages/rules/rolling/checks.md) with these proficiencies.
+Choose two of your skill or tool proficiencies. Your proficiency bonus is doubled for [Checks](pages/rules/rolling/checks.md) with these proficiencies.
 
 ### Archetype
 
