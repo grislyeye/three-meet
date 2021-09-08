@@ -16,14 +16,14 @@ You can make one attack per turn. When you make an attack:
 
 ### Describing Attacks
 
-Attacks are described by a number of **Tags** listed in parentheses after its name. For example, Longsword (Melee 1d8, Versatile 1d10) is a weapon that can make a versatile, melee attack.
+Attacks are described by a number of **Tags** listed in parentheses after its name. For example, **Longsword (Melee 1d8, Versatile 1d10)** is a weapon that can make a versatile, melee attack.
 
 | Tag       | Description |
 | --------- | - |
-| Melee     | Melee attack damage. Add your [Might](pages/characters/attributes.md?id=might) to the roll and damage.
-| Ranged    | Ranged attack damage. Add your [Cunning](pages/characters/attributes.md?id=cunning) to the roll and damage.
+| Melee     | Melee attack. Add your [Might](pages/characters/attributes.md?id=might) to the attack roll, and damage.
+| Ranged    | Ranged attack. Add your [Cunning](pages/characters/attributes.md?id=cunning) to the attack roll, and damage.
 | Finesse   | You can add your [Cunning](pages/characters/attributes.md?id=cunning) instead of [Might](pages/characters/attributes.md?id=might) to melee damage, and attack rolls.
-| Spell     | Add your [Wisdom](pages/characters/attributes.md?id=wisdom), instead of [Might](pages/characters/attributes.md?id=might) or [Cunning](pages/characters/attributes.md?id=cunning), to attack rolls. You do not add an [Attribute](pages/characters/attributes.md) to your damage.
+| Spell     | Spell attack. Add your [Wisdom](pages/characters/attributes.md?id=wisdom) to the attack roll. Damage is unmodified.
 | Versatile | You can use this damage if the attack is made with two hands.
 
 <header>
