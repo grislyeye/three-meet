@@ -23,7 +23,7 @@
   "dependencies": {
     "docsify": "^4.12.1",
     "docsify-pagination": "^2.6.1",
-    "docsify-themeable": "^0.8.5",
+    "docsify-themeable": "^0.8.6",
     "itch": "^0.2.2",
     "marked": ">=3.0.2",
     "prismjs": ">=1.24.1"
