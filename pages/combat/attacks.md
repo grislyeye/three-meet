@@ -16,7 +16,7 @@ You can make one attack per turn. When you make an attack:
 
 ### Describing Attacks
 
-Attacks are described by a number of **Tags** listed in parentheses after its name. For example, Longsword (Melee 1d8, Versatile 1d10) is a weapon that can make a versatile, melee attack.
+Attacks are described by a number of **Tags** listed in parentheses after its name. For example, **Longsword (Melee 1d8, Versatile 1d10)** is a weapon that can make a versatile, melee attack.
 
 | Tag       | Description |
 | --------- | - |
