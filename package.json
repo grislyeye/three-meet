@@ -26,7 +26,7 @@
     "docsify-themeable": "^0.8.6",
     "itch": "^0.2.2",
     "marked": ">=3.0.2",
-    "prismjs": ">=1.24.1"
+    "prismjs": ">=1.25.0"
   },
   "devDependencies": {
     "docsify-cli": "^4.4.3",
