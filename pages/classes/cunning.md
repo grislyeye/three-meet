@@ -28,13 +28,11 @@ You are a skilled bowman, trained in bow and arrow. With a keen eye, you rarely 
 
 | Level | Archetype Features |
 | ----  | ------------------ |
-| 1st   | Archery, Aim, Proficient: Perception            |
+| 1st   | Archery, Cunning Shot, Proficient: Perception |
 
-### Aim
+### Cunning Shot
 
-You can use a bonus action to line-up your shot on a particular target. Choose a creature you can see within range and mark it. For 1 minute you don't need advantage on your **cunning attack** for ranged attacks against the marked target, if you don't have disadvantage on your attack.
-
-You can only mark one target at a time.
+You don't need advantage on your **cunning attack** for ranged attacks against any creature that moved less than 10 ft in the last round.
 
 ## Shadow
 
