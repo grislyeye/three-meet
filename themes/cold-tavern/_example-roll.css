@@ -16,6 +16,7 @@
 .content div.example-roll span.bonus {
   display: inline-flex;
   flex-direction: column;
+  justify-content: flex-end;
   text-align: center;
 }
 
