@@ -16,7 +16,7 @@ To start playing:
 
   + Find somewhere to play
   + Pick a player to be game moderator (GM)
-  + Print some [character sheets](https://github.com/grislyeye/three-meet-char-sheet/releases/download/v0.1.0/three-meet-char-sheet-0.1.0.pdf)
+  + Print some [character sheets](https://github.com/grislyeye/three-meet-char-sheet/releases/download/v0.2.2/three-meet-char-sheet-0.2.2.pdf)
   + Get some roleplaying dice
 
 </section>
