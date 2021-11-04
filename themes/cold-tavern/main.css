@@ -12,6 +12,7 @@
 @import '_spells.css';
 @import '_content.css';
 @import '_pagination.css';
+@import '_beta.css';
 
 * {
   --theme-color: white;
