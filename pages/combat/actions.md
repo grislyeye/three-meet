@@ -28,6 +28,20 @@ When you take the **Dash Action**, you gain an extra [Move](pages/combat/moves.m
 
 <header>
 
+## Disengage
+
+Combat Action
+
+</header>
+
+You can avoid provoking an [Opportunity Attack](pages/combat/reactions.md?id=opportunity-attack) by taking the **Disengage** action.
+
+</section>
+
+<section class="summary">
+
+<header>
+
 ## Improvised Action
 
 Combat Action
