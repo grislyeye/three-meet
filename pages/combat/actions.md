@@ -6,7 +6,7 @@
 
 </header>
 
-On your round, you can take an [Attack](pages/combat/attacks.md), or one of the actions presented here. Some
+On your round, you can take an [Attack](pages/combat/attacks.md), or one of the actions presented here. Some features, effects and traits give you additional **Actions**.
 
 <section class="small summaries">
 
