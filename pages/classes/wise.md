@@ -116,7 +116,7 @@ You summon a **Minor Spirit (1 Health, 10 Defence, Stealth +4)**. It always obey
 
 </header>
 
-You can cast spells. To cast a spell you must expend a spell slot. Each spell takes an action to cast. You regain all expended spell slots when you finish a rest.
+You can cast spells. To cast a spell you must expend a spell slot. Each spell takes an [Action](pages/combat/actions.md) to cast. You regain all expended spell slots when you finish a rest.
 
 Your **Spell Difficulty** is:
 
@@ -168,7 +168,7 @@ You summon unseen spirits that whisper horrific things in the ear of a creature 
 
 </header>
 
-You touch a willing creature (including yourself) who isn't wearing armour, and a protective ward surrounds it until the spell ends. The target's [Defence](pages/combat/defence.md) becomes 13 + its [Wisdom](pages/characters/attributes.md?id=wisdom) attribute. The spell ends if the target dons armour or if you dismiss the spell as an action.
+You touch a willing creature (including yourself) who isn't wearing armour, and a protective ward surrounds it until the spell ends. The target's [Defence](pages/combat/defence.md) becomes 13 + its [Wisdom](pages/characters/attributes.md?id=wisdom) attribute. The spell ends if the target dons armour or if you dismiss the spell as an [Action](pages/combat/actions.md).
 
 </section>
 

@@ -84,7 +84,7 @@ With wit, flair, and fancy footwork, you run rings around your opponents.
 
 | Level | Features |
 | ----  | - |
-| 1st   | Riposte |
+| 1st   | Daring Manoeuvre |
 
 <header>
 
@@ -92,10 +92,10 @@ With wit, flair, and fancy footwork, you run rings around your opponents.
 
 **Proficiencies:** Deception, Acrobatics
 
-### Riposte
+### Daring Manoeuvre
 
 <p class="subheading">1st-level Swashbuckler archetypes feature</p>
 
 </header>
 
-You can make a cutting remark that puts your opponent on the back foot. As a [Bonus Action](pages/combat/bonus-actions.md) you can make an [Deception Contest](pages/rules/rolling.md#contests), contested by your opponent's [Deception](pages/characters/skills.md?id=deception). If you succeed, you can use your [Cunning Attack](#cunning-attack) against your opponent.
+You do not need advantage to use your [Cunning Attack](#cunning-attack) when you first become **Close** to an opponent.
