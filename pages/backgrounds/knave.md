@@ -58,7 +58,7 @@ You specialised in a particular criminal enterprise. Choose a speciality and gai
 
 </header>
 
-You can spend 10 minutes observing a creature to mark it. You have advantage on any [Check](pages/rules/rolling?id=checks) to track, or hide from your mark. You can only have one mark at a time.
+You can spend 10 minutes observing a creature. If can do without being noticed, you can use your [Stealth](pages/characters/skills.md?id=stealth) [Check](pages/rules/rolling.md?id=checks) where you would use [Insight](pages/characters/skills.md?id=insight) against this creature.
 
 ## Burglar
 
