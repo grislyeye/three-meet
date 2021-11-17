@@ -12,7 +12,7 @@
 
 ### Starting Stats
 
-**Starting Health:** 8 + [Might](pages/characters/attributes.md?id=might)
+**Starting [Stamina](pages/combat/stamina.md):** 8 + [Might](pages/characters/attributes.md?id=might)
 
 **Proficiencies:** Any 1 skill, [Cunning](pages/characters/attributes.md?id=cunning) [Saves](pages/rules/rolling/saves.md)
 
