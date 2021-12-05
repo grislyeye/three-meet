@@ -25,7 +25,7 @@
     "docsify-pagination": "^2.6.2",
     "docsify-themeable": "^0.8.6",
     "itch": "^0.2.2",
-    "marked": ">=4.0.0",
+    "marked": ">=4.0.6",
     "prismjs": ">=1.25.0"
   },
   "devDependencies": {
