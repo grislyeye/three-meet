@@ -94,6 +94,15 @@ With wit, flair, and fancy footwork, you run rings around your opponents.
 
 **Proficiencies:** Deception, Acrobatics
 
+<!--
+  This feature turns The Cunning character into a front-line attacker.
+  Possible issues include:
+
+   * May not trigger as often as the Sneak Attack above, making this class
+     weaker.
+   * Puts a vulnerable class in a high-damage environment.
+   * The Cunning relies upon being hidden.
+-->
 <header>
 
 ### Daring Manoeuvre
