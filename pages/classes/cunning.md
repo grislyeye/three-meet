@@ -38,6 +38,8 @@ You can deal an extra 1d6 damage to one creature you hit with an attack, if you 
 
 Choose two of your skill or tool proficiencies. Your proficiency bonus is doubled for [Checks](pages/rules/rolling/checks.md) with these proficiencies.
 
+<header>
+
 ### Archetype
 
 <p class="subheading">1st-level Cunning class feature</p>
@@ -60,11 +62,11 @@ You play fast and deadly, hiding in shadows and darting out to attack.
 | ----  | - |
 | 1st   | Sneak Attack |
 
-<header>
-
 ### Starting Stats
 
 **Proficiencies:** Perception, Stealth
+
+<header>
 
 ### Sneak Attack
 
@@ -74,23 +76,25 @@ You play fast and deadly, hiding in shadows and darting out to attack.
 
 You can use your **Cunning Attack** on a target if it is close to an ally.
 
-## Swashbuckler
+<header>
 
-With wit, flair, and fancy footwork, you run rings around your opponents.
+## Swashbuckler
 
 <p class="subheading">Cunning archetype</p>
 
 </header>
 
+With wit, flair, and fancy footwork, you run rings around your opponents.
+
 | Level | Features |
 | ----  | - |
 | 1st   | Daring Manoeuvre |
 
-<header>
-
 ### Starting Stats
 
 **Proficiencies:** Deception, Acrobatics
+
+<header>
 
 ### Daring Manoeuvre
 
