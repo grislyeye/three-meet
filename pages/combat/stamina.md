@@ -1,3 +1,6 @@
+<!--
+  Stamina replaces the abstruse term HP. It also encapsulates the idea that damage is abstract.
+-->
 # Stamina
 
 **Stamina** represent a combination of physical and mental durability, grit, willpower, and just plain luck:
