@@ -1,6 +1,6 @@
 {
   "name": "three-meet",
-  "version": "0.2.1",
+  "version": "0.9.0",
   "description": "A low-fantasy 5E hack for dark times",
   "author": "R.G. Wood <ric@grislyeye.com> (https://grislyeye.com)",
   "homepage": "https://github.com/grislyeye/three-meet#readme",
@@ -15,21 +15,22 @@
   "scripts": {
     "start": "docsify serve ./",
     "clean": "rm -rf dist",
-    "build": "rsync -av --progress --exclude dist/ --exclude .git --exclude .gitignore --exclude node_modules --include '.*' ./ dist/ && npm install --production  --no-optional --prefix dist && rm -rf dist/node_modules/prismjs",
+    "build": "rsync -av --progress --exclude dist/ --exclude .git --exclude .gitignore --exclude node_modules --include '.*' ./ dist/ && npm install --production  --no-optional --prefix dist && rm -rf dist/node_modules/prismjs && echo 'three-meet.grislyeye.com' > ./dist/CNAME && replace '{{VERSION}}' $npm_package_version dist/  -r --include='*.css'",
     "predeploy": "npm run clean && npm run build",
     "deploy": "gh-pages -d dist -b gh-pages -t",
     "deploy:itch": "butler push dist/ grislyeye/three-meet:HTML"
   },
   "dependencies": {
-    "docsify": "^4.12.1",
-    "docsify-pagination": "^2.6.1",
-    "docsify-themeable": "^0.8.4",
+    "docsify": ">=4.12.1",
+    "docsify-pagination": "^2.6.2",
+    "docsify-themeable": "^0.8.6",
     "itch": "^0.2.2",
-    "marked": ">=2.1.3",
-    "prismjs": ">=1.24.0"
+    "marked": ">=4.0.7",
+    "prismjs": ">=1.25.0"
   },
   "devDependencies": {
     "docsify-cli": "^4.4.3",
-    "gh-pages": "^3.2.3"
+    "gh-pages": "^3.2.3",
+    "replace": "^1.2.1"
   }
 }
