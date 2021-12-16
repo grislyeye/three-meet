@@ -28,7 +28,7 @@
   + [Moves](pages/combat/moves.md)
   + [Bonus Actions](pages/combat/bonus-actions.md)
   + [Reactions](pages/combat/reactions.md)
-  + [Health](pages/combat/health.md)
+  + [Stamina](pages/combat/stamina.md)
 + Colophon
   + [Design Notes](design-notes.md)
   + [Contributing](contributing.md)

@@ -12,7 +12,7 @@
 
 ### Starting Stats
 
-**Starting Health:** 10 + [Might](pages/characters/attributes.md?id=might)
+**Starting [Stamina](pages/combat/stamina.md):** 10 + [Might](pages/characters/attributes.md?id=might)
 
 **Proficiencies:** Athletics, [Might](pages/characters/attributes.md?id=might) [Saves](pages/rules/rolling/saves.md), all armor, shields, simple weapons, and martial weapons
 
@@ -32,7 +32,7 @@ When you use your Surge, you choose which feat to use. You must then finish a re
 
 #### Surge: Second Wind
 
-As a [Bonus Action](pages/combat/bonus-actions.md) you can regain [Health](pages/combat/health.md) equal to **1d10 + your level**.
+As a [Bonus Action](pages/combat/bonus-actions.md) you can regain [Stamina](pages/combat/stamina.md) equal to **1d10 + your level**.
 
 <header>
 
