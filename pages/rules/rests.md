@@ -12,5 +12,5 @@ A rest is a 8 hours of extended downtime during which a character sleeps or perf
 
 A rest confers the following benefits:
 
-  * Regain all [Health](pages/combat/health.md)
+  * Regain all [Stamina](pages/combat/stamina.md)
   * Regain expended [Class](pages/classes/index) and [Background](pages/backgrounds/index) features

@@ -12,7 +12,7 @@
 
 ### Starting Stats
 
-**Starting Health:** 8 + [Might](pages/characters/attributes.md?id=might)
+**Starting [Stamina](pages/combat/stamina.md):** 8 + [Might](pages/characters/attributes.md?id=might)
 
 **Proficiencies:** Insight, [Wisdom](pages/characters/attributes.md?id=wisdom) [Saves](pages/rules/rolling/saves.md)
 
@@ -104,7 +104,7 @@ You make yourself, including your clothing, armour, weapons, and other belonging
 
 </header>
 
-You summon a **Minor Spirit (1 Health, 10 Defence, Stealth +4)**. It always obeys your commands and can be used to move small objects, and stealthily observe and report back to you. It vanishes after 10 minutes or when you dismiss it.
+You summon a **Minor Spirit (1 [Stamina](pages/combat/stamina.md), 10 Defence, Stealth +4)**. It always obeys your commands and can be used to move small objects, and stealthily observe and report back to you. It vanishes after 10 minutes or when you dismiss it.
 
 </section>
 

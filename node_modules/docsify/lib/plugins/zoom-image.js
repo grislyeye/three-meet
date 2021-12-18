@@ -1,5 +1,5 @@
 (function () {
-  /*! medium-zoom 1.0.5 | MIT License | https://github.com/francoischalifour/medium-zoom */
+  /*! medium-zoom 1.0.6 | MIT License | https://github.com/francoischalifour/medium-zoom */
   var _extends = Object.assign || function (target) {
     var arguments$1 = arguments;
 
@@ -444,6 +444,10 @@
           // Resetting the sizes attribute tells the browser to load the
           // image best fitting the current viewport size, respecting the `srcset`.
           active.zoomedHd.removeAttribute('sizes');
+
+          // In Firefox, the `loading` attribute needs to be set to `eager` (default
+          // value) for the load event to be fired.
+          active.zoomedHd.removeAttribute('loading');
 
           // Wait for the load event of the hd image. This will fire if the image
           // is already cached.
