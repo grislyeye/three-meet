@@ -12,7 +12,7 @@ You are high-born, a member of the second estate.
 | ----------------- | - |
 | 1st               | +1 [Cunning](pages/characters/attributes.md?id=cunning), Proficient: Persuasion, Privilege, Speciality |
 
-**Starting Equipment:** Small Pouch of Silver Florins (Treasure Ud8)
+**Starting Equipment:** Small Pouch of Florins (Treasure Ud8)
 
 <header>
 
@@ -56,4 +56,4 @@ You are the descendant of a wealthy family.
 
 </header>
 
-As a noble, you are expected to maintain a certain lifestyle. You start with a **Large Pouch of Gold Crowns (Treasure Ud10)**. This item refreshes at the end of each adventure.
+As a noble, you are expected to maintain a certain lifestyle. You start with a **Large Pouch of Crowns (Treasure Ud10)**. This item refreshes at the end of each adventure.
