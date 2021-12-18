@@ -4,9 +4,9 @@ Wealth is measured by abstract **Treasure** items: consumable treasures and cont
 
  * Each **Treasure** is a resource with a [Usage Die](pages/rules/usage.md) which you can **Tap** to buy goods, equipment, and services.
 
- * Examples of **Treasure Items** might be: **Handful of Pennies (Treasure Ud4)**, **Small Pouch of Florins (Treasure Ud8)**, or even a **Dragon's Hoard (Treasure Ud20)**.
+ * Examples of **Treasure** include: **Handful of Pennies (Treasure Ud4)**, **Small Pouch of Florins (Treasure Ud8)**, or even a **Dragon's Hoard (Treasure Ud20)**.
 
- * Items or services have a dice cost, representing it's relative price. You do not have enough wealth to buy an item whose cost die is greater than your treasure item's usage die.
+ * Items or services have a die cost, representing its relative price. If you do not have enough a treasure item with a usage die higher than an item's cost, you cannot afford to buy it.
 
 <aside>
 
