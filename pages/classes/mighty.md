@@ -54,11 +54,11 @@ You fight to protect. Cleaving close to your allies, you intercept attacks so th
 
 | Level | Archetype Features |
 | ----  | ------------------ |
-| 1st   | Defend, Surge: Block, Proficient: Intimidation         |
+| 1st   | Block, Surge: Defend, Proficient: Intimidation |
 
 <header>
 
-### Defend
+### Block
 
 <p class="subheading">1st-level Defender archetype feature</p>
 
@@ -68,10 +68,11 @@ You can use your [Reaction](pages/combat/reactions.md) to impose disadvantage on
 
 <header>
 
-### Surge: Block
+### Surge: Defend
 
 <p class="subheading">1st-level Defender archetype feature</p>
 
 </header>
 
-You can use your [Reaction](pages/combat/reactions.md) to reduce the damage from an [Attack](pages/combat/attacks.md) that targets an ally by **1d10 + your Level**. The target must be within 5 feet of you, and you must be wielding a melee weapon or shield.
+You can use your [Bonus Action](pages/combat/bonus-actions.md) to give a [Close](pages/rules/distance) ally **1d10 + your level** [Temporary Stamina]().
+
