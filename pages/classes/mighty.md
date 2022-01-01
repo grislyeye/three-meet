@@ -74,5 +74,4 @@ You can use your [Reaction](pages/combat/reactions.md) to impose disadvantage on
 
 </header>
 
-You can use your [Bonus Action](pages/combat/bonus-actions.md) to give a [Close](pages/rules/distance) ally **1d10 + your level** [Temporary Stamina]().
-
+You can use your [Bonus Action](pages/combat/bonus-actions.md) to position yourself defensively around a [Close](pages/rules/distance) ally. The ally gains **1d10 + your level** [Temporary Stamina]().
