@@ -44,6 +44,8 @@ As a [Bonus Action](pages/combat/bonus-actions.md) you can regain [Stamina](page
 
 Choose an archetype and gain it's features. The Mighty archetypes include: [Defender](pages/classes/mighty.md?id=defender).
 
+<header>
+
 ## Defender
 
 <p class="subheading">Mighty archetype</p>
