@@ -42,7 +42,7 @@ As a [Bonus Action](pages/combat/bonus-actions.md) you can regain [Stamina](page
 
 </header>
 
-Choose an archetype and gain it's features. The Mighty archetypes include: [Defender](pages/classes/mighty.md?id=defender).
+Choose an archetype and gain its features. The Mighty archetypes include: [Defender](pages/classes/mighty.md?id=defender).
 
 <header>
 
@@ -52,7 +52,7 @@ Choose an archetype and gain it's features. The Mighty archetypes include: [Defe
 
 </header>
 
-You fight to protect. Cleaving close to your allies, you intercept attacks so they can continue to deal damage.
+You fight to protect. Cleaving close to your allies, you intercept attacks, so they can continue to deal damage.
 
 | Level | Archetype Features |
 | ----  | ------------------ |
