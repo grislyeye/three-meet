@@ -42,7 +42,9 @@ As a [Bonus Action](pages/combat/bonus-actions.md) you can regain [Stamina](page
 
 </header>
 
-Choose an archetype and gain it's features. The Mighty archetypes include: [Defender](pages/classes/mighty.md?id=defender).
+Choose an archetype and gain its features. The Mighty archetypes include: [Defender](pages/classes/mighty.md?id=defender).
+
+<header>
 
 ## Defender
 
@@ -50,15 +52,15 @@ Choose an archetype and gain it's features. The Mighty archetypes include: [Defe
 
 </header>
 
-You fight to protect. Cleaving close to your allies, you intercept attacks so they can continue to deal damage.
+You fight to protect. Cleaving close to your allies, you intercept attacks, so they can continue to deal damage.
 
 | Level | Archetype Features |
 | ----  | ------------------ |
-| 1st   | Defend, Surge: Block, Proficient: Intimidation         |
+| 1st   | Block, Surge: Defend, Proficient: Intimidation |
 
 <header>
 
-### Defend
+### Block
 
 <p class="subheading">1st-level Defender archetype feature</p>
 
@@ -68,10 +70,10 @@ You can use your [Reaction](pages/combat/reactions.md) to impose disadvantage on
 
 <header>
 
-### Surge: Block
+### Surge: Defend
 
 <p class="subheading">1st-level Defender archetype feature</p>
 
 </header>
 
-You can use your [Reaction](pages/combat/reactions.md) to reduce the damage from an [Attack](pages/combat/attacks.md) that targets an ally by **1d10 + your Level**. The target must be within 5 feet of you, and you must be wielding a melee weapon or shield.
+You can use your [Bonus Action](pages/combat/bonus-actions.md) to direct a [Close](pages/rules/distance) ally defensively. The ally gains **1d10 + your level** [Temporary Stamina](pages/combat/stamina#temporary-stamina). This Temporary Stamina is lost after combat finishes.
