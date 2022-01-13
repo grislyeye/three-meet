@@ -76,4 +76,4 @@ You can use your [Reaction](pages/combat/reactions.md) to impose disadvantage on
 
 </header>
 
-You can use your [Bonus Action](pages/combat/bonus-actions.md) to direct a [Close](pages/rules/distance) ally defensively. The ally gains **1d10 + your level** [Temporary Stamina](pages/combat/stamina#temporary-stamina). This Temporary Stamina is lost after combat finishes.
+You can use your [Bonus Action](pages/combat/bonus-actions.md) to direct a [Close](pages/rules/distance) ally defensively. The ally gains **1d10 + your level** [Temporary Stamina](pages/combat/stamina#temporary-stamina). This Temporary Stamina lasts for 1 minute.
