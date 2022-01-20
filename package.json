@@ -26,7 +26,7 @@
     "docsify-progress": "^1.0.3",
     "docsify-themeable": "^0.8.6",
     "itch": "^0.2.2",
-    "marked": ">=4.0.7",
+    "marked": ">=4.0.10",
     "prismjs": ">=1.25.0"
   },
   "devDependencies": {
