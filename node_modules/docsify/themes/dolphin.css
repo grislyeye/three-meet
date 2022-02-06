@@ -421,6 +421,7 @@ body.close .content {
   }
   main {
     height: auto;
+    min-height: 100vh;
     overflow-x: hidden;
   }
   .sidebar {
