@@ -13,6 +13,7 @@
 @import '_content.css';
 @import '_pagination.css';
 @import '_beta.css';
+@import '_preview.css';
 
 * {
   --theme-color: white;
