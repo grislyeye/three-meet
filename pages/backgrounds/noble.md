@@ -6,6 +6,8 @@
 
 </header>
 
+You are high-born, a member of the second estate.
+
 | Level             | Background Features    |
 | ----------------- | - |
 | 1st               | +1 [Cunning](pages/characters/attributes.md?id=cunning), Proficient: Persuasion, Privilege, Speciality |
@@ -28,7 +30,7 @@ Your noble upbringing gave you access to tutors, and other idle pursuits like ho
 
 </header>
 
-Choose a speciality and gain its features. Noble specialities include **Bastard** **Scion**.
+Choose a speciality and gain its features. Noble specialities include **Scion**.
 
 <header>
 
@@ -38,11 +40,11 @@ Choose a speciality and gain its features. Noble specialities include **Bastard*
 
 </header>
 
+You are the descendant of a wealthy family.
+
 | Level             | Features    |
 | ----------------- | - |
 | 1st               | Servant |
-
-You are the child of a high-ranking noble, perhaps a baron or even a monarch. You stand to inherit and inherit well. Which brings its own problems...
 
 <header>
 
@@ -52,4 +54,4 @@ You are the child of a high-ranking noble, perhaps a baron or even a monarch. Yo
 
 </header>
 
-You are accompanied by a **Servant (d8 Support Retainer, Equipped)**.
+You are accompanied by a servant retainer.

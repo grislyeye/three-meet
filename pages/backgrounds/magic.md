@@ -6,7 +6,7 @@
 
 </header>
 
-If the GM allows you can choose a **magic speciality** instead of one of the specialities from your chosen [background](pages/backgrounds/index.md).
+If the GM allows, you can choose a **Magic Speciality** instead of one of the **Specialities** from your chosen [Background](pages/backgrounds/index.md).
 
 <header>
 
@@ -49,7 +49,7 @@ Pick a magical gift from below.
 
 #### Bracelet of Shadows
 
-This gleaming onyx bracelet cannot be removed. It allows you to hear and command the... things that linger beyond the shadows. While wearing it you have **Darkvision**.
+This gleaming onyx bracelet cannot be removed. It allows you to hear and command the... things that linger beyond the shadows. While wearing the bracelet you can see normally in low-light and darkness.
 
 </section>
 
@@ -57,7 +57,7 @@ This gleaming onyx bracelet cannot be removed. It allows you to hear and command
 
 #### Whistler's Knack
 
-You are [proficient](pages/rules/proficiency.md) in curious tune only you can whistle. Pick one [skill](pages/characters/skills.md), or [tool](pages/equipment/tools.md). Instead of using this skill or tool, you can whistle your tune instead to get the same effect.
+You are [Proficient](pages/rules/proficiency.md) in a curious tune only you can whistle. You can use its [Proficiency](pages/rules/proficiency.md) instead of a substitute [Proficiency](pages/rules/proficiency.md) of your choice.
 
 </section>
 
