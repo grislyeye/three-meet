@@ -30,9 +30,31 @@ Your noble upbringing gave you access to tutors, and other idle pursuits like ho
 
 </header>
 
-Choose a speciality and gain its features. Noble specialities include **Scion**.
+Choose a speciality and gain its features. Noble specialities include **Bastard**, **Scion**.
 
 <header>
+
+## Bastard
+
+<p class="subheading">Speciality</p>
+
+</header>
+
+You are the illegitimate offspring of the nobility. An open secret, an unpleasant truth, not exactly noble or common.
+
+| Level             | Features    |
+| ----------------- | - |
+| 1st               | Illegitimacy |
+
+<header>
+
+### Illegitimacy
+
+<p class="subheading">1st-level Bastard speciality feature</p>
+
+</header>
+
+Your illegitimacy means you must become useful to you family in other ways. You are proficient in any 1 skill or tool of your choice.
 
 ## Scion
 
