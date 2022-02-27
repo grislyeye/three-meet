@@ -91,7 +91,7 @@ body.sticky .sidebar-toggle {
 }
 
 .sidebar-toggle-button:before {
-  font-family: "Font Awesome 5 Free";
+  font-family: "Font Awesome 6 Free";
   content: "\f0c9";
   font-size: 20px;
 }
