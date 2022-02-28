@@ -54,7 +54,7 @@ You are the illegitimate offspring of the nobility. An open secret, an unpleasan
 
 </header>
 
-Your illegitimacy means you must become useful to you family in other ways. You are proficient in any 1 skill or tool of your choice.
+Your illegitimacy meant you had to become useful to you family in other ways. You are proficient in any 1 skill or tool of your choice.
 
 ## Scion
 
