@@ -21,6 +21,16 @@ The order of combat is as follows:
 
 <header>
 
+## Surprise
+
+<p class="subheading">Rule</p>
+
+</header>
+
+If you're surprised at the start or combat, you can't move or take an **Action** on your first turn. The GM determines who might be surprised. Often this is resolved with a **Cunning [Stealth](pages/characters/skills.md#stealth) vs Cunning [Perception](pages/characters/skills.md#perception) [Contest](pages/rules/rolling/contests.md)**.
+
+<header>
+
 ## Initiative
 
 <p class="subheading">Rule</p>
