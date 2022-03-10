@@ -42,13 +42,27 @@ You can avoid provoking an [Opportunity Attack](pages/combat/reactions.md?id=opp
 
 <header>
 
-## Improvised Action
+## Improvise
 
 Combat Action
 
 </header>
 
 At the GM's discretion, other actions can be improvised.
+
+</section>
+
+<section class="summary">
+
+<header>
+
+## Ready
+
+Combat Action
+
+</header>
+
+You can ready a [Reaction]([pages/combat/reactions.md]) before the start of your next turn. Choose a trigger, and an **Action** you will take in response. You can take your readied **Reaction** right after your trigger.
 
 </section>
 
