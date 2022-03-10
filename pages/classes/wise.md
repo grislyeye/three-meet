@@ -64,7 +64,7 @@ You can create small, harmless sensory effects, such as hand-sized illusions, wh
 
 </header>
 
-You command dark forces to afflict an enemy. You gain the Stricken (Ranged 1d10, Spell) [Attack](pages/combat/attacks.md).
+You command dark forces to afflict an enemy. You gain the **Stricken (Ranged 1d10, [Spell](pages/combat/attacks.md#describing-attacks)) Attack**.
 
 <header>
 
