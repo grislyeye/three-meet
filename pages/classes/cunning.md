@@ -16,7 +16,7 @@
 
 **Proficiencies:** Any 1 skill, [Cunning](pages/characters/attributes.md?id=cunning) [Saves](pages/rules/rolling/saves.md)
 
-**Starting Equipment:** Leather Armour (Defence 11), 2 Daggers (Melee 1d4, Ranged 1d4, Light), and a Crossbow (Ranged 1d8)
+**Starting Equipment:** Leather Armour (Defence 11), 2 Daggers (Melee 1d4, Thrown 1d4, Light), and a Crossbow (Ranged 1d8)
 
 <header>
 
@@ -26,7 +26,7 @@
 
 </header>
 
-You can deal an extra 1d6 damage to one creature you hit with an attack, if you have advantage on the attack roll. You must be wielding a [Finesse](pages/combat/attacks.md?id=describing-attacks) or [Ranged Attack](pages/combat/attacks.md?id=describing-attacks) weapon.
+You can deal an extra 1d6 damage to one creature you hit with a melee attack, if you have advantage on the attack roll. You must be wielding a [Finesse](pages/combat/attacks.md?id=describing-attacks) weapon.
 
 <header>
 
@@ -74,7 +74,7 @@ You play fast and deadly, hiding in shadows and darting out to attack.
 
 </header>
 
-You can use your **Cunning Attack** on a target if it is close to an ally.
+You do not need advantage to use your **Cunning Attack** on a target if it is close to an ally, or when throwing a light weapon.
 
 <header>
 
