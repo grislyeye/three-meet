@@ -1,8 +1,9 @@
 .content a {
-  color: rgb(237, 237, 237);
-  font-style: italic;
+  color: white;
   text-decoration: none;
   font-weight: bold;
+
+  background-image: linear-gradient(to top,#4b4b4b 0%,#4b4b4b 20%,transparent 80%,transparent 100%);
 }
 
 .content a.anchor {
@@ -10,5 +11,23 @@
 }
 
 .content a:hover {
-  text-decoration: underline;
+  background-color: #4b4b4b;
+}
+
+.content h1 a,
+.content h2 a,
+.content h3 a,
+.content h4 a {
+  text-decoration: none;
+  background-image: none;
+  background-color: transparent;
+}
+
+.content h1 a:hover,
+.content h2 a:hover,
+.content h3 a:hover,
+.content h4 a:hover {
+  text-decoration: none;
+  background-image: none;
+  background-color: transparent;
 }

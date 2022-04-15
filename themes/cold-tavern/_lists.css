@@ -1,0 +1,8 @@
+.content ul {
+  list-style: square;
+}
+
+.content ul li,
+.content ol li {
+  margin: 0.8em 0;
+}

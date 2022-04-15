@@ -1,9 +1,17 @@
+<header>
+
 # Moves
 
-On your turn, you can move a distance up to 30 feet. Your movement can include jumping, climbing, and swimming.
+<p class="subheading">Rule</p>
 
-## Difficult Terrain
+</header>
 
-Combat rarely takes place in bare rooms or on featureless plains. A typical fight contains difficult terrain.
+Movement in combat uses the abstract rules for [Distance](pages/rules/distance.md). On your **Turn**, you can:
 
-Every foot of movement in difficult terrain costs 1 extra foot.
+ * Use your [Move](pages/combat/moves.md) to go somewhere **Nearby**
+ * Use the [Dash](pages/combat/actions.md?id=dash) action with your [Move](pages/combat/moves.md) to reach somewhere **Far-Away**
+ * Take 3 [Moves](pages/combat/moves.md) to go anywhere **Distant**
+
+Your movement can include jumping, climbing, and swimming.
+
+<header>

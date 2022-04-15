@@ -1,17 +1,79 @@
+<header>
+
 # The Mighty
 
-**Starting Health:** 10 + [Might](pages/characters/attributes.md?id=might)
+<p class="subheading">Class</p>
 
-**Starting Equipment:** Shield (+2 Defence), Chain Mail (Defence 16), Longsword (1d8), and a Shortbow (1d8)
+</header>
 
-| Level | Proficiency | Class Features  |
+| Level | Proficiency | Features  |
 | ----  | ----------- |- |
-| 1st   | +2          | Archetype, Second Wind, Proficient: [Might](pages/characters/attributes.md?id=might) [saves](rules/rolling.md?id=saves), Proficient: Athletics |
+| 1st   | +2          | +1 [Might](pages/characters/attributes.md?id=might), Surge, Archetype |
 
-### Second Wind
+### Starting Stats
 
-You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can regain Health equal to 1d10 + your level. Once you use this feature, you must finish a rest before you can use it again.
+**Starting [Stamina](pages/combat/stamina.md):** 10 + [Might](pages/characters/attributes.md?id=might)
+
+**Proficiencies:** Athletics, [Might](pages/characters/attributes.md?id=might) [Saves](pages/rules/rolling/saves.md), all armor, shields, simple weapons, and martial weapons
+
+**Starting Equipment:** Chain Mail (Defence 16), Shield (+2 Defence), Longsword (Melee 1d8, Versatile 1d10), and a Shortbow (Ranged 1d8)
+
+<header>
+
+### Surge
+
+<p class="subheading">1st-level Mighty class feature</p>
+
+</header>
+
+You have a limited well of stamina that you can draw on to fuel feats of strength. You start with two such feats: Second Wind and a feat determined by your archetype.
+
+When you use your Surge, you choose which feat to use. You must then finish a rest to use your Surge again.
+
+#### Surge: Second Wind
+
+As a [Bonus Action](pages/combat/bonus-actions.md) you can regain [Stamina](pages/combat/stamina.md) equal to **1d10 + your level**.
+
+<header>
 
 ### Archetype
 
-Choose an archetype and gain its features. The Mighty archetypes include: Defender.
+<p class="subheading">1st-level Mighty class feature</p>
+
+</header>
+
+Choose an archetype and gain its features. The Mighty archetypes include: [Defender](pages/classes/mighty.md?id=defender).
+
+<header>
+
+## Defender
+
+<p class="subheading">Mighty archetype</p>
+
+</header>
+
+You fight to protect. Cleaving close to your allies, you intercept attacks, so they can continue to deal damage.
+
+| Level | Archetype Features |
+| ----  | ------------------ |
+| 1st   | Block, Surge: Defend, Proficient: Intimidation |
+
+<header>
+
+### Block
+
+<p class="subheading">1st-level Defender archetype feature</p>
+
+</header>
+
+You can use your [Reaction](pages/combat/reactions.md) to impose disadvantage on an [Attack](pages/combat/attacks.md) that targets an ally. The target must be within 5 feet of you, and you must be wielding a melee weapon or shield.
+
+<header>
+
+### Surge: Defend
+
+<p class="subheading">1st-level Defender archetype feature</p>
+
+</header>
+
+You can use your [Bonus Action](pages/combat/bonus-actions.md) to direct a [Close](pages/rules/distance) ally defensively. The ally gains **1d10 + your level** [Temporary Stamina](pages/combat/stamina#temporary-stamina). This Temporary Stamina lasts for 1 minute.

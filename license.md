@@ -35,4 +35,18 @@ as Open Game Content by the Contributor, and means any work covered by this Lice
 
 * Open Game License v 1.0 Copyright 2000, Wizards of the Coast, Inc.
 * System Reference Document 5.1 Copyright 2016, Wizards of the Coast, Inc.; Authors Mike Mearls, Jeremy Crawford, Chris Perkins, Rodney Thompson, Peter Lee, James Wyatt, Robert J. Schwalb, Bruce R. Cordell, Chris Sims, and Steve Townshend, based on original material by E. Gary Gygax and Dave Arneson.
-* Three Meet 1.0 Copyright 2020-2021, R.G Wood
+* Swords & Wizardry Core Rules, Copyright 2008 Matthew J. Finch. 13th Age, Copyright 2013 Fire Opal Media.
+* Low Fantasy Gaming (Original), Copyright Pickpocket Press 2016.
+* The original roleplaying game "The Black Hack" text, tables, all artwork, logos and layout are Copyright 2016, David Black.
+* Additional Things" text, tables, artwork and layout are Copyright 2016, David Black.
+* The French translation of TBH is Copyright 2016, Bruno Bord, reviewed by Raskal Raskalis, David Grossoleil & Éric Nieudan.
+* The French translation of "Additional Things" is Copyright 2016, Bruno Bord, reviewed by Geoffrey Sanchez.
+* The Spanish (Castellano) translation of TBH is Copyright 2016, Rafael Pardo Macías.
+* The Japanese translation of TBH is Copyright 2016, Toshiya Nakamura.
+* The Italian translation of TBH and "Additional Things" is Copyright 2016, Fabio Gemesio @J7Lab.
+* The Portuguese (Brazilian) translation of TBH is Copyright 2016, Fernando Guedes.
+* The Korean translation of TBH and "Additional Things" is Copyright 2016, 오시욱 (Siwook Oh).
+* The German translation of TBH and "Additional Things" is Copyright 2017, Matthias Schaffrath.
+* The Thai translation of TBH is Copyright 2021, Sumate Ngarmjitviroon.
+* The Black Hack website is Copyright 2016-2017, Bruno Bord.
+* Three Meet 0.2.0 Copyright 2020-2021, R.G Wood
