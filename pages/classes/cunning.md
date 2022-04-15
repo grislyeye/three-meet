@@ -86,29 +86,20 @@ You do not need advantage to use your **Cunning Attack** on a target if it is cl
 
 With wit, flair, and fancy footwork, you run rings around your opponents.
 
-| Level | Features |
-| ----  | - |
-| 1st   | Daring Manoeuvre |
+| Level | Features
+| ----  | -
+| 1st   | Swashbuckle
 
 ### Starting Stats
 
 **Proficiencies:** Deception, Acrobatics
 
-<!--
-  This feature turns The Cunning character into a front-line attacker.
-  Possible issues include:
-
-   * May not trigger as often as the Sneak Attack above, making this class
-     weaker.
-   * Puts a vulnerable class in a high-damage environment.
-   * The Cunning relies upon being hidden.
--->
 <header>
 
-### Daring Manoeuvre
+### Swashbuckle
 
 <p class="subheading">1st-level Swashbuckler archetypes feature</p>
 
 </header>
 
-You do not need advantage to use your [Cunning Attack](#cunning-attack) when you first become **Close** to an opponent.
+You do not need advantage to use your [Cunning Attack](#cunning-attack) if you have already [moved](pages/combat/moves.md) on your turn.
