@@ -2,7 +2,7 @@
 
 | Level             | Background Features    |
 | ----------------- | - |
-| 1st               | +1 [Cunning](pages/characters/attributes.md?id=cunning), Proficient: Performance, Thieves' Cant, Equipment: instrument, Speciality |
+| 1st               | +1 [Cunning](pages/characters/attributes.md?id=cunning), Proficient: Performance, Equipment: instrument, Speciality |
 
 ### Speciality
 

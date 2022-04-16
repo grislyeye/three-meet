@@ -7,7 +7,6 @@
   + [Noble](pages/backgrounds/noble.md)
   + [Performer](pages/backgrounds/performer.md)
   + [Magic Specialities](pages/backgrounds/magic.md)
->>>>>>> main
 + [Classes](pages/classes/index.md)
   + [The Mighty](pages/classes/mighty.md)
   + [The Cunning](pages/classes/cunning.md)
