@@ -6,9 +6,9 @@
 
 </header>
 
-| Level | Proficiency | Class Features  |
-| ----  | ----------- |- |
-| 1st   | +2          | +1 [Wisdom](pages/characters/attributes.md?id=wisdom), Archetype, Proficient: Insight, Proficient: [Wisdom](pages/characters/attributes.md?id=wisdom) [Saves](pages/rules/rolling/saves.md) |
+| Level | Proficiency | Class Features  | Wise Slots |
+| ----  | ----------- |- | - |
+| 1st   | +2          | +1 [Wisdom](pages/characters/attributes.md?id=wisdom), Archetype, Proficient: Insight, Proficient: [Wisdom](pages/characters/attributes.md?id=wisdom) [Saves](pages/rules/rolling/saves.md), Wises | 2 |
 
 ### Starting Stats
 
@@ -16,9 +16,21 @@
 
 **Proficiencies:** Insight, [Wisdom](pages/characters/attributes.md?id=wisdom) [Saves](pages/rules/rolling/saves.md)
 
-**Starting Equipment:** Quarterstaff (Melee 1d6)
-
 <header>
+
+### Wises
+
+You have a number of **Wise Slots** which you can use to perform various feats, as determined by your Archetype. You regain all expended **Wise Slots** when you finish a rest.
+
+Your **Wise Difficulty** is:
+
+<div class="example-roll">
+  8
+  +
+  <span class="bonus"> <span class="caption">Proficiency</span></span>
+  +
+  <span class="bonus"> <span class="caption">Wisdom</span></span>
+</div>
 
 ### Archetype
 
@@ -30,23 +42,39 @@ Choose an archetype and gain its features. The Wise archetypes include: **Leader
 
 ## Leader
 
-Not all can fight, some must command. You are a leader, a tactician. Issuing orders and inspiriting greatness in others.
+Not all need fight, some must command. You are a leader, a tactician. Issuing orders and inspiriting greatness in others.
 
 | Level | Archetype Features |
 | ----  | - |
-| 1st   | Rally, Command, Proficient: Heavy Armour |
+| 1st   | Called Attack, Guidance, Stratagem, Proficient: Persuasion, light armor, shields, and simple weapons |
 
 <header>
 
-<header>
-
-### Command
+### Called Attack
 
 <p class="subheading">1st-level Leader archetype feature</p>
 
 </header>
 
-You can use an action to make an inspiring command.
+As an action you size up a [Nearby]() enemy to learn its weaknesses. You or a [Close]() ally has advantage on the next [Attack]() against the target.
+
+<header>
+
+### Guidance
+
+<p class="subheading">1st-level Leader archetype feature</p>
+
+</header>
+
+You can take an [Action]() to confer useful advice to a [Close]() ally. The target can roll a d4 and add the number rolled to one ability check of its choice. It can roll the die before or after making the ability check.
+
+<header>
+
+### Stratagem
+
+<p class="subheading">1st-level Leader archetype feature</p>
+
+You can make inspiring and tactical commands. To perform a Strategy you must expend a **Wise Slot**.
 
 <section class="spells">
 
@@ -54,13 +82,41 @@ You can use an action to make an inspiring command.
 
 <header>
 
-#### Rally
+#### Battle Cry
 
-<p class="subheading">1st-level Leader spell</p>
+<p class="subheading">1st-level Leader Strategy</p>
 
 </header>
 
-You can use your [Bonus Action]() to make an inspiring cry to an ally. A willing creature of your choice that is **Nearby** or closer regains [Temporary Health]() equal to 1d4 + your **Wisdom**.
+You can use your [Action]() to make an inspiring cry to a [Nearby]() ally. The target can roll a d4 and add the number rolled to one attack roll or saving throw.
+
+</section>
+
+<section class="spell">
+
+<header>
+
+#### Inspire
+
+<p class="subheading">1st-level Leader Strategy</p>
+
+</header>
+
+You can use your [Action]() to inspire a [Nearby]() ally. The creature is immune to being [Frightened]() and gains [Temporary Stamina]() equal to your [Wisdom](../pages/characters/attributes.md#wisdom) at the start of each of its turns.
+
+</section>
+
+<section class="spell">
+
+<header>
+
+#### Rally
+
+<p class="subheading">1st-level Leader Strategy</p>
+
+</header>
+
+You can use your [Bonus Action]() to make an inspiring cry to a [Nearby]() ally. The target regains [Stamina](../pages/combat/stamina.md) equal to 1d4 + your **Wisdom**.
 
 </section>
 
@@ -74,11 +130,13 @@ You can use your [Bonus Action]() to make an inspiring cry to an ally. A willing
 
 You are a practitioner of forbidden, arcane arts.
 
-| Level | Archetype Features         | Spell Slots |
-| ----  | -------------------------- | ----------- |
-| 1st   | Minor Sorcery, Stricken, Rituals, Sorcery | 2           |
+| Level | Archetype Features         |
+| ----  | -------------------------- |
+| 1st   | Minor Sorcery, Stricken, Rituals, Sorcery |
 
 ### Starting Stats
+
+**Starting Equipment:** Quarterstaff (Melee 1d6)
 
 **Proficiencies:** Arcana
 
@@ -152,17 +210,7 @@ You summon a **Minor Spirit (1 [Stamina](pages/combat/stamina.md), 10 Defence, S
 
 </header>
 
-You can cast spells. To cast a spell you must expend a spell slot. Each spell takes an [Action](pages/combat/actions.md) to cast. You regain all expended spell slots when you finish a rest.
-
-Your **Spell Difficulty** is:
-
-<div class="example-roll">
-  8
-  +
-  <span class="bonus"> <span class="caption">Proficiency</span></span>
-  +
-  <span class="bonus"> <span class="caption">Wisdom</span></span>
-</div>
+You can cast spells. To cast a spell you must expend a **Wise Slot**. Each spell takes an [Action](pages/combat/actions.md) to cast. You regain all expended **Wise Slot**s when you finish a rest.
 
 <section class="spells">
 
@@ -190,7 +238,7 @@ You pull back the veil, revealing a glimpse of what lies beyond the mortal realm
 
 </header>
 
-You summon unseen spirits that whisper horrific things in the ear of a creature of your choice that you can see. The target must make a [Wisdom](pages/characters/attributes.md?id=wisdom) [Save](pages/rules/rolling/saves.md) against your **Spell Difficulty**. It takes **2d10** damage on a failed save, or half as much damage on a successful one.
+You summon unseen spirits that whisper horrific things in the ear of a creature of your choice that you can see. The target must make a [Wisdom](pages/characters/attributes.md?id=wisdom) [Save](pages/rules/rolling/saves.md) against your **Wise Difficulty**. It takes **2d10** damage on a failed save, or half as much damage on a successful one.
 
 </section>
 
