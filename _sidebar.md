@@ -1,9 +1,10 @@
 + Characters
   + [Attributes](pages/characters/attributes.md)
   + [Skills](pages/characters/skills.md)
-  + [Describing](pages/characters/describing.md)
+  + [Allegiances](pages/characters/allegiances.md)
 + [Backgrounds](pages/backgrounds/index.md)
   + [Knave](pages/backgrounds/knave.md)
+  + [Noble](pages/backgrounds/noble.md)
   + [Performer](pages/backgrounds/performer.md)
   + [Magic Specialities](pages/backgrounds/magic.md)
 >>>>>>> main
@@ -13,15 +14,23 @@
   + [The Wise](pages/classes/wise.md)
 + Basic Rules
   + [Rolling](pages/rules/rolling.md)
+    + [Checks](pages/rules/rolling/checks.md)
+    + [Group Checks](pages/rules/rolling/group.md)
+    + [Contests](pages/rules/rolling/contests.md)
+    + [Saves](pages/rules/rolling/saves.md)
   + [Advantage/Disadvantage](pages/rules/advantage.md)
   + [Proficiency](pages/rules/proficiency.md)
+  + [Distance](pages/rules/distance.md)
   + [Rests](pages/rules/rests.md)
   + [Conditions](pages/rules/conditions.md)
 + Combat
   + [Order of Combat](pages/combat/order.md)
-  + [Moves](pages/combat/moves.md)
+  + [Actions](pages/combat/actions.md)
   + [Attacks](pages/combat/attacks.md)
-  + [Health](pages/combat/health.md)
+  + [Moves](pages/combat/moves.md)
+  + [Bonus Actions](pages/combat/bonus-actions.md)
+  + [Reactions](pages/combat/reactions.md)
+  + [Stamina](pages/combat/stamina.md)
 + Colophon
   + [Design Notes](design-notes.md)
   + [Contributing](contributing.md)
