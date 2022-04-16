@@ -26,9 +26,9 @@
 
 </header>
 
-Choose an archetype and gain its features. The Wise archetypes include: **Commander** and **[Sorcerer](pages/classes/wise.md?id=sorcerer)**.
+Choose an archetype and gain its features. The Wise archetypes include: **Leader** and **[Sorcerer](pages/classes/wise.md?id=sorcerer)**.
 
-## Commander
+## Leader
 
 Not all can fight, some must command. You are a leader, a tactician. Issuing orders and inspiriting greatness in others.
 
@@ -37,6 +37,34 @@ Not all can fight, some must command. You are a leader, a tactician. Issuing ord
 | 1st   | Rally, Command, Proficient: Heavy Armour |
 
 <header>
+
+<header>
+
+### Command
+
+<p class="subheading">1st-level Leader archetype feature</p>
+
+</header>
+
+You can use an action to make an inspiring command.
+
+<section class="spells">
+
+<section class="spell">
+
+<header>
+
+#### Rally
+
+<p class="subheading">1st-level Leader spell</p>
+
+</header>
+
+You can use your [Bonus Action]() to make an inspiring cry to an ally. A willing creature of your choice that is **Nearby** or closer regains [Temporary Health]() equal to 1d4 + your **Wisdom**.
+
+</section>
+
+</section>
 
 ## Sorcerer
 
