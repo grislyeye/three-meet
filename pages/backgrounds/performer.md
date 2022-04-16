@@ -30,4 +30,4 @@ You are an actor in a troupe. Skilled at mimicry and improvisation.
 
 ### Mummery
 
-Your talent for acting not only entertains, it's also useful for manipulating others. You can use the [Performance Proficiency]() where you would normally use [Deception]() or [Persuasion]().
+Your talent for acting not only entertains, it's also useful for manipulating others. You can use [Performance]() where you would normally use [Deception]() or [Persuasion]().
