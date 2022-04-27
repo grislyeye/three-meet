@@ -23,9 +23,9 @@ Retainers are described with a name, and usage die and their available actions i
 
 <section class="summary">
 
-## Attack
+## Attack (Bonus Action)
 
-Your **Retainer** fights on your behalf for one combat.
+Your **Retainer** fights on your behalf for one combat. You can use your [Bonus Action](../../pages/combat/bonus-actions.md) to direct the Retainer to make an attack on your behalf.
 
 </section>
 
