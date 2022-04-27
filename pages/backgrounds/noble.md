@@ -76,4 +76,4 @@ You are the descendant of a wealthy family.
 
 </header>
 
-You are accompanied by a **Servant (d8 [Companion](pages/equipment/retainers.md))**.
+You are accompanied by a **Servant (d6 [Retainer](pages/equipment/retainers.md), Comfort)**.

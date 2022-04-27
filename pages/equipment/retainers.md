@@ -15,28 +15,7 @@ To **Replenish** your **Retainer** you can:
  * **Tap** your **Wealth**
  * Spend an **Advance**
 
-<table>
-  <thead>
-    <tr>
-      <th>Retainer</th>
-      <th>Actions</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Companion</td>
-      <td>Errand, Supply</td>
-    </tr>
-    <tr>
-      <td>Contact</td>
-      <td>Investigate</td>
-    </tr>
-    <tr>
-      <td>Guard</td>
-      <td>Attack</td>
-    </tr>
-  </tbody>
-</table>
+Retainers are described with a name, and usage die and their available actions in brackets. For example **Guard (d6 Retainer, 1d6 Melee Attack)**
 
 ## Actions
 
