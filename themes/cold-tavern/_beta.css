@@ -1,0 +1,12 @@
+.content header h1 + p.subheading::after {
+  color: white;
+  background-color: red;
+  margin: 0.5em;
+  padding: 0.3em;
+  content: " Beta version {{VERSION}}";
+  border-radius: 2px;
+  font-size: 10pt;
+  font-weight: bold;
+  text-transform: uppercase;
+  vertical-align: middle;
+}

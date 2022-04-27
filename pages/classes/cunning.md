@@ -8,15 +8,15 @@
 
 | Level | Proficiency | Features  |
 | ----  | ----------- |- |
-| 1st   | +2          | Archetype, Expertise, Cunning Attack |
+| 1st   | +2          | +1 [Cunning](pages/characters/attributes.md?id=cunning), Archetype, Expertise, Cunning Attack |
 
 ### Starting Stats
 
-**Starting Health:** 8 + [Might](pages/characters/attributes.md?id=might)
+**Starting [Stamina](pages/combat/stamina.md):** 8 + [Might](pages/characters/attributes.md?id=might)
 
-**Proficiencies:** Any 1 skill, [Cunning](pages/characters/attributes.md?id=cunning) [saves](pages/rules/rolling.md?id=saves)
+**Proficiencies:** Any 1 skill, [Cunning](pages/characters/attributes.md?id=cunning) [Saves](pages/rules/rolling/saves.md)
 
-**Starting Equipment:** Leather Armour (Defence 11), 2 Daggers (Melee 1d4, Ranged 1d4, Light), and a Crossbow (Ranged 1d8)
+**Starting Equipment:** Leather Armour (Defence 11), 2 Daggers (Melee 1d4, Thrown 1d4, Light), and a Crossbow (Ranged 1d8)
 
 <header>
 
@@ -26,7 +26,7 @@
 
 </header>
 
-You can deal an extra 1d6 damage to one creature you hit with an attack, if you have advantage on the attack roll. You must be wielding a **Finesse or Ranged Weapon** for your attack.
+You can deal an extra 1d6 damage to one creature you hit with a melee attack, if you have advantage on the attack roll. You must be wielding a [Finesse](pages/combat/attacks.md?id=describing-attacks) weapon.
 
 <header>
 
@@ -36,7 +36,9 @@ You can deal an extra 1d6 damage to one creature you hit with an attack, if you 
 
 </header>
 
-Choose two of your skill or tool proficiencies. Your proficiency bonus is doubled for [checks](pages/rules/rolling.md?id=checks) with these proficiencies.
+Choose two of your skill or tool proficiencies. Your proficiency bonus is doubled for [Checks](pages/rules/rolling/checks.md) with these proficiencies.
+
+<header>
 
 ### Archetype
 
@@ -60,11 +62,11 @@ You play fast and deadly, hiding in shadows and darting out to attack.
 | ----  | - |
 | 1st   | Sneak Attack |
 
-<header>
-
 ### Starting Stats
 
 **Proficiencies:** Perception, Stealth
+
+<header>
 
 ### Sneak Attack
 
@@ -72,30 +74,32 @@ You play fast and deadly, hiding in shadows and darting out to attack.
 
 </header>
 
-You can use your **Cunning Attack** on a target if it is **Engaged** with an enemy.
+You do not need advantage to use your **Cunning Attack** on a target if it is close to an ally, or when throwing a light weapon.
+
+<header>
 
 ## Swashbuckler
-
-With wit, flair, and fancy footwork, you run rings around your opponents.
 
 <p class="subheading">Cunning archetype</p>
 
 </header>
 
-| Level | Features |
-| ----  | - |
-| 1st   | Riposte |
+With wit, flair, and fancy footwork, you run rings around your opponents.
 
-<header>
+| Level | Features
+| ----  | -
+| 1st   | Swashbuckle
 
 ### Starting Stats
 
 **Proficiencies:** Deception, Acrobatics
 
-### Riposte
+<header>
+
+### Swashbuckle
 
 <p class="subheading">1st-level Swashbuckler archetypes feature</p>
 
 </header>
 
-You can make a cutting remark that puts your opponent on the back foot. As a **Bonus Action** you can make an **Opposed** [Deception](pages/characters/skills.md?id=deception) [Check](pages/rules/rolling.md#checks), contested by your opponent's [Deception](pages/characters/skills.md?id=deception). If you succeed, you can use your [Cunning Attack](#cunning-attack) against your opponent.
+You do not need advantage to use your [Cunning Attack](#cunning-attack) if you have already [moved](pages/combat/moves.md) on your turn.
