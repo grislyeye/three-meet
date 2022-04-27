@@ -13,7 +13,7 @@ Your relationship with your retainers is measured using a [Usage Die](pages/rule
 To **Replenish** your **Retainer** you can:
 
  * **Tap** your **Wealth**
- * Spend an **Advance** on them
+ * Spend an **Advance**
 
 <table>
   <thead>
@@ -62,7 +62,7 @@ Your **Retainer** performs a simple task on your behalf.
 
 ## Investigate
 
-Your **Retainer** can supply you with one **Common Equipment Item**.
+You can ask one question of your **Retainer**. If the GM agrees it is reasonable for them to be able to answer, **Retainer** can spend its **Downtime** investigating the question and find a truthful reply.
 
 </section>
 
@@ -70,7 +70,7 @@ Your **Retainer** can supply you with one **Common Equipment Item**.
 
 ## Supply
 
-You can ask one question of your **Retainer**. If the GM agrees it is reasonable for them to be able to answer, **Retainer** can spend its **Downtime** investigating the question and find a truthful reply.
+Your **Retainer** can supply you with one **Common Equipment Item**.
 
 </section>
 
