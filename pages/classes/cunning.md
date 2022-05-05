@@ -26,7 +26,7 @@
 
 </header>
 
-You can deal an extra 1d6 damage to one creature you hit with a melee attack, if you have advantage on the attack roll. You must be wielding a [Finesse](pages/combat/attacks.md?id=describing-attacks) weapon.
+You can deal an extra 1d6 damage to one creature you hit with a melee attack, if you have advantage on the attack roll. You must be wielding a [Light](pages/combat/attacks.md?id=describing-attacks) weapon.
 
 <header>
 
