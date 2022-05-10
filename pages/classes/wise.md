@@ -46,17 +46,17 @@ Not all need fight, some must command. You are a leader, a tactician. Issuing or
 
 | Level | Archetype Features |
 | ----  | - |
-| 1st   | Called Attack, Guidance, Stratagem, Proficient: Persuasion, light armor, shields, and simple weapons |
+| 1st   | Command, Guidance, Stratagem, Proficient: Persuasion, light armor, shields, and simple weapons |
 
 <header>
 
-### Called Attack
+### Command
 
 <p class="subheading">1st-level Leader archetype feature</p>
 
 </header>
 
-As an action you size up a [Nearby]() enemy to learn its weaknesses. You or a [Close]() ally has advantage on the next [Attack]() against the target.
+As an action you command an ally to attack. The ally can use their [Reaction](../../pages/combat/reactions.md) to make an [Attack](../../pages/combat/attacks.md).
 
 <header>
 
