@@ -41,6 +41,7 @@ You are a practitioner of forbidden, arcane arts.
 | Level | Archetype Features         | Spell Slots |
 | ----  | -------------------------- | ----------- |
 | 1st   | Minor Sorcery, Stricken, Rituals, Sorcery | 2           |
+| 2nd   | Improved Stricken, Witch Sight | 3 |
 
 ### Starting Stats
 
@@ -173,3 +174,23 @@ You can touch a willing creature (including yourself) who isn't wearing armour, 
 </section>
 
 </section>
+
+<header>
+
+### Improved Stricken
+
+<p class="subheading">2nd-level Sorcerer archetype feature</p>
+
+</header>
+
+You can add your [Wisdom](../../pages/characters/attributes.md#wisdom) to the damage of your [Stricken Attack](#stricken).
+
+<header>
+
+### Witch Sight
+
+<p class="subheading">2nd-level Sorcerer archetype feature</p>
+
+</header>
+
+Using an [Action](../../pages/combats/actions.md) you can sense the presence of any magic [Nearby](../../pages/rules/distance.md). You can then see a faint aura around any visible creature or object in the area that bears magic. You may also be able to see things hidden from mortal eyes, such as strange omens or magical signs left by other sorcerers.
