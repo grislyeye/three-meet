@@ -64,9 +64,11 @@ $ npm run itch:deploy
 
   1. Key terms should be in bold and capitalised for emphasis, e.g. **Proficiency**.
   2. Key terms should be linked, e.g. [Proficiency](pages/rules/proficiency).
-  3. Exceptions to linking include:
-    4. Where a term has been defined nearby in the text.
-  3. Avoid using too many key terms in a text block to prevent visual overload.
+  3. Key terms should be in bold when they aren't linked.
+  4. Exceptions to linking include:
+    5. Where a term has been defined nearby in the text.
+  6. Avoid using too many key terms in a text block to prevent visual overload.
+  7. Dice rolls should be in bold, including modifiers.
 
 ### 3. Numerals
 
