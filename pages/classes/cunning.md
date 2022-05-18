@@ -9,6 +9,7 @@
 | Level | Proficiency | Features  |
 | ----  | ----------- |- |
 | 1st   | +2          | +1 [Cunning](pages/characters/attributes.md?id=cunning), Archetype, Expertise, Cunning Attack |
+| 2nd   | +2          | Cunning Action |
 
 ### Starting Stats
 
@@ -49,6 +50,16 @@ Choose two of your skill or tool proficiencies. Your proficiency bonus is double
 Choose an archetype and gain its features. **The Cunning** archetypes include: [Shadow](pages/classes/cunning.md?id=shadow) and [Swashbuckler](pages/classes/cunning.md?id=swashbuckler).
 
 <header>
+
+<header>
+
+### Cunning Action
+
+<p class="subheading">2nd-level Cunning class feature</p>
+
+</header>
+
+Starting at 2nd level, your quick thinking and agility allow you to move and act quickly. You can take a [Bonus Action](../../pages/combat/bonus-actions.md) on each of your [Turns](../../pages/combat/order.md) in combat. This action can be used only to take the [Dash](../../pages/combat/actions.md#dash), [Disengage](../../pages/combat/actions.md#disengage), or [Hide](../../pages/combat/actions.md#hide) action.
 
 ## Shadow
 

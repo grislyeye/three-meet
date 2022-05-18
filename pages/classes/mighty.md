@@ -9,6 +9,7 @@
 | Level | Proficiency | Features  |
 | ----  | ----------- |- |
 | 1st   | +2          | +1 [Might](pages/characters/attributes.md?id=might), Surge, Archetype |
+| 2nd   | +2          | Mighty Action |
 
 ### Starting Stats
 
@@ -33,6 +34,16 @@ When you use your Surge, you choose which feat to use. You must then finish a re
 #### Surge: Second Wind
 
 As a [Bonus Action](pages/combat/bonus-actions.md) you can regain [Stamina](pages/combat/stamina.md) equal to **1d10 + your level**.
+
+<header>
+
+### Mighty Action
+
+<p class="subheading">2nd-level Mighty class feature</p>
+
+</header>
+
+Starting at 2nd level, you can push yourself beyond your normal limits. On your [Turn](../../pages/combat/order.md), you can take one additional [Action](../../pages/combat/actions.md). You must [Rest](../../pages/rules/rests.md) before you can use this feature again.
 
 <header>
 

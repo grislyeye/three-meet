@@ -42,6 +42,20 @@ You can avoid provoking an [Opportunity Attack](pages/combat/reactions.md?id=opp
 
 <header>
 
+## Hide
+
+Combat Action
+
+</header>
+
+You make a **Cunning Stealth Check** in an attempt to hide. While hidden you have [Advantage](../../pages/rules/advantage.md) on [Attacks](../../pages/combat/attacks.md), and [Attacks](../../pages/combat/attacks.md) against you have [Disadvantage](../../pages/rules/advantage.md).
+
+</section>
+
+<section class="summary">
+
+<header>
+
 ## Improvise
 
 Combat Action
