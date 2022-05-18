@@ -62,9 +62,24 @@ Combat Action
 
 </header>
 
+At the GM's discretion, other actions can be improvised. You can also improvise an **Improvised Attack (Melee 1d4, Ranged 1d4)**, such as with a sharp bunch or thrown chair.
+
+</section>
+
+<section class="summary">
+
+<header>
+
+## Improvised Attack
+
+Attack
+
+</header>
+
 At the GM's discretion, other actions can be improvised.
 
 </section>
+
 
 <section class="summary">
 
