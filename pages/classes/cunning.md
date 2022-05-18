@@ -95,7 +95,7 @@ You do not need advantage to use your **Cunning Attack** on a target if it is cl
 
 </header>
 
-With wit, flair, and fancy footwork, you run rings around your opponents.
+With wit, flair, and fancy footwork you leap head first into combat, running rings around your opponents.
 
 | Level | Features
 | ----  | -
@@ -113,4 +113,4 @@ With wit, flair, and fancy footwork, you run rings around your opponents.
 
 </header>
 
-You do not need advantage to use your [Cunning Attack](#cunning-attack) if you have already [moved](pages/combat/moves.md) on your turn.
+You do not need advantage to use your [Cunning Attack](#cunning-attack) against a creature when you are **Close** to it, and no other creatures are **Close** to you.
