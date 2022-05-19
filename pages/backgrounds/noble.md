@@ -20,7 +20,7 @@ You are high-born, a member of the second estate.
 
 </header>
 
-Your noble upbringing gave you access to tutors, and other idle pursuits like horse riding and hunting. You are proficient in two of the following skills: **Animal Handling**, **Athletics**, **History**, **Nature**, **Performance**, or **Survival**.
+Your noble upbringing gave you access to tutors, and other idle pursuits like horse riding and hunting. You are proficient in one of the following skills: **Animal Handling**, **Athletics**, **History**, **Nature**, **Performance**, or **Survival**.
 
 <header>
 
@@ -54,7 +54,7 @@ You are the illegitimate offspring of the nobility. An open secret, an unpleasan
 
 </header>
 
-Your illegitimacy meant you had to become useful to you family in other ways. You are proficient in any 1 skill or tool of your choice.
+Your illegitimacy meant you had to become useful to you family in other ways. You gain **Authority (Resource Ud6)**. You can [Tap]() it to circumvent minor bureaucratic or legal obstacles, within your families' purvey. When it is [Exhausted]() you’re in trouble. You can [Replenish]() it by carrying out errands for your family.
 
 ## Scion
 
