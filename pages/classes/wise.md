@@ -41,7 +41,7 @@ You are a practitioner of forbidden, arcane arts.
 | Level | Archetype Features         | Spell Slots |
 | ----  | -------------------------- | ----------- |
 | 1st   | Minor Sorcery, Stricken, Rituals, Sorcery | 2           |
-| 2nd   | Improved Stricken, Witch Sight | 3 |
+| 2nd   | Corrupted, Improved Stricken, Witch Sight | 3 |
 
 ### Starting Stats
 
@@ -174,6 +174,16 @@ You can touch a willing creature (including yourself) who isn't wearing armour, 
 </section>
 
 </section>
+
+<header>
+
+### Corrupted
+
+<p class="subheading">2nd-level Sorcerer archetype feature</p>
+
+</header>
+
+You gain the [Corrupted](../../pages/rules/conditions.md#corrupted) condition. You must tap this [Resource](../../pages/rules/usage.md) every time you use one of your class features.
 
 <header>
 
