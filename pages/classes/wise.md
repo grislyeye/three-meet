@@ -41,6 +41,7 @@ You are a practitioner of forbidden, arcane arts.
 | Level | Archetype Features         | Spell Slots |
 | ----  | -------------------------- | ----------- |
 | 1st   | Minor Sorcery, Stricken, Rituals, Sorcery | 2           |
+| 2nd   | Improved Stricken, Witch Sight | 3 |
 
 ### Starting Stats
 
@@ -140,7 +141,7 @@ Your **Spell Difficulty** is:
 
 </header>
 
-You pull back the veil, revealing a glimpse of what lies beyond the mortal realm. Each creature in a 10-foot cube originating from you must make a [Wisdom](pages/characters/attributes.md?id=wisdom) [Save](pages/rules/rolling/saves.md) against your **Spell Difficulty**. Creatures that fail their saves are [Frightened](pages/rules/conditions?id=frightened) by you until the end of your next turn.
+You pull back the veil, revealing a glimpse of what lies beyond the mortal realm. Each creature **Close** to you must make a [Wisdom](pages/characters/attributes.md?id=wisdom) [Save](pages/rules/rolling/saves.md) against your **Spell Difficulty**. Creatures that fail their saves are [Frightened](pages/rules/conditions?id=frightened) by you until the end of your next turn.
 
 </section>
 
@@ -154,7 +155,7 @@ You pull back the veil, revealing a glimpse of what lies beyond the mortal realm
 
 </header>
 
-You summon unseen spirits that whisper horrific things in the ear of a creature of your choice that you can see. The target must make a [Wisdom](pages/characters/attributes.md?id=wisdom) [Save](pages/rules/rolling/saves.md) against your **Spell Difficulty**. It takes **2d10** damage on a failed save, or half as much damage on a successful one.
+You summon unseen spirits that whisper three, horrific things in the ear of a creature of your choice. Each whisper deals 1d4+1 damage to one or several **Close**, **Nearby** or **Far Away** creatures.
 
 </section>
 
@@ -173,3 +174,23 @@ You can touch a willing creature (including yourself) who isn't wearing armour, 
 </section>
 
 </section>
+
+<header>
+
+### Improved Stricken
+
+<p class="subheading">2nd-level Sorcerer archetype feature</p>
+
+</header>
+
+You can add your [Wisdom](../../pages/characters/attributes.md#wisdom) to the damage of your [Stricken Attack](#stricken).
+
+<header>
+
+### Witch Sight
+
+<p class="subheading">2nd-level Sorcerer archetype feature</p>
+
+</header>
+
+Using an [Action](../../pages/combats/actions.md) you can sense the presence of any magic [Nearby](../../pages/rules/distance.md). You can then see a faint aura around any visible creature or object in the area that bears magic. You may also be able to see things hidden from mortal eyes, such as strange omens or magical signs left by other sorcerers.
