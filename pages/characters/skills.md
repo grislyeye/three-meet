@@ -102,7 +102,7 @@ Recalling lore about historical events, legendary people, ancient kingdoms, past
 
 ## Intimidating
 
-Cunning Skill
+Might Skill
 
 </header>
 
@@ -242,7 +242,7 @@ Hiding, moving quietly, sneaking about, and slipping away.
 
 ## Wild
 
-Cunning Skill
+Wisdom Skill
 
 </header>
 
