@@ -30,7 +30,7 @@ Calming animals, keeping horses from being spooked, intuiting animal's intention
 
 <header>
 
-## Acrobatics
+## Acrobatic
 
 Cunning Skill
 
@@ -44,7 +44,7 @@ Balance, acrobatic stunts, dives, rolls, tumbling, and flips.
 
 <header>
 
-##  Athletics
+##  Athletic
 
 Might Skill
 
@@ -58,7 +58,7 @@ Climbing sheer or slipper surfaces, jumping long distances, swimming against a s
 
 <header>
 
-## Arcana
+## Arcane
 
 Wisdom Skill
 
@@ -72,7 +72,7 @@ Recalling lore about spells, magical items, eldritch symbols, and planes of exis
 
 <header>
 
-## Deception
+## Deceptive
 
 Cunning Skill
 
@@ -86,7 +86,7 @@ Lying, misleading others, fast-talking, conning a merchant, gambling, and disgui
 
 <header>
 
-## History
+## Learned
 
 Wisdom Skill
 
@@ -100,7 +100,7 @@ Recalling lore about historical events, legendary people, ancient kingdoms, past
 
 <header>
 
-## Intimidation
+## Intimidating
 
 Cunning Skill
 
@@ -114,9 +114,9 @@ Influence through overt threats, hostile behaviour, and interrogation.
 
 <header>
 
-## Investigation
+## Inquisitive
 
-Cunning Skill
+Wisdom Skill
 
 </header>
 
@@ -128,7 +128,7 @@ Deduction, detecting clues, searching for hidden objects, and research.
 
 <header>
 
-## Insight
+## Insightful
 
 Wisdom Skill
 
@@ -142,7 +142,7 @@ Empathy, social awareness, detecting lies, reading body language, and predicting
 
 <header>
 
-## Medicine
+## Healing
 
 Wisdom Skill
 
@@ -156,21 +156,7 @@ Diagnosing illness, treating wounds, and stabilizing dying companions.
 
 <header>
 
-## Nature
-
-Wisdom Skill
-
-</header>
-
-Lore of plants, animals, and weather.
-
-</section>
-
-<section class="summary">
-
-<header>
-
-## Perception
+## Perceptive
 
 Cunning Skill
 
@@ -184,7 +170,7 @@ General awareness of surroundings and keenness of senses.
 
 <header>
 
-## Performance
+## Talented
 
 Cunning Skill
 
@@ -198,7 +184,7 @@ Music, dancing, acting, storytelling, poetry, and other forms of entertainment.
 
 <header>
 
-## Persuasion
+## Persuasive
 
 Cunning Skill
 
@@ -212,7 +198,7 @@ Influence through tact, social graces, good nature, inspiration, and etiquette.
 
 <header>
 
-## Religion
+## Religious
 
 Wisdom Skill
 
@@ -226,7 +212,7 @@ Lore of gods, demons, and cults. Praying, performing rites
 
 <header>
 
-## Sleight
+## Tricky
 
 Cunning Skill
 
@@ -240,7 +226,7 @@ Legerdemain, sleights of hand, concealing objects, and pickpocketing.
 
 <header>
 
-## Stealth
+## Stealthy
 
 Cunning Skill
 
@@ -254,13 +240,13 @@ Hiding, moving quietly, sneaking about, and slipping away.
 
 <header>
 
-## Survival
+## Wild
 
 Cunning Skill
 
 </header>
 
-Following tracks, hunting, guiding through wildernesses, predict weather, and avoid natural hazards.
+Following tracks, hunting, foraging, guiding through wildernesses, predict weather, and avoid natural hazards.
 
 </section>
 </section>
