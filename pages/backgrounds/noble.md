@@ -22,6 +22,8 @@ You are high-born, a member of the powerful second estate.
 
 You must have an [Allegiances](../../pages/characters/allegiances) for your House. Work with your GM to come up with its name and purview (military, land, influence, etc.).
 
+**Starting Equipment:** Small Pouch of Florins (Treasure Ud8)
+
 <header>
 
 ### Privilege
@@ -76,14 +78,14 @@ You are the descendant of a wealthy family.
 
 | Level             | Features    |
 | ----------------- | - |
-| 1st               | Servant |
+| 1st               | Allowance |
 
 <header>
 
-### Servant
+### Allowance
 
 <p class="subheading">1st-level Scion speciality feature</p>
 
 </header>
 
-You are accompanied by a servant retainer.
+As a noble, you are expected to maintain a certain lifestyle. You start with a **Large Pouch of Crowns (Treasure Ud10)**. This item refreshes at the end of each adventure.
