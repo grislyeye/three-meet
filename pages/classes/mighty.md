@@ -9,10 +9,11 @@
 | Level | Proficiency | Features  |
 | ----  | ----------- |- |
 | 1st   | +2          | +1 [Might](pages/characters/attributes.md?id=might), Surge, Archetype |
+| 2nd   | +2          | Mighty Action |
 
 ### Starting Stats
 
-**Starting Health:** 10 + [Might](pages/characters/attributes.md?id=might)
+**Starting [Stamina](pages/combat/stamina.md):** 10 + [Might](pages/characters/attributes.md?id=might)
 
 **Proficiencies:** Athletics, [Might](pages/characters/attributes.md?id=might) [Saves](pages/rules/rolling/saves.md), all armor, shields, simple weapons, and martial weapons
 
@@ -32,7 +33,17 @@ When you use your Surge, you choose which feat to use. You must then finish a re
 
 #### Surge: Second Wind
 
-As a [Bonus Action](pages/combat/bonus-actions.md) you can regain [Health](pages/combat/health.md) equal to **1d10 + your level**.
+As a [Bonus Action](pages/combat/bonus-actions.md) you can regain [Stamina](pages/combat/stamina.md) equal to **1d10 + your level**.
+
+<header>
+
+### Mighty Action
+
+<p class="subheading">2nd-level Mighty class feature</p>
+
+</header>
+
+Starting at 2nd level, you can push yourself beyond your normal limits. On your [Turn](../../pages/combat/order.md), you can take one additional [Action](../../pages/combat/actions.md). You must [Rest](../../pages/rules/rests.md) before you can use this feature again.
 
 <header>
 
@@ -42,7 +53,9 @@ As a [Bonus Action](pages/combat/bonus-actions.md) you can regain [Health](pages
 
 </header>
 
-Choose an archetype and gain it's features. The Mighty archetypes include: [Defender](pages/classes/mighty.md?id=defender).
+Choose an archetype and gain its features. The Mighty archetypes include: [Defender](pages/classes/mighty.md?id=defender).
+
+<header>
 
 ## Defender
 
@@ -50,28 +63,28 @@ Choose an archetype and gain it's features. The Mighty archetypes include: [Defe
 
 </header>
 
-You fight to protect. Cleaving close to your allies, you intercept attacks so they can continue to deal damage.
+You fight to protect. Cleaving close to your allies, you intercept attacks, so they can continue to deal damage.
 
 | Level | Archetype Features |
 | ----  | ------------------ |
-| 1st   | Defend, Surge: Block, Proficient: Intimidation         |
+| 1st   | Block, Surge: Defend, Proficient: Intimidation |
 
 <header>
 
-### Defend
+### Block
 
 <p class="subheading">1st-level Defender archetype feature</p>
 
 </header>
 
-You can use your [Reaction](pages/combat/reactions.md) to impose disadvantage on an [Attack](pages/combat/attacks.md) that targets an ally. The target must be within 5 feet of you, and you must be wielding a melee weapon or shield.
+You can use your [Reaction](../../pages/combat/reactions.md) to impose disadvantage on an [Attack](pages/combat/attacks.md) that targets an ally. The target must be within 5 feet of you, and you must be wielding a melee weapon or shield.
 
 <header>
 
-### Surge: Block
+### Surge: Defend
 
 <p class="subheading">1st-level Defender archetype feature</p>
 
 </header>
 
-You can use your [Reaction](pages/combat/actions.md?id=reaction) to reduce the damage from an [Attack](pages/combat/attacks.md) that targets an ally by **1d10 + your Level**. The target must be within 5 feet of you, and you must be wielding a melee weapon or shield.
+When a **Close** ally is hit by a melee attack, you can use your [Reaction](../../pages/combat/reactions.md) to reduce the damage by **1d10 + your level**.

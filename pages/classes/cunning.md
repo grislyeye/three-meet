@@ -6,21 +6,56 @@
 
 </header>
 
-**Starting Health:** 8 + [Might](pages/characters/attributes.md?id=might)
-
-**Starting Equipment:** Leather Armour (Defence 11), Dagger (1d4), and a Crossbow (1d8)
-
-| Level | Proficiency | Class Features  |
+| Level | Proficiency | Features  |
 | ----  | ----------- |- |
-| 1st   | +2          | Cunning Attack, Archetype, Proficient: [Cunning](pages/characters/attributes.md?id=cunning) [saves](pages/rules/rolling.md?id=saves), Proficient: Any 1 Skill |
+| 1st   | +2          | +1 [Cunning](pages/characters/attributes.md?id=cunning), Archetype, Expertise, Cunning Attack |
+| 2nd   | +2          | Cunning Action |
+
+### Starting Stats
+
+**Starting [Stamina](pages/combat/stamina.md):** 8 + [Might](pages/characters/attributes.md?id=might)
+
+**Starting Equipment:** Leather Armour (Defence 11), 2 Daggers (Melee 1d4, Thrown 1d4, Light), and a Crossbow (Ranged 1d8)
+
+<header>
 
 ### Cunning Attack
 
-You can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage.
+<p class="subheading">1st-level Cunning class feature</p>
+
+</header>
+
+You can deal an extra 1d6 damage to one creature you hit with a melee attack, if you have advantage on the attack roll. You must be wielding a [Light](pages/combat/attacks.md?id=describing-attacks) weapon.
+
+<header>
+
+### Expertise
+
+<p class="subheading">1st-level Cunning class feature</p>
+
+</header>
+
+Choose two of your skill or tool proficiencies. Your proficiency bonus is doubled for [Checks](pages/rules/rolling/checks.md) with these proficiencies.
+
+<header>
 
 ### Archetype
 
-Choose an archetype and gain it's features. The Cunning archetypes include: Archer, and Rogue.
+<p class="subheading">1st-level Cunning class feature</p>
+
+</header>
+
+Choose an archetype and gain it's features. The Cunning archetypes include: Archer, Sneak, and Swashbuckler.
+
+<header>
+
+### Cunning Action
+
+<p class="subheading">2nd-level Cunning class feature</p>
+
+</header>
+
+Starting at 2nd level, your quick thinking and agility allow you to move and act quickly. You can take a [Bonus Action](../../pages/combat/bonus-actions.md) on each of your [Turns](../../pages/combat/order.md) in combat. This action can be used only to take the [Dash](../../pages/combat/actions.md#dash), [Disengage](../../pages/combat/actions.md#disengage), or [Hide](../../pages/combat/actions.md#hide) action.
 
 ## Archer
 
@@ -34,6 +69,8 @@ You are a skilled bowman, trained in bow and arrow. With a keen eye, you rarely 
 
 You don't need advantage on your **cunning attack** for ranged attacks against any creature that moved less than 10 ft in the last round.
 
+<header>
+
 ## Shadow
 
 <p class="subheading">Cunning archetype</p>
@@ -46,11 +83,11 @@ You play fast and deadly, hiding in shadows and darting out to attack.
 | ----  | - |
 | 1st   | Sneak Attack |
 
-<header>
-
 ### Starting Stats
 
 **Proficiencies:** Perception, Stealth
+
+<header>
 
 ### Sneak Attack
 
@@ -58,30 +95,32 @@ You play fast and deadly, hiding in shadows and darting out to attack.
 
 </header>
 
-You can use your **Cunning Attack** on a target if it is close to an ally.
+You do not need advantage to use your **Cunning Attack** on a target if it is close to an ally, or when throwing a light weapon.
+
+<header>
 
 ## Swashbuckler
-
-With wit, flair, and fancy footwork, you run rings around your opponents.
 
 <p class="subheading">Cunning archetype</p>
 
 </header>
 
-| Level | Features |
-| ----  | - |
-| 1st   | Riposte |
+With wit, flair, and fancy footwork you leap head first into combat, running rings around your opponents.
 
-<header>
+| Level | Features
+| ----  | -
+| 1st   | Swashbuckle
 
 ### Starting Stats
 
 **Proficiencies:** Deception, Acrobatics
 
-### Riposte
+<header>
+
+### Swashbuckle
 
 <p class="subheading">1st-level Swashbuckler archetypes feature</p>
 
 </header>
 
-You can make a cutting remark that puts your opponent on the back foot. As a [Bonus Action](pages/combat/bonus-actions.md) you can make an [Deception Contest](pages/rules/rolling.md#contests), contested by your opponent's [Deception](pages/characters/skills.md?id=deception). If you succeed, you can use your [Cunning Attack](#cunning-attack) against your opponent.
+You do not need advantage to use your [Cunning Attack](#cunning-attack) against a creature when you are **Close** to it, and no other creatures are **Close** to you.

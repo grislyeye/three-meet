@@ -6,9 +6,7 @@
 
 </header>
 
-**Proficiency** is a bonus representing your growing expertise.
-
-The rules for proficiency are:
+**Proficiency** is a bonus representing your expertise:
 
  * Add your **Proficiency** to rolls you are proficient with.
  * You can be proficient in rolls related to specific weapons, skills, [Saves](pages/rules/rolling/saves.md), or tools.

@@ -6,21 +6,28 @@
 
 </header>
 
-A typical combat encounter is a clash between two sides, a flurry of weapon swings, feints, parries, footwork, and spellcasting.
-
-The game organizes the chaos of combat into a cycle of rounds and turns:
-
-  + A **Round** represents about 6 seconds
-  + During a round, each participant takes a **Turn**
+Combat is a clash between two sides, organized in a cycle of **Round** and turns. During a **Round**, each participant takes a **Turn**
 
 The order of combat is as follows:
 
- 1. Establish where all the characters and monsters are located.
- 2. Roll [Initiative](pages/combat/order.md?id=initiative) to determine the order of combatants' turns.
- 3. Each participant takes a **Turn** in initiative order.
- 4. On your **Turn** you can take one [Move](pages/combat/moves.md), one [Attack](pages/combat/attacks.md), and one [Bonus Action](pages/combat/bonus-actions.md).
- 4. When everyone has had a **Turn**, the **Round** ends.
- 5. Repeat step 3 until fighting stops.
+  1. Roll [Initiative](pages/combat/order.md?id=initiative).
+  2. Each participant takes a **Turn** in initiative order.
+  3. On your **Turn** you can take:
+    - One [Action](pages/combat/actions.md)
+    - One [Move](pages/combat/moves.md)
+    - And one [Bonus Action](pages/combat/bonus-actions.md).
+  4. When everyone has had a **Turn**, the **Round** ends.
+  5. Repeat Step 3 until fighting stops.
+
+<header>
+
+## Surprise
+
+<p class="subheading">Rule</p>
+
+</header>
+
+If you're surprised at the start or combat, you can't move or take an **Action** on your first turn. The GM determines who might be surprised. Often this is resolved with a **Cunning [Stealth](pages/characters/skills.md#stealth) vs Cunning [Perception](pages/characters/skills.md#perception) [Contest](pages/rules/rolling/contests.md)**.
 
 <header>
 
@@ -30,11 +37,7 @@ The order of combat is as follows:
 
 </header>
 
-**Initiative** determines the order of turns during combat:
+**Initiative** is a [Cunning](pages/characters/attributes.md?id=cunning) [Check](pages/rules/rolling/checks.md). It determines the order of turns (highest to lowest) during combat:
 
- + When combat starts, every participant makes a [Cunning](pages/characters/attributes.md?id=cunning) [Check](pages/rules/rolling/checks.md).
- + This determines their place in the **Initiative** order.
  + The GM makes one roll for an entire group of identical creatures.
- + Combatants act in order, from the highest to the lowest initiative.
- + Initiative order remains the same from round to round.
  + If a tie occurs, the GM decides the order.

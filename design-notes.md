@@ -26,7 +26,7 @@ Magical creatures are extremely rare, and many mechanics from spells and monster
 
 ### Meaningful Terms
 
-5E comes with a lot of obscure terminology, like HP, saving throws and AC. Three Meet uses natural language terms, such as [Health](pages/combat/health.md) or [Saves](pages/rules/rolling/saves.md).
+5E comes with a lot of obscure terminology, like HP, saving throws and AC. Three Meet uses natural language terms, such as [Stamina](pages/combat/stamina.md) or [Saves](pages/rules/rolling/saves.md).
 
 </section>
 

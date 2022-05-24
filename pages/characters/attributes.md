@@ -23,7 +23,7 @@ All creatures are described by three **Attributes** representing their physical 
 
 Raw strength, stamina, and combat prowess.
 
-Added to [Health](pages/combat/health.md), and melee [Attacks](pages/combat/attacks.md) and [Damage](pages/combat/attacks.md) rolls.
+Added to [Stamina](pages/combat/stamina.md), and melee [Attacks](pages/combat/attacks.md) and [Damage](pages/combat/attacks.md) rolls.
 
 </section>
 
