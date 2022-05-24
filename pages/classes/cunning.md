@@ -57,7 +57,13 @@ Choose an archetype and gain it's features. The Cunning archetypes include: Arch
 
 Starting at 2nd level, your quick thinking and agility allow you to move and act quickly. You can take a [Bonus Action](../../pages/combat/bonus-actions.md) on each of your [Turns](../../pages/combat/order.md) in combat. This action can be used only to take the [Dash](../../pages/combat/actions.md#dash), [Disengage](../../pages/combat/actions.md#disengage), or [Hide](../../pages/combat/actions.md#hide) action.
 
+<header>
+
 ## Archer
+
+<p class="subheading">Cunning archetype</p>
+
+</header>
 
 You are a skilled bowman, trained in bow and arrow. With a keen eye, you rarely miss your mark.
 
@@ -67,7 +73,7 @@ You are a skilled bowman, trained in bow and arrow. With a keen eye, you rarely 
 
 ### Cunning Shot
 
-You don't need advantage on your **cunning attack** for ranged attacks against any creature that moved less than 10 ft in the last round.
+You can use your **Cunning Attack** with **Ranged Attacks**. Also you don't need advantage on your **Cunning Attack** for against any creature that hasn't moved in the last **Turn**.
 
 <header>
 
