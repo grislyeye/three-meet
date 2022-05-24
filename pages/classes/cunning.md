@@ -113,4 +113,4 @@ With wit, flair, and fancy footwork you leap head first into combat, running rin
 
 </header>
 
-You do not need advantage to use your [Cunning Attack](#cunning-attack) against a **Close** creature if there are no other creatures **Close** to you. You also do not need advantage if a creature has not yet moved on its [Turn](../../pages/combat/order.md).
+You do not need advantage to use your [Cunning Attack](#cunning-attack) against a **Close** creature if there are no other creatures **Close** to you. You also do not need advantage against a **Close** creature if you've already moved on your [Turn](../../pages/combat/order.md).
