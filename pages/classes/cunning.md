@@ -99,7 +99,7 @@ With wit, flair, and fancy footwork you leap head first into combat, running rin
 
 | Level | Features
 | ----  | -
-| 1st   | Swashbuckle
+| 1st   | Daring Attack
 
 ### Starting Stats
 
@@ -107,7 +107,7 @@ With wit, flair, and fancy footwork you leap head first into combat, running rin
 
 <header>
 
-### Swashbuckle
+### Daring Attack
 
 <p class="subheading">1st-level Swashbuckler archetypes feature</p>
 
