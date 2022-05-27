@@ -102,7 +102,7 @@ Recalling lore about historical events, legendary people, ancient kingdoms, past
 
 ## Intimidation
 
-Cunning Skill
+Might Skill
 
 </header>
 
@@ -116,7 +116,7 @@ Influence through overt threats, hostile behaviour, and interrogation.
 
 ## Investigation
 
-Cunning Skill
+Wisdom Skill
 
 </header>
 
@@ -256,7 +256,7 @@ Hiding, moving quietly, sneaking about, and slipping away.
 
 ## Survival
 
-Cunning Skill
+Wisdom Skill
 
 </header>
 

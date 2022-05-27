@@ -27,7 +27,7 @@
 
 </header>
 
-You can deal an extra 1d6 damage to one creature you hit with a melee attack, if you have advantage on the attack roll. You must be wielding a [Light](pages/combat/attacks.md?id=describing-attacks) weapon.
+You can deal an extra 1d6 damage to one creature you hit with an attack, if you have advantage on the attack roll. You must be making a [Light Melee](pages/combat/attacks.md?id=describing-attacks) or [Light Thrown](pages/combat/attacks.md?id=describing-attacks) attack.
 
 <header>
 
