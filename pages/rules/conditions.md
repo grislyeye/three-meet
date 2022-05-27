@@ -33,4 +33,18 @@ Many effects can exhaust, hinder, confuse, or distract you, making you **Disadva
 
 </section>
 
+<section class="summary">
+
+<header>
+
+## Infamy
+
+Condition (optional)
+
+</header>
+
+**Infamy** is a [Resource](../../pages/rules/usage.md) that tracks the notoriety. It must be [Tapped](../../pages/rules/usage.md) whenever a PC draws attention to themselves. Each time it is [Depleted](../../pages/rules/usage.md) trouble ensues. For example, a watch patrol turns up or a random encounter.
+
+</section>
+
 </section>
