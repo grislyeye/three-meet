@@ -12,8 +12,6 @@ You are high-born, a member of the second estate.
 | ----------------- | - |
 | 1st               | +1 [Cunning](pages/characters/attributes.md?id=cunning), Proficient: Persuasion, Privilege, Speciality |
 
-**Starting Equipment:** Small Pouch of Florins (Treasure Ud8)
-
 <header>
 
 ### Privilege
@@ -68,14 +66,14 @@ You are the descendant of a wealthy family.
 
 | Level             | Features    |
 | ----------------- | - |
-| 1st               | Allowance |
+| 1st               | Servant |
 
 <header>
 
-### Allowance
+### Servant
 
 <p class="subheading">1st-level Scion speciality feature</p>
 
 </header>
 
-As a noble, you are expected to maintain a certain lifestyle. You start with a **Large Pouch of Crowns (Treasure Ud10)**. This item refreshes at the end of each adventure.
+You are accompanied by a servant retainer.
