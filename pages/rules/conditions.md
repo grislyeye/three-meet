@@ -49,7 +49,7 @@ Condition (optional)
 
 </header>
 
-**Infamy** is a [Resource](../../pages/rules/usage.md) that tracks the notoriety. It must be [Tapped](../../pages/rules/usage.md) whenever a PC draws attention to themselves. Each time it is [Depleted](../../pages/rules/usage.md) trouble ensues. For example, a watch patrol turns up or a random encounter.
+**Infamy** is a [Resource](../../pages/rules/usage.md) that tracks your notoriety. It must be [Tapped](../../pages/rules/usage.md) whenever you draw unwanted attention. You can also **Tap** it and add the result to any [Check](../../pages/rules/checks.md) to hide or evade the authorities. When it is [Exhausted](../../pages/rules/usage.md) you are wanted and can no longer walk around without drawing attention.
 
 </section>
 
