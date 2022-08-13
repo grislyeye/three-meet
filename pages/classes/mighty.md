@@ -10,6 +10,7 @@
 | ----  | ----------- |- |
 | 1st   | +2          | +1 [Might](pages/characters/attributes.md?id=might), Surge, Archetype |
 | 2nd   | +2          | Mighty Action |
+| 3rd   | +2          | Archetype Feature |
 
 ### Starting Stats
 
@@ -68,6 +69,7 @@ You fight to protect. Cleaving close to your allies, you intercept attacks, so t
 | Level | Archetype Features |
 | ----  | ------------------ |
 | 1st   | Block, Surge: Defend, Proficient: Intimidation |
+| 3rd   | Defensive Mark |
 
 <header>
 
@@ -81,10 +83,53 @@ You can use your [Reaction](../../pages/combat/reactions.md) to impose disadvant
 
 <header>
 
-### Surge: Defend
+### Surge: Bolster
 
 <p class="subheading">1st-level Defender archetype feature</p>
 
 </header>
 
-When a **Close** ally is hit by a melee attack, you can use your [Reaction](../../pages/combat/reactions.md) to reduce the damage by **1d10 + your level**.
+As a [Bonus Action](pages/combat/bonus-actions.md) you can restore [Stamina](pages/combat/stamina.md) equal to **1d10 + your level** to a **Close** ally.
+
+
+<header>
+
+### Protective Tactics
+
+<p class="subheading">3rd-level Defender archetype feature</p>
+
+</header>
+
+You gain a **Ud6 Tactics** [Resource](). You can **Tap** it to perform one of the following **Tactics**:
+
+<section class="spells">
+
+<section class="spell">
+
+<header>
+
+#### Block
+
+<p class="subheading">Defender Tactic</p>
+
+</header>
+
+When a creature damages a **Close** ally, you can use your [Reaction](../../pages/combat/reactions.md) to reduce the damage by the result of [Usage Die](../pages/rules/usage.md) plus your **Cunning**.
+
+</section>
+
+<section class="spell">
+
+<header>
+
+#### Counter-attack
+
+<p class="subheading">Defender Tactic</p>
+
+</header>
+
+When a creature makes an attack against a **Close** ally, you can use your [Reaction](../../pages/combat/reactions.md) to make a **Melee Attack** against the attacker. Add the result of the [Usage Die]() to the damage.
+
+</section>
+
+</section>
