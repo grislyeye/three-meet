@@ -110,7 +110,7 @@ With wit, flair, and fancy footwork you leap head first into combat, running rin
 | Level | Features
 | ----  | -
 | 1st   | Swashbuckle
-| 3rd   | Swashbuckling Action
+| 3rd   | Daring Action
 
 ### Starting Stats
 
@@ -128,7 +128,7 @@ You do not need advantage to use your [Cunning Attack](#cunning-attack) against 
 
 <header>
 
-### Swashbuckling Action
+### Daring Action
 
 <p class="subheading">3rd-level Swashbuckler archetypes feature</p>
 
