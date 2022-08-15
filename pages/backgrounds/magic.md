@@ -62,3 +62,37 @@ You are [Proficient](pages/rules/proficiency.md) in a curious tune only you can 
 </section>
 
 </section>
+
+<header>
+
+## Immortal
+
+<p class="subheading">Magic Speciality</p>
+
+</header>
+
+You have lived for centuries, maybe aeons. You may live for centuries more.
+
+| Level             | Features    |
+| ----------------- | - |
+| 1st               | Ancient Wisdom, Memory of Ages |
+
+<header>
+
+### Ancient Wisdom
+
+<p class="subheading">1st-level Immortal speciality feature</p>
+
+</header>
+
+You come from an age of high magic. The lore of this time has been long lost, but you still possess some of this ancient wisdom. You can pick a magical archetype during character creation.
+
+<header>
+
+### Memory of Ages
+
+<p class="subheading">1st-level Immortal speciality feature</p>
+
+</header>
+
+You're forgotten more than most folk know, more than you remember yourself. You can spend 10 minute in searching your memories to gain proficiency in one [Skill](../../pages/characters/skills.md) or language. The memory of this knowledge fades once you take a **Rest**. You must **Rest** before you can use this feature again.
