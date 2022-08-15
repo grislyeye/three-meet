@@ -38,10 +38,11 @@ Choose an archetype and gain its features. The Wise archetypes include: **[Sorce
 
 You are a practitioner of forbidden, arcane arts.
 
-| Level | Archetype Features         | Spell Slots |
-| ----  | -------------------------- | ----------- |
-| 1st   | Minor Sorcery, Stricken, Rituals, Sorcery | 2           |
-| 2nd   | Improved Stricken, Witch Sight | 3 |
+| Level | Archetype Features         | Spell Slots | Slot Level |
+| ----  | -------------------------- | ----------- | ---------- |
+| 1st   | Minor Sorcery, Stricken, Rituals, Sorcery | 2 | 1st |
+| 2nd   | Improved Stricken, Witch Sight | 3 | 1st |
+| 3rd   | Improved Stricken, Witch Sight | 3 | 2nd |
 
 ### Starting Stats
 
@@ -194,3 +195,13 @@ You can add your [Wisdom](../../pages/characters/attributes.md#wisdom) to the da
 </header>
 
 Using an [Action](../../pages/combats/actions.md) you can sense the presence of any magic [Nearby](../../pages/rules/distance.md). You can then see a faint aura around any visible creature or object in the area that bears magic. You may also be able to see things hidden from mortal eyes, such as strange omens or magical signs left by other sorcerers.
+
+<header>
+
+#### Summon Familiar
+
+<p class="subheading">3rd-level Sorcerer ritual</p>
+
+</header>
+
+ You gain the service of a **Familiar (3 [Stamina](pages/combat/stamina.md), 13 Defence, Stealth +4)**.
