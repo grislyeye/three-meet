@@ -42,6 +42,20 @@ You can avoid provoking an [Opportunity Attack](pages/combat/reactions.md?id=opp
 
 <header>
 
+## Dodge
+
+Combat Action
+
+</header>
+
+You focus entirely on avoiding attacks. Until the start of your next **Turn**, any [Attack](../pages/combat/attacks.md) against you has [Disadvantage](../pages/rules/advantage.md) if you can see the attacker, and you make [Cunning](../pages/characters/attributes.md#cunning) [Saves](../pages/rules/rolling/saves.md) with [Advantage](../pages/rules/advantage.md).
+
+</section>
+
+<section class="summary">
+
+<header>
+
 ## Hide
 
 Combat Action
