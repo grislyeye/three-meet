@@ -134,4 +134,4 @@ You do not need advantage to use your [Cunning Attack](#cunning-attack) against 
 
 </header>
 
-You can use the [Bonus Action]() granted by your [Cunning Action]() to make a **Cunning Acrobatics Check**, or take the [Dodge]() or [Use an Object]() actions.
+You can use the [Bonus Action](../pages/combat/bonus-actions.md) granted by your [Cunning Action](#cunning-action) to make a **Cunning Acrobatics Check**.
