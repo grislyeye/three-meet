@@ -69,7 +69,7 @@ You fight to protect. Cleaving close to your allies, you intercept attacks, so t
 | Level | Archetype Features |
 | ----  | ------------------ |
 | 1st   | Block, Surge: Defend, Proficient: Intimidation |
-| 3rd   | Defensive Mark |
+| 3rd   | Defensive Tactics |
 
 <header>
 
@@ -94,13 +94,13 @@ As a [Bonus Action](pages/combat/bonus-actions.md) you can restore [Stamina](pag
 
 <header>
 
-### Protective Tactics
+### Defensive Tactics
 
 <p class="subheading">3rd-level Defender archetype feature</p>
 
 </header>
 
-You gain a **Ud6 Tactics** [Resource](). You can **Tap** it to perform one of the following **Tactics**:
+You gain a **Ud6 Tactics** [Resource](). You can **Tap** it to perform one of the **Defender Tactics** below. Your **Tactics** [Resource]() **Replenishes** when you take a [Rest]().
 
 <section class="spells">
 
@@ -114,7 +114,7 @@ You gain a **Ud6 Tactics** [Resource](). You can **Tap** it to perform one of th
 
 </header>
 
-When a creature damages a **Close** ally, you can use your [Reaction](../../pages/combat/reactions.md) to reduce the damage by the result of [Usage Die](../pages/rules/usage.md) plus your **Cunning**.
+When a creature damages a **Close** ally, you can use your [Reaction](../../pages/combat/reactions.md) to reduce the damage by the result of the [Usage Die](../pages/rules/usage.md) plus your **Cunning**.
 
 </section>
 
