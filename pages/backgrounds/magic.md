@@ -95,4 +95,4 @@ You come from an age of high magic. The lore of this time has been long lost, bu
 
 </header>
 
-You're forgotten more than most folk know, more than you remember yourself. You can spend 10 minute in searching your memories to gain proficiency in one [Skill](../../pages/characters/skills.md) or language. The memory of this knowledge fades once you take a **Rest**. You must **Rest** before you can use this feature again.
+You're forgotten more than most folk know, more than you remember yourself. You can spend 10 minute searching your memories to gain proficiency in one [Skill](../../pages/characters/skills.md) or language. The memory of this knowledge fades once you take a **Rest**. You must **Rest** before you can use this feature again.
