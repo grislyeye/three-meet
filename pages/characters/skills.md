@@ -86,7 +86,7 @@ Lying, misleading others, fast-talking, conning a merchant, gambling, and disgui
 
 <header>
 
-## Learned
+## History-Wise
 
 Wisdom Skill
 
@@ -142,7 +142,7 @@ Empathy, social awareness, detecting lies, reading body language, and predicting
 
 <header>
 
-## Healing
+## Medicine-Wise
 
 Wisdom Skill
 
@@ -198,7 +198,7 @@ Influence through tact, social graces, good nature, inspiration, and etiquette.
 
 <header>
 
-## Religious
+## Religion-Wise
 
 Wisdom Skill
 
@@ -240,7 +240,7 @@ Hiding, moving quietly, sneaking about, and slipping away.
 
 <header>
 
-## Wild
+## Nature-Wise
 
 Wisdom Skill
 
