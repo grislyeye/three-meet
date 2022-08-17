@@ -61,6 +61,47 @@ Choose an archetype and gain its features. **The Cunning** archetypes include: [
 
 Starting at 2nd level, your quick thinking and agility allow you to move and act quickly. You can take a [Bonus Action](../../pages/combat/bonus-actions.md) on each of your [Turns](../../pages/combat/order.md) in combat. This action can be used only to take the [Dash](../../pages/combat/actions.md#dash), [Disengage](../../pages/combat/actions.md#disengage), or [Hide](../../pages/combat/actions.md#hide) action.
 
+<header>
+
+## Skirmisher
+
+<p class="subheading">Cunning archetype</p>
+
+</header>
+
+You're a flurry of blades, dodging in and out of the front lines to pick off your foes.
+
+| Level | Features
+| ----  | -
+| 1st   | Skirmishing Attack
+| 3rd   | Skirmishing Action
+
+### Starting Stats
+
+**Proficiencies:** Acrobatics, Perception
+
+<header>
+
+### Skirmishing Attack
+
+<p class="subheading">1st-level Skirmisher archetypes feature</p>
+
+</header>
+
+You can use your [Cunning Attack](#cunning-attack) against a [Close](../../pages/rules/distance.md) creature if there are no other creatures [Close](../../pages/rules/distance.md) to you. Or against creatures that don't have [Light](../../pages/combat/attacks.md) or [Off-Hand](../../pages/combat/bonus-actions.md#off-hand-attack) **Attacks**.
+
+<header>
+
+### Skirmishing Action
+
+<p class="subheading">3rd-level Skirmisher archetypes feature</p>
+
+</header>
+
+As a [Reaction](../../pages/combat/reactions) you can make a [Move](../../pages/combat/moves.md). This **Move** does not trigger an [Opportunity Attack](../../pages/combat/reactions#opportunity-attack).
+
+You can also use your [Cunning Action](#cunning-action) to make a [Cunning](../../pages/characters/attributes.md#cunning) [Acrobatics](../../pages/characters/skills.md#acrobatics) [Check](../../pages/rules/rolling/checks.md).
+
 ## Shadow
 
 <p class="subheading">Cunning archetype</p>
@@ -86,31 +127,3 @@ You play fast and deadly, hiding in shadows and darting out to attack.
 </header>
 
 You do not need advantage to use your **Cunning Attack** on a target if it is close to an ally, or when throwing a light weapon.
-
-<header>
-
-## Swashbuckler
-
-<p class="subheading">Cunning archetype</p>
-
-</header>
-
-With wit, flair, and fancy footwork you leap head first into combat, running rings around your opponents.
-
-| Level | Features
-| ----  | -
-| 1st   | Daring Attack
-
-### Starting Stats
-
-**Proficiencies:** Deception, Acrobatics
-
-<header>
-
-### Daring Attack
-
-<p class="subheading">1st-level Swashbuckler archetypes feature</p>
-
-</header>
-
-You do not need advantage to use your [Cunning Attack](#cunning-attack) against a **Close** creature if there are no other creatures **Close** to you. You also do not need advantage against a creature that isn't wielding a [Light](../../pages/combat/attacks.md) weapon and doesn't have an [Off-Hand Attack](../../pages/combat/bonus-actions.md#off-hand-attack).
