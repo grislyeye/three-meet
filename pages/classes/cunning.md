@@ -102,6 +102,8 @@ As a [Reaction](../../pages/combat/reactions) you can make a [Move](../../pages/
 
 You can also use your [Cunning Action](#cunning-action) to make a [Cunning](../../pages/characters/attributes.md#cunning) [Acrobatics](../../pages/characters/skills.md#acrobatics) [Check](../../pages/rules/rolling/checks.md).
 
+<header>
+
 ## Shadow
 
 <p class="subheading">Cunning archetype</p>
