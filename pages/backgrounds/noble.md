@@ -76,4 +76,4 @@ You are the descendant of a wealthy family.
 
 </header>
 
- You are accompanied by a servant retainer.
+You are accompanied by a servant retainer.
