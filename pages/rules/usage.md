@@ -12,4 +12,5 @@ When you **Tap** a resource, the usage die is rolled. If the roll is 1-2 you **D
 
 Ud20 → Ud12 → Ud10 → Ud8 → Ud6 → Ud4
 
-I you **Deplete** a Ud4, you fail to use the resource and the resource is **Exhausted** and disappears.
+ * I you **Deplete** a Ud4, you fail to use the resource and the resource is **Exhausted** and disappears.
+ * Certain rules allow you to **Replenish** a **Resource**, restoring it to its original **Usage Die**.
