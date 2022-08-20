@@ -77,7 +77,7 @@ You fight to protect. Cleaving close to your allies, you intercept attacks, so t
 
 </header>
 
-You can use your [Reaction](pages/combat/reactions.md) to impose disadvantage on an [Attack](pages/combat/attacks.md) that targets an ally. The target must be within 5 feet of you, and you must be wielding a melee weapon or shield.
+You can use your [Reaction](../../pages/combat/reactions.md) to impose disadvantage on an [Attack](pages/combat/attacks.md) that targets a [Close](../pages/rules/distance.md) ally. You must be wielding a melee weapon or shield.
 
 <header>
 
@@ -87,4 +87,4 @@ You can use your [Reaction](pages/combat/reactions.md) to impose disadvantage on
 
 </header>
 
-When a **Close** ally is hit by a melee attack, you can use your [Reaction](../../pages/combat/reaction.md) to reduce the damage by **1d10 + your level**.
+When a **Close** ally is hit by a melee attack, you can use your [Reaction](../../pages/combat/reactions.md) to reduce the damage by **1d10 + your level**.
