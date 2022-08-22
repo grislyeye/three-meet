@@ -116,7 +116,7 @@ As a [Bonus Action](../../pages/combat/bonus-actions.md) you can change shape be
 
 <header>
 
-### Surge: Slash
+### Surge: Savage
 
 <p class="subheading">1st-level Shapeshifter archetype feature</p>
 
