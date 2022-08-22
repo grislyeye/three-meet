@@ -122,4 +122,4 @@ As a [Bonus Action](../../pages/combat/bonus-actions.md) you can change shape be
 
 </header>
 
-While in animal form you can make another **Claw Attack** as a [Bonus Action](../../pages/combat/bonus-actions.md).
+As a [Bonus Action](../../pages/combat/bonus-actions.md) you can deal an extra **1d10 + your level** damage when you make a successful **Claw Attack**.
