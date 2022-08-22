@@ -53,7 +53,7 @@ Starting at 2nd level, you can push yourself beyond your normal limits. On your 
 
 </header>
 
-Choose an archetype and gain its features. The Mighty archetypes include: [Defender](pages/classes/mighty.md?id=defender).
+Choose an archetype and gain its features. The Mighty archetypes include: [Defender](pages/classes/mighty.md?id=defender) and [Shapeshifter](../pages/classes/mighty.md?id=shapeshifter).
 
 <header>
 
@@ -88,3 +88,38 @@ You can use your [Reaction](../../pages/combat/reactions.md) to impose disadvant
 </header>
 
 When a **Close** ally is hit by a melee attack, you can use your [Reaction](../../pages/combat/reactions.md) to reduce the damage by **1d10 + your level**.
+
+<header>
+
+## Shapeshifter
+
+<p class="subheading">Mighty archetype (magical)</p>
+
+</header>
+
+| Level | Archetype Features |
+| ----  | ------------------ |
+| 1st   | Shapeshift, Surge: Slash Proficient: Animal Handling |
+
+<header>
+
+### Shapeshift
+
+<p class="subheading">1st-level Shapeshifter archetype feature</p>
+
+</header>
+
+As a [Bonus Action](../../pages/combat/bonus-actions.md) you can change shape between an animal form and your human form. When you change into your animal you gain the following benefits:
+
+ * You gain **2 Claw (Melee 1d6, Light) Attacks**
+ * Your **Defence** is **10 + Might + Cunning** when you're not wearing armour
+
+<header>
+
+### Surge: Savage
+
+<p class="subheading">1st-level Shapeshifter archetype feature</p>
+
+</header>
+
+As a [Bonus Action](../../pages/combat/bonus-actions.md) you can deal an extra **1d10 + your level** damage when you make a successful **Claw Attack**.
