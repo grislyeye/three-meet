@@ -26,44 +26,140 @@
 
 </header>
 
-Choose an archetype and gain its features. The Wise archetypes include: [Animist](pages/classes/wise.md?id=sorcerer) and [Sorcerer](pages/classes/wise.md?id=sorcerer).
+Choose an archetype and gain its features. The Wise archetypes include: [Elementalist](pages/classes/wise.md?id=elementalist) and [Sorcerer](pages/classes/wise.md?id=sorcerer).
 
 <header>
 
-## Animist
+## Elementalist
 
 <p class="subheading">Magical Wise archetype</p>
 
 </header>
 
-You wise in the ways of the spirits.
+You can tap into the raw, primordial forces of nature.
 
 | Level | Archetype Features         | Spell Slots |
 | ----  | -------------------------- | ----------- |
-| 1st   | Spirit Tongue, Rituals, Animism, Proficient: Nature, light armor, shields, and simple weapons | 2           |
-| 2nd   | ??? | 3 |
+| 1st   | Minor Elementalism, Rituals, Elementalism, Proficient: Nature, light armor, shields, and simple weapons | 2           |
+| 2nd   | Elemental Form | 3 |
 
 <header>
 
 <header>
 
-### Spirit Tongue
+### Minor Elementalism
 
-<p class="subheading">1st-level Animist archetype feature</p>
+<p class="subheading">1st-level Elementalist archetype feature</p>
 
 </header>
 
-You can create small, harmless sensory effects, such as hand-sized illusions, whispers, marks or symbols, or small appearance changes. These can last up to 1 hour.
+You can create small, temporary, and harmless sensory effects, such as hand-sized illusions, whispers, marks or symbols, or small appearance changes.
 
-Whispering to the spirits of nature, you create one of the following effects within range:
+You can also receive guidance in the form of small signs, giving you an additional d4 to a [Check](../../pages/rules/rolling/checks.md).
 
- * You create a tiny, harmless sensory effect that predicts what the weather will be at your location for the next 24 hours. The effect might manifest as a golden orb for clear skies, a cloud for rain, falling snowflakes for snow, and so on. This effect persists for 1 round.
+<header>
 
- * You instantly make a flower blossom, a seed pod open, or a leaf bud bloom.
+<header>
 
- * You create an instantaneous, harmless sensory effect, such as falling leaves, a puff of wind, the sound of a small animal, or the faint odor of skunk. The effect must fit in a 5-foot cube.
+### Rituals
 
- * You instantly light or snuff out a candle, a torch, or a small campfire.
+<p class="subheading">1st-level Elementalist archetype feature</p>
+
+</header>
+
+You can cast the rituals below. A ritual takes 10 minutes to cast.
+
+<header>
+
+<section class="spells">
+
+<section class="spell">
+
+<header>
+
+#### Elemental Sight
+
+<p class="subheading">1st-level Elementalist ritual</p>
+
+</header>
+
+
+
+</section>
+
+<section class="spell">
+
+<header>
+
+#### Purify
+
+<p class="subheading">1st-level Elementalist ritual</p>
+
+</header>
+
+All [Close]() food and drink is purified and rendered free of poison and disease.
+
+</section>
+
+</section>
+
+### Elementalism
+
+<p class="subheading">1st-level Elementalist archetype feature</p>
+
+</header>
+
+You can cast spells. To cast a spell you must expend a spell slot. Each spell takes an [Action](pages/combat/actions.md) to cast. You regain your spell slots when you finish a [Rest](../../pages/rules/rests.md).
+
+Your **Spell Difficulty** is:
+
+<div class="example-roll">
+  8
+  +
+  <span class="bonus"> <span class="caption">Proficiency</span></span>
+  +
+  <span class="bonus"> <span class="caption">Wisdom</span></span>
+</div>
+
+<header>
+
+
+<section class="spells">
+
+<section class="spell">
+
+<header>
+
+#### Primordial Strength
+
+<p class="subheading">1st-level Elementalist spell</p>
+
+</header>
+
+You or a [Close]() creature regains **1d8 + Wisdom Stamina modifier**. When you cast this spell using a **spell slot** of 2nd level or higher, the healing increases by **1d8** for each slot level above 1st.
+
+</section>
+
+</section>
+
+### Elemental Form
+
+<p class="subheading">2nd-level Elementalist archetype feature</p>
+
+</header>
+
+You can use your [Action](../../pages/combat/actions.md) to assume an elemental form, such as a wolf or pillar of flame. You can use this feature twice. You regain expended uses when you finish a [Rest](../../pages/rules/rests.md).
+
+When you transform you have **10 + your level Stamina**. When you revert this Stamina is lost, and you return to your Stamina before you changed.
+
+When you transform you may pick 2 of the following benefits for your new form:
+
+ * You gain a **Bite or Claw (Melee 1d6, Light) Attack**.
+ * You become tiny and/or can fly (you cannot attack in this form).
+ * You can breath water.
+ * You gain [Resistance]() to cold or fire [Damage](),
+ * You can use a [Bonus Action]() to make the [Dash]() [Action]().
+ * You have advantage on all [Perception]() [Checks]().
 
 ## Sorcerer
 
@@ -145,6 +241,8 @@ You summon a **Minor Spirit (1 [Stamina](pages/combat/stamina.md), 10 Defence, S
 </section>
 
 </section>
+
+<header>
 
 ### Sorcery
 
