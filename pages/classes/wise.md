@@ -312,7 +312,7 @@ You pull back the veil, revealing a glimpse of what lies beyond the mortal realm
 
 </header>
 
-You summon unseen spirits that whisper three, horrific things in the ear of a creature of your choice. Each whisper deals 1d4+1 damage to one or several **Close**, **Nearby** or **Far Away** creatures.
+You summon unseen spirits that whisper three, horrific secrets in the ears of your enemies. Each whisper deals 1d4+1 damage to one or several **Close**, **Nearby** or **Far Away** creatures.
 
 </section>
 
