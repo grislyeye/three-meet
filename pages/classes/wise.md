@@ -40,8 +40,8 @@ You can tap into the raw, primordial forces of nature.
 
 | Level | Archetype Features         | Spell Slots |
 | ----  | -------------------------- | ----------- |
-| 1st   | Minor Elementalism, Rituals, Elementalism, Proficient: Nature, light armor, shields, and simple weapons | 2           |
-| 2nd   | Elemental Form | 3 |
+| 1st   | Minor Elementalism, Rituals, Elementalism, Proficient: Nature, medium armor, shields, and martial weapons | 2  |
+| 2nd   | Primordial Form | 3 |
 
 <header>
 
@@ -53,9 +53,7 @@ You can tap into the raw, primordial forces of nature.
 
 </header>
 
-You can create small, temporary, and harmless sensory effects, such as hand-sized illusions, whispers, marks or symbols, or small appearance changes.
-
-You can also receive guidance in the form of small signs, giving you an additional d4 to a [Check](../../pages/rules/rolling/checks.md).
+You can create small, temporary, and harmless sensory effects using the elements, such as hand-sized illusions, whispers, marks or symbols, or small appearance changes.
 
 <header>
 
@@ -77,13 +75,13 @@ You can cast the rituals below. A ritual takes 10 minutes to cast.
 
 <header>
 
-#### Elemental Sight
+#### Spirit Tongue
 
 <p class="subheading">1st-level Elementalist ritual</p>
 
 </header>
 
-
+You speak the language of the elements, such as stones, birds or even trees. What they have to say may or may not be helpful. You can ask the spirits for guidance, giving you an additional **d4** for on [Check](../../pages/rules/rolling/checks) appropriate to the kind of spirit you are speaking with.
 
 </section>
 
@@ -91,13 +89,13 @@ You can cast the rituals below. A ritual takes 10 minutes to cast.
 
 <header>
 
-#### Purify
+#### Purify Elements
 
 <p class="subheading">1st-level Elementalist ritual</p>
 
 </header>
 
-All [Close]() food and drink is purified and rendered free of poison and disease.
+You can sense and purify small amounts of [Close](../../pages/rules/distance.md) natural matter. Food and drink is rendered free of poison and disease, flames burn without smoke, and small animals are healed. Magical effects are immune to this ritual.
 
 </section>
 
@@ -123,8 +121,21 @@ Your **Spell Difficulty** is:
 
 <header>
 
-
 <section class="spells">
+
+<section class="spell">
+
+<header>
+
+#### Primordial Aura
+
+<p class="subheading">1st-level Elementalist spell</p>
+
+</header>
+
+You channel a primordial spirit through up to three [Nearby](../../pages/rules/distance.md) creatures. For **1 minute** whenever they make an [Attack](../../pages/combat/attacks.md) or [Save](../../pages/rules/rolling/saves.md), they can add a **d4** to the roll. When you cast this spell using a **Spell Slot** of 2nd level or higher, you can target one additional creature for each slot level above 1st.
+
+</section>
 
 <section class="spell">
 
@@ -136,19 +147,33 @@ Your **Spell Difficulty** is:
 
 </header>
 
-You or a [Close]() creature regains **1d8 + Wisdom Stamina modifier**. When you cast this spell using a **spell slot** of 2nd level or higher, the healing increases by **1d8** for each slot level above 1st.
+You channel a burst of raw, primordial energy through your body. You or a [Close]() creature regains **1d8 + Wisdom Stamina**. When you cast this spell using a **Spell Slot** of 2nd level or higher, add an additional **1d8** for each slot level above 1st.
+
+</section>
+
+<section class="spell">
+
+<header>
+
+#### Primordial Aid
+
+<p class="subheading">1st-level Elementalist spell</p>
+
+</header>
+
+A [Nearby](../../pages/rules/distance.md) creature regains **1d4 + Wisdom** [Stamina](../../pages/combat/stamina.md). When you cast this spell using a **Spell Slot** of 2nd level or higher, add an additional **1d4** for each slot level above 1st.
 
 </section>
 
 </section>
 
-### Elemental Form
+### Primordial Form
 
 <p class="subheading">2nd-level Elementalist archetype feature</p>
 
 </header>
 
-You can use your [Action](../../pages/combat/actions.md) to assume an elemental form, such as a wolf or pillar of flame. You can use this feature twice. You regain expended uses when you finish a [Rest](../../pages/rules/rests.md).
+You can use your [Action](../../pages/combat/actions.md) to assume an animal form. You can use this feature twice. You regain expended uses when you finish a [Rest](../../pages/rules/rests.md).
 
 When you transform you have **10 + your level Stamina**. When you revert this Stamina is lost, and you return to your Stamina before you changed.
 
@@ -157,7 +182,6 @@ When you transform you may pick 2 of the following benefits for your new form:
  * You gain a **Bite or Claw (Melee 1d6, Light) Attack**.
  * You become tiny and/or can fly (you cannot attack in this form).
  * You can breath water.
- * You gain [Resistance]() to cold or fire [Damage](),
  * You can use a [Bonus Action]() to make the [Dash]() [Action]().
  * You have advantage on all [Perception]() [Checks]().
 
