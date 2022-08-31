@@ -141,20 +141,6 @@ A [Nearby](../../pages/rules/distance.md) creature regains **1d4 + Wisdom** [Sta
 
 <header>
 
-#### Primal Aura [Action]
-
-<p class="subheading">1st-level Elementalist spell</p>
-
-</header>
-
-You channel a primordial spirit through up to three [Nearby](../../pages/rules/distance.md) creatures. For **1 minute** whenever they make an [Attack](../../pages/combat/attacks.md) or [Save](../../pages/rules/rolling/saves.md), they can add a **d4** to the roll. When you cast this spell using a **Spell Slot** of 2nd level or higher, you can target one additional creature for each slot level above 1st.
-
-</section>
-
-<section class="spell">
-
-<header>
-
 #### Primordial Strength [Action]
 
 <p class="subheading">1st-level Elementalist spell</p>
