@@ -36,7 +36,7 @@ Choose an archetype and gain its features. The Wise archetypes include: [Element
 
 </header>
 
-You can tap into the raw, primordial forces of nature.
+With raw, primordial force you fly at your enemies, bolstering you and your allies.
 
 | Level | Archetype Features         | Spell Slots |
 | ----  | -------------------------- | ----------- |
