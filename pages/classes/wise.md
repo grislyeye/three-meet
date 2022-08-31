@@ -141,7 +141,7 @@ A [Nearby](../../pages/rules/distance.md) creature regains **1d4 + Wisdom** [Sta
 
 <header>
 
-#### Primordial Aura
+#### Primal Aura [Action]
 
 <p class="subheading">1st-level Elementalist spell</p>
 
@@ -155,7 +155,7 @@ You channel a primordial spirit through up to three [Nearby](../../pages/rules/d
 
 <header>
 
-#### Primordial Strength
+#### Primordial Strength [Action]
 
 <p class="subheading">1st-level Elementalist spell</p>
 
