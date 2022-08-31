@@ -107,7 +107,7 @@ You can sense and purify small amounts of [Close](../../pages/rules/distance.md)
 
 </header>
 
-You can cast spells. To cast a spell you must expend a spell slot. Each spell takes an [Action](../../pages/combat/actions.md) to cast. You regain your spell slots when you finish a [Rest](../../pages/rules/rests.md).
+You can cast spells. To cast a spell you must expend a spell slot. Each spell takes an [Action](../../pages/combat/actions.md) or  [Bonus Action](../../pages/combat/bonus-actions.md)  to cast. You regain your spell slots when you finish a [Rest](../../pages/rules/rests.md).
 
 Your **Spell Difficulty** is:
 
@@ -127,7 +127,7 @@ Your **Spell Difficulty** is:
 
 <header>
 
-#### Primordial Aid
+#### Channel Essence [Bonus Action]
 
 <p class="subheading">1st-level Elementalist spell</p>
 
