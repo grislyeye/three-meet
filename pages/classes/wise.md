@@ -167,6 +167,8 @@ You channel a burst of raw, primordial energy through your body. You or a [Close
 
 </section>
 
+<header>
+
 ### Primordial Form
 
 <p class="subheading">2nd-level Elementalist archetype feature</p>
