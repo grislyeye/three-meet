@@ -187,6 +187,22 @@ When you transform you may pick 2 of the following benefits for your new form:
  * You can use a [Bonus Action](../../pages/combat/bonus-actions.md) to make the [Dash](../../pages/combat/actions.md#dash) [Action](../../pages/combat/actions.md).
  * You have advantage on all [Perception](../../pages/characters/skills.md#perception/) [Checks]((../../pages/rules/rolling/checks.md).
 
+<section class="spell">
+
+<header>
+
+#### Elemental Shift [Action]
+
+<p class="subheading">2nd-level Elementalist spell</p>
+
+</header>
+
+You summon elemental forces from deep in the earth at a [Nearby](../../pages/rules/distance.md) location. Stone crumbles. Soil turns into mire. The area [Close](../../pages/rules/distance.md) to this location is considered [Difficult Terrain](). A creature in the area when you cast the spell must succeed on a [Might](../../pages/characters/attributes#might) [Save](../../pages/rules/rolling/saves.md) or they cannot make a [Move](../../pages/combat/moves.md) and are [Disadvantaged](../../pages/rules/conditions.md#disadvantaged). They can use an [Action](../../pages/combat/actions.md) to make a [Might](../../pages/characters/attributes#might) [Save](../../pages/rules/rolling/saves.md) to free themselves.
+
+</section>
+
+</section>
+
 ## Sorcerer
 
 <p class="subheading">Magical Wise archetype</p>
