@@ -175,7 +175,7 @@ You channel a burst of raw, primordial energy through your body. You or a [Close
 
 </header>
 
-You can use your [Action](../../pages/combat/actions.md) to assume an animal form. You can use this feature twice. You regain expended uses when you finish a [Rest](../../pages/rules/rests.md).
+You can use your [Action](../../pages/combat/actions.md) to assume an animal form. You use this feature again when you [Rest](../../pages/rules/rests.md).
 
 When you transform you have **10 + your level Stamina**. When you revert this Stamina is lost, and you return to your Stamina before you changed.
 
