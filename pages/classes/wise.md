@@ -171,7 +171,7 @@ When you transform you may pick 2 of the following benefits for your new form:
  * You become tiny and/or can fly (you cannot attack in this form).
  * You can breath water.
  * You can use a [Bonus Action](../../pages/combat/bonus-actions.md) to make the [Dash](../../pages/combat/actions.md#dash) [Action](../../pages/combat/actions.md).
- * You have advantage on all [Perception](../../pages/characters/skills.md#perception/) [Checks]((../../pages/rules/rolling/checks.md).
+ * You have advantage on all [Perception](../../pages/characters/skills.md#perception/) [Checks](../../pages/rules/rolling/checks.md).
 
 <section class="spell">
 
