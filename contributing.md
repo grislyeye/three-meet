@@ -78,4 +78,4 @@ $ npm run itch:deploy
 
 My main design goal with **Three Meet** is to keep things focussed and simple, while not losing the solid 5E core rules.
 
-There are plans to expand **Three Meet**, but I hope these will be limited so as not overly complicate the system (see the [design notes](design-notes.md)). If you'd like to see the progress or find what we need help with, see the [task board](https://github.com/grislyeye/three-meet/projects/1).
+There are plans to expand **Three Meet**, but I hope these will be limited so as not overly complicate the system (see the [design notes](design-notes.md)). If you'd like to see the progress or find what we need help with, see the [task board](https://github.com/orgs/grislyeye/projects/1).
