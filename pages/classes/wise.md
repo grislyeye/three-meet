@@ -57,8 +57,6 @@ You can create small, temporary, and harmless sensory effects using the elements
 
 <header>
 
-<header>
-
 ### Rituals
 
 <p class="subheading">1st-level Elementalist archetype feature</p>
