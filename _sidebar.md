@@ -32,6 +32,7 @@
   + [Stamina](pages/combat/stamina.md)
 + Bestiary
   * [Dragons](pages/bestiary/dragons.md)
+  * [Goblins](pages/bestiary/goblins.md)
 + Colophon
   + [Design Notes](design-notes.md)
   + [Contributing](contributing.md)
