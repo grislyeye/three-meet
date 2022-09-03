@@ -30,6 +30,8 @@
   + [Bonus Actions](pages/combat/bonus-actions.md)
   + [Reactions](pages/combat/reactions.md)
   + [Stamina](pages/combat/stamina.md)
++ Bestiary
+  * [Dragons](pages/bestiary/dragons.md)
 + Colophon
   + [Design Notes](design-notes.md)
   + [Contributing](contributing.md)
