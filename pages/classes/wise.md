@@ -53,7 +53,7 @@ With raw, primordial force you fly at your enemies, bolstering you and your alli
 
 </header>
 
-You can create small, temporary, and harmless sensory effects using the elements, such as hand-sized illusions, whispers, marks or symbols, or small appearance changes.
+You can create small, temporary, and harmless sensory effects, such as hand-sized illusions, whispers, marks or symbols, or small appearance changes.
 
 <header>
 
