@@ -22,8 +22,7 @@
   + [Rests](pages/rules/rests.md)
   + [Conditions](pages/rules/conditions.md)
   + [Usage Die](pages/rules/usage.md)
-+ Combat
-  + [Order of Combat](pages/combat/order.md)
++ [Combat](pages/combat/index.md)
   + [Actions](pages/combat/actions.md)
   + [Attacks](pages/combat/attacks.md)
   + [Moves](pages/combat/moves.md)

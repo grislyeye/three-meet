@@ -43,7 +43,7 @@ As a [Bonus Action](pages/combat/bonus-actions.md) you can regain [Stamina](page
 
 </header>
 
-Starting at 2nd level, you can push yourself beyond your normal limits. On your [Turn](../../pages/combat/order.md), you can take one additional [Action](../../pages/combat/actions.md). You must [Rest](../../pages/rules/rests.md) before you can use this feature again.
+Starting at 2nd level, you can push yourself beyond your normal limits. On your [Turn](../../pages/combat/index.md), you can take one additional [Action](../../pages/combat/actions.md). You must [Rest](../../pages/rules/rests.md) before you can use this feature again.
 
 <header>
 
