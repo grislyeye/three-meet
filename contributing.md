@@ -52,8 +52,30 @@ $ npm run itch:deploy
 
 **Note:** Three Meet uses [semantic versioning](https://semver.org/).
 
+## Style Guide
+
+### 1. Punctuation
+
+  1. Introduce bulleted or numbered lists with a full sentence.
+  2. Each list item begins with a capital letter.
+  3. Use closing punctuation if the lists contains full sentences.
+
+### 2. Terminology
+
+  1. Key terms should be in bold and capitalised for emphasis, e.g. **Proficiency**.
+  2. Key terms should be linked, e.g. [Proficiency](pages/rules/proficiency).
+  3. Exceptions to linking include:
+    4. Where a term has been defined nearby in the text.
+  3. Avoid using too many key terms in a text block to prevent visual overload.
+
+### 3. Numerals
+
+  1. Whole numbers from 0 to 101 should be spelled out.
+  2. Exceptions include:
+    1. Game traits with numerical values.
+
 ## Future Work
 
 My main design goal with **Three Meet** is to keep things focussed and simple, while not losing the solid 5E core rules.
 
-There are plans to expand **Three Meet**, but I hope these will be limited so as not overly complicate the system (see the [design notes](design-notes.md)). If you'd like to see the progress or find what we need help with, see the [task board](https://github.com/grislyeye/three-meet/projects/1).
+There are plans to expand **Three Meet**, but I hope these will be limited so as not overly complicate the system (see the [design notes](design-notes.md)). If you'd like to see the progress or find what we need help with, see the [task board](https://github.com/orgs/grislyeye/projects/1).
