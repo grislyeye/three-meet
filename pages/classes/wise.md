@@ -40,7 +40,7 @@ With raw, primordial force you fly at your enemies, bolstering you and your alli
 
 | Level | Archetype Features         | Spell Slots |
 | ----  | -------------------------- | ----------- |
-| 1st   | Minor Elementalism, Rituals, Elementalism, Proficient: Nature, medium armor, shields, and martial weapons | 2  |
+| 1st   | Minor Elementalism, Rituals, Elementalism, Animal Form, Proficient: Nature, medium armor, shields, and martial weapons | 2  |
 | 2nd   | Primordial Form | 3 |
 
 <header>
@@ -98,6 +98,16 @@ You can sense and purify small amounts of [Close](../../pages/rules/distance.md)
 </section>
 
 </section>
+
+<header>
+
+### Animal Form
+
+<p class="subheading">1st-level Elementalist archetype feature</p>
+
+</header>
+
+When you are unseen you can use your [Action](../../pages/combat/actions.md) to transform into an **Animal** (Common Creature, **Defence** 10 + Wisdom + Cunning, **Stamina** Wisdom + your level, **Light Melee Attack** 1d6) *or* transform back. If you lose all your **Stamina** in this form you transform back and take any left over damage.
 
 ### Elementalism
 
@@ -159,17 +169,13 @@ You channel a burst of raw, primordial energy through your body. You or a [Close
 
 </header>
 
-You can use your [Action](../../pages/combat/actions.md) to assume an animal form. You use this feature again when you [Rest](../../pages/rules/rests.md).
+When you use your **Animal Form** feature you gain an additional **1d4 + 4 Stamina** in your new form.
 
-When you transform you have **10 + your level Stamina**. When you revert this Stamina is lost, and you return to your Stamina before you changed.
+When you transform you can choose one of the following for your new form:
 
-When you transform you may pick 2 of the following benefits for your new form:
-
- * You gain a **Bite or Claw (Melee 1d6, Light) Attack**.
- * You become tiny and/or can fly (you cannot attack in this form).
- * You can breath water.
- * You can use a [Bonus Action](../../pages/combat/bonus-actions.md) to make the [Dash](../../pages/combat/actions.md#dash) [Action](../../pages/combat/actions.md).
- * You have advantage on all [Perception](../../pages/characters/skills.md#perception/) [Checks](../../pages/rules/rolling/checks.md).
+ * You add your **Wisdom** to your attack damage
+ * You can see in darkness
+ * You become proficient in **Athletics** or **Stealth**
 
 <section class="spell">
 
