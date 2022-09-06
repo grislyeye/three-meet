@@ -33,7 +33,7 @@ Added to [Stamina](pages/combat/stamina.md), and melee [Attacks](pages/combat/at
 
 Wits, speed, agility, dexterousness, charm, perceptiveness, and guile.
 
-Added to [Initiative](pages/combat/order.md?id=initiative), [Defence](pages/combat/attacks.md?id=defence), and ranged [Attacks](pages/combat/attacks.md) and [Damage](pages/combat/attacks.md) rolls.
+Added to [Initiative](pages/combat/index.md#initiative), [Defence](pages/combat/attacks.md?id=defence), and ranged [Attacks](pages/combat/attacks.md) and [Damage](pages/combat/attacks.md) rolls.
 
 </section>
 
