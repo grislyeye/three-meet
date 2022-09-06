@@ -8,4 +8,4 @@
 
 | Level             | Background Features    |
 | ----------------- | - |
-| 1st               | +1 [Wisdom](pages/characters/attributes.md?id=wisdom), Proficient: Sleight, Thieves' Cant, Speciality |
+| 1st               | +1 [Wisdom](pages/characters/attributes.md?id=wisdom), Proficient: Insight, Speciality |
