@@ -16,21 +16,23 @@ Choose one type of favoured terrain: arctic, coast, desert, forest, grassland, m
 
 ### Speciality
 
-Choose a speciality and gain it's features. Soldier specialities include: **Cunning Folk**, **Hunter** and **Ranger**.
+Choose a speciality and gain it's features. Soldier specialities include: **Hedge Wise**, **Hunter** and **Ranger**.
 
 ## Cunning Folk
-
-You are a healer, a hedge practitioner of forgotten arts who dwells away from civilisation, searching the wilds for rare herbs.
-
-## Hunter
 
 | Level             | Features    |
 | ----------------- | - |
 | 1st               | ??? |
 
-### Starting
-
 **Proficiencies:** Medicine
+
+You are a healer, a hedge practitioner of forgotten arts who dwells away from civilisation, searching the wilds for rare herbs.
+
+### Hedge Wisdom
+
+1st Level Hedge Wise feature
+
+You might not have access to obscure lore found in dusty old tomes, but your knowledge comes from the great, unwritten book, nature itself. You can use **Nature** whenever you would use the **Arcana** skill.
 
 ## Hunter
 
