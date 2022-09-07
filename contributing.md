@@ -8,20 +8,21 @@ You can [report issues](https://github.com/grislyeye/three-meet/issues/new) and 
 
 Related projects include:
 
-  + [Three Meet character sheet](https://github.com/grislyeye/three-meet-char-sheet)
-  + [Docsify](https://docsify.js.org)
+- [Three Meet character sheet](https://github.com/grislyeye/three-meet-char-sheet)
+- [Docsify](https://docsify.js.org)
 
 ## Install
 
 This project has the following requirements:
 
-  * [Node.js/NPM](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
-  * [Butler](https://itch.io/docs/butler/installing.html)
+- [Node.js/NPM](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+- [Butler](https://itch.io/docs/butler/installing.html)
 
 Execute:
 
 ```sh
-$ git clone git@github.com:grislyeye/three-meet.git
+$ git clone->
+-> git@github.com:grislyeye/three-meet.git
 $ cd three-meet
 ```
 
@@ -56,23 +57,23 @@ $ npm run itch:deploy
 
 ### 1. Punctuation
 
-  1. Introduce bulleted or numbered lists with a full sentence.
-  2. Each list item begins with a capital letter.
-  3. Use closing punctuation if the lists contains full sentences.
+1. Introduce bulleted or numbered lists with a full sentence.
+2. Each list item begins with a capital letter.
+3. Use closing punctuation if the lists contains full sentences.
 
 ### 2. Terminology
 
-  1. Key terms should be in bold and capitalised for emphasis, e.g. **Proficiency**.
-  2. Key terms should be linked, e.g. [Proficiency](pages/rules/proficiency).
-  3. Exceptions to linking include:
-    4. Where a term has been defined nearby in the text.
-  3. Avoid using too many key terms in a text block to prevent visual overload.
+1. Key terms should be in bold and capitalised for emphasis, e.g. **Proficiency**.
+2. Key terms should be linked, e.g. [Proficiency](pages/rules/proficiency).
+3. Exceptions to linking include:
+4. Where a term has been defined nearby in the text.
+5. Avoid using too many key terms in a text block to prevent visual overload.
 
 ### 3. Numerals
 
-  1. Whole numbers from 0 to 101 should be spelled out.
-  2. Exceptions include:
-    1. Game traits with numerical values.
+1. Whole numbers from 0 to 101 should be spelled out.
+2. Exceptions include:
+3. Game traits with numerical values.
 
 ## Future Work
 
