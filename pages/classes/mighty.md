@@ -87,7 +87,7 @@ When you roll a 1 or 2 on a damage die for an attack you make with a melee weapo
 
 </header>
 
-On your turn, you can use your surge to enter a rage as a bonus action. While raging, you gain <strong>1d10 + your Level</strong> [Temporary Hit Points]().
+On your turn, you can use your surge to enter a rage as a [Bonus Action](../../pages/combat/bonus-actions.md). While raging, when you make a [Melee Attack](../../pages/combat/attacks.md), you gain a +2 bonus to the damage roll.
 
 Your rage lasts for 1 minute.
 
