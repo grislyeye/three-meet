@@ -79,23 +79,23 @@ $ npm run itch:deploy
 ### Features
 
   1. Good features can:
-    - Make an exception to the rules.
-    - Take a feature from another [Background](pages/backgrounds/index.md) or [Class](pages/classes/index.md).
+     - Make an exception to the rules.
+     - Take a feature from another [Background](pages/backgrounds/index.md) or [Class](pages/classes/index.md).
   2. Features should **not**:
-    - Give situational [Advantage](pages/rules/advantage.md) or [Disadvantage](pages/rules/advantage.md) (they are both situational anyway).
-    - Give metagame information not normally available to the player (opponent's [Stamina](), etc.).
+     - Give situational [Advantage](pages/rules/advantage.md) or [Disadvantage](pages/rules/advantage.md) (they are both situational anyway).
+     - Give metagame information not normally available to the player (opponent's [Stamina](), etc.).
   3. Good [Class](pages/backgrounds/index.md) features can:
-    - Have combat utility.
+     - Have combat utility.
   4. Good [Class](pages/backgrounds/index.md) features should **not**:
-    - Have non-combat utility.
-    - Give permission to do something already covered by a [Skill](pages/characters/skills.md).
+     - Have non-combat utility.
+     - Give permission to do something already covered by a [Skill](pages/characters/skills.md).
   5. Good [Background](pages/backgrounds/index.md) features can:
-    - Allow you to substitute one proficiency for another (effectively doubling the proficiency's utility).
+     - Allow you to substitute one proficiency for another (effectively doubling the proficiency's utility).
   6. [Background](pages/backgrounds/index.md) features should **not**:
-    - Have combat utility.
-    - Replicate the [Cunning Expertise](pages/classes/cunning.md#expertise) class feature.
-    - Give proficiency.
-    - Award negative or positive modifiers to [Checks](), [Saves]() and [Attacks]().
+     - Have combat utility.
+     - Replicate the [Cunning Expertise](pages/classes/cunning.md#expertise) class feature.
+     - Give proficiency.
+     - Award negative or positive modifiers to [Checks](), [Saves]() and [Attacks]().
 
 ## Future Work
 
