@@ -79,23 +79,15 @@ $ npm run itch:deploy
 ### Features
 
   1. Good features can:
-
     1. Make an exception to the rules.
-
   1. Good [Background](pages/backgrounds/index.md) features can:
-
     1. Allow you to substitute one proficiency for another (effectively doubling the proficiency's utility).
     2. Give metagame information not normally available to the player (opponent's [Stamina](), etc.),
-
   1. Good [Class](pages/backgrounds/index.md) features can:
-
     1. Have combat utility.
-
   1. [Background](pages/backgrounds/index.md) and [Class](pages/classes/index.md) features should **not**:
-
     1. Give situational [Advantage](pages/rules/advantage.md) (Advantage is situational anyway).
     2. Give permission to do something already covered by a [Skill](pages/characters/skills.md).
-
   1. [Background](pages/backgrounds/index.md) features should **not**:
     1. Have combat utility.
     2. Replicate the [Cunning Expertise](pages/classes/cunning.md#expertise) class feature.
