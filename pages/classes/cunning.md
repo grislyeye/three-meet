@@ -47,7 +47,7 @@ Choose two of your skill or tool proficiencies. Your proficiency bonus is double
 
 </header>
 
-Choose an archetype and gain its features. **The Cunning** archetypes include: [Shadow](pages/classes/cunning.md?id=shadow) and [Swashbuckler](pages/classes/cunning.md?id=swashbuckler).
+Choose an archetype and gain its features. **The Cunning** archetypes include: [Fusilier](#fusilier), [Shadow](pages/classes/cunning.md?id=shadow) and [Swashbuckler](pages/classes/cunning.md?id=swashbuckler).
 
 <header>
 
@@ -62,6 +62,22 @@ Choose an archetype and gain its features. **The Cunning** archetypes include: [
 Starting at 2nd level, your quick thinking and agility allow you to move and act quickly. You can take a [Bonus Action](../../pages/combat/bonus-actions.md) on each of your [Turns](../../pages/combat/index.md) in combat. This action can be used only to take the [Dash](../../pages/combat/actions.md#dash), [Disengage](../../pages/combat/actions.md#disengage), or [Hide](../../pages/combat/actions.md#hide) action.
 
 <header>
+
+## Fusilier
+
+| Level | Features |
+| ----  | - |
+| 1st   | Gun Play |
+
+<header>
+
+### Gun Play
+
+<p class="subheading">1st-level Fusilier archetypes feature</p>
+
+</header>
+
+You can use your Cunning Attack with ranged weapons. Additionally, you do not need advantage to use your Cunning Attack when using a gun in [Close](../../pages/rules/distance.md) range. You do not suffer [Disadvantage](../../pages/rules/advantage.md) when using your gun weapon when [Close](../../pages/rules/distance.md).
 
 ## Shadow
 
