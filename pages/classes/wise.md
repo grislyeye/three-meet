@@ -204,8 +204,8 @@ You are a practitioner of forbidden, arcane arts.
 | Level | Archetype Features         | Spell Slots | Slot Level |
 | ----  | -------------------------- | ----------- | ---------- |
 | 1st   | Minor Sorcery, Stricken, Rituals, Sorcery | 2 | 1st |
-| 2nd   | Improved Stricken, Witch Sight | 3 | 1st |
-| 3rd   | Improved Stricken, Witch Sight | 3 | 2nd |
+| 2nd   | Improved Stricken, Insidious Whispers, Witch Sight | 3 | 1st |
+| 3rd   | Darkness, Summon Familiar | 3 | 2nd |
 
 ### Starting Stats
 
@@ -315,20 +315,6 @@ You pull back the veil, revealing a glimpse of what lies beyond the mortal realm
 
 <header>
 
-#### Insidious Whispers
-
-<p class="subheading">1st-level Sorcerer spell</p>
-
-</header>
-
-You summon unseen spirits that whisper three, horrific secrets in the ears of your enemies. Each whisper deals 1d4+1 damage to one or several **Close**, **Nearby** or **Far Away** creatures.
-
-</section>
-
-<section class="spell">
-
-<header>
-
 #### Minor Ward
 
 <p class="subheading">1st-level Sorcerer spell</p>
@@ -353,6 +339,20 @@ You can add your [Wisdom](../../pages/characters/attributes.md#wisdom) to the da
 
 <header>
 
+<section class="spell">
+
+<header>
+
+### Insidious Whispers
+
+<p class="subheading">2nd-level Sorcerer spell</p>
+
+</header>
+
+You summon unseen spirits that whisper three, horrific secrets in the ears of your enemies. Each whisper deals 1d4+1 damage to one or several **Close**, **Nearby** or **Far Away** creatures.
+
+</section>
+
 ### Witch Sight
 
 <p class="subheading">2nd-level Sorcerer archetype feature</p>
@@ -361,12 +361,35 @@ You can add your [Wisdom](../../pages/characters/attributes.md#wisdom) to the da
 
 Using an [Action](../../pages/combats/actions.md) you can sense the presence of any magic [Nearby](../../pages/rules/distance.md). You can then see a faint aura around any visible creature or object in the area that bears magic. You may also be able to see things hidden from mortal eyes, such as strange omens or magical signs left by other sorcerers.
 
+<section class="spell">
+
 <header>
 
-#### Summon Familiar
+### Darkness
+
+<p class="subheading">3rd-level Sorcerer spell</p>
+
+</header>
+
+Magical darkness spreads from a [Nearby]() point or object you choose. Anything [Close]() to this point or object is shrouded in this darkness.
+
+</section>
+
+<header>
+
+### Summon Familiar
 
 <p class="subheading">3rd-level Sorcerer ritual</p>
 
 </header>
 
- You gain the service of a **Familiar (3 [Stamina](pages/combat/stamina.md), 13 Defence, Stealth +4)**.
+ You gain the service of one familiar spirit only, from another plane of existence to serve you:
+
+**Familiar Spirit**: *Stealthy Uncommon Monster* (+4/-2), **Defence** 13, **Stamina** 3, **Claw** (Attack Melee 1d4+3), **Shapeshift** (Change into a tiny animal form as an Action)
+
+The familiar spirit...
+
+ * Obeys your commands.
+ * Can communicate with you silently when it is as distant as [Far Away](../../pages/rules/distance.md).
+ * When you cast a spell with **Close** range, your familiar spirit can use it's [Reaction](../../pages/combat/reactions.md) to deliver the spell as if it had cast the spell
+ * You can forgo one of your own [Attacks](../../pages/combat/reactions.md) to allow your familiar to make one [Attack](../../pages/combat/reactions.md) of its own with its [Reaction](../../pages/combat/reactions.md).
