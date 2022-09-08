@@ -21,8 +21,8 @@
   + [Distance](pages/rules/distance.md)
   + [Rests](pages/rules/rests.md)
   + [Conditions](pages/rules/conditions.md)
-+ Combat
-  + [Order of Combat](pages/combat/order.md)
+  + [Usage Die](pages/rules/usage.md)
++ [Combat](pages/combat/index.md)
   + [Actions](pages/combat/actions.md)
   + [Attacks](pages/combat/attacks.md)
   + [Moves](pages/combat/moves.md)

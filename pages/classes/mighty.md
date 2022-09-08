@@ -9,6 +9,7 @@
 | Level | Proficiency | Features  |
 | ----  | ----------- |- |
 | 1st   | +2          | +1 [Might](pages/characters/attributes.md?id=might), Surge, Archetype |
+| 2nd   | +2          | Mighty Action |
 
 ### Starting Stats
 
@@ -33,6 +34,16 @@ When you use your Surge, you choose which feat to use. You must then finish a re
 #### Surge: Second Wind
 
 As a [Bonus Action](pages/combat/bonus-actions.md) you can regain [Stamina](pages/combat/stamina.md) equal to **1d10 + your level**.
+
+<header>
+
+### Mighty Action
+
+<p class="subheading">2nd-level Mighty class feature</p>
+
+</header>
+
+Starting at 2nd level, you can push yourself beyond your normal limits. On your [Turn](../../pages/combat/index.md), you can take one additional [Action](../../pages/combat/actions.md). You must [Rest](../../pages/rules/rests.md) before you can use this feature again.
 
 <header>
 
@@ -66,7 +77,7 @@ You fight to protect. Cleaving close to your allies, you intercept attacks, so t
 
 </header>
 
-You can use your [Reaction](pages/combat/reactions.md) to impose disadvantage on an [Attack](pages/combat/attacks.md) that targets an ally. The target must be within 5 feet of you, and you must be wielding a melee weapon or shield.
+You can use your [Reaction](../../pages/combat/reactions.md) to impose disadvantage on an [Attack](pages/combat/attacks.md) that targets a [Close](../pages/rules/distance.md) ally. You must be wielding a melee weapon or shield.
 
 <header>
 
@@ -76,4 +87,4 @@ You can use your [Reaction](pages/combat/reactions.md) to impose disadvantage on
 
 </header>
 
-You can use your [Bonus Action](pages/combat/bonus-actions.md) to direct a [Close](pages/rules/distance) ally defensively. The ally gains **1d10 + your level** [Temporary Stamina](pages/combat/stamina#temporary-stamina). This Temporary Stamina lasts for 1 minute.
+When a **Close** ally is hit by a melee attack, you can use your [Reaction](../../pages/combat/reactions.md) to reduce the damage by **1d10 + your level**.

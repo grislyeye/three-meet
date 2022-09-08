@@ -9,6 +9,7 @@
 | Level | Proficiency | Features  |
 | ----  | ----------- |- |
 | 1st   | +2          | +1 [Cunning](pages/characters/attributes.md?id=cunning), Archetype, Expertise, Cunning Attack |
+| 2nd   | +2          | Cunning Action |
 
 ### Starting Stats
 
@@ -26,7 +27,7 @@
 
 </header>
 
-You can deal an extra 1d6 damage to one creature you hit with a melee attack, if you have advantage on the attack roll. You must be wielding a [Finesse](pages/combat/attacks.md?id=describing-attacks) weapon.
+You can deal an extra 1d6 damage to one creature you hit with an attack, if you have advantage on the attack roll. You must be making a [Light Melee](pages/combat/attacks.md?id=describing-attacks) or [Light Thrown](pages/combat/attacks.md?id=describing-attacks) attack.
 
 <header>
 
@@ -47,6 +48,18 @@ Choose two of your skill or tool proficiencies. Your proficiency bonus is double
 </header>
 
 Choose an archetype and gain its features. **The Cunning** archetypes include: [Shadow](pages/classes/cunning.md?id=shadow) and [Swashbuckler](pages/classes/cunning.md?id=swashbuckler).
+
+<header>
+
+<header>
+
+### Cunning Action
+
+<p class="subheading">2nd-level Cunning class feature</p>
+
+</header>
+
+Starting at 2nd level, your quick thinking and agility allow you to move and act quickly. You can take a [Bonus Action](../../pages/combat/bonus-actions.md) on each of your [Turns](../../pages/combat/index.md) in combat. This action can be used only to take the [Dash](../../pages/combat/actions.md#dash), [Disengage](../../pages/combat/actions.md#disengage), or [Hide](../../pages/combat/actions.md#hide) action.
 
 <header>
 
@@ -84,7 +97,7 @@ You do not need advantage to use your **Cunning Attack** on a target if it is cl
 
 </header>
 
-With wit, flair, and fancy footwork, you run rings around your opponents.
+With wit, flair, and fancy footwork you leap head first into combat, running rings around your opponents.
 
 | Level | Features
 | ----  | -
@@ -102,4 +115,4 @@ With wit, flair, and fancy footwork, you run rings around your opponents.
 
 </header>
 
-You do not need advantage to use your [Cunning Attack](#cunning-attack) if you have already [moved](pages/combat/moves.md) on your turn.
+You do not need advantage to use your [Cunning Attack](#cunning-attack) against a creature when you are **Close** to it, and no other creatures are **Close** to you.

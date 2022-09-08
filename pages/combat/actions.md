@@ -42,13 +42,27 @@ You can avoid provoking an [Opportunity Attack](pages/combat/reactions.md?id=opp
 
 <header>
 
+## Hide
+
+Combat Action
+
+</header>
+
+You make a **Cunning Stealth Check** in an attempt to hide. While hidden you have [Advantage](../../pages/rules/advantage.md) on [Attacks](../../pages/combat/attacks.md), and [Attacks](../../pages/combat/attacks.md) against you have [Disadvantage](../../pages/rules/advantage.md).
+
+</section>
+
+<section class="summary">
+
+<header>
+
 ## Improvise
 
 Combat Action
 
 </header>
 
-At the GM's discretion, other actions can be improvised.
+At the GM's discretion, other actions can be improvised. You can also improvise an **Improvised Attack (Melee 1d4, Ranged 1d4)**, such as with a sharp bunch or thrown chair.
 
 </section>
 
