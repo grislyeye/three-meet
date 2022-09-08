@@ -114,7 +114,7 @@ You gain a **Ud6 Tactics** [Resource](). You can **Tap** it to perform one of th
 
 </header>
 
-When a creature damages a **Close** ally, you can use your [Reaction](../../pages/combat/reactions.md) to reduce the damage by the result of the [Usage Die](../pages/rules/usage.md) plus your **Cunning**.
+When a creature damages a **Close** ally, you can use your [Reaction](../../pages/combat/reactions.md) to reduce the damage by the result of the **[Usage Die](../pages/rules/usage.md) + your Cunning**.
 
 </section>
 
