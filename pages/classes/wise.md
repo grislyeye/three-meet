@@ -26,9 +26,172 @@
 
 </header>
 
-Choose an archetype and gain its features. The Wise archetypes include: **[Sorcerer](pages/classes/wise.md?id=sorcerer)**.
+Choose an archetype and gain its features. The Wise archetypes include: [Elementalist](pages/classes/wise.md?id=elementalist) and [Sorcerer](pages/classes/wise.md?id=sorcerer).
 
 <header>
+
+## Elementalist
+
+<p class="subheading">Magical Wise archetype</p>
+
+</header>
+
+With raw, primordial force you fly at your enemies, bolstering you and your allies.
+
+| Level | Archetype Features         | Spell Slots |
+| ----  | -------------------------- | ----------- |
+| 1st   | Minor Elementalism, Rituals, Elementalism, Animal Form, Proficient: Nature, medium armor, shields, and martial weapons | 2  |
+| 2nd   | Primordial Form | 3 |
+
+<header>
+
+<header>
+
+### Minor Elementalism
+
+<p class="subheading">1st-level Elementalist archetype feature</p>
+
+</header>
+
+You can create small, temporary, and harmless sensory effects, such as hand-sized illusions, whispers, marks or symbols, or small appearance changes.
+
+<header>
+
+### Rituals
+
+<p class="subheading">1st-level Elementalist archetype feature</p>
+
+</header>
+
+You can cast the rituals below. A ritual takes 10 minutes to cast.
+
+<header>
+
+<section class="spells">
+
+<section class="spell">
+
+<header>
+
+#### Spirit Tongue
+
+<p class="subheading">1st-level Elementalist ritual</p>
+
+</header>
+
+You speak the language of the elements, such as stones, birds or even trees. What they have to say may or may not be helpful. You can ask the spirits for guidance, giving you an additional **d4** on one [Check](../../pages/rules/rolling/checks.md) appropriate for the kind of spirit you are speaking with.
+
+</section>
+
+<section class="spell">
+
+<header>
+
+#### Purify Elements
+
+<p class="subheading">1st-level Elementalist ritual</p>
+
+</header>
+
+You can sense and purify small amounts of [Close](../../pages/rules/distance.md) natural matter. Food and drink is rendered free of poison and disease, flames burn without smoke, and small animals are healed. Magical effects are immune to this ritual.
+
+</section>
+
+</section>
+
+<header>
+
+### Animal Form
+
+<p class="subheading">1st-level Elementalist archetype feature</p>
+
+</header>
+
+When you are unseen you can use your [Action](../../pages/combat/actions.md) to transform into an **Animal** (Common Creature, **Defence** 10 + Wisdom + Cunning, **Stamina** Wisdom + your level, **Light Melee Attack** 1d6) *or* transform back. If you lose all your **Stamina** in this form you transform back and take any left over damage.
+
+### Elementalism
+
+<p class="subheading">1st-level Elementalist archetype feature</p>
+
+</header>
+
+You can cast spells. To cast a spell you must expend a spell slot. Each spell takes an [Action](../../pages/combat/actions.md) or  [Bonus Action](../../pages/combat/bonus-actions.md)  to cast. You regain your spell slots when you finish a [Rest](../../pages/rules/rests.md).
+
+Your **Spell Difficulty** is:
+
+<div class="example-roll">
+  8
+  +
+  <span class="bonus"> <span class="caption">Proficiency</span></span>
+  +
+  <span class="bonus"> <span class="caption">Wisdom</span></span>
+</div>
+
+<header>
+
+<section class="spells">
+
+<section class="spell">
+
+<header>
+
+#### Channel Essence [Bonus Action]
+
+<p class="subheading">1st-level Elementalist spell</p>
+
+</header>
+
+A [Nearby](../../pages/rules/distance.md) creature regains **1d4 + Wisdom** [Stamina](../../pages/combat/stamina.md). When you cast this spell using a **Spell Slot** of 2nd level or higher, add an additional **1d4** for each slot level above 1st.
+
+</section>
+
+<section class="spell">
+
+<header>
+
+#### Primordial Strength [Action]
+
+<p class="subheading">1st-level Elementalist spell</p>
+
+</header>
+
+You channel a burst of raw, primordial energy through your body. You or a [Close](../../pages/rules/distance.md) creature regains **1d8 + Wisdom Stamina**. When you cast this spell using a **Spell Slot** of 2nd level or higher, add an additional **1d8** for each slot level above 1st.
+
+</section>
+
+</section>
+
+<header>
+
+### Primordial Form
+
+<p class="subheading">2nd-level Elementalist archetype feature</p>
+
+</header>
+
+When you use your **Animal Form** feature you gain an additional **1d4 + 4 Stamina** in your new form.
+
+When you transform you can choose one of the following for your new form:
+
+ * You add your **Wisdom** to your attack damage
+ * You can see in darkness
+ * You become proficient in **Athletics** or **Stealth**
+
+<section class="spell">
+
+<header>
+
+#### Elemental Shift [Action]
+
+<p class="subheading">2nd-level Elementalist spell</p>
+
+</header>
+
+You summon elemental forces from deep in the earth at a [Nearby](../../pages/rules/distance.md) location. Stone crumbles. Soil turns into mire. The area [Close](../../pages/rules/distance.md) to this location is considered [Difficult Terrain](../../pages/rules/distance.md#difficult-terrain). A creature in the area when you cast the spell must succeed on a [Might](../../pages/characters/attributes#might) [Save](../../pages/rules/rolling/saves.md) or they cannot make a [Move](../../pages/combat/moves.md) and are [Disadvantaged](../../pages/rules/conditions.md#disadvantaged). They can use an [Action](../../pages/combat/actions.md) to make a [Might](../../pages/characters/attributes#might) [Save](../../pages/rules/rolling/saves.md) to free themselves.
+
+</section>
+
+</section>
 
 ## Sorcerer
 
@@ -111,6 +274,8 @@ You summon a **Minor Spirit (1 [Stamina](pages/combat/stamina.md), 10 Defence, S
 </section>
 
 </section>
+
+<header>
 
 ### Sorcery
 
