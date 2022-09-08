@@ -40,88 +40,6 @@ Your **Wise Difficulty** is:
 
 Choose an archetype and gain its features. The Wise archetypes include: [Elementalist](pages/classes/wise.md?id=elementalist), **Leader** and **[Sorcerer](pages/classes/wise.md?id=sorcerer)**.
 
-## Leader
-
-Not all need fight, some must command. You are a leader, a tactician. Issuing orders and inspiriting greatness in others.
-
-| Level | Archetype Features |
-| ----  | - |
-| 1st   | Command, Guidance, Stratagem, Proficient: Persuasion, light armor, shields, and simple weapons |
-
-<header>
-
-### Command
-
-<p class="subheading">1st-level Leader archetype feature</p>
-
-</header>
-
-As an action you command an ally to attack. The ally can use their [Reaction](../../pages/combat/reactions.md) to make an [Attack](../../pages/combat/attacks.md).
-
-<header>
-
-### Guidance
-
-<p class="subheading">1st-level Leader archetype feature</p>
-
-</header>
-
-You can take an [Action]() to confer useful advice to a [Close]() ally. The target can roll a d4 and add the number rolled to one ability check of its choice. It can roll the die before or after making the ability check.
-
-<header>
-
-### Stratagem
-
-<p class="subheading">1st-level Leader archetype feature</p>
-
-You can make inspiring and tactical commands. To perform a Strategy you must expend a **Wise Slot**.
-
-<section class="spells">
-
-<section class="spell">
-
-<header>
-
-#### Battle Cry
-
-<p class="subheading">1st-level Leader Strategy</p>
-
-</header>
-
-You can use your [Action]() to make an inspiring cry to a [Nearby]() ally. The target can roll a d4 and add the number rolled to one attack roll or saving throw.
-
-</section>
-
-<section class="spell">
-
-<header>
-
-#### Inspire
-
-<p class="subheading">1st-level Leader Strategy</p>
-
-</header>
-
-You can use your [Action]() to inspire a [Nearby]() ally. The creature is immune to being [Frightened]() and gains [Temporary Stamina]() equal to your [Wisdom](../pages/characters/attributes.md#wisdom) at the start of each of its turns.
-
-</section>
-
-<section class="spell">
-
-<header>
-
-#### Rally
-
-<p class="subheading">1st-level Leader Strategy</p>
-
-</header>
-
-You can use your [Bonus Action]() to make an inspiring cry to a [Nearby]() ally. The target regains [Stamina](../pages/combat/stamina.md) equal to 1d4 + your **Wisdom**.
-
-</section>
-
-</section>
-
 ## Elementalist
 
 <p class="subheading">Magical Wise archetype</p>
@@ -279,6 +197,88 @@ When you transform you can choose one of the following for your new form:
 
 You summon elemental forces from deep in the earth at a [Nearby](../../pages/rules/distance.md) location. Stone crumbles. Soil turns into mire. The area [Close](../../pages/rules/distance.md) to this location is considered [Difficult Terrain](../../pages/rules/distance.md#difficult-terrain). A creature in the area when you cast the spell must succeed on a [Might](../../pages/characters/attributes#might) [Save](../../pages/rules/rolling/saves.md) or they cannot make a [Move](../../pages/combat/moves.md) and are [Disadvantaged](../../pages/rules/conditions.md#disadvantaged). They can use an [Action](../../pages/combat/actions.md) to make a [Might](../../pages/characters/attributes#might) [Save](../../pages/rules/rolling/saves.md) to free themselves.
 >>>>>>> main
+
+</section>
+
+</section>
+
+## Leader
+
+Not all need fight, some must command. You are a leader, a tactician. Issuing orders and inspiriting greatness in others.
+
+| Level | Archetype Features |
+| ----  | - |
+| 1st   | Command, Guidance, Stratagem, Proficient: Persuasion, light armor, shields, and simple weapons |
+
+<header>
+
+### Command
+
+<p class="subheading">1st-level Leader archetype feature</p>
+
+</header>
+
+As an action you command an ally to attack. The ally can use their [Reaction](../../pages/combat/reactions.md) to make an [Attack](../../pages/combat/attacks.md).
+
+<header>
+
+### Guidance
+
+<p class="subheading">1st-level Leader archetype feature</p>
+
+</header>
+
+You can take an [Action]() to confer useful advice to a [Close]() ally. The target can roll a d4 and add the number rolled to one ability check of its choice. It can roll the die before or after making the ability check.
+
+<header>
+
+### Stratagem
+
+<p class="subheading">1st-level Leader archetype feature</p>
+
+You can make inspiring and tactical commands. To perform a Strategy you must expend a **Wise Slot**.
+
+<section class="spells">
+
+<section class="spell">
+
+<header>
+
+#### Battle Cry
+
+<p class="subheading">1st-level Leader Strategy</p>
+
+</header>
+
+You can use your [Action]() to make an inspiring cry to a [Nearby]() ally. The target can roll a d4 and add the number rolled to one attack roll or saving throw.
+
+</section>
+
+<section class="spell">
+
+<header>
+
+#### Inspire
+
+<p class="subheading">1st-level Leader Strategy</p>
+
+</header>
+
+You can use your [Action]() to inspire a [Nearby]() ally. The creature is immune to being [Frightened]() and gains [Temporary Stamina]() equal to your [Wisdom](../pages/characters/attributes.md#wisdom) at the start of each of its turns.
+
+</section>
+
+<section class="spell">
+
+<header>
+
+#### Rally
+
+<p class="subheading">1st-level Leader Strategy</p>
+
+</header>
+
+You can use your [Bonus Action]() to make an inspiring cry to a [Nearby]() ally. The target regains [Stamina](../pages/combat/stamina.md) equal to 1d4 + your **Wisdom**.
 
 </section>
 
