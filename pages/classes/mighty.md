@@ -68,12 +68,12 @@ You fight to protect. Cleaving close to your allies, you intercept attacks, so t
 
 | Level | Archetype Features |
 | ----  | ------------------ |
-| 1st   | Block, Surge: Defend, Proficient: Intimidation |
+| 1st   | Defend, Surge: Bolster, Proficient: Intimidation |
 | 3rd   | Defensive Tactics |
 
 <header>
 
-### Block
+### Defend
 
 <p class="subheading">1st-level Defender archetype feature</p>
 
