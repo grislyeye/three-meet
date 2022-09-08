@@ -91,7 +91,7 @@ You do not need advantage to use your **Cunning Attack** on a target if it is cl
 
 <header>
 
-### Assassinate
+### Surprise Attack
 
 <p class="subheading">3rd-level Shadow archetypes feature</p>
 
