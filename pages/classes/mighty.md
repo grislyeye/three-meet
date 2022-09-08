@@ -91,7 +91,6 @@ You can use your [Reaction](../../pages/combat/reactions.md) to impose disadvant
 
 As a [Bonus Action](pages/combat/bonus-actions.md) you can restore [Stamina](pages/combat/stamina.md) equal to **1d10 + your level** to a **Close** ally.
 
-
 <header>
 
 ### Defensive Tactics
