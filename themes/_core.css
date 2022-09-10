@@ -461,9 +461,6 @@ body.close .content {
 }
 
 @media screen and (max-width: 630px) {
-  body.close .sidebar {
-    transform: translateX(0em);
-  }
   body.close .content {
     transform: translateX(0rem);
   }
