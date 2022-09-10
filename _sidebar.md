@@ -18,6 +18,7 @@
     + [Saves](pages/rules/rolling/saves.md)
   + [Advantage/Disadvantage](pages/rules/advantage.md)
   + [Proficiency](pages/rules/proficiency.md)
+  * [Usage Die](pages/rules/usage.md)
   + [Distance](pages/rules/distance.md)
   + [Rests](pages/rules/rests.md)
   + [Conditions](pages/rules/conditions.md)
@@ -25,10 +26,13 @@
 + [Combat](pages/combat/index.md)
   + [Actions](pages/combat/actions.md)
   + [Attacks](pages/combat/attacks.md)
+  + [Health](pages/combat/health.md)
   + [Moves](pages/combat/moves.md)
   + [Bonus Actions](pages/combat/bonus-actions.md)
   + [Reactions](pages/combat/reactions.md)
   + [Stamina](pages/combat/stamina.md)
+* Equipment
+  * [Wealth](pages/equipment/wealth.md)
 + Colophon
   + [Design Notes](design-notes.md)
   + [Contributing](contributing.md)
