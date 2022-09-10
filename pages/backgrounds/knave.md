@@ -36,8 +36,6 @@ You specialised in a particular criminal enterprise. Choose a speciality and gai
 
 <header>
 
-<header>
-
 ## Burglar
 
 <p class="subheading">Speciality</p>

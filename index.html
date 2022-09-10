@@ -1,15 +1,26 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <title>Three Meet</title>
+
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@grislyeye">
+  <meta name="twitter:title" content="Three Meet">
+  <meta name="twitter:description" content="A low fantasy 5E hack for dark times.">
+  <meta name="twitter:image" content="https://three-meet.grislyeye.com/assets/images/logo.png">
+  <meta name="twitter:image:alt" content="Three Meet Logo">
+
   <link rel="stylesheet" href="themes/cold-tavern/main.css">
   <link rel="stylesheet" href="https://unpkg.com/@fortawesome/fontawesome-free/css/fontawesome.css" />
   <link rel="stylesheet" href="https://unpkg.com/@fortawesome/fontawesome-free/css/solid.css" />
 </head>
+
 <body class="close">
   <div id="app"></div>
   <script>
@@ -22,12 +33,18 @@
       pagination: {
         crossChapter: true,
         crossChapterText: true
+      },
+      progress: {
+        position: "top",
+        color: "var(--theme-color,#42b983)",
+        height: "3px",
       }
     }
   </script>
   <script src="node_modules/docsify/lib/docsify.js"></script>
   <script src="node_modules/docsify/lib/plugins/search.min.js"></script>
   <script src="node_modules/docsify-pagination/dist/docsify-pagination.min.js"></script>
+  <script src="node_modules/docsify-page-preview/src/index.js" type="module"></script>
   <script>
     setTimeout(() => {
       const body = document.querySelector('body')
