@@ -205,7 +205,7 @@ You are a practitioner of forbidden, arcane arts.
 | ----  | -------------------------- | ----------- | ---------- |
 | 1st   | Minor Sorcery, Stricken, Rituals, Sorcery | 2 | 1st |
 | 2nd   | Improved Stricken, Insidious Whispers, Witch Sight | 3 | 1st |
-| 3rd   | Darkness, Spirit Tongue | 3 | 2nd |
+| 3rd   | Spirit Door spell, Spirit Tongue | 3 | 2nd |
 
 ### Starting Stats
 
@@ -365,13 +365,13 @@ Using an [Action](../../pages/combats/actions.md) you can sense the presence of 
 
 <header>
 
-### Darkness
+### Spirit Door
 
 <p class="subheading">3rd-level Sorcerer spell</p>
 
 </header>
 
-Magical darkness spreads from a [Nearby]() point or object you choose. Anything [Close]() to this point or object is shrouded in this darkness.
+You can teleport to an unoccupied space [Nearby]() that you can see.
 
 </section>
 
