@@ -377,19 +377,10 @@ Magical darkness spreads from a [Nearby]() point or object you choose. Anything 
 
 <header>
 
-### Summon Familiar
+### ???
 
-<p class="subheading">3rd-level Sorcerer ritual</p>
+<p class="subheading">3rd-level Sorcerer archetype feature</p>
 
 </header>
 
- You gain the service of one familiar spirit only, from another plane of existence to serve you:
-
-**Familiar Spirit**: *Stealthy Uncommon Monster* (+4/-2), **Defence** 13, **Stamina** 3, **Claw** (Attack Melee 1d4+3), **Shapeshift** (Change into a tiny animal form as an Action)
-
-The familiar spirit...
-
- * Obeys your commands.
- * Can communicate with you silently when it is as distant as [Far Away](../../pages/rules/distance.md).
- * When you cast a spell with **Close** range, your familiar spirit can use it's [Reaction](../../pages/combat/reactions.md) to deliver the spell as if it had cast the spell
- * You can forgo one of your own [Attacks](../../pages/combat/reactions.md) to allow your familiar to make one [Attack](../../pages/combat/reactions.md) of its own with its [Reaction](../../pages/combat/reactions.md).
+???
