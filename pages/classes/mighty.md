@@ -157,13 +157,13 @@ When a creature damages a [Close]() ally, you can use your [Reaction](../../page
 
 <header>
 
-#### Counter-attack
+#### Mark
 
 <p class="subheading">Defender Tactic</p>
 
 </header>
 
-When a creature makes an attack against a **Close** ally, you can use your [Reaction](../../pages/combat/reactions.md) to make a **Melee Attack** against the attacker. Add the result of the [Usage Die]() to the damage.
+As a [Bonus Action](pages/combat/bonus-actions.md) you can **Mark** a [Nearby]() enemy for 1 minute. If the marked enemy damages anyone other than you, the damage is reduced by your **Proficiency**.
 
 </section>
 
