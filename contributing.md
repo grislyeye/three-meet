@@ -74,6 +74,10 @@ $ npm run itch:deploy
   2. Exceptions include:
     1. Game traits with numerical values.
 
+### 4. Person
+
+  1. Rules should be addressed to the reader, in the first person. For example, "you roll for" rather than "the player rolls".
+
 ## Rules Guide
 
 ### Features
