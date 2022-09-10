@@ -383,4 +383,4 @@ Magical darkness spreads from a [Nearby]() point or object you choose. Anything 
 
 </header>
 
-You can communicate telepathically with any [Nearby]() creature.
+You can communicate telepathically with any [Nearby]() creature, or speak with beings in the spirit realm.
