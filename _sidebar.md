@@ -3,6 +3,7 @@
   + [Skills](pages/characters/skills.md)
   + [Allegiances](pages/characters/allegiances.md)
 + [Backgrounds](pages/backgrounds/index.md)
+  + [Guild Artisan](pages/backgrounds/guild-artisan.md)
   + [Knave](pages/backgrounds/knave.md)
   + [Noble](pages/backgrounds/noble.md)
   + [Magic Specialities](pages/backgrounds/magic.md)
