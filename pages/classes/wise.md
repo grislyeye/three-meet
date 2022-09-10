@@ -377,10 +377,10 @@ Magical darkness spreads from a [Nearby]() point or object you choose. Anything 
 
 <header>
 
-### ???
+### Spirit Tongue
 
 <p class="subheading">3rd-level Sorcerer archetype feature</p>
 
 </header>
 
-???
+You can communicate telepathically with any [Nearby]() creature.
