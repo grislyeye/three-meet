@@ -44,7 +44,7 @@ In **Three Meet** ability scores have been merged into three [Attributes](pages/
 
 ### No Races
 
-Avoiding issues with traditional races, **Three Meet** does away with them. We remove races from the rules. Instead, [Backgrounds](pages/backgrounds/index.md) provide these kinds of features, gained through lived experience, training, and fortune.
+Avoiding issues with traditional races, **Three Meet** does away with them. Instead, [Backgrounds](pages/backgrounds/index.md) provide the kinds of features gained through lived experience, training, or fortune.
 
 </section>
 
@@ -84,7 +84,7 @@ For this reason the classes have been consolidated into three classes: [The Migh
 
 **Three Meet** aims to condense the rules as clearly and simply as possible.
 
-As part of this, we avoid hand holding, and assume you are familiar with common tabletop RPG concepts, such as <q>What is a Roleplaying Game?</q>
+As part of this we avoid hand holding and assume you are familiar with common tabletop RPG concepts.
 
 </section>
 

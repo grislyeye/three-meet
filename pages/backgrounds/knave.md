@@ -12,6 +12,8 @@ Blackguard, scoundrel, outlaw: these are just some of the names you have been ca
 | ----------------- | - |
 | 1st               | +1 [Cunning](pages/characters/attributes.md?id=cunning), Proficient: Sleight, Thieves' Cant, Speciality |
 
+**Starting Equipment:** Small Pouch of Pennies (Treasure Ud6)
+
 <header>
 
 ### Thieves' Cant
@@ -31,8 +33,6 @@ You know thieves’ cant, a secret code of dialect, hand-signs, jargon, ciphers,
 </header>
 
 You specialised in a particular criminal enterprise. Choose a speciality and gain its features. Knave specialities include:  **Burglar** and [Ruffian](#ruffian).
-
-<header>
 
 <header>
 
