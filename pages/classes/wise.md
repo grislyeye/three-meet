@@ -205,7 +205,7 @@ You are a practitioner of forbidden, arcane arts.
 | ----  | -------------------------- | ----------- | ---------- |
 | 1st   | Minor Sorcery, Stricken, Rituals, Sorcery | 2 | 1st |
 | 2nd   | Improved Stricken, Insidious Whispers, Witch Sight | 3 | 1st |
-| 3rd   | Darkness, Summon Familiar | 3 | 2nd |
+| 3rd   | Darkness, Spirit Tongue | 3 | 2nd |
 
 ### Starting Stats
 
