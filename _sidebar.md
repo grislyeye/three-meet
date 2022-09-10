@@ -30,6 +30,8 @@
   + [Bonus Actions](pages/combat/bonus-actions.md)
   + [Reactions](pages/combat/reactions.md)
   + [Stamina](pages/combat/stamina.md)
+* Equipment
+  * [Wealth](pages/equipment/wealth.md)
 + Colophon
   + [Design Notes](design-notes.md)
   + [Contributing](contributing.md)
