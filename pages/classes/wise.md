@@ -321,7 +321,7 @@ You pull back the veil, revealing a glimpse of what lies beyond the mortal realm
 
 </header>
 
-You can touch a willing creature (including yourself) who isn't wearing armour, and a protective ward surrounds them until the spell ends. The target's [Defence](pages/combat/defence.md) becomes 13 + its [Wisdom](pages/characters/attributes.md?id=wisdom) attribute. The spell ends if the target dons armour or if you dismiss the spell as an [Action](pages/combat/actions.md).
+You can touch a willing creature (including yourself) who isn't wearing armour, and a protective ward surrounds them until the spell ends. The target's [Defence](pages/combat/defence.md) becomes 13 + its [Cunning](pages/characters/attributes.md#cunning). The spell ends if the target dons armour or if you dismiss the spell as an [Action](pages/combat/actions.md).
 
 </section>
 
