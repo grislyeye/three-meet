@@ -6,31 +6,15 @@
 
 </header>
 
-| Level | Proficiency | Class Features  | Wise Slots |
-| ----  | ----------- |- | - |
-| 1st   | +2          | +1 [Wisdom](pages/characters/attributes.md?id=wisdom), Archetype, Proficient: Insight, Proficient: [Wisdom](pages/characters/attributes.md?id=wisdom) [Saves](pages/rules/rolling/saves.md), Wises | 2 |
+| Level | Proficiency | Class Features  |
+| ----  | ----------- |- |
+| 1st   | +2          | +1 [Wisdom](pages/characters/attributes.md?id=wisdom), Archetype, Proficient: Insight, Proficient: [Wisdom](pages/characters/attributes.md?id=wisdom) [Saves](pages/rules/rolling/saves.md) |
 
 ### Starting Stats
 
 **Starting [Stamina](pages/combat/stamina.md):** 8 + [Might](pages/characters/attributes.md?id=might)
 
 **Proficiencies:** Insight, [Wisdom](pages/characters/attributes.md?id=wisdom) [Saves](pages/rules/rolling/saves.md)
-
-<header>
-
-### Wises
-
-You have a number of **Wise Slots** which you can use to perform various feats, as determined by your Archetype. You regain all expended **Wise Slots** when you finish a rest.
-
-Your **Wise Difficulty** is:
-
-<div class="example-roll">
-  8
-  +
-  <span class="bonus"> <span class="caption">Proficiency</span></span>
-  +
-  <span class="bonus"> <span class="caption">Wisdom</span></span>
-</div>
 
 ### Archetype
 
@@ -196,7 +180,6 @@ When you transform you can choose one of the following for your new form:
 </header>
 
 You summon elemental forces from deep in the earth at a [Nearby](../../pages/rules/distance.md) location. Stone crumbles. Soil turns into mire. The area [Close](../../pages/rules/distance.md) to this location is considered [Difficult Terrain](../../pages/rules/distance.md#difficult-terrain). A creature in the area when you cast the spell must succeed on a [Might](../../pages/characters/attributes#might) [Save](../../pages/rules/rolling/saves.md) or they cannot make a [Move](../../pages/combat/moves.md) and are [Disadvantaged](../../pages/rules/conditions.md#disadvantaged). They can use an [Action](../../pages/combat/actions.md) to make a [Might](../../pages/characters/attributes#might) [Save](../../pages/rules/rolling/saves.md) to free themselves.
->>>>>>> main
 
 </section>
 
@@ -206,9 +189,9 @@ You summon elemental forces from deep in the earth at a [Nearby](../../pages/rul
 
 Not all need fight, some must command. You are a leader, a tactician. Issuing orders and inspiriting greatness in others.
 
-| Level | Archetype Features |
-| ----  | - |
-| 1st   | Command, Guidance, Stratagem, Proficient: Persuasion, light armor, shields, and simple weapons |
+| Level | Archetype Features | Wise Slots
+| ----  | - | - |
+| 1st   | Command, Guidance, Tactics, Proficient: Persuasion, light armor, shields, and simple weapons | 2
 
 <header>
 
@@ -218,25 +201,17 @@ Not all need fight, some must command. You are a leader, a tactician. Issuing or
 
 </header>
 
-As an action you command an ally to attack. The ally can use their [Reaction](../../pages/combat/reactions.md) to make an [Attack](../../pages/combat/attacks.md).
+As an [Action]() you command an ally to attack. The ally can use their [Reaction](../../pages/combat/reactions.md) to make an [Attack](../../pages/combat/attacks.md). The ally can add your **Wisdom** to their damage roll.
 
 <header>
 
-### Guidance
+### Strategies
 
-<p class="subheading">1st-level Leader archetype feature</p>
+<p class="subheading">1st-level Sorcerer archetype feature</p>
 
 </header>
 
-You can take an [Action]() to confer useful advice to a [Close]() ally. The target can roll a d4 and add the number rolled to one ability check of its choice. It can roll the die before or after making the ability check.
-
-<header>
-
-### Stratagem
-
-<p class="subheading">1st-level Leader archetype feature</p>
-
-You can make inspiring and tactical commands. To perform a Strategy you must expend a **Wise Slot**.
+You can perform the strategies below. Each strategy takes 10 minutes to complete.
 
 <section class="spells">
 
@@ -244,13 +219,13 @@ You can make inspiring and tactical commands. To perform a Strategy you must exp
 
 <header>
 
-#### Battle Cry
+### Guidance
 
-<p class="subheading">1st-level Leader Strategy</p>
+<p class="subheading">1st-level Leader strategy</p>
 
 </header>
 
-You can use your [Action]() to make an inspiring cry to a [Nearby]() ally. The target can roll a d4 and add the number rolled to one attack roll or saving throw.
+You can take an [Action]() to confer useful advice to a [Close]() ally. The target can roll a **d4** and add the number rolled to one **Check** of their choice.
 
 </section>
 
@@ -258,15 +233,39 @@ You can use your [Action]() to make an inspiring cry to a [Nearby]() ally. The t
 
 <header>
 
-#### Inspire
+### Lay of the Land
 
-<p class="subheading">1st-level Leader Strategy</p>
+<p class="subheading">1st-level Leader strategy</p>
 
 </header>
 
-You can use your [Action]() to inspire a [Nearby]() ally. The creature is immune to being [Frightened]() and gains [Temporary Stamina]() equal to your [Wisdom](../pages/characters/attributes.md#wisdom) at the start of each of its turns.
+If you carefully observe your enemies or the terrain directly before a combat starts, you can make a **Wise Insight Check** instead of **Cunning Check** when you or one ally would roll for [Initiative]().
 
 </section>
+
+</section>
+
+<header>
+
+### Tactics
+
+<p class="subheading">1st-level Leader archetype feature</p>
+
+</header>
+
+You have a number of **Tactic Slots** which you can use to perform various tactical feats. To perform a tactic you must expend a **Tactic Slot**. You regain all expended **Tactic Slots** when you finish a rest.
+
+Your **Tactic Difficulty** is:
+
+<div class="example-roll">
+  8
+  +
+  <span class="bonus"> <span class="caption">Proficiency</span></span>
+  +
+  <span class="bonus"> <span class="caption">Wisdom</span></span>
+</div>
+
+<section class="spells">
 
 <section class="spell">
 
@@ -274,11 +273,25 @@ You can use your [Action]() to inspire a [Nearby]() ally. The creature is immune
 
 #### Rally
 
-<p class="subheading">1st-level Leader Strategy</p>
+<p class="subheading">1st-level Leader tactic</p>
 
 </header>
 
-You can use your [Bonus Action]() to make an inspiring cry to a [Nearby]() ally. The target regains [Stamina](../pages/combat/stamina.md) equal to 1d4 + your **Wisdom**.
+You can use your [Bonus Action]() to make a berating or inspiring cry to a [Nearby]() ally. The target regains [Stamina](../pages/combat/stamina.md) equal to **1d4 + your Wisdom**.
+
+</section>
+
+<section class="spell">
+
+<header>
+
+#### Wise Command
+
+<p class="subheading">1st-level Leader tactic</p>
+
+</header>
+
+You can use your [Action]() to call out a useful ploy to a [Nearby]() ally. The target can roll a **d4** and add the number rolled to one [Attack]() or [Save]().
 
 </section>
 
