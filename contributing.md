@@ -66,7 +66,8 @@ $ npm run itch:deploy
   2. Key terms should be linked, e.g. [Proficiency](pages/rules/proficiency).
   3. Exceptions to linking include:
     4. Where a term has been defined nearby in the text.
-  3. Avoid using too many key terms in a text block to prevent visual overload.
+  5. Avoid using too many key terms in a text block to prevent visual overload.
+  6. Dice rolls should be in bold, including modifiers.
 
 ### 3. Numerals
 
