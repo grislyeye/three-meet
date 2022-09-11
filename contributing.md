@@ -72,9 +72,9 @@ $ npm run itch:deploy
 
 ### 3. Numerals
 
-1. Whole numbers from 0 to 101 should be spelled out.
-2. Exceptions include:
-3. Game traits with numerical values.
+  1. Whole numbers from 0 to 101 should be spelled out.
+  2. Exceptions include:
+  3. Game traits with numerical values.
 
 ### 4. Person
 
