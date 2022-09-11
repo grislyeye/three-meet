@@ -10,7 +10,9 @@ You are high-born, a member of the powerful second estate.
 
 | Level             | Background Features    |
 | ----------------- | - |
-| 1st               | +1 [Cunning](pages/characters/attributes.md?id=cunning)<br> Proficient: One of **Animal Handling**, **Athletics**, **History**, **Nature**, **Performance**, **Persuasion**, or **Survival**<br> House<br>  Privilege<br> Speciality |
+| 1st               | +1 [Cunning](pages/characters/attributes.md?id=cunning), Proficient: **Persuasion**, House, Privilege, Speciality |
+
+**Starting Equipment:** Small Pouch of Florins (Treasure Ud8)
 
 <header>
 
@@ -22,8 +24,6 @@ You are high-born, a member of the powerful second estate.
 
 You must have an [Allegiances](../../pages/characters/allegiances) for your House. Work with your GM to come up with its name and purview (military, land, influence, etc.).
 
-**Starting Equipment:** Small Pouch of Florins (Treasure Ud8)
-
 <header>
 
 ### Privilege
@@ -32,7 +32,11 @@ You must have an [Allegiances](../../pages/characters/allegiances) for your Hous
 
 </header>
 
-You gain **Privilege (Resource Ud6)**. You can [Tap](../../pages/rules/usage.md) your **Privilege** to circumvent minor bureaucratic or legal obstacles, within the purview of your **House**. When it is [Exhausted](../../pages/rules/usage.md) you’re in trouble. You can [Replenish](../../pages/rules/usage.md) it by carrying out errands for your **House**.
+Pick one of the follow:
+
+  * **Stipend:** As a noble, you are expected to maintain a certain lifestyle. You start with a **Large Pouch of Crowns (Treasure Ud10)**. This item refreshes at the end of each adventure.
+  * **Servant:** You have a loyal [Retainer](../../pages/equipment/retainers.md) who follows your commands.
+  * **Educated**: Gain proficiency in one of **Animal Handling**, **Athletics**, **History**, **Nature**, **Performance**, or **Survival**
 
 <header>
 
@@ -42,7 +46,7 @@ You gain **Privilege (Resource Ud6)**. You can [Tap](../../pages/rules/usage.md)
 
 </header>
 
-Choose a speciality and gain its features. Noble specialities include **Bastard**, **Scion**.
+Choose a speciality and gain its features. Noble specialities include **Bastard** and **Scion**.
 
 <header>
 
@@ -68,6 +72,8 @@ You are the illegitimate offspring of the nobility. An open secret, an unpleasan
 
 Your illegitimacy meant you had to become useful to you family in other ways. You are proficient in any 1 skill or tool of your choice.
 
+<header>
+
 ## Scion
 
 <p class="subheading">Speciality</p>
@@ -82,10 +88,10 @@ You are the descendant of a wealthy family.
 
 <header>
 
-### Allowance
+### Authority
 
 <p class="subheading">1st-level Scion speciality feature</p>
 
 </header>
 
-As a noble, you are expected to maintain a certain lifestyle. You start with a **Large Pouch of Crowns (Treasure Ud10)**. This item refreshes at the end of each adventure.
+You gain **Privilege (Resource Ud6)**. You can [Tap](../../pages/rules/usage.md) your **Privilege** to circumvent minor bureaucratic or legal obstacles, within the purview of your **House**. When it is [Exhausted](../../pages/rules/usage.md) you’re in trouble. You can [Replenish](../../pages/rules/usage.md) it by carrying out errands for your **House**.
