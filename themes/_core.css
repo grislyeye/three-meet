@@ -437,10 +437,6 @@ body.close .content {
     transform: translateX(16rem);
   }
   body.close .sidebar-toggle {
-    /* background-color: rgba(255, 255, 255, 0.8);
-    transition: 1s background-color;
-    width: 0rem;
-    padding: 10px; */
     display: none;
   }
   body.close .content {
