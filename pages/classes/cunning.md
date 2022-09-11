@@ -10,6 +10,7 @@
 | ----  | ----------- |- |
 | 1st   | +2          | +1 [Cunning](pages/characters/attributes.md?id=cunning), Archetype, Expertise, Cunning Attack |
 | 2nd   | +2          | Cunning Action |
+| 3rd   | +2          | Archetype Feature |
 
 ### Starting Stats
 
@@ -74,6 +75,7 @@ You play fast and deadly, hiding in shadows and darting out to attack.
 | Level | Features |
 | ----  | - |
 | 1st   | Sneak Attack |
+| 3rd   | Assassinate |
 
 ### Starting Stats
 
@@ -90,6 +92,14 @@ You play fast and deadly, hiding in shadows and darting out to attack.
 You do not need advantage to use your **Cunning Attack** on a target if it is close to an ally, or when throwing a light weapon.
 
 <header>
+
+### Surprise Attack
+
+<p class="subheading">3rd-level Shadow archetypes feature</p>
+
+</header>
+
+During your first [Turn](../pages/combat/order.md) you have [Advantage](../pages/rules/advantage.md) on [Attacks](../pages/combat/attacks.md) against any creature that hasn't taken a turn. In addition, any [Attacks](../pages/combat/attacks.md) against surprised creatures are [Critical]().
 
 ## Swashbuckler
 
