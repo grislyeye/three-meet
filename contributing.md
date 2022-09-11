@@ -66,14 +66,19 @@ $ npm run itch:deploy
 1. Key terms should be in bold and capitalised for emphasis, e.g. **Proficiency**.
 2. Key terms should be linked, e.g. [Proficiency](pages/rules/proficiency).
 3. Exceptions to linking include:
-4. Where a term has been defined nearby in the text.
+   4. Where a term has been defined nearby in the text.
 5. Avoid using too many key terms in a text block to prevent visual overload.
+6. Dice rolls should be in bold, including modifiers.
 
 ### 3. Numerals
 
 1. Whole numbers from 0 to 101 should be spelled out.
 2. Exceptions include:
 3. Game traits with numerical values.
+
+### 4. Person
+
+  1. Rules should be addressed to the reader, in the first person. For example, "you roll for" rather than "the player rolls".
 
 ## Rules Guide
 
