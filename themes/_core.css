@@ -459,17 +459,6 @@ body.close .content {
     animation: octocat-wave 560ms ease-in-out;
   }
 }
-
-@media screen and (max-width: 630px) {
-  body.close .content {
-    transform: translateX(0rem);
-  }
-  body.close .sidebar-toggle {
-    background-color: rgba(255, 255, 255, 0.8);
-    transition: 1s background-color;
-    display: inline-block;
-  }
-}
 @-webkit-keyframes octocat-wave {
   0%,
   100% {
