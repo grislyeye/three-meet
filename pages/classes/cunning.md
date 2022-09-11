@@ -10,6 +10,7 @@
 | ----  | ----------- |- |
 | 1st   | +2          | +1 [Cunning](pages/characters/attributes.md?id=cunning), Archetype, Expertise, Cunning Attack |
 | 2nd   | +2          | Cunning Action |
+| 3rd   | +2          | Archetype Feature |
 
 ### Starting Stats
 
@@ -27,7 +28,7 @@
 
 </header>
 
-You can deal an extra 1d6 damage to one creature you hit with a melee attack, if you have advantage on the attack roll. You must be wielding a [Light](pages/combat/attacks.md?id=describing-attacks) weapon.
+You can deal an extra 1d6 damage to one creature you hit with an attack, if you have advantage on the attack roll. You must be making a [Light Melee](pages/combat/attacks.md?id=describing-attacks) or [Light Thrown](pages/combat/attacks.md?id=describing-attacks) attack.
 
 <header>
 
@@ -59,7 +60,9 @@ Choose an archetype and gain its features. **The Cunning** archetypes include: [
 
 </header>
 
-Starting at 2nd level, your quick thinking and agility allow you to move and act quickly. You can take a [Bonus Action](../../pages/combat/bonus-actions.md) on each of your [Turns](../../pages/combat/order.md) in combat. This action can be used only to take the [Dash](../../pages/combat/actions.md#dash), [Disengage](../../pages/combat/actions.md#disengage), or [Hide](../../pages/combat/actions.md#hide) action.
+Starting at 2nd level, your quick thinking and agility allow you to move and act quickly. You can take a [Bonus Action](../../pages/combat/bonus-actions.md) on each of your [Turns](../../pages/combat/index.md) in combat. This action can be used only to take the [Dash](../../pages/combat/actions.md#dash), [Disengage](../../pages/combat/actions.md#disengage), or [Hide](../../pages/combat/actions.md#hide) action.
+
+<header>
 
 ## Shadow
 
@@ -72,6 +75,7 @@ You play fast and deadly, hiding in shadows and darting out to attack.
 | Level | Features |
 | ----  | - |
 | 1st   | Sneak Attack |
+| 3rd   | Surprise Attack |
 
 ### Starting Stats
 
@@ -88,6 +92,14 @@ You play fast and deadly, hiding in shadows and darting out to attack.
 You do not need advantage to use your **Cunning Attack** on a target if it is close to an ally, or when throwing a light weapon.
 
 <header>
+
+### Surprise Attack
+
+<p class="subheading">3rd-level Shadow archetypes feature</p>
+
+</header>
+
+During your first [Turn](../pages/combat/order.md) you have [Advantage](../pages/rules/advantage.md) on [Attacks](../pages/combat/attacks.md) against any creature that hasn't taken a turn. In addition, any [Attacks](../pages/combat/attacks.md) against surprised creatures are [Critical]().
 
 ## Swashbuckler
 

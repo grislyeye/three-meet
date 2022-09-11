@@ -3,6 +3,7 @@
   + [Skills](pages/characters/skills.md)
   + [Allegiances](pages/characters/allegiances.md)
 + [Backgrounds](pages/backgrounds/index.md)
+  + [Guild Artisan](pages/backgrounds/guild-artisan.md)
   + [Knave](pages/backgrounds/knave.md)
   + [Noble](pages/backgrounds/noble.md)
   + [Magic Specialities](pages/backgrounds/magic.md)
@@ -22,14 +23,15 @@
   + [Rests](pages/rules/rests.md)
   + [Conditions](pages/rules/conditions.md)
   + [Usage Die](pages/rules/usage.md)
-+ Combat
-  + [Order of Combat](pages/combat/order.md)
++ [Combat](pages/combat/index.md)
   + [Actions](pages/combat/actions.md)
   + [Attacks](pages/combat/attacks.md)
   + [Moves](pages/combat/moves.md)
   + [Bonus Actions](pages/combat/bonus-actions.md)
   + [Reactions](pages/combat/reactions.md)
   + [Stamina](pages/combat/stamina.md)
+* Equipment
+  * [Wealth](pages/equipment/wealth.md)
 + Colophon
   + [Design Notes](design-notes.md)
   + [Contributing](contributing.md)

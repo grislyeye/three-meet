@@ -35,7 +35,7 @@ He fails the roll, and isn't strong enough to lift the carriage.
     <span class="result">8</span>
   </div>
   <span class="bonus">+2 <span class="caption">Cunning</span></span>
-  <span class="bonus">+2 <span class="caption">Deception</span></span>
+  <span class="bonus">+2 <span class="caption">Proficiency</span></span>
   =
   12
 </div>
