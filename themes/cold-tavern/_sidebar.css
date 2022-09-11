@@ -107,6 +107,10 @@ body.sticky .sidebar-toggle {
 }
 
 @media screen and (max-width: 630px) {
+  body .sidebar {
+    transform: translateX(16rem);;
+  }
+
   body.close .content {
     transform: translateX(0rem);
   }
@@ -115,5 +119,9 @@ body.sticky .sidebar-toggle {
     background-color: rgba(255, 255, 255, 0.8);
     transition: 1s background-color;
     display: inline-block;
+  }
+
+  body.close .sidebar {
+    transform: none;
   }
 }
