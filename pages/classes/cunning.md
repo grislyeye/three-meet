@@ -112,7 +112,6 @@ With wit, flair, and fancy footwork you leap head first into combat, running rin
 | Level | Features
 | ----  | -
 | 1st   | Swashbuckle
-| 3rd   | Daring Action
 
 ### Starting Stats
 
@@ -127,13 +126,3 @@ With wit, flair, and fancy footwork you leap head first into combat, running rin
 </header>
 
 You do not need advantage to use your [Cunning Attack](#cunning-attack) against a creature when you are **Close** to it, and no other creatures are **Close** to you.
-
-<header>
-
-### Daring Action
-
-<p class="subheading">3rd-level Swashbuckler archetypes feature</p>
-
-</header>
-
-You can use the [Bonus Action](../pages/combat/bonus-actions.md) granted by your [Cunning Action](#cunning-action) to make a **Cunning Acrobatics Check**.
