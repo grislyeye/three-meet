@@ -9,6 +9,8 @@
 | Level | Proficiency | Features  |
 | ----  | ----------- |- |
 | 1st   | +2          | +1 [Cunning](pages/characters/attributes.md?id=cunning), Archetype, Expertise, Cunning Attack |
+| 2nd   | +2          | Cunning Action |
+| 3rd   | +2          | Archetype Feature |
 
 ### Starting Stats
 
@@ -26,7 +28,7 @@
 
 </header>
 
-You can deal an extra 1d6 damage to one creature you hit with a melee attack, if you have advantage on the attack roll. You must be wielding a [Finesse](pages/combat/attacks.md?id=describing-attacks) weapon.
+You can deal an extra 1d6 damage to one creature you hit with an attack, if you have advantage on the attack roll. You must be making a [Light Melee](pages/combat/attacks.md?id=describing-attacks) or [Light Thrown](pages/combat/attacks.md?id=describing-attacks) attack.
 
 <header>
 
@@ -50,6 +52,18 @@ Choose an archetype and gain its features. **The Cunning** archetypes include: [
 
 <header>
 
+<header>
+
+### Cunning Action
+
+<p class="subheading">2nd-level Cunning class feature</p>
+
+</header>
+
+Starting at 2nd level, your quick thinking and agility allow you to move and act quickly. You can take a [Bonus Action](../../pages/combat/bonus-actions.md) on each of your [Turns](../../pages/combat/index.md) in combat. This action can be used only to take the [Dash](../../pages/combat/actions.md#dash), [Disengage](../../pages/combat/actions.md#disengage), or [Hide](../../pages/combat/actions.md#hide) action.
+
+<header>
+
 ## Shadow
 
 <p class="subheading">Cunning archetype</p>
@@ -61,6 +75,7 @@ You play fast and deadly, hiding in shadows and darting out to attack.
 | Level | Features |
 | ----  | - |
 | 1st   | Sneak Attack |
+| 3rd   | Assassinate |
 
 ### Starting Stats
 
@@ -78,13 +93,21 @@ You do not need advantage to use your **Cunning Attack** on a target if it is cl
 
 <header>
 
+### Surprise Attack
+
+<p class="subheading">3rd-level Shadow archetypes feature</p>
+
+</header>
+
+During your first [Turn](../pages/combat/order.md) you have [Advantage](../pages/rules/advantage.md) on [Attacks](../pages/combat/attacks.md) against any creature that hasn't taken a turn. In addition, any [Attacks](../pages/combat/attacks.md) against surprised creatures are [Critical]().
+
 ## Swashbuckler
 
 <p class="subheading">Cunning archetype</p>
 
 </header>
 
-With wit, flair, and fancy footwork, you run rings around your opponents.
+With wit, flair, and fancy footwork you leap head first into combat, running rings around your opponents.
 
 | Level | Features
 | ----  | -
@@ -102,4 +125,4 @@ With wit, flair, and fancy footwork, you run rings around your opponents.
 
 </header>
 
-You do not need advantage to use your [Cunning Attack](#cunning-attack) if you have already [moved](pages/combat/moves.md) on your turn.
+You do not need advantage to use your [Cunning Attack](#cunning-attack) against a creature when you are **Close** to it, and no other creatures are **Close** to you.

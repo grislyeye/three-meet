@@ -5,14 +5,14 @@ main .sidebar {
 }
 
 .sidebar h1.app-name {
-  font-family: 'Alegreya', serif;
+  font-family: "Alegreya", serif;
   font-weight: bold;
   color: black;
   font-size: 32pt;
 }
 
 .sidebar-nav {
-  font-family: 'Alegreya', serif;
+  font-family: "Alegreya", serif;
   color: black;
 }
 
@@ -66,13 +66,15 @@ main .sidebar {
 }
 
 .app-sub-sidebar li::before {
-  content: '-';
+  content: "-";
   padding-right: 4px;
   float: left;
 }
 
 body.sticky .sidebar-toggle {
-  top: 0;
+  top: 10px;
+  right: 10px;
+  left: auto;
 }
 
 .sidebar-toggle {
@@ -102,4 +104,24 @@ body.sticky .sidebar-toggle {
 
 .sidebar-toggle span {
   display: none;
+}
+
+@media screen and (max-width: 630px) {
+  body .sidebar {
+    transform: translateX(16rem);;
+  }
+
+  body.close .content {
+    transform: translateX(0rem);
+  }
+
+  body.close .sidebar-toggle {
+    background-color: rgba(255, 255, 255, 0.8);
+    transition: 1s background-color;
+    display: inline-block;
+  }
+
+  body.close .sidebar {
+    transform: none;
+  }
 }
