@@ -45,8 +45,6 @@ With raw, primordial force you fly at your enemies, bolstering you and your alli
 
 <header>
 
-<header>
-
 ### Minor Elementalism
 
 <p class="subheading">1st-level Elementalist archetype feature</p>
