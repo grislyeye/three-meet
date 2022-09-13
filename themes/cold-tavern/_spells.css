@@ -4,6 +4,12 @@
   column-gap: 1em;
 }
 
-.content .spells > .spell {
-  /*margin: 1em*/
+/* .content .spells > .spell {
+  /*margin: 1em
+} */
+
+@media screen and (max-width: 768px) {
+  .content .spells {
+    display: inline-block;
+  }
 }
