@@ -13,23 +13,42 @@
 
 Retainers are described with a name, followed by usage die and available actions in brackets. For example:
 
-**Guard (Martial Retainer Ud6):** Proficiency +4, Halberd (Melee 1d6+2, Reach, Heavy, Two-Handed)
 
-<section class="small summaries">
+<section class="summaries">
 
 <section class="summary">
 
 <header>
 
-## Improved Supply
+## Guard
 
-Action
+<p class="subheading">Retainer Ud8 (+3/+1)</p>
 
 </header>
 
-**Prerequisite:** **Supply**
+**Defence** 16 • **Stamina** 22
 
-Your **Retainer** can supply you with one **Uncommon Equipment Item**.
+• **Halberd** (Melee Attack 1d8+1, Reach, Heavy, Two-Handed)
+
+• **Defend** (Reaction, impose **Disadvantage** on an **Attack** that targets a **Close** ally)
+
+</section>
+
+<section class="summary">
+
+<header>
+
+## Sour Windel
+
+<p class="subheading">Retainer Ud8 (+3/+1)</p>
+
+</header>
+
+**Defence** 16 • **Stamina** 22
+
+• **Halberd** (Melee Attack 1d8+1, Reach, Heavy, Two-Handed)
+
+• **Defend** (Reaction, impose **Disadvantage** on an **Attack** that targets a **Close** ally)
 
 </section>
 
