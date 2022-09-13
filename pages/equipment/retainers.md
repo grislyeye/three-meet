@@ -21,6 +21,14 @@ Retainers are described with a name, followed by usage die and available actions
 
 </header>
 
+Retainers are described with a standard stat block format:
+
+The sub-heading details the the retainer's [Usage Die](pages/rules/usage.md) and it's [Proficiency]() and base roll bonus in parenthesis.
+
+This might be followed by a short description of the character.
+
+Next are the basic combat stats (Defence and Stamina). After that are the retainers features: the [Actions](), [Attacks]() and other traits.
+
 For example:
 
 <section class="summaries">
@@ -37,9 +45,9 @@ For example:
 
 This fair youth stands tall and broad. Given to slouching. He has a notable crown of red hair. He is the son of an executioner. And he has a fascination with dead things.
 
-**Defence** 16 • **Stamina** 22
+**Defence** 15 • **Stamina** 22
 
-**Halberd** (Melee Attack 1d10+1 • Two-Handed)
+**Spear** (Melee Attack 1d10+1 • Two-Handed)
 
 **Defend** (Reaction • Impose **Disadvantage** on an **Attack** that targets a **Close** ally)
 
@@ -47,13 +55,7 @@ This fair youth stands tall and broad. Given to slouching. He has a notable crow
 
 </section>
 
-<header>
-
-## Example Retainers
-
-<p class="subheading">Rule</p>
-
-</header>
+### Example Retainers
 
 <section class="summaries">
 
@@ -69,7 +71,7 @@ This fair youth stands tall and broad. Given to slouching. He has a notable crow
 
 **Defence** 16 • **Stamina** 22
 
-**Halberd [Attack]** (Melee 1d10+1 • Two-Handed)
+**Halberd [Attack]** (Melee 1d6+1 • Versatile 1d8+1)
 
 **Defend [Reaction]** (Impose **Disadvantage** on an **Attack** that targets a **Close** ally)
 
