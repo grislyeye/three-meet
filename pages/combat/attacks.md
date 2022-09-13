@@ -25,6 +25,7 @@ Attacks are described by a number of **Tags** listed in parentheses after its na
 | Light     | You can add your [Cunning](pages/characters/attributes.md?id=cunning) instead of [Might](pages/characters/attributes.md?id=might) to melee damage, and attack rolls.
 | Spell     | Spell attack. Add your [Wisdom](pages/characters/attributes.md?id=wisdom) to the attack roll. Damage is unmodified. You are always [Proficient](pages/rules/proficiency.md).
 | Thrown    | You can throw this weapon to make a ranged attack.
+| Two-Handed | You require two hands to use this attack.
 | Versatile | You can use this damage if the attack is made with two hands.
 
 <header>
