@@ -38,13 +38,13 @@ For example:
 
 <header>
 
-## Windel
+## Windel of Durel
 
 <p class="subheading">Athletic Retainer Ud8 (+3/+1)</p>
 
 </header>
 
-This fair youth stands tall and broad. Given to slouching. He has a notable crown of red hair. He is the son of an executioner. And he has a fascination with dead things.
+This fair youth stands tall and broad. Given to slouching. He has a notable crown of red hair. He is the son of an executioner. Seconded from Durel, from the Caecum country estate. And he has a fascination with dead things.
 
 **Defence** 15 • **Stamina** 22
 
