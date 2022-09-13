@@ -19,6 +19,7 @@
 .content .summaries .summary h4 {
   font-family: "Alegreya Sans SC", serif;
   margin-top: 0.1em;
+  padding: 0;
 }
 
 .content .summaries .summary h3 * {

@@ -75,7 +75,7 @@ You play fast and deadly, hiding in shadows and darting out to attack.
 | Level | Features |
 | ----  | - |
 | 1st   | Sneak Attack |
-| 3rd   | Assassinate |
+| 3rd   | Surprise Attack |
 
 ### Starting Stats
 
