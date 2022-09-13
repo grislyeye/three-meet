@@ -9,6 +9,7 @@
 **Retainers** are non-player characters that support your character. Your relationship with your retainers is measured using a [Usage Die](pages/rules/usage.md).
 
   * You must **Tap** your **Retainer** when you test their loyalty.
+  * If you **Deplete** your **Retainer** they refuse to do as you ask.
   * To **Replenish** your **Retainer**, you can **Tap** your **Treasure**. Other **Resources** also allow you to **Replenish** a **Retainer**.
 
 Retainers are described with a name, followed by usage die and available actions in brackets. For example:
