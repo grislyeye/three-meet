@@ -6,19 +6,22 @@
 
 </header>
 
-| Level | Proficiency | Features  |
-| ----  | ----------- |- |
-| 1st   | +2          | +1 [Cunning](pages/characters/attributes.md?id=cunning), Archetype, Expertise, Cunning Attack |
+
+| Level | Prof. | Features  |
+| ----  | ----------- | - |
+| 1st   | +2          | +1 [Cunning](pages/characters/attributes.md?id=cunning) <br> Proficient: Cunning Saves <br> Proficient: Any 1 skill <br> Equipment <br> Archetype <br> Cunning <br> Attack Expertise |
 | 2nd   | +2          | Cunning Action |
 | 3rd   | +2          | Archetype Feature |
 
-### Starting Stats
+<header>
 
-**Starting [Stamina](pages/combat/stamina.md):** 8 + [Might](pages/characters/attributes.md?id=might)
+### Equipment
 
-**Proficiencies:** Any 1 skill, [Cunning](pages/characters/attributes.md?id=cunning) [Saves](pages/rules/rolling/saves.md)
+<p class="subheading">1st-level Cunning class feature</p>
 
-**Starting Equipment:** Leather Armour (Defence 11), 2 Daggers (Melee 1d4, Thrown 1d4, Light), and a Crossbow (Ranged 1d8)
+</header>
+
+Leather Armour (Defence 11), 2 Daggers (Melee 1d4, Thrown 1d4, Light), and a Crossbow (Ranged 1d8)
 
 <header>
 

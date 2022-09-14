@@ -16,6 +16,10 @@
   background-color: black;
 }
 
+.content table td {
+  vertical-align: top;
+}
+
 .content table th.numbers,
 .content table td.numbers {
   text-align: center;
