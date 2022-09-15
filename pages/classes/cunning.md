@@ -135,7 +135,7 @@ You play fast and deadly, hiding in shadows and darting out to attack.
 
 </header>
 
-You do not need advantage to use your **Cunning Attack** on a target if it is close to an ally, or when throwing a light weapon.
+You do not need advantage to use your **Cunning Attack** on a target if it is [Close](../../pages/rules/distance.md) to an ally.
 
 ### Surprise Attack
 
