@@ -17,8 +17,9 @@
 .content .summaries .summary h3,
 .content .summaries .summary h2,
 .content .summaries .summary h4 {
-  font-family: 'Alegreya Sans SC', serif;
+  font-family: "Alegreya Sans SC", serif;
   margin-top: 0.1em;
+  padding: 0;
 }
 
 .content .summaries .summary h3 * {
@@ -33,7 +34,7 @@
 }
 
 .content .summaries .summary header p {
-  font-family: 'Alegreya Sans SC', serif;
+  font-family: "Alegreya Sans SC", serif;
   font-style: italic;
   font-weight: normal;
   font-size: 0.8em;
@@ -43,4 +44,23 @@
 .content .summaries .summary h4 * {
   font-weight: normal;
   font-size: 1em;
+}
+
+@media screen and (max-width: 768px) {
+  .content .summaries {
+    display: inline-block;
+    width: 62.5%;
+  }
+}
+
+@media screen and (max-width: 690px) {
+  .content .summaries {
+    width: 57.5%;
+  }
+}
+
+@media screen and (max-width: 630px) {
+  .content .summaries {
+    width: 100%;
+  }
 }

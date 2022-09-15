@@ -3,7 +3,13 @@
   text-decoration: none;
   font-weight: bold;
 
-  background-image: linear-gradient(to top,#4b4b4b 0%,#4b4b4b 20%,transparent 80%,transparent 100%);
+  background-image: linear-gradient(
+    to top,
+    #4b4b4b 0%,
+    #4b4b4b 20%,
+    transparent 80%,
+    transparent 100%
+  );
 }
 
 .content a.anchor {

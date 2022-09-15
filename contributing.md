@@ -8,20 +8,21 @@ You can [report issues](https://github.com/grislyeye/three-meet/issues/new) and 
 
 Related projects include:
 
-  + [Three Meet character sheet](https://github.com/grislyeye/three-meet-char-sheet)
-  + [Docsify](https://docsify.js.org)
+- [Three Meet character sheet](https://github.com/grislyeye/three-meet-char-sheet)
+- [Docsify](https://docsify.js.org)
 
 ## Install
 
 This project has the following requirements:
 
-  * [Node.js/NPM](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
-  * [Butler](https://itch.io/docs/butler/installing.html)
+- [Node.js/NPM](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+- [Butler](https://itch.io/docs/butler/installing.html)
 
 Execute:
 
 ```sh
-$ git clone git@github.com:grislyeye/three-meet.git
+$ git clone->
+-> git@github.com:grislyeye/three-meet.git
 $ cd three-meet
 ```
 
@@ -56,23 +57,28 @@ $ npm run itch:deploy
 
 ### 1. Punctuation
 
-  1. Introduce bulleted or numbered lists with a full sentence.
-  2. Each list item begins with a capital letter.
-  3. Use closing punctuation if the lists contains full sentences.
+1. Introduce bulleted or numbered lists with a full sentence.
+2. Each list item begins with a capital letter.
+3. Use closing punctuation if the lists contains full sentences.
 
 ### 2. Terminology
 
   1. Key terms should be in bold and capitalised for emphasis, e.g. **Proficiency**.
   2. Key terms should be linked, e.g. [Proficiency](pages/rules/proficiency).
   3. Exceptions to linking include:
-    4. Where a term has been defined nearby in the text.
-  3. Avoid using too many key terms in a text block to prevent visual overload.
+     1. Where a term has been defined nearby in the text.
+  5. Avoid using too many key terms in a text block to prevent visual overload.
+  6. Dice rolls should be in bold, including modifiers.
 
 ### 3. Numerals
 
   1. Whole numbers from 0 to 101 should be spelled out.
   2. Exceptions include:
-    1. Game traits with numerical values.
+  3. Game traits with numerical values.
+
+### 4. Person
+
+  1. Rules should be addressed to the reader, in the first person. For example, "you roll for" rather than "the player rolls".
 
 ## Rules Guide
 
@@ -83,7 +89,6 @@ $ npm run itch:deploy
      2. Take a feature from another [Background](pages/backgrounds/index.md) or [Class](pages/classes/index.md).
   2. Features should **not**:
      1. Give situational [Advantage](pages/rules/advantage.md) or [Disadvantage](pages/rules/advantage.md) (they are both situational anyway).
-     2. Give metagame information not normally available to the player (opponent's [Stamina](), etc.).
   3. Good [Class](pages/backgrounds/index.md) features can:
      1. Have combat utility.
   4. Good [Class](pages/backgrounds/index.md) features should **not**:
@@ -91,6 +96,7 @@ $ npm run itch:deploy
      2. Give permission to do something already covered by a [Skill](pages/characters/skills.md).
   2. Good [Background](pages/backgrounds/index.md) features can:
      1. Allow you to substitute one proficiency for another (effectively doubling the proficiency's utility).
+     2. Give metagame information not normally available to the player (opponent's [Stamina](), etc.).
   6. [Background](pages/backgrounds/index.md) features should **not**:
      1. Have combat utility.
      2. Replicate the [Cunning Expertise](pages/classes/cunning.md#expertise) class feature.
