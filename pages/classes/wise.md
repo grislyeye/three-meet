@@ -311,13 +311,13 @@ You can use an [Action]() to call out a useful ploy to a [Nearby]() ally. The ta
 
 <header>
 
-#### Wise Command
+#### Rebuke
 
 <p class="subheading">2nd-level Leader tactic</p>
 
 </header>
 
-You can use your [Action]() to call out a useful ploy to a [Nearby]() ally. The target can roll a **d4** and add the number rolled to one [Attack]() or [Save]().
+You can use an [Action]() to dead-eye or rebuke a [Nearby]() enemy. The target must make [Wise]() [Save]() or must roll a *d4* and subtract the number rolled from the next [Attack]() or [Save]() they make. When you use this tactic using a 2nd level **Tactic Slot** or higher, you can target an additional ally for each slot above 1st.
 
 </section>
 
