@@ -208,10 +208,11 @@ You summon elemental forces from deep in the earth at a [Nearby](../../pages/rul
 
 You are a practitioner of forbidden, arcane arts.
 
-| Level | Archetype Features         | Spell Slots |
-| ----  | -------------------------- | ----------- |
-| 1st   | Minor Sorcery, Stricken, Rituals, Sorcery | 2           |
-| 2nd   | Improved Stricken, Witch Sight | 3 |
+| Level | Archetype Features         | Spell Slots | Slot Level |
+| ----  | -------------------------- | ----------- | ---------- |
+| 1st   | Minor Sorcery, Stricken, Rituals, Sorcery | 2 | 1st |
+| 2nd   | Improved Stricken, Insidious Whispers, Witch Sight | 3 | 1st |
+| 3rd   | Spirit Door spell, Spirit Tongue | 3 | 2nd |
 
 ### Starting Stats
 
@@ -321,27 +322,13 @@ You pull back the veil, revealing a glimpse of what lies beyond the mortal realm
 
 <header>
 
-#### Insidious Whispers
-
-<p class="subheading">1st-level Sorcerer spell</p>
-
-</header>
-
-You summon unseen spirits that whisper three, horrific secrets in the ears of your enemies. Each whisper deals 1d4+1 damage to one or several **Close**, **Nearby** or **Far Away** creatures.
-
-</section>
-
-<section class="spell">
-
-<header>
-
 #### Minor Ward
 
 <p class="subheading">1st-level Sorcerer spell</p>
 
 </header>
 
-You can touch a willing creature (including yourself) who isn't wearing armour, and a protective ward surrounds them until the spell ends. The target's [Defence](pages/combat/defence.md) becomes 13 + its [Wisdom](pages/characters/attributes.md?id=wisdom) attribute. The spell ends if the target dons armour or if you dismiss the spell as an [Action](pages/combat/actions.md).
+You can touch a willing creature (including yourself) who isn't wearing armour, and a protective ward surrounds them until the spell ends. The target's [Defence](pages/combat/defence.md) becomes 13 + its [Cunning](pages/characters/attributes.md#cunning). The spell ends if the target dons armour or if you dismiss the spell as an [Action](pages/combat/actions.md).
 
 </section>
 
@@ -359,6 +346,20 @@ You can add your [Wisdom](../../pages/characters/attributes.md#wisdom) to the da
 
 <header>
 
+<section class="spell">
+
+<header>
+
+### Insidious Whispers
+
+<p class="subheading">2nd-level Sorcerer spell</p>
+
+</header>
+
+You summon unseen spirits that whisper three, horrific secrets in the ears of your enemies. Each whisper deals 1d4+1 damage to one or several **Close**, **Nearby** or **Far Away** creatures. When you cast this spell using a 2nd level **Spell Slot** or higher, you can send an additional whisper each slot above 1st.
+
+</section>
+
 ### Witch Sight
 
 <p class="subheading">2nd-level Sorcerer archetype feature</p>
@@ -366,3 +367,27 @@ You can add your [Wisdom](../../pages/characters/attributes.md#wisdom) to the da
 </header>
 
 Using an [Action](../../pages/combats/actions.md) you can sense the presence of any magic [Nearby](../../pages/rules/distance.md). You can then see a faint aura around any visible creature or object in the area that bears magic. You may also be able to see things hidden from mortal eyes, such as strange omens or magical signs left by other sorcerers.
+
+<section class="spell">
+
+<header>
+
+### Spirit Door
+
+<p class="subheading">3rd-level Sorcerer spell</p>
+
+</header>
+
+You can teleport to an unoccupied space [Nearby]() that you can see.
+
+</section>
+
+<header>
+
+### Spirit Tongue
+
+<p class="subheading">3rd-level Sorcerer archetype feature</p>
+
+</header>
+
+You can communicate telepathically with any [Nearby]() creature, or speak with beings in the spirit realm.
