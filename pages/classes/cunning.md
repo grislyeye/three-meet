@@ -28,8 +28,9 @@
 
 You start with the following items:
 
- * **Leather Armour** (Defence 11 + Cunning)
+ * **Leather Armour** (Defence 11, Light)
  * 2 **Daggers** (Melee 1d4, Thrown 1d4, Light)
+ * **Shortsword** (Melee 1d6, Finesse, Light) *or* **Rapier** (Melee 1d8, Finesse)
  * **Crossbow** (Ranged 1d8) *or* **Shortbow** (Ranged 1d8)
 
 <header>
