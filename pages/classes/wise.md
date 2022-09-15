@@ -338,7 +338,7 @@ When you use your Command feature, your ally can also make a [Move](). This does
 
 </header>
 
-You can use an [Action]() to dead-eye or rebuke a [Nearby]() enemy. The target must make [Wise]() [Save]() or must roll a *d4* and subtract the number rolled from the next [Attack]() or [Save]() they make. When you use this tactic using a 2nd level **Tactic Slot** or higher, you can target an additional ally for each slot above 1st.
+You can use an [Action]() to dead-eye or rebuke a [Nearby]() enemy. The target must make [Wise]() [Save]() or must roll a *d4* and subtract the number rolled from the next [Attack]() or [Save]() they make. When you use this tactic using a 2nd level **Tactic Slot** or higher, you can target an additional enemy for each slot above 1st.
 
 </section>
 
