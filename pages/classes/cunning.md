@@ -6,19 +6,24 @@
 
 </header>
 
-| Level | Proficiency | Features  |
-| ----  | ----------- |- |
-| 1st   | +2          | +1 [Cunning](pages/characters/attributes.md?id=cunning), Archetype, Expertise, Cunning Attack |
-| 2nd   | +2          | Cunning Action |
-| 3rd   | +2          | Archetype Feature |
+| Level | Proficiency | Stamina | Features  |
+| ----  | ----------- | ------- | - |
+| 1st   | +2          | 8       | +1 [Cunning](pages/characters/attributes.md?id=cunning) <br> Proficient: Cunning Saves <br> Proficient: Any 1 skill <br> Expert Equipment <br>
+| 2nd   | +2          | +1d8    | Cunning Action |
+| 3rd   | +2          | +1d8    | Archetype Feature |
 
-### Starting Stats
+### Expert Equipment
 
-**Starting [Stamina](pages/combat/stamina.md):** 8 + [Might](pages/characters/attributes.md?id=might)
+<p class="subheading">1st-level Cunning class feature</p>
 
-**Proficiencies:** Any 1 skill, [Cunning](pages/characters/attributes.md?id=cunning) [Saves](pages/rules/rolling/saves.md)
+</header>
 
-**Starting Equipment:** Leather Armour (Defence 11), 2 Daggers (Melee 1d4, Thrown 1d4, Light), and a Crossbow (Ranged 1d8)
+You start with the following items:
+
+ * **Leather Armour** (Defence 11, Light)
+ * 2 **Daggers** (Melee 1d4, Thrown 1d4, Light)
+ * **Shortsword** (Melee 1d6, Finesse, Light) *or* **Rapier** (Melee 1d8, Finesse)
+ * **Crossbow** (Ranged 1d8) *or* **Shortbow** (Ranged 1d8)
 
 <header>
 
@@ -130,7 +135,7 @@ You play fast and deadly, hiding in shadows and darting out to attack.
 
 </header>
 
-You do not need advantage to use your **Cunning Attack** on a target if it is close to an ally, or when throwing a light weapon.
+You do not need advantage to use your **Cunning Attack** on a target if it is [Close](../../pages/rules/distance.md) to an ally.
 
 ### Surprise Attack
 

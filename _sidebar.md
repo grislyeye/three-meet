@@ -19,6 +19,7 @@
     + [Saves](pages/rules/rolling/saves.md)
   + [Advantage/Disadvantage](pages/rules/advantage.md)
   + [Proficiency](pages/rules/proficiency.md)
+  + [Usage Die](pages/rules/usage.md)
   + [Distance](pages/rules/distance.md)
   + [Rests](pages/rules/rests.md)
   + [Conditions](pages/rules/conditions.md)
@@ -32,6 +33,9 @@
   + [Stamina](pages/combat/stamina.md)
 * Equipment
   * [Wealth](pages/equipment/wealth.md)
+  * [Armour](pages/equipment/armour.md)
+  * [Packs](pages/equipment/packs.md)
+  * [Retainers](pages/equipment/retainers.md)
 + Colophon
   + [Design Notes](design-notes.md)
   + [Contributing](contributing.md)
