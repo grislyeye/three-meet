@@ -217,7 +217,7 @@ As an [Action]() you command an ally to attack. The ally can use their [Reaction
 
 ### Strategies
 
-<p class="subheading">1st-level Sorcerer archetype feature</p>
+<p class="subheading">1st-level Leader archetype feature</p>
 
 </header>
 
