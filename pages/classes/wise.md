@@ -320,12 +320,6 @@ You are a practitioner of forbidden, arcane arts.
 | 2nd   | Corrupted, Improved Stricken, Insidious Whispers, Witch Sight | 3 | 1st |
 | 3rd   | Spirit Door spell, Spirit Tongue | 3 | 2nd |
 
-### Starting Stats
-
-**Starting Equipment:** Quarterstaff (Melee 1d6)
-
-**Proficiencies:** Arcana
-
 <header>
 
 ### Minor Sorcery
