@@ -38,7 +38,16 @@
 
 @media screen and (max-width: 690px) {
   .markdown-section table {
+    table-layout: fixed;
     width: 57.5%;
+  }
+
+  .markdown-section table th {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    max-width: 40px;
+    max-width: 50px;
   }
 }
 

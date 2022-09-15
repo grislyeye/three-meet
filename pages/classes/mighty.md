@@ -6,10 +6,11 @@
 
 </header>
 
-| Level | Proficiency | Features  |
-| ----  | ----------- |- |
-| 1st   | +2          | +1 [Might](pages/characters/attributes.md?id=might), Martial Gear, Surge, Archetype |
-| 2nd   | +2          | Mighty Action |
+| Level | Proficiency | Stamina | Features  |
+| ----  | ----------- | ------- | - |
+| 1st   | +2          | 10      | +1 [Might](pages/characters/attributes.md?id=might), Martial Gear, Surge, Archetype |
+| 2nd   | +2          | +1d10   | Mighty Action |
+| 2nd   | +2          | +1d10   | Mighty Action |
 
 ### Starting Stats
 
