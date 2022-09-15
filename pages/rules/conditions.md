@@ -53,7 +53,7 @@ Condition (optional)
 
 </section>
 
-</section>
+<section class="summary">
 
 <header>
 
@@ -72,5 +72,7 @@ Each time it is **Depleted** you undergo an unpleasant transformation. Roll on t
 | d20 | Corruption |
 | --- | ---------- |
 | 1-5 | **Withered.** Foul energies seep into your flesh, withering your body. Reduce your [Might](../../pages/characters/attributes.md#might) by 1.
-|
 
+</section>
+
+</section>
