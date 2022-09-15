@@ -440,7 +440,7 @@ You can touch a willing creature (including yourself) who isn't wearing armour, 
 
 </header>
 
-You gain the **[Corrupted](../../pages/rules/conditions.md#corrupted) (Ud8 Resource)** condition. You must tap this [Resource](../../pages/rules/usage.md) every time you use one of your class features.
+You gain the **[Corrupted](../../pages/rules/conditions.md#corrupted) (Ud8 Resource)** condition. You must **Tap** this [Resource](../../pages/rules/usage.md) every time you use one of your class features.
 
 <header>
 
