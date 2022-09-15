@@ -10,7 +10,7 @@
 | ----  | ----------- | ------- | - |
 | 1st   | +2          | 10      | +1 [Might](pages/characters/attributes.md?id=might), Martial Gear, Surge, Archetype |
 | 2nd   | +2          | +1d10   | Mighty Action |
-| 2nd   | +2          | +1d10   | Mighty Action |
+| 3rd   | +2          | +1d10   | Archetype Feature |
 
 ### Starting Stats
 
@@ -115,24 +115,35 @@ You fight to protect. Cleaving close to your allies, you intercept attacks, so t
 
 | Level | Archetype Features |
 | ----  | ------------------ |
-| 1st   | Block, Surge: Defend, Proficient: Intimidation |
+| 1st   | Defend, Surge: Bolster, Proficient: Intimidation |
+| 3rd   | Mark |
 
 <header>
 
-### Block
+### Defend
 
 <p class="subheading">1st-level Defender archetype feature</p>
 
 </header>
 
-You can use your [Reaction](../../pages/combat/reactions.md) to impose disadvantage on an [Attack](pages/combat/attacks.md) that targets a [Close](../pages/rules/distance.md) ally. You must be wielding a melee weapon or shield.
+You can use your [Reaction](../../pages/combat/reactions.md) to impose disadvantage on an [Attack](pages/combat/attacks.md) that targets a [Close](../../pages/rules/distance.md) ally. You must be wielding a melee weapon or shield.
 
 <header>
 
-### Surge: Defend
+### Surge: Bolster
 
 <p class="subheading">1st-level Defender archetype feature</p>
 
 </header>
 
-When a **Close** ally is hit by a melee attack, you can use your [Reaction](../../pages/combat/reactions.md) to reduce the damage by **1d10 + your level**.
+As a [Bonus Action](../../pages/combat/bonus-actions.md) you can restore [Stamina](../../pages/combat/stamina.md) equal to **1d10 + your level** to a **Close** ally.
+
+<header>
+
+### Mark
+
+<p class="subheading">3rd-level Defender archetype feature</p>
+
+</header>
+
+When you hit a creature with a [Melee Attack](../../pages/combat/attacks.md) you can *mark* it for **1 minute**. *Marked* creatures have [Disadvantage](../../pages/rules/advantage.md) on [Attacks](../../pages/combat/attacks.md) against anyone except you. You can only mark one creature at a time.
