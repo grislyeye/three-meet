@@ -67,7 +67,7 @@ A **Corrupted** creature has been tainted by ruinous magics. They are slowly des
 
 Corruption is a [Resource](../../pages/rules/usage.md) your diminishing humanity. It's **Tapped** each time you make a corrupted action, such as using ruinous magic or using a cursed magic item.
 
-Each time it is **Exhausted** you undergo an unpleasant transformation. Roll on the Corruptions table below. Your Corruption then **Replenishes** at the next lower die, but stays at Ud4 indefinitely.
+Each time it is **Exhausted** you undergo an unpleasant transformation. Roll on the Corruptions table below. Your Corruption then **Replenishes** at the next lower die. It stays at Ud4 once you reach Ud4.
 
 | d20 | Corruption |
 | --- | ---------- |
