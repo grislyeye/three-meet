@@ -287,7 +287,7 @@ Your **Tactic Difficulty** is:
 
 </header>
 
-You can use your [Bonus Action]() to make a berating or inspiring cry to a [Nearby]() ally. The target regains [Stamina](../pages/combat/stamina.md) equal to **1d4 + your Wisdom**.
+You can use your [Bonus Action]() to make a berating or inspiring cry to a [Nearby]() ally. The target regains [Stamina](../pages/combat/stamina.md) equal to **1d4 + your Wisdom**. When you use this tactic using a 2nd level **Tactic Slot** or higher, you can roll an additional **1d4** for each slot above 1st.
 
 </section>
 
@@ -301,7 +301,7 @@ You can use your [Bonus Action]() to make a berating or inspiring cry to a [Near
 
 </header>
 
-You can use your [Action]() to call out a useful ploy to a [Nearby]() ally. The target can roll a **d4** and add the number rolled to one [Attack]() or [Save]().
+You can use an [Action]() to call out a useful ploy to a [Nearby]() ally. The target can roll a **d4** and add the number rolled to one [Attack]() or [Save](). When you use this tactic using a 2nd level **Tactic Slot** or higher, you can target an additional ally for each slot above 1st.
 
 </section>
 
