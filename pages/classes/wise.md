@@ -6,17 +6,24 @@
 
 </header>
 
-| Level | Proficiency | Class Features  |
-| ----  | ----------- |- |
-| 1st   | +2          | +1 [Wisdom](pages/characters/attributes.md?id=wisdom), Archetype, Proficient: Insight, Proficient: [Wisdom](pages/characters/attributes.md?id=wisdom) [Saves](pages/rules/rolling/saves.md) |
+| Level | Proficiency | Stamina | Features  |
+| ----  | ----------- | ------- | - |
+| 1st   | +2          | 6       | +1 [Wisdom](pages/characters/attributes.md?id=wisdom), Proficient: Insight, Proficient: [Wisdom](pages/characters/attributes.md?id=wisdom) [Saves](pages/rules/rolling/saves.md), Learned Equipment, Archetype |
+| 2nd   | +2          | +1d6    | |
+| 3rd   | +2          | +1d6    | |
 
-### Starting Stats
+<header>
 
-**Starting [Stamina](pages/combat/stamina.md):** 8 + [Might](pages/characters/attributes.md?id=might)
+### Learned Equipment
 
-**Proficiencies:** Insight, [Wisdom](pages/characters/attributes.md?id=wisdom) [Saves](pages/rules/rolling/saves.md)
+<p class="subheading">1st-level Wise class feature</p>
 
-**Starting Equipment:** Quarterstaff (Melee 1d6)
+</header>
+
+You start with the following items:
+
+ * **Leather Armour** (Defence 11, Light)
+ * **Quarterstaff** (Melee 1d6)
 
 <header>
 
@@ -26,9 +33,278 @@
 
 </header>
 
-Choose an archetype and gain its features. The Wise archetypes include: **[Sorcerer](pages/classes/wise.md?id=sorcerer)**.
+Choose an archetype and gain its features. The Wise archetypes include: [Elementalist](pages/classes/wise.md?id=elementalist), **Leader** and **[Sorcerer](pages/classes/wise.md?id=sorcerer)**.
+
+## Elementalist
+
+<p class="subheading">Magical Wise archetype</p>
+
+</header>
+
+With raw, primordial force you fly at your enemies, bolstering you and your allies.
+
+| Level | Archetype Features         | Spell Slots |
+| ----  | -------------------------- | ----------- |
+| 1st   | Minor Elementalism, Rituals, Elementalism, Animal Form, Proficient: Nature, medium armor, shields, and martial weapons | 2  |
+| 2nd   | Primordial Form | 3 |
 
 <header>
+
+### Minor Elementalism
+
+<p class="subheading">1st-level Elementalist archetype feature</p>
+
+</header>
+
+You can create small, temporary, and harmless sensory effects, such as hand-sized illusions, whispers, marks or symbols, or small appearance changes.
+
+<header>
+
+### Rituals
+
+<p class="subheading">1st-level Elementalist archetype feature</p>
+
+</header>
+
+You can cast the rituals below. A ritual takes 10 minutes to cast.
+
+<section class="spells">
+
+<section class="spell">
+
+<header>
+
+#### Spirit Tongue
+
+<p class="subheading">1st-level Elementalist ritual</p>
+
+</header>
+
+You speak the language of the elements, such as stones, birds or even trees. What they have to say may or may not be helpful. You can ask the spirits for guidance, giving you an additional **d4** on one [Check](../../pages/rules/rolling/checks.md) appropriate for the kind of spirit you are speaking with.
+
+</section>
+
+<section class="spell">
+
+<header>
+
+#### Purify Elements
+
+<p class="subheading">1st-level Elementalist ritual</p>
+
+</header>
+
+You can sense and purify small amounts of [Close](../../pages/rules/distance.md) natural matter. Food and drink is rendered free of poison and disease, flames burn without smoke, and small animals are healed. Magical effects are immune to this ritual.
+
+</section>
+
+</section>
+
+<header>
+
+### Animal Form
+
+<p class="subheading">1st-level Elementalist archetype feature</p>
+
+</header>
+
+When you are unseen you can use your [Action](../../pages/combat/actions.md) to transform into an **Animal** (Common Creature, **Defence** 10 + Wisdom + Cunning, **Stamina** Wisdom + your level, **Light Melee Attack** 1d6) *or* transform back. If you lose all your **Stamina** in this form you transform back and take any left over damage.
+
+### Elementalism
+
+<p class="subheading">1st-level Elementalist archetype feature</p>
+
+</header>
+
+You can cast spells. To cast a spell you must expend a spell slot. Each spell takes an [Action](../../pages/combat/actions.md) or  [Bonus Action](../../pages/combat/bonus-actions.md)  to cast. You regain your spell slots when you finish a [Rest](../../pages/rules/rests.md).
+
+Your **Spell Difficulty** is:
+
+<div class="example-roll">
+  8
+  +
+  <span class="bonus"> <span class="caption">Proficiency</span></span>
+  +
+  <span class="bonus"> <span class="caption">Wisdom</span></span>
+</div>
+
+<header>
+
+<section class="spells">
+
+<section class="spell">
+
+<header>
+
+#### Channel Essence [Bonus Action]
+
+<p class="subheading">1st-level Elementalist spell</p>
+
+</header>
+
+A [Nearby](../../pages/rules/distance.md) creature regains **1d4 + Wisdom** [Stamina](../../pages/combat/stamina.md). When you cast this spell using a **Spell Slot** of 2nd level or higher, add an additional **1d4** for each slot level above 1st.
+
+</section>
+
+<section class="spell">
+
+<header>
+
+#### Primordial Strength [Action]
+
+<p class="subheading">1st-level Elementalist spell</p>
+
+</header>
+
+You channel a burst of raw, primordial energy through your body. You or a [Close](../../pages/rules/distance.md) creature regains **1d8 + Wisdom Stamina**. When you cast this spell using a **Spell Slot** of 2nd level or higher, add an additional **1d8** for each slot level above 1st.
+
+</section>
+
+</section>
+
+<header>
+
+### Primordial Form
+
+<p class="subheading">2nd-level Elementalist archetype feature</p>
+
+</header>
+
+When you use your **Animal Form** feature you gain an additional **1d4 + 4 Stamina** in your new form.
+
+When you transform you can choose one of the following for your new form:
+
+ * You add your **Wisdom** to your attack damage
+ * You can see in darkness
+ * You become proficient in **Athletics** or **Stealth**
+
+<section class="spell">
+
+<header>
+
+#### Elemental Shift [Action]
+
+<p class="subheading">2nd-level Elementalist spell</p>
+
+</header>
+
+You summon elemental forces from deep in the earth at a [Nearby](../../pages/rules/distance.md) location. Stone crumbles. Soil turns into mire. The area [Close](../../pages/rules/distance.md) to this location is considered [Difficult Terrain](../../pages/rules/distance.md#difficult-terrain). A creature in the area when you cast the spell must succeed on a [Might](../../pages/characters/attributes#might) [Save](../../pages/rules/rolling/saves.md) or they cannot make a [Move](../../pages/combat/moves.md) and are [Disadvantaged](../../pages/rules/conditions.md#disadvantaged). They can use an [Action](../../pages/combat/actions.md) to make a [Might](../../pages/characters/attributes#might) [Save](../../pages/rules/rolling/saves.md) to free themselves.
+
+</section>
+
+</section>
+
+## Leader
+
+Not all need fight, some must command. You are a leader, a tactician. Issuing orders and inspiriting greatness in others.
+
+| Level | Archetype Features | Wise Slots
+| ----  | - | - |
+| 1st   | Command, Guidance, Tactics, Proficient: Persuasion, light armor, shields, and simple weapons | 2
+
+<header>
+
+### Command
+
+<p class="subheading">1st-level Leader archetype feature</p>
+
+</header>
+
+As an [Action]() you command an ally to attack. The ally can use their [Reaction](../../pages/combat/reactions.md) to make an [Attack](../../pages/combat/attacks.md). The ally can add your **Wisdom** to their damage roll.
+
+<header>
+
+### Strategies
+
+<p class="subheading">1st-level Sorcerer archetype feature</p>
+
+</header>
+
+You can perform the strategies below. Each strategy takes 10 minutes to complete.
+
+<section class="spells">
+
+<section class="spell">
+
+<header>
+
+### Guidance
+
+<p class="subheading">1st-level Leader strategy</p>
+
+</header>
+
+You can take an [Action]() to confer useful advice to a [Close]() ally. The target can roll a **d4** and add the number rolled to one **Check** of their choice.
+
+</section>
+
+<section class="spell">
+
+<header>
+
+### Lay of the Land
+
+<p class="subheading">1st-level Leader strategy</p>
+
+</header>
+
+If you carefully observe your enemies or the terrain directly before a combat starts, you can make a **Wise Insight Check** instead of **Cunning Check** when you or one ally would roll for [Initiative]().
+
+</section>
+
+</section>
+
+<header>
+
+### Tactics
+
+<p class="subheading">1st-level Leader archetype feature</p>
+
+</header>
+
+You have a number of **Tactic Slots** which you can use to perform various tactical feats. To perform a tactic you must expend a **Tactic Slot**. You regain all expended **Tactic Slots** when you finish a rest.
+
+Your **Tactic Difficulty** is:
+
+<div class="example-roll">
+  8
+  +
+  <span class="bonus"> <span class="caption">Proficiency</span></span>
+  +
+  <span class="bonus"> <span class="caption">Wisdom</span></span>
+</div>
+
+<section class="spells">
+
+<section class="spell">
+
+<header>
+
+#### Rally
+
+<p class="subheading">1st-level Leader tactic</p>
+
+</header>
+
+You can use your [Bonus Action]() to make a berating or inspiring cry to a [Nearby]() ally. The target regains [Stamina](../pages/combat/stamina.md) equal to **1d4 + your Wisdom**.
+
+</section>
+
+<section class="spell">
+
+<header>
+
+#### Wise Command
+
+<p class="subheading">1st-level Leader tactic</p>
+
+</header>
+
+You can use your [Action]() to call out a useful ploy to a [Nearby]() ally. The target can roll a **d4** and add the number rolled to one [Attack]() or [Save]().
+
+</section>
+
+</section>
 
 ## Sorcerer
 
@@ -38,12 +314,15 @@ Choose an archetype and gain its features. The Wise archetypes include: **[Sorce
 
 You are a practitioner of forbidden, arcane arts.
 
-| Level | Archetype Features         | Spell Slots |
-| ----  | -------------------------- | ----------- |
-| 1st   | Minor Sorcery, Stricken, Rituals, Sorcery | 2           |
-| 2nd   | Corrupted, Improved Stricken, Witch Sight | 3 |
+| Level | Archetype Features         | Spell Slots | Slot Level |
+| ----  | -------------------------- | ----------- | ---------- |
+| 1st   | Minor Sorcery, Stricken, Rituals, Sorcery | 2 | 1st |
+| 2nd   | Corrupted, Improved Stricken, Insidious Whispers, Witch Sight | 3 | 1st |
+| 3rd   | Spirit Door spell, Spirit Tongue | 3 | 2nd |
 
 ### Starting Stats
+
+**Starting Equipment:** Quarterstaff (Melee 1d6)
 
 **Proficiencies:** Arcana
 
@@ -111,23 +390,15 @@ You summon a **Minor Spirit (1 [Stamina](pages/combat/stamina.md), 10 Defence, S
 
 </section>
 
+<header>
+
 ### Sorcery
 
 <p class="subheading">1st-level Sorcerer archetype feature</p>
 
 </header>
 
-You can cast spells. To cast a spell you must expend a spell slot. Each spell takes an [Action](pages/combat/actions.md) to cast. You regain all expended spell slots when you finish a rest.
-
-Your **Spell Difficulty** is:
-
-<div class="example-roll">
-  8
-  +
-  <span class="bonus"> <span class="caption">Proficiency</span></span>
-  +
-  <span class="bonus"> <span class="caption">Wisdom</span></span>
-</div>
+You can cast spells. To cast a spell you must expend a **Wise Slot**. Each spell takes an [Action](pages/combat/actions.md) to cast. You regain all expended **Wise Slot**s when you finish a rest.
 
 <section class="spells">
 
@@ -149,27 +420,13 @@ You pull back the veil, revealing a glimpse of what lies beyond the mortal realm
 
 <header>
 
-#### Insidious Whispers
-
-<p class="subheading">1st-level Sorcerer spell</p>
-
-</header>
-
-You summon unseen spirits that whisper three, horrific things in the ear of a creature of your choice. Each whisper deals 1d4+1 damage to one or several **Close**, **Nearby** or **Far Away** creatures.
-
-</section>
-
-<section class="spell">
-
-<header>
-
 #### Minor Ward
 
 <p class="subheading">1st-level Sorcerer spell</p>
 
 </header>
 
-You can touch a willing creature (including yourself) who isn't wearing armour, and a protective ward surrounds them until the spell ends. The target's [Defence](pages/combat/defence.md) becomes 13 + its [Wisdom](pages/characters/attributes.md?id=wisdom) attribute. The spell ends if the target dons armour or if you dismiss the spell as an [Action](pages/combat/actions.md).
+You can touch a willing creature (including yourself) who isn't wearing armour, and a protective ward surrounds them until the spell ends. The target's [Defence](pages/combat/defence.md) becomes 13 + its [Cunning](pages/characters/attributes.md#cunning). The spell ends if the target dons armour or if you dismiss the spell as an [Action](pages/combat/actions.md).
 
 </section>
 
@@ -183,7 +440,7 @@ You can touch a willing creature (including yourself) who isn't wearing armour, 
 
 </header>
 
-You gain the [Corrupted](../../pages/rules/conditions.md#corrupted) condition. You must tap this [Resource](../../pages/rules/usage.md) every time you use one of your class features.
+You gain the **[Corrupted](../../pages/rules/conditions.md#corrupted) (Ud8 Resource)** condition. You must tap this [Resource](../../pages/rules/usage.md) every time you use one of your class features.
 
 <header>
 
@@ -197,6 +454,20 @@ You can add your [Wisdom](../../pages/characters/attributes.md#wisdom) to the da
 
 <header>
 
+<section class="spell">
+
+<header>
+
+### Insidious Whispers
+
+<p class="subheading">2nd-level Sorcerer spell</p>
+
+</header>
+
+You summon unseen spirits that whisper three, horrific secrets in the ears of your enemies. Each whisper deals 1d4+1 damage to one or several **Close**, **Nearby** or **Far Away** creatures. When you cast this spell using a 2nd level **Spell Slot** or higher, you can send an additional whisper each slot above 1st.
+
+</section>
+
 ### Witch Sight
 
 <p class="subheading">2nd-level Sorcerer archetype feature</p>
@@ -204,3 +475,27 @@ You can add your [Wisdom](../../pages/characters/attributes.md#wisdom) to the da
 </header>
 
 Using an [Action](../../pages/combats/actions.md) you can sense the presence of any magic [Nearby](../../pages/rules/distance.md). You can then see a faint aura around any visible creature or object in the area that bears magic. You may also be able to see things hidden from mortal eyes, such as strange omens or magical signs left by other sorcerers.
+
+<section class="spell">
+
+<header>
+
+### Spirit Door
+
+<p class="subheading">3rd-level Sorcerer spell</p>
+
+</header>
+
+You can teleport to an unoccupied space [Nearby]() that you can see.
+
+</section>
+
+<header>
+
+### Spirit Tongue
+
+<p class="subheading">3rd-level Sorcerer archetype feature</p>
+
+</header>
+
+You can communicate telepathically with any [Nearby]() creature, or speak with beings in the spirit realm.

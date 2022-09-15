@@ -1,16 +1,16 @@
 <header>
 
-# Order of Combat
+# Combat
 
 <p class="subheading">Rule</p>
 
 </header>
 
-Combat is a clash between two sides, organized in a cycle of **Round** and turns. During a **Round**, each participant takes a **Turn**
+**Combat** is a clash between two sides, organized in a cycle of **Round** and turns. During a **Round**, each participant takes a **Turn**
 
 The order of combat is as follows:
 
-  1. Roll [Initiative](pages/combat/order.md?id=initiative).
+  1. Roll [Initiative](pages/combat/index.md#initiative).
   2. Each participant takes a **Turn** in initiative order.
   3. On your **Turn** you can take:
     - One [Action](pages/combat/actions.md)
