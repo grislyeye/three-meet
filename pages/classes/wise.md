@@ -9,8 +9,8 @@
 | Level | Proficiency | Stamina | Features  |
 | ----  | ----------- | ------- | - |
 | 1st   | +2          | 6       | +1 [Wisdom](pages/characters/attributes.md?id=wisdom), Proficient: Insight, Proficient: [Wisdom](pages/characters/attributes.md?id=wisdom) [Saves](pages/rules/rolling/saves.md), Learned Equipment, Archetype |
-| 2nd   | +2          | +1d6    | |
-| 3rd   | +2          | +1d6    | |
+| 2nd   | +2          | +1d6    | Archetype features |
+| 3rd   | +2          | +1d6    | Archetype features |
 
 <header>
 
@@ -201,6 +201,7 @@ Not all need fight, some must command. You are a leader, a tactician. Issuing or
 | Level | Archetype Features | Wise Slots
 | ----  | - | - |
 | 1st   | Command, Guidance, Tactics, Proficient: Persuasion, light armor, shields, and simple weapons | 2
+| 2nd.  | Wise Command tactic | 2
 
 <header>
 
@@ -303,6 +304,20 @@ You can use your [Bonus Action]() to make a berating or inspiring cry to a [Near
 You can use your [Action]() to call out a useful ploy to a [Nearby]() ally. The target can roll a **d4** and add the number rolled to one [Attack]() or [Save]().
 
 </section>
+
+</section>
+
+<section class="spell">
+
+<header>
+
+#### Wise Command
+
+<p class="subheading">2nd-level Leader tactic</p>
+
+</header>
+
+You can use your [Action]() to call out a useful ploy to a [Nearby]() ally. The target can roll a **d4** and add the number rolled to one [Attack]() or [Save]().
 
 </section>
 
