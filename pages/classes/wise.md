@@ -8,15 +8,24 @@
 
 | Level | Proficiency | Class Features  |
 | ----  | ----------- |- |
-| 1st   | +2          | +1 [Wisdom](pages/characters/attributes.md?id=wisdom), Archetype, Proficient: Insight, Proficient: [Wisdom](pages/characters/attributes.md?id=wisdom) [Saves](pages/rules/rolling/saves.md) |
+| 1st   | +2          | +1 [Wisdom](pages/characters/attributes.md?id=wisdom), Proficient: Insight, Proficient: [Wisdom](pages/characters/attributes.md?id=wisdom) [Saves](pages/rules/rolling/saves.md), Learned Equipment, Archetype |
 
 ### Starting Stats
 
 **Starting [Stamina](pages/combat/stamina.md):** 8 + [Might](pages/characters/attributes.md?id=might)
 
-**Proficiencies:** Insight, [Wisdom](pages/characters/attributes.md?id=wisdom) [Saves](pages/rules/rolling/saves.md)
+<header>
 
-**Starting Equipment:** Quarterstaff (Melee 1d6)
+### Learned Equipment
+
+<p class="subheading">1st-level Wise class feature</p>
+
+</header>
+
+You start with the following items:
+
+ * **Leather Armour** (Defence 11, Light)
+ * **Quarterstaff** (Melee 1d6)
 
 <header>
 
@@ -42,8 +51,6 @@ With raw, primordial force you fly at your enemies, bolstering you and your alli
 | ----  | -------------------------- | ----------- |
 | 1st   | Minor Elementalism, Rituals, Elementalism, Animal Form, Proficient: Nature, medium armor, shields, and martial weapons | 2  |
 | 2nd   | Primordial Form | 3 |
-
-<header>
 
 <header>
 

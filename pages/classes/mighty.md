@@ -8,16 +8,27 @@
 
 | Level | Proficiency | Features  |
 | ----  | ----------- |- |
-| 1st   | +2          | +1 [Might](pages/characters/attributes.md?id=might), Surge, Archetype |
+| 1st   | +2          | +1 [Might](pages/characters/attributes.md?id=might), Martial Gear, Surge, Archetype |
 | 2nd   | +2          | Mighty Action |
 
 ### Starting Stats
 
-**Starting [Stamina](pages/combat/stamina.md):** 10 + [Might](pages/characters/attributes.md?id=might)
-
 **Proficiencies:** Athletics, [Might](pages/characters/attributes.md?id=might) [Saves](pages/rules/rolling/saves.md), all armor, shields, simple weapons, and martial weapons
 
-**Starting Equipment:** Chain Mail (Defence 16), Shield (+2 Defence), Longsword (Melee 1d8, Versatile 1d10), and a Shortbow (Ranged 1d8)
+<header>
+
+### Martial Gear
+
+<p class="subheading">1st-level Mighty class feature</p>
+
+</header>
+
+You start with the following items:
+
+ * **Chain Mail** (Defence 16, Heavy) *or* **Leather Armour** (Defence 11, Light) and a **Longbow** (Ranged 1d8, Two-Handed)
+ * **Longsword** (Melee 1d8, Versatile 1d10)
+ * **Shortsword** (Melee 1d6, Finesse, Light) *or* **Shield** (Defence +1)
+ * **Crossbow** (Ranged 1d8)
 
 <header>
 
@@ -53,7 +64,43 @@ Starting at 2nd level, you can push yourself beyond your normal limits. On your 
 
 </header>
 
-Choose an archetype and gain its features. The Mighty archetypes include: [Defender](pages/classes/mighty.md?id=defender).
+Choose an archetype and gain it's features. The Mighty archetypes include: [Berserker](pages/classes/mighty.md?id=berserker) and [Defender](pages/classes/mighty.md?id=defender).
+
+<header>
+
+## Berserker
+
+<p class="subheading">Mighty archetype</p>
+
+</header>
+
+You fight with blind fury, without regard for your own safety.
+
+| Level | Archetype Features |
+| ----  | ------------------ |
+| 1st   | Savagery, Surge: Rage, Proficient: Intimidation |
+
+<header>
+
+### Savagery
+
+<p class="subheading">1st-level Berserker archetype feature</p>
+
+</header>
+
+When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon, you can reroll the die.
+
+<header>
+
+### Surge: Rage
+
+<p class="subheading">1st-level Berserker archetype feature</p>
+
+</header>
+
+On your turn, you can use your surge to enter a rage as a [Bonus Action](../../pages/combat/bonus-actions.md). While raging, when you make a [Melee Attack](../../pages/combat/attacks.md), you gain a +2 bonus to the damage roll.
+
+Your rage lasts for 1 minute.
 
 <header>
 

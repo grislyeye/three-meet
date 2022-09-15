@@ -10,7 +10,20 @@ You are high-born, a member of the second estate.
 
 | Level             | Background Features    |
 | ----------------- | - |
-| 1st               | +1 [Cunning](pages/characters/attributes.md?id=cunning), Proficient: Persuasion, Privilege, Speciality |
+| 1st               | +1 [Cunning](pages/characters/attributes.md?id=cunning), Proficient: Persuasion, Noble Trappings, Privilege, Speciality |
+
+<header>
+
+### Noble Trappings
+
+<p class="subheading">1st-level Cunning class feature</p>
+
+</header>
+
+You start with the following items:
+
+ * **Small Pouch of Florins** (Treasure Ud8)
+ * [Fine Girdle Bag](../../pages/equipment/packs.md#fine-pack) (Pack Ud6)
 
 <header>
 
@@ -66,14 +79,14 @@ You are the descendant of a wealthy family.
 
 | Level             | Features    |
 | ----------------- | - |
-| 1st               | Servant |
+| 1st               | Allowance |
 
 <header>
 
-### Servant
+### Allowance
 
 <p class="subheading">1st-level Scion speciality feature</p>
 
 </header>
 
-You are accompanied by a servant retainer.
+As a noble, you are expected to maintain a certain lifestyle. You start with a **Large Pouch of Crowns (Treasure Ud10)**. This item refreshes at the end of each adventure.
