@@ -6,10 +6,9 @@
 
 </header>
 
-
 | Level | Prof. | Features  |
 | ----  | ----------- | - |
-| 1st   | +2          | +1 [Cunning](pages/characters/attributes.md?id=cunning) <br> Proficient: Cunning Saves <br> Proficient: Any 1 skill <br> Equipment <br> Archetype <br> Cunning <br> Attack Expertise |
+| 1st   | +2          | +1 [Cunning](pages/characters/attributes.md?id=cunning) <br> Proficient: Cunning Saves <br> Proficient: Any 1 skill <br> Expert Equipment <br>
 | 2nd   | +2          | Cunning Action |
 | 3rd   | +2          | Archetype Feature |
 
@@ -19,9 +18,20 @@
 
 <p class="subheading">1st-level Cunning class feature</p>
 
+<header>
+
+### Expert Equipment
+
+<p class="subheading">1st-level Cunning class feature</p>
+
 </header>
 
-Leather Armour (Defence 11), 2 Daggers (Melee 1d4, Thrown 1d4, Light), and a Crossbow (Ranged 1d8)
+You start with the following items:
+
+ * **Leather Armour** (Defence 11, Light)
+ * 2 **Daggers** (Melee 1d4, Thrown 1d4, Light)
+ * **Shortsword** (Melee 1d6, Finesse, Light) *or* **Rapier** (Melee 1d8, Finesse)
+ * **Crossbow** (Ranged 1d8) *or* **Shortbow** (Ranged 1d8)
 
 <header>
 

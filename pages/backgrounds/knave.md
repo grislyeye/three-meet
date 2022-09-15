@@ -10,9 +10,20 @@ Blackguard, scoundrel, outlaw: these are just some of the names you have been ca
 
 | Level             | Background Features    |
 | ----------------- | - |
-| 1st               | +1 [Cunning](pages/characters/attributes.md?id=cunning), Proficient: Sleight, Thieves' Cant, Speciality |
+| 1st               | +1 [Cunning](pages/characters/attributes.md?id=cunning), Proficient: Sleight, Criminal Trappings, Thieves' Cant, Speciality |
 
-**Starting Equipment:** Small Pouch of Pennies (Treasure Ud6)
+<header>
+
+### Criminal Trappings
+
+<p class="subheading">1st-level Knave background feature</p>
+
+</header>
+
+You start with the following items:
+
+ * **Small Pouch of Pennies** (Treasure Ud6)
+ * [Common Thieves' Cloak](../../pages/equipment/packs.md#thieves-cloak) (Pack Ud6)
 
 <header>
 

@@ -8,16 +8,27 @@
 
 | Level | Proficiency | Features  |
 | ----  | ----------- |- |
-| 1st   | +2          | +1 [Might](pages/characters/attributes.md?id=might), Surge, Archetype |
+| 1st   | +2          | +1 [Might](pages/characters/attributes.md?id=might), Martial Gear, Surge, Archetype |
 | 2nd   | +2          | Mighty Action |
 
 ### Starting Stats
 
-**Starting [Stamina](pages/combat/stamina.md):** 10 + [Might](pages/characters/attributes.md?id=might)
-
 **Proficiencies:** Athletics, [Might](pages/characters/attributes.md?id=might) [Saves](pages/rules/rolling/saves.md), all armor, shields, simple weapons, and martial weapons
 
-**Starting Equipment:** Chain Mail (Defence 16), Shield (+2 Defence), Longsword (Melee 1d8, Versatile 1d10), and a Shortbow (Ranged 1d8)
+<header>
+
+### Martial Gear
+
+<p class="subheading">1st-level Mighty class feature</p>
+
+</header>
+
+You start with the following items:
+
+ * **Chain Mail** (Defence 16, Heavy) *or* **Leather Armour** (Defence 11, Light) and a **Longbow** (Ranged 1d8, Two-Handed)
+ * **Longsword** (Melee 1d8, Versatile 1d10)
+ * **Shortsword** (Melee 1d6, Finesse, Light) *or* **Shield** (Defence +1)
+ * **Crossbow** (Ranged 1d8)
 
 <header>
 
