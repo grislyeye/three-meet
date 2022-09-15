@@ -25,8 +25,6 @@ You start with the following items:
  * **Small Pouch of Pennies** (Treasure Ud6)
  * [Common Thieves' Cloak](../../pages/equipment/packs.md#thieves-cloak) (Pack Ud6)
 
-**Starting Equipment:** Small Pouch of Pennies (Treasure Ud6)
-
 <header>
 
 ### Thieves' Cant
