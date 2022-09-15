@@ -33,9 +33,7 @@ You start with the following items:
 
 </header>
 
-Choose an archetype and gain its features. The Wise archetypes include: [Elementalist](pages/classes/wise.md?id=elementalist) and [Sorcerer](pages/classes/wise.md?id=sorcerer).
-
-<header>
+Choose an archetype and gain its features. The Wise archetypes include: [Elementalist](pages/classes/wise.md?id=elementalist), **Leader** and **[Sorcerer](pages/classes/wise.md?id=sorcerer)**.
 
 ## Elementalist
 
@@ -69,8 +67,6 @@ You can create small, temporary, and harmless sensory effects, such as hand-size
 </header>
 
 You can cast the rituals below. A ritual takes 10 minutes to cast.
-
-<header>
 
 <section class="spells">
 
@@ -198,6 +194,118 @@ You summon elemental forces from deep in the earth at a [Nearby](../../pages/rul
 
 </section>
 
+## Leader
+
+Not all need fight, some must command. You are a leader, a tactician. Issuing orders and inspiriting greatness in others.
+
+| Level | Archetype Features | Wise Slots
+| ----  | - | - |
+| 1st   | Command, Guidance, Tactics, Proficient: Persuasion, light armor, shields, and simple weapons | 2
+
+<header>
+
+### Command
+
+<p class="subheading">1st-level Leader archetype feature</p>
+
+</header>
+
+As an [Action]() you command an ally to attack. The ally can use their [Reaction](../../pages/combat/reactions.md) to make an [Attack](../../pages/combat/attacks.md). The ally can add your **Wisdom** to their damage roll.
+
+<header>
+
+### Strategies
+
+<p class="subheading">1st-level Sorcerer archetype feature</p>
+
+</header>
+
+You can perform the strategies below. Each strategy takes 10 minutes to complete.
+
+<section class="spells">
+
+<section class="spell">
+
+<header>
+
+### Guidance
+
+<p class="subheading">1st-level Leader strategy</p>
+
+</header>
+
+You can take an [Action]() to confer useful advice to a [Close]() ally. The target can roll a **d4** and add the number rolled to one **Check** of their choice.
+
+</section>
+
+<section class="spell">
+
+<header>
+
+### Lay of the Land
+
+<p class="subheading">1st-level Leader strategy</p>
+
+</header>
+
+If you carefully observe your enemies or the terrain directly before a combat starts, you can make a **Wise Insight Check** instead of **Cunning Check** when you or one ally would roll for [Initiative]().
+
+</section>
+
+</section>
+
+<header>
+
+### Tactics
+
+<p class="subheading">1st-level Leader archetype feature</p>
+
+</header>
+
+You have a number of **Tactic Slots** which you can use to perform various tactical feats. To perform a tactic you must expend a **Tactic Slot**. You regain all expended **Tactic Slots** when you finish a rest.
+
+Your **Tactic Difficulty** is:
+
+<div class="example-roll">
+  8
+  +
+  <span class="bonus"> <span class="caption">Proficiency</span></span>
+  +
+  <span class="bonus"> <span class="caption">Wisdom</span></span>
+</div>
+
+<section class="spells">
+
+<section class="spell">
+
+<header>
+
+#### Rally
+
+<p class="subheading">1st-level Leader tactic</p>
+
+</header>
+
+You can use your [Bonus Action]() to make a berating or inspiring cry to a [Nearby]() ally. The target regains [Stamina](../pages/combat/stamina.md) equal to **1d4 + your Wisdom**.
+
+</section>
+
+<section class="spell">
+
+<header>
+
+#### Wise Command
+
+<p class="subheading">1st-level Leader tactic</p>
+
+</header>
+
+You can use your [Action]() to call out a useful ploy to a [Nearby]() ally. The target can roll a **d4** and add the number rolled to one [Attack]() or [Save]().
+
+</section>
+
+</section>
+
 ## Sorcerer
 
 <p class="subheading">Magical Wise archetype</p>
@@ -213,6 +321,8 @@ You are a practitioner of forbidden, arcane arts.
 | 3rd   | Spirit Door spell, Spirit Tongue | 3 | 2nd |
 
 ### Starting Stats
+
+**Starting Equipment:** Quarterstaff (Melee 1d6)
 
 **Proficiencies:** Arcana
 
@@ -288,17 +398,7 @@ You summon a **Minor Spirit (1 [Stamina](pages/combat/stamina.md), 10 Defence, S
 
 </header>
 
-You can cast spells. To cast a spell you must expend a spell slot. Each spell takes an [Action](pages/combat/actions.md) to cast. You regain all expended spell slots when you finish a rest.
-
-Your **Spell Difficulty** is:
-
-<div class="example-roll">
-  8
-  +
-  <span class="bonus"> <span class="caption">Proficiency</span></span>
-  +
-  <span class="bonus"> <span class="caption">Wisdom</span></span>
-</div>
+You can cast spells. To cast a spell you must expend a **Wise Slot**. Each spell takes an [Action](pages/combat/actions.md) to cast. You regain all expended **Wise Slot**s when you finish a rest.
 
 <section class="spells">
 
