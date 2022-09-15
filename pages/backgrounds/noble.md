@@ -32,7 +32,7 @@ You must have an [Allegiances](../../pages/characters/allegiances) for your Hous
 
 </header>
 
-Pick one of the follow:
+Pick one of the following:
 
   * **Stipend:** As a noble, you are expected to maintain a certain lifestyle. You start with a **Large Pouch of Crowns (Treasure Ud10)**. This item refreshes at the end of each adventure.
   * **Servant:** You have a loyal [Retainer](../../pages/equipment/retainers.md) who follows your commands.
