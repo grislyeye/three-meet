@@ -1,29 +1,30 @@
 @import url(https://fonts.googleapis.com/css?family=Alegreya:400,400italic,700italic,700);
 @import url(https://fonts.googleapis.com/css?family=Alegreya+Sans+SC:400,400italic,700italic,700);
-@import '../_core.css';
-@import '_headers.css';
-@import '_sidebar.css';
-@import '_search.css';
-@import '_table.css';
-@import '_links.css';
-@import '_lists.css';
-@import '_example-roll.css';
-@import '_summaries.css';
-@import '_spells.css';
-@import '_content.css';
-@import '_pagination.css';
-@import '_beta.css';
-@import '_preview.css';
+@import "../_core.css";
+@import "_headers.css";
+@import "_sidebar.css";
+@import "_search.css";
+@import "_table.css";
+@import "_links.css";
+@import "_lists.css";
+@import "_example-roll.css";
+@import "_summaries.css";
+@import "_spells.css";
+@import "_content.css";
+@import "_pagination.css";
+@import "_beta.css";
+@import "_preview.css";
 
 * {
   --theme-color: white;
 }
 
-.content  {
-  font-family: 'Alegreya', serif;
+.content {
+  font-family: "Alegreya", serif;
   line-height: 1.15;
   font-size: 20pt;
   color: rgb(237, 237, 237);
+  min-height: 100vh;
 }
 
 body {
@@ -40,4 +41,30 @@ body {
 
 .content strong {
   color: white;
+}
+
+@media screen and (max-width: 850px) {
+  .content {
+    width: 90%;
+    margin-left: 30px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .content {
+    width: 100%;
+    margin-left: 0px;
+  }
+  .lang-sh {
+    width: 62.5%;
+
+    font-size: 0.6em;
+  }
+}
+
+@media screen and (max-width: 690px) {
+  .lang-sh {
+    width: 57.5%;
+
+    font-size: 0.5em;
+  }
 }

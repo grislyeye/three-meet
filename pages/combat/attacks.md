@@ -20,11 +20,13 @@ Attacks are described by a number of **Tags** listed in parentheses after its na
 
 | Tag       | Description |
 | --------- | - |
+| Finesse     | You can add your [Cunning](pages/characters/attributes.md?id=cunning) instead of [Might](pages/characters/attributes.md?id=might) to melee damage, and attack rolls.
+| Light     | Can be used for [Off-hand Attacks](../../pages/combat/bonus-actions.md#off-hand-attack).
 | Melee     | Melee attack. Add your [Might](pages/characters/attributes.md?id=might) to the attack roll, and damage.
 | Ranged    | Ranged attack. Add your [Cunning](pages/characters/attributes.md?id=cunning) to the attack roll, and damage.
-| Light     | You can add your [Cunning](pages/characters/attributes.md?id=cunning) instead of [Might](pages/characters/attributes.md?id=might) to melee damage, and attack rolls.
 | Spell     | Spell attack. Add your [Wisdom](pages/characters/attributes.md?id=wisdom) to the attack roll. Damage is unmodified. You are always [Proficient](pages/rules/proficiency.md).
 | Thrown    | You can throw this weapon to make a ranged attack.
+| Two-Handed | You require two hands to use this attack.
 | Versatile | You can use this damage if the attack is made with two hands.
 
 <header>
@@ -37,7 +39,7 @@ Attacks are described by a number of **Tags** listed in parentheses after its na
 
 **Defence** determines how difficult you are to hit:
 
- + Your base **Defence** is determined by your armour
+ + Your base **Defence** is determined by your [Armour](../../pages/equipment/armour.md)
  + If you're not wearing armour it is 10
  + Shields and other equipment can improve your **Defence**
  + Add your [Cunning](pages/characters/attributes.md?id=cunning) to your **Defence**
