@@ -198,10 +198,11 @@ You summon elemental forces from deep in the earth at a [Nearby](../../pages/rul
 
 Not all need fight, some must command. You are a leader, a tactician. Issuing orders and inspiriting greatness in others.
 
-| Level | Archetype Features | Wise Slots
-| ----  | - | - |
-| 1st   | Command, Guidance, Tactics, Proficient: Persuasion, light armor, shields, and simple weapons | 2
-| 2nd.  | Wise Command tactic | 2
+| Level | Archetype Features | Tactic Slots | Slot Level
+| ----  | - | - | - |
+| 1st   | Command, Guidance, Tactics, Proficient: Persuasion, light armor, shields, and simple weapons | 1 | 1st
+| 2nd   | Commanding Presence, Wise Command tactic | 2 | 1st
+| 3rd   |  | 2 | 2nd
 
 <header>
 
@@ -307,11 +308,31 @@ You can use an [Action]() to call out a useful ploy to a [Nearby]() ally. The ta
 
 </section>
 
+<header>
+
+### Commanding Presence
+
+<p class="subheading">2nd-level Leader archetype feature</p>
+
+</header>
+
+You are proficient in the [Persuasion]() and [Intimidation]() skills.
+
+<header>
+
+### Improved Command
+
+<p class="subheading">2nd-level Leader archetype feature</p>
+
+</header>
+
+When you use your Command feature, your ally can also make a [Move](). This does not provoke an [Opportunity Attack]().
+
 <section class="spell">
 
 <header>
 
-#### Rebuke
+### Rebuke
 
 <p class="subheading">2nd-level Leader tactic</p>
 
