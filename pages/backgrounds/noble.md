@@ -10,9 +10,20 @@ You are high-born, a member of the powerful second estate.
 
 | Level             | Background Features    |
 | ----------------- | - |
-| 1st               | +1 [Cunning](pages/characters/attributes.md?id=cunning), Proficient: **Persuasion**, House, Privilege, Speciality |
+| 1st               | +1 [Cunning](pages/characters/attributes.md?id=cunning), Proficient: **Persuasion**, Noble Trappings, House, Privilege, Speciality |
 
-**Starting Equipment:** Small Pouch of Florins (Treasure Ud8)
+<header>
+
+### Noble Trappings
+
+<p class="subheading">1st-level Cunning class feature</p>
+
+</header>
+
+You start with the following items:
+
+ * **Small Pouch of Florins** (Treasure Ud8)
+ * [Fine Girdle Bag](../../pages/equipment/packs.md#fine-pack) (Pack Ud6)
 
 <header>
 

@@ -1,4 +1,10 @@
+<header>
+
 # Wealth
+
+<p class="subheading">Rule</p>
+
+</header>
 
 Wealth is measured by abstract **Treasure** items: consumable treasures and containers for coins or jewels, such as pouches of coins or gold statues.
 

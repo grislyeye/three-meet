@@ -89,7 +89,6 @@ $ npm run itch:deploy
      2. Take a feature from another [Background](pages/backgrounds/index.md) or [Class](pages/classes/index.md).
   2. Features should **not**:
      1. Give situational [Advantage](pages/rules/advantage.md) or [Disadvantage](pages/rules/advantage.md) (they are both situational anyway).
-     2. Give metagame information not normally available to the player (opponent's [Stamina](), etc.).
   3. Good [Class](pages/backgrounds/index.md) features can:
      1. Have combat utility.
   4. Good [Class](pages/backgrounds/index.md) features should **not**:
@@ -97,6 +96,7 @@ $ npm run itch:deploy
      2. Give permission to do something already covered by a [Skill](pages/characters/skills.md).
   2. Good [Background](pages/backgrounds/index.md) features can:
      1. Allow you to substitute one proficiency for another (effectively doubling the proficiency's utility).
+     2. Give metagame information not normally available to the player (opponent's [Stamina](), etc.).
   6. [Background](pages/backgrounds/index.md) features should **not**:
      1. Have combat utility.
      2. Replicate the [Cunning Expertise](pages/classes/cunning.md#expertise) class feature.
