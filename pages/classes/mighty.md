@@ -105,7 +105,7 @@ You fight to protect. Cleaving close to your allies, you intercept attacks, so t
 | Level | Archetype Features |
 | ----  | ------------------ |
 | 1st   | Defend, Surge: Bolster, Proficient: Intimidation |
-| 3rd   | Defensive Tactics |
+| 3rd   | Mark |
 
 <header>
 
@@ -115,7 +115,7 @@ You fight to protect. Cleaving close to your allies, you intercept attacks, so t
 
 </header>
 
-You can use your [Reaction](../../pages/combat/reactions.md) to impose disadvantage on an [Attack](pages/combat/attacks.md) that targets a [Close](../pages/rules/distance.md) ally. You must be wielding a melee weapon or shield.
+You can use your [Reaction](../../pages/combat/reactions.md) to impose disadvantage on an [Attack](pages/combat/attacks.md) that targets a [Close](../../pages/rules/distance.md) ally. You must be wielding a melee weapon or shield.
 
 <header>
 
@@ -125,46 +125,14 @@ You can use your [Reaction](../../pages/combat/reactions.md) to impose disadvant
 
 </header>
 
-As a [Bonus Action](pages/combat/bonus-actions.md) you can restore [Stamina](pages/combat/stamina.md) equal to **1d10 + your level** to a **Close** ally.
+As a [Bonus Action](../../pages/combat/bonus-actions.md) you can restore [Stamina](../../pages/combat/stamina.md) equal to **1d10 + your level** to a **Close** ally.
 
 <header>
 
-### Defensive Tactics
+### Mark
 
 <p class="subheading">3rd-level Defender archetype feature</p>
 
 </header>
 
-You gain a **Ud6 Tactics** [Resource](). You can **Tap** it to perform one of the **Defender Tactics** below. Your **Tactics** [Resource]() **Replenishes** when you take a [Rest]().
-
-<section class="spells">
-
-<section class="spell">
-
-<header>
-
-#### Block
-
-<p class="subheading">Defender Tactic</p>
-
-</header>
-
-When a creature damages a [Close]() ally, you can use your [Reaction](../../pages/combat/reactions.md) to reduce the damage by the result of the **[Usage Die](../pages/rules/usage.md) + your [Might]()**.
-
-</section>
-
-<section class="spell">
-
-<header>
-
-#### Mark
-
-<p class="subheading">Defender Tactic</p>
-
-</header>
-
-As a [Bonus Action](pages/combat/bonus-actions.md) you can **Mark** a [Nearby]() enemy for 1 minute. If the marked enemy damages anyone other than you, the damage is reduced by your **Proficiency**.
-
-</section>
-
-</section>
+When you hit a creature with a [Melee Attack](../../pages/combat/attacks.md) you can *mark* it for **1 minute**. *Marked* creatures have [Disadvantage](../../pages/rules/advantage.md) on [Attacks](../../pages/combat/attacks.md) against anyone except you. You can only mark one creature at a time.
