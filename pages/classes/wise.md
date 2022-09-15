@@ -6,13 +6,11 @@
 
 </header>
 
-| Level | Proficiency | Class Features  |
-| ----  | ----------- |- |
-| 1st   | +2          | +1 [Wisdom](pages/characters/attributes.md?id=wisdom), Proficient: Insight, Proficient: [Wisdom](pages/characters/attributes.md?id=wisdom) [Saves](pages/rules/rolling/saves.md), Learned Equipment, Archetype |
-
-### Starting Stats
-
-**Starting [Stamina](pages/combat/stamina.md):** 8 + [Might](pages/characters/attributes.md?id=might)
+| Level | Proficiency | Stamina | Features  |
+| ----  | ----------- | ------- | - |
+| 1st   | +2          | 6       | +1 [Wisdom](pages/characters/attributes.md?id=wisdom), Proficient: Insight, Proficient: [Wisdom](pages/characters/attributes.md?id=wisdom) [Saves](pages/rules/rolling/saves.md), Learned Equipment, Archetype |
+| 2nd   | +2          | +1d6    | |
+| 3rd   | +2          | +1d6    | |
 
 <header>
 

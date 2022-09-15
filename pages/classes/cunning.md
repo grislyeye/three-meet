@@ -6,19 +6,11 @@
 
 </header>
 
-| Level | Proficiency | Features  |
-| ----  | ----------- |- |
-| 1st   | +2          | +1 [Cunning](pages/characters/attributes.md?id=cunning), Expert Equipment, Cunning Attack, Expertise, Archetype |
-| 2nd   | +2          | Cunning Action |
-| 3rd   | +2          | Archetype Feature |
-
-### Starting Stats
-
-**Starting [Stamina](pages/combat/stamina.md):** 8 + [Might](pages/characters/attributes.md?id=might)
-
-**Proficiencies:** Any 1 skill, [Cunning](pages/characters/attributes.md?id=cunning) [Saves](pages/rules/rolling/saves.md)
-
-<header>
+| Level | Proficiency | Stamina | Features  |
+| ----  | ----------- | ------- | - |
+| 1st   | +2          | 8       | +1 [Cunning](pages/characters/attributes.md?id=cunning) <br> Proficient: Cunning Saves <br> Proficient: Any 1 skill <br> Expert Equipment <br>
+| 2nd   | +2          | +1d8    | Cunning Action |
+| 3rd   | +2          | +1d8    | Archetype Feature |
 
 ### Expert Equipment
 
