@@ -353,14 +353,8 @@ You are a practitioner of forbidden, arcane arts.
 | Level | Archetype Features         | Spell Slots | Slot Level |
 | ----  | -------------------------- | ----------- | ---------- |
 | 1st   | Minor Sorcery, Stricken, Rituals, Sorcery | 2 | 1st |
-| 2nd   | Improved Stricken, Insidious Whispers, Witch Sight | 3 | 1st |
+| 2nd   | Corrupted, Improved Stricken, Insidious Whispers, Witch Sight | 3 | 1st |
 | 3rd   | Spirit Door spell, Spirit Tongue | 3 | 2nd |
-
-### Starting Stats
-
-**Starting Equipment:** Quarterstaff (Melee 1d6)
-
-**Proficiencies:** Arcana
 
 <header>
 
@@ -467,6 +461,16 @@ You can touch a willing creature (including yourself) who isn't wearing armour, 
 </section>
 
 </section>
+
+<header>
+
+### Corrupted
+
+<p class="subheading">2nd-level Sorcerer archetype feature</p>
+
+</header>
+
+You gain the **[Corrupted](../../pages/rules/conditions.md#corrupted) (Ud8 Resource)** condition. You must **Tap** this [Resource](../../pages/rules/usage.md) every time you use one of your class features.
 
 <header>
 
