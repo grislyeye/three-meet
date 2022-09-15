@@ -33,6 +33,8 @@
   + [Stamina](pages/combat/stamina.md)
 * Equipment
   * [Wealth](pages/equipment/wealth.md)
+  * [Armour](pages/equipment/armour.md)
+  * [Packs](pages/equipment/packs.md)
   * [Retainers](pages/equipment/retainers.md)
 + Colophon
   + [Design Notes](design-notes.md)

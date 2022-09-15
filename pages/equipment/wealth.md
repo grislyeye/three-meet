@@ -1,6 +1,12 @@
+<header>
+
 # Wealth
 
-Wealth is measured by abstract **Treasure**: consumable riches and containers for coins or jewels, such as pouches of coins or gold statues.
+<p class="subheading">Rule</p>
+
+</header>
+
+Wealth is measured by abstract **Treasure** items: consumable treasures and containers for coins or jewels, such as pouches of coins or gold statues.
 
   * Each item of **Treasure** is a resource with a [Usage Die](pages/rules/usage.md) which you can **Tap** to buy goods, equipment, and services.
   * Items or services have a die cost, representing its relative price.
