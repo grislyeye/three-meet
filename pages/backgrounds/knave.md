@@ -10,7 +10,20 @@ Blackguard, scoundrel, outlaw: these are just some of the names you have been ca
 
 | Level             | Background Features    |
 | ----------------- | - |
-| 1st               | +1 [Cunning](pages/characters/attributes.md?id=cunning), Proficient: Sleight, Thieves' Cant, Speciality |
+| 1st               | +1 [Cunning](pages/characters/attributes.md?id=cunning), Proficient: Sleight, Criminal Trappings, Thieves' Cant, Speciality |
+
+<header>
+
+### Criminal Trappings
+
+<p class="subheading">1st-level Knave background feature</p>
+
+</header>
+
+You start with the following items:
+
+ * **Small Pouch of Pennies** (Treasure Ud6)
+ * [Common Thieves' Cloak](../../pages/equipment/packs.md#thieves-cloak) (Pack Ud6)
 
 <header>
 
@@ -31,8 +44,6 @@ You know thieves’ cant, a secret code of dialect, hand-signs, jargon, ciphers,
 </header>
 
 You specialised in a particular criminal enterprise. Choose a speciality and gain its features. Knave specialities include:  **Burglar** and [Ruffian](#ruffian).
-
-<header>
 
 <header>
 

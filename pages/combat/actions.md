@@ -70,21 +70,6 @@ At the GM's discretion, other actions can be improvised. You can also improvise 
 
 <header>
 
-## Improvised Attack
-
-Attack
-
-</header>
-
-At the GM's discretion, other actions can be improvised.
-
-</section>
-
-
-<section class="summary">
-
-<header>
-
 ## Ready
 
 Combat Action
