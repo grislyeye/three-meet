@@ -10,7 +10,7 @@ You are high-born, a member of the powerful second estate.
 
 | Level             | Background Features    |
 | ----------------- | - |
-| 1st               | +1 [Cunning](pages/characters/attributes.md?id=cunning), Proficient: **Persuasion**, Noble Trappings, House, Privilege, Speciality |
+| 1st               | +1 [Cunning](pages/characters/attributes.md?id=cunning), **Persuasive**, Noble Trappings, House, Privilege, Speciality |
 
 <header>
 
@@ -81,7 +81,7 @@ You are the illegitimate offspring of the nobility. An open secret, an unpleasan
 
 </header>
 
-Your illegitimacy meant you had to become useful to you family in other ways. You are proficient in any 1 skill or tool of your choice.
+Your illegitimacy meant you had to become useful to you family in other ways. You are **Proficient** in any 1 skill, or Skilled in any Tool, of your choice.
 
 <header>
 

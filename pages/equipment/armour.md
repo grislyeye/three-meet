@@ -14,6 +14,6 @@
 
 | Tag       | Description |
 | --------- | - |
-| Heavy     | [Disadvantage](../../pages/rules/advantage.md) on [Stealth](../../pages/characters/skills.md#stealth) [Checks](../../pages/rules/rolling/checks.md)
-| Light     | Add you [Cunning](../../pages/characters/attributes.md#cunning) to your [Defence](../../pages/combat/attacks/md#defence)
-| Medium    | Add you [Cunning](../../pages/characters/attributes.md#cunning) to your [Defence](../../pages/combat/attacks/md#defence) to a maximum of **+2** *and*  [Disadvantage](../../pages/rules/advantage.md) on [Stealth](../../pages/characters/skills.md#stealth) [Checks](../../pages/rules/rolling/checks.md)
+| Heavy     | [Disadvantage](../../pages/rules/advantage.md) on [Stealth](../../pages/characters/proficiencies.md#stealth) [Checks](../../pages/rules/rolling/checks.md). If you're not [Proficient](../../pages/rules/proficiency.md), you are [Disadvantaged](../../pages/rules/conditions.md#disadvantaged) while wearing **Heavy Armour**.
+| Light     | Add you [Cunning](../../pages/characters/attributes.md#cunning) to your [Defence](../../pages/combat/attacks/md#defence). If you're not [Proficient](../../pages/rules/proficiency.md), you are [Disadvantaged](../../pages/rules/conditions.md#disadvantaged) while wearing **Light Armour**.
+| Medium    | Add you [Cunning](../../pages/characters/attributes.md#cunning) to your [Defence](../../pages/combat/attacks/md#defence) to a maximum of **+2** *and*  [Disadvantage](../../pages/rules/advantage.md) on [Stealth](../../pages/characters/proficiencies.md#stealth) [Checks](../../pages/rules/rolling/checks.md). If you're not [Proficient](../../pages/rules/proficiency.md), you are [Disadvantaged](../../pages/rules/conditions.md#disadvantaged) while wearing **Medium Armour**.

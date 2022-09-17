@@ -16,14 +16,16 @@ You can make one **Attack** per turn. When you make an **Attack**:
 
 ### Describing Attacks
 
-Attacks are described by a number of **Tags** listed in parentheses after its name. For example, **Longsword (Melee 1d8, Versatile 1d10)** is a weapon that can make a versatile, melee attack.
+Attacks are described by a number of **Tags** listed in parentheses after its name. For example, **Longsword (Melee 1d8, Martial, Versatile 1d10)** is a martial weapon that can make a versatile, melee attack.
 
 | Tag       | Description |
 | --------- | - |
 | Finesse     | You can add your [Cunning](pages/characters/attributes.md?id=cunning) instead of [Might](pages/characters/attributes.md?id=might) to melee damage, and attack rolls.
 | Light     | Can be used for [Off-hand Attacks](../../pages/combat/bonus-actions.md#off-hand-attack).
+| Martial   | **Attacks** you might be [Proficient](../../pages/rules/proficiency.md) with.
 | Melee     | Melee attack. Add your [Might](pages/characters/attributes.md?id=might) to the attack roll, and damage.
 | Ranged    | Ranged attack. Add your [Cunning](pages/characters/attributes.md?id=cunning) to the attack roll, and damage.
+| Simple    | **Attacks** you might be [Proficient](../../pages/rules/proficiency.md) with.
 | Spell     | Spell attack. Add your [Wisdom](pages/characters/attributes.md?id=wisdom) to the attack roll. Damage is unmodified. You are always [Proficient](pages/rules/proficiency.md).
 | Thrown    | You can throw this weapon to make a ranged attack.
 | Two-Handed | You require two hands to use this attack.

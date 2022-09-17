@@ -1,6 +1,6 @@
 + Characters
   + [Attributes](pages/characters/attributes.md)
-  + [Skills](pages/characters/skills.md)
+  + [Proficiencies](pages/characters/proficiencies.md)
   + [Allegiances](pages/characters/allegiances.md)
 + [Backgrounds](pages/backgrounds/index.md)
   + [Guild Artisan](pages/backgrounds/guild-artisan.md)

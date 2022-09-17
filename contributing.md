@@ -93,7 +93,7 @@ $ npm run itch:deploy
      1. Have combat utility.
   4. Good [Class](pages/backgrounds/index.md) features should **not**:
      1.- Have non-combat utility.
-     2. Give permission to do something already covered by a [Skill](pages/characters/skills.md).
+     2. Give permission to do something already covered by a [Skill](pages/characters/proficiencies.md).
   2. Good [Background](pages/backgrounds/index.md) features can:
      1. Allow you to substitute one proficiency for another (effectively doubling the proficiency's utility).
      2. Give metagame information not normally available to the player (opponent's [Stamina](), etc.).

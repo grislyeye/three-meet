@@ -8,7 +8,7 @@
 
 | Level | Proficiency | Stamina | Features  |
 | ----  | ----------- | ------- | - |
-| 1st   | +2          | 8       | +1 [Cunning](pages/characters/attributes.md?id=cunning) <br> Proficient: Cunning Saves <br> Proficient: Any 1 skill <br> Expert Equipment <br>
+| 1st   | +2          | 8       | +1 [Cunning](pages/characters/attributes.md?id=cunning) <br> Cunning <br> Armed <br> Lightly Armoured <br> Expert Equipment <br>
 | 2nd   | +2          | +1d8    | Cunning Action |
 | 3rd   | +2          | +1d8    | Archetype Feature |
 
@@ -18,7 +18,7 @@
 
 </header>
 
-You start with the following items:
+You start with the following items, with which you are [Proficient](../../pages/characters/proficiencies.md):
 
  * **Leather Armour** (Defence 11, Light)
  * 2 **Daggers** (Melee 1d4, Thrown 1d4, Light)
@@ -43,7 +43,7 @@ You can deal an extra 1d6 damage to one creature you hit with an attack, if you 
 
 </header>
 
-Choose two of your skill or tool proficiencies. Your proficiency bonus is doubled for [Checks](pages/rules/rolling/checks.md) with these proficiencies.
+Choose two of your skill or tool proficiencies. Your proficiency bonus is doubled for [Checks](pages/rules/rolling/checks.md) with these proficiencies. Additionally, you are [Proficient](../../pages/rules/proficiency.md) in any one [Skill](../../pages/characters/proficiencies).
 
 <header>
 
@@ -79,12 +79,8 @@ You're a flurry of blades, dodging in and out of the front lines to pick off you
 
 | Level | Features
 | ----  | -
-| 1st   | Skirmishing Attack
+| 1st   | Acrobatic, Perceptive, Skirmishing Attack
 | 3rd   | Skirmishing Action
-
-### Starting Stats
-
-**Proficiencies:** Acrobatics, Perception
 
 <header>
 
@@ -106,7 +102,7 @@ You can use your [Cunning Attack](#cunning-attack) against a [Close](../../pages
 
 As a [Reaction](../../pages/combat/reactions) you can make a [Move](../../pages/combat/moves.md). This **Move** does not trigger an [Opportunity Attack](../../pages/combat/reactions#opportunity-attack).
 
-You can also use your [Cunning Action](#cunning-action) to make a [Cunning](../../pages/characters/attributes.md#cunning) [Acrobatics](../../pages/characters/skills.md#acrobatics) [Check](../../pages/rules/rolling/checks.md).
+You can also use your [Cunning Action](#cunning-action) to make a [Cunning](../../pages/characters/attributes.md#cunning) [Acrobatics](../../pages/characters/proficiencies.md#acrobatics) [Check](../../pages/rules/rolling/checks.md).
 
 <header>
 
@@ -120,12 +116,8 @@ You play fast and deadly, hiding in shadows and darting out to attack.
 
 | Level | Features |
 | ----  | - |
-| 1st   | Sneak Attack |
+| 1st   | Perceptive, Stealthy, Sneak Attack |
 | 3rd   | Surprise Attack |
-
-### Starting Stats
-
-**Proficiencies:** Perception, Stealth
 
 <header>
 
