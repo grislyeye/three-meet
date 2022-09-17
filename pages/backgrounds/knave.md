@@ -78,17 +78,17 @@ When about thieving you always seem to have the right tool hidden about your clo
 
 | Level             | Features    |
 | ----------------- | - |
-| 1st               | Proficient: Deception, Flummox |
+| 1st               | Proficient: Deception, False Papers |
 
 <header>
 
-### Dubious Papers
+### False Papers
 
 <p class="subheading">1st-level Mountebank speciality feature</p>
 
 </header>
 
-You excel at fast-talking gullible marks, leaving them confused and susceptible to deception. On a successful Cunning (Deception) check you can confuse and befuddle one non-hostile creature. For 10 minutes you and your allies have [advantage](pages/rules/advantage.md) on all Cunning (Deception and Persuasion) checks against the target. The mark realizes they've been lied to when the effect ends, you fail a Deception check, or you attack them. You must [rest](pages/rules/rests.md) before you can use this feature again.
+You have a stash of forged letters and stolen documents that can be used to pass as someone else: **False Papers** (Pack Ud6, Illegal).
 
 ## Ruffian
 
