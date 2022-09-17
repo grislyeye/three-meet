@@ -10,7 +10,21 @@ Blackguard, scoundrel, outlaw: these are just some of the names you have been ca
 
 | Level             | Background Features    |
 | ----------------- | - |
-| 1st               | +1 [Cunning](pages/characters/attributes.md?id=cunning), Proficient: Sleight, Thieves' Cant, Speciality |
+| 1st               | +1 [Cunning](pages/characters/attributes.md?id=cunning), Proficient: Sleight, Criminal Trappings, Thieves' Cant, Speciality |
+
+<header>
+
+### Criminal Trappings
+
+<p class="subheading">1st-level Knave background feature</p>
+
+</header>
+
+You start with the following items:
+
+ * Gambling set
+ * **Small Pouch of Pennies** (Treasure Ud6)
+ * Thieves' tools
 
 <header>
 
@@ -20,9 +34,7 @@ Blackguard, scoundrel, outlaw: these are just some of the names you have been ca
 
 </header>
 
-You know thieves’ cant, a secret mix of dialect, jargon, and code that allows you to hide messages in seemingly normal conversation. In addition, you understand a set of secret signs and symbols used to convey short, simple messages, such as whether an area is dangerous or the territory of a thieves’ guild, whether loot is nearby, or whether the people in an area are easy marks or will provide a safe house for thieves on the run.
-
-You also gain advantage on Persuasion [checks](pages/rules/rolling.md?id=checks) when communicating with thieves' cant.
+You know thieves’ cant, a secret code of dialect, hand-signs, jargon, ciphers, and symbols that can hide messages in seemingly everyday locations, and conversations.
 
 <header>
 
@@ -32,7 +44,7 @@ You also gain advantage on Persuasion [checks](pages/rules/rolling.md?id=checks)
 
 </header>
 
-You specialised in a particular criminal enterprise. Choose a speciality and gain its features. Knave specialities include: **Burglar** and **Mountebank**.
+You specialised in a particular criminal enterprise. Choose a speciality and gain its features. Knave specialities include:  **Burglar**,  [Mountebank](#mountebank) and [Ruffian](#ruffian).
 
 <header>
 
@@ -44,17 +56,17 @@ You specialised in a particular criminal enterprise. Choose a speciality and gai
 
 | Level             | Features    |
 | ----------------- | - |
-| 1st               | Proficient: Thieves' Tools, Second-Story Work |
+| 1st               | Proficient: Thieves' Tools, Thieves' Stash |
 
 <header>
 
-### Second-Story Work
+### Thieves' Stash
 
 <p class="subheading">1st-level Burglar speciality feature</p>
 
 </header>
 
-You gain the ability to climb twice as fast. When you make a running jump double the distance you can cover.
+When about thieving you always seem to have the right tool hidden about your clothing (such as rope, caltrops, hooded lanterns, etc.). If you're searched, the **Difficulty** to find your **Thieves' Stash** (Pack Ud6, Common, Illegal) is **8 + your Cunning + your Proficiency**.
 
 <header>
 
@@ -70,10 +82,22 @@ You gain the ability to climb twice as fast. When you make a running jump double
 
 <header>
 
-### Flummox
+### Dubious Papers
 
 <p class="subheading">1st-level Mountebank speciality feature</p>
 
 </header>
 
 You excel at fast-talking gullible marks, leaving them confused and susceptible to deception. On a successful Cunning (Deception) check you can confuse and befuddle one non-hostile creature. For 10 minutes you and your allies have [advantage](pages/rules/advantage.md) on all Cunning (Deception and Persuasion) checks against the target. The mark realizes they've been lied to when the effect ends, you fail a Deception check, or you attack them. You must [rest](pages/rules/rests.md) before you can use this feature again.
+
+## Ruffian
+
+You're basically a thug, running enforcement, protection rackets, or acting as bodyguard to your criminal masters.
+
+| Level             | Speciality Features    |
+| ----------------- | - |
+| 1st               | Proficient: Intimidation, Tough |
+
+### Tough
+
+While you are not wearing any armour, your [Defence](pages/combat/attacks?id=defence) equals **10 + [Cunning](pages/characters/attributes?id=cunning) + [Might](pages/characters/attributes?id=might)**.

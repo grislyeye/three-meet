@@ -16,6 +16,7 @@
 .content div.example-roll span.bonus {
   display: inline-flex;
   flex-direction: column;
+  justify-content: flex-end;
   text-align: center;
 }
 
@@ -24,7 +25,7 @@
   font-size: 14pt;
   text-align: center;
   font-variant-caps: small-caps;
-  border-top: 1px solid #ddd;;
+  border-top: 1px solid #ddd;
 }
 
 .content div.example-roll div.roll {
@@ -42,4 +43,18 @@
   height: 50%;
   padding-top: 58px;
   text-align: center;
+}
+
+@media screen and (max-width: 768px) {
+  .content div.example-roll {
+    display: flex;
+    align-items: center;
+    font-size: 2em;
+  }
+}
+
+@media screen and (max-width: 690px) {
+  .content div.example-roll {
+    font-size: 1em;
+  }
 }

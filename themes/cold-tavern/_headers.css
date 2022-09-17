@@ -1,18 +1,20 @@
 .content h1 {
-  font-family: 'Alegreya', serif;
+  font-family: "Alegreya", serif;
   color: white;
   font-size: 72px;
 }
 
 .content h2 {
-  font-family: 'Alegreya', serif;
+  font-family: "Alegreya", serif;
   font-size: 48px;
   width: 100%;
   margin-top: 1.5em;
+  line-height: 0.5em;
+  padding-bottom: 0.3em;
 }
 
 .content h3 {
-  font-family: 'Alegreya', serif;
+  font-family: "Alegreya", serif;
   font-size: 32px;
   margin-top: 1.5em;
   margin-bottom: 0.5em;
@@ -23,7 +25,7 @@
 }
 
 .content h4 {
-  font-family: 'Alegreya', serif;
+  font-family: "Alegreya", serif;
   margin-bottom: 0.5em;
   font-style: italic;
   font-variant: small-caps;
@@ -45,7 +47,7 @@
 }
 
 .content .subheading {
-  font-family: 'Alegreya Sans SC', serif;
+  font-family: "Alegreya Sans SC", sans-serif;
   margin-top: 0;
 }
 
@@ -63,4 +65,58 @@
 
 .content header h4 + p.subheading {
   font-size: 0.7em;
+}
+
+.content header img {
+  float: right;
+}
+
+@media screen and (max-width: 768px) {
+  .content h1 {
+    width: 100%;
+    margin: 0em;
+  }
+
+  .content header h1 + p.subheading {
+    width: 100%;
+    font-size: 0.7em;
+    margin: 0.5em 0em;
+  }
+
+  .markdown-section > * {
+    margin-bottom: 0;
+    width: 62.5%;
+  }
+
+  .markdown-section > :first-child {
+    width: 62.5%;
+    font-size: 1.75em;
+  }
+}
+
+@media screen and (max-width: 690px) {
+  .markdown-section > * {
+    width: 57.5%;
+  }
+
+  .markdown-section > :first-child {
+    width: 57.5%;
+    font-size: 1.5em;
+  }
+  .anchor span {
+    font-size: 0.75em;
+  }
+}
+
+@media screen and (max-width: 630px) {
+  .markdown-section > * {
+    width: 100%;
+  }
+
+  .markdown-section > :first-child {
+    width: 100%;
+  }
+  .anchor span {
+    font-size: 1em;
+  }
 }

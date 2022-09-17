@@ -1,6 +1,9 @@
 .content .summaries {
   display: grid;
   grid-template-columns: 50% 50%;
+  column-gap: 2rem;
+  row-gap: 2rem;
+  margin-top: 2em;
 }
 
 .content .small.summaries {
@@ -8,16 +11,56 @@
 }
 
 .content .summaries > .summary {
-  margin: 1em;
   border-top: 1px solid white;
 }
 
-.content .summaries .summary h3 {
-  font-family: 'Alegreya Sans SC', serif;
-  margin-top: 0.5em;
+.content .summaries .summary h3,
+.content .summaries .summary h2,
+.content .summaries .summary h4 {
+  font-family: "Alegreya Sans SC", serif;
+  margin-top: 0.1em;
+  padding: 0;
 }
 
 .content .summaries .summary h3 * {
   font-weight: normal;
   font-size: 0.9em;
+}
+
+.content .summaries .summary h2 * {
+  font-weight: normal;
+  font-size: 0.8em;
+  margin-bottom: 0.1em;
+}
+
+.content .summaries .summary header p {
+  font-family: "Alegreya Sans SC", serif;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 0.8em;
+  margin-top: 0;
+}
+
+.content .summaries .summary h4 * {
+  font-weight: normal;
+  font-size: 1em;
+}
+
+@media screen and (max-width: 768px) {
+  .content .summaries {
+    display: inline-block;
+    width: 62.5%;
+  }
+}
+
+@media screen and (max-width: 690px) {
+  .content .summaries {
+    width: 57.5%;
+  }
+}
+
+@media screen and (max-width: 630px) {
+  .content .summaries {
+    width: 100%;
+  }
 }

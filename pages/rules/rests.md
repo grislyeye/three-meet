@@ -2,7 +2,7 @@
 
 # Rests
 
-<p class="subheading">Attribute</p>
+<p class="subheading">Rule</p>
 
 </header>
 
@@ -10,7 +10,7 @@ The world is a trying place, and adventurers easily become weary. They need rest
 
 A rest is a 8 hours of extended downtime during which a character sleeps or performs light activity.
 
-A rest confers the following benefits
+A rest confers the following benefits:
 
-  * Regain all Health
-  * Regain expended class and background features
+  * Regain all [Stamina](pages/combat/stamina.md)
+  * Regain expended [Class](pages/classes/index) and [Background](pages/backgrounds/index) features

@@ -6,15 +6,15 @@
 
 </header>
 
-Circumstances, spells and special abilities can give you **advantage** or **disadvantage** on [checks](pages/rules/rolling.md?id=checks), [saves](pages/rules/rolling.md?id=saves), or [attacks](pages/combat/attacks.md).
+Circumstances, spells and special abilities can give you **Advantage** or **Disadvantage** on [Checks](pages/rules/rolling/checks.md), [Saves](pages/rules/rolling/saves.md), or [Attacks](pages/combat/attacks.md):
 
-  + When you **roll with advantage** roll two d20s and use the highest.
-  + When you **roll with disadvantage** roll two d20s and use the lowest.
-  + **Advantage/disadvantage**...
-    + **Do not stack -** you either have one, or you don't.
-    + **Cancel out** - if you have both, roll normally.
+  1. When you **roll with advantage** roll two d20s and use the highest.
+  2. When you **roll with disadvantage** roll two d20s and use the lowest.
+  3. **Advantage/Disadvantage**...
+    1. **Do not stack -** you either have one, or you don't.
+    2. **Cancel out** - if you have both, roll normally.
 
-For example, with advantage:
+For example, with **Advantage**:
 
 <div class="example-roll">
   <div class="roll">
@@ -29,7 +29,7 @@ For example, with advantage:
   16
 </div>
 
-With disadvantage:
+With **Disadvantage**:
 
 <div class="example-roll">
   <div class="roll">
