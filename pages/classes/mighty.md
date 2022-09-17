@@ -8,13 +8,9 @@
 
 | Level | Proficiency | Stamina | Features  |
 | ----  | ----------- | ------- | - |
-| 1st   | +2          | 10      | +1 [Might](pages/characters/attributes.md?id=might), Martial Gear, Surge, Archetype |
+| 1st   | +2          | 10      | +1 [Might](pages/characters/attributes.md?id=might), Mighty, Athletic, Heavily Armoured, Martial, Martial Gear, Surge, Archetype |
 | 2nd   | +2          | +1d10   | Mighty Action |
 | 3rd   | +2          | +1d10   | Archetype Feature |
-
-### Starting Stats
-
-**Proficiencies:** Athletics, [Might](pages/characters/attributes.md?id=might) [Saves](pages/rules/rolling/saves.md), all armor, shields, simple weapons, and martial weapons
 
 <header>
 
@@ -79,7 +75,7 @@ You fight with blind fury, without regard for your own safety.
 
 | Level | Archetype Features |
 | ----  | ------------------ |
-| 1st   | Savagery, Surge: Rage, Proficient: Intimidation |
+| 1st   | Intimidating, Savagery, Surge: Rage |
 
 <header>
 
@@ -115,7 +111,7 @@ You fight to protect. Cleaving close to your allies, you intercept attacks, so t
 
 | Level | Archetype Features |
 | ----  | ------------------ |
-| 1st   | Defend, Surge: Bolster, Proficient: Intimidation |
+| 1st   | Intimidating, Defend, Surge: Bolster |
 | 3rd   | Mark |
 
 <header>

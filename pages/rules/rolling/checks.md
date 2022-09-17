@@ -25,7 +25,7 @@ Roll a d20 and add your [Attribute](pages/characters/attributes.md). And your [P
   2. If it is equal to or less you fail
   3. Rolls can be modified by [Advantage/Disadvantage](pages/rules/advantage.md)
 
-For example, Roche is attempting to lift a carriage trapping an ally. The GM asks him make a **Medium (15)** [Mighty](pages/characters/attributes.md?id=might) [Athletics](pages/characters/skills.md#athletics) **Check**. Roche rolls an 8. His Might is +2, his Proficiency is +2, and he is proficient in Athletics so he gets a total of 12.
+For example, Roche is attempting to lift a carriage trapping an ally. The GM asks him make a **Medium (15)** [Mighty](pages/characters/attributes.md?id=might) [Athletics](pages/characters/proficiencies.md#athletics) **Check**. Roche rolls an 8. His Might is +2, his Proficiency is +2, and he is proficient in Athletics so he gets a total of 12.
 
 He fails the roll, and isn't strong enough to lift the carriage.
 

@@ -10,7 +10,7 @@ Blackguard, scoundrel, outlaw: these are just some of the names you have been ca
 
 | Level             | Background Features    |
 | ----------------- | - |
-| 1st               | +1 [Cunning](pages/characters/attributes.md?id=cunning), Proficient: Sleight, Criminal Trappings, Thieves' Cant, Speciality |
+| 1st               | Tricky, +1 [Cunning](pages/characters/attributes.md?id=cunning), Criminal Trappings, Thieves' Cant, Speciality |
 
 <header>
 
@@ -55,7 +55,7 @@ You specialised in a particular criminal enterprise. Choose a speciality and gai
 
 | Level             | Features    |
 | ----------------- | - |
-| 1st               | Proficient: Thieves' Tools, Second-Story Work |
+| 1st               | Skilled (Thieves' Tools), Second-Story Work |
 
 <header>
 
@@ -73,7 +73,7 @@ You're basically a thug, running enforcement, protection rackets, or acting as b
 
 | Level             | Speciality Features    |
 | ----------------- | - |
-| 1st               | Proficient: Intimidation, Tough |
+| 1st               | Intimidating, Tough |
 
 ### Tough
 

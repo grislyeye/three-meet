@@ -8,7 +8,7 @@
 
 | Level | Proficiency | Stamina | Features  |
 | ----  | ----------- | ------- | - |
-| 1st   | +2          | 6       | +1 [Wisdom](pages/characters/attributes.md?id=wisdom), Proficient: Insight, Proficient: [Wisdom](pages/characters/attributes.md?id=wisdom) [Saves](pages/rules/rolling/saves.md), Learned Equipment, Archetype |
+| 1st   | +2          | 6       | +1 [Wisdom](pages/characters/attributes.md?id=wisdom), [Wise](pages/characters/proficiencies.md#wise), Insightful, Learned Equipment, Archetype |
 | 2nd   | +2          | +1d6    | |
 | 3rd   | +2          | +1d6    | |
 
@@ -45,7 +45,7 @@ With raw, primordial force you fly at your enemies, bolstering you and your alli
 
 | Level | Archetype Features         | Spell Slots |
 | ----  | -------------------------- | ----------- |
-| 1st   | Minor Elementalism, Rituals, Elementalism, Animal Form, Proficient: Nature, medium armor, shields, and martial weapons | 2  |
+| 1st   | Wild, Martial, Armoured, Minor Elementalism, Rituals, Elementalism, Animal Form | 2  |
 | 2nd   | Primordial Form | 3 |
 
 <header>
@@ -176,7 +176,7 @@ When you transform you can choose one of the following for your new form:
 
  * You add your **Wisdom** to your attack damage
  * You can see in darkness
- * You become proficient in **Athletics** or **Stealth**
+ * You become **Athletic** or **Stealthy**
 
 <section class="spell">
 
@@ -200,7 +200,7 @@ Not all need fight, some must command. You are a leader, a tactician. Issuing or
 
 | Level | Archetype Features | Wise Slots
 | ----  | - | - |
-| 1st   | Command, Guidance, Tactics, Proficient: Persuasion, light armor, shields, and simple weapons | 2
+| 1st   | Persuasive, Armed, Armoured, Command, Guidance, Tactics | 2
 
 <header>
 
@@ -316,7 +316,7 @@ You are a practitioner of forbidden, arcane arts.
 
 | Level | Archetype Features         | Spell Slots | Slot Level |
 | ----  | -------------------------- | ----------- | ---------- |
-| 1st   | Minor Sorcery, Stricken, Rituals, Sorcery | 2 | 1st |
+| 1st   | Arcane, Minor Sorcery, Stricken, Rituals, Sorcery | 2 | 1st |
 | 2nd   | Corrupted, Improved Stricken, Insidious Whispers, Witch Sight | 3 | 1st |
 | 3rd   | Spirit Door spell, Spirit Tongue | 3 | 2nd |
 
@@ -364,7 +364,7 @@ You can cast the rituals below. A ritual takes 10 minutes to cast.
 
 </header>
 
-You make yourself, including your clothing, armour, weapons, and other belongings on your person, look different for 1 hour, or until you dismiss the disguise. A creature examining you closely can discern you are disguised on a successful [Investigation](pages/characters/skills.md?id=investigation) [Check](pages/rules/rolling/checks.md) (Difficulty 10). If they succeed your disguise vanishes.
+You make yourself, including your clothing, armour, weapons, and other belongings on your person, look different for 1 hour, or until you dismiss the disguise. A creature examining you closely can discern you are disguised on a successful [Investigation](pages/characters/proficiencies.md?id=investigation) [Check](pages/rules/rolling/checks.md) (Difficulty 10). If they succeed your disguise vanishes.
 
 </section>
 
