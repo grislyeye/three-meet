@@ -22,8 +22,9 @@ Blackguard, scoundrel, outlaw: these are just some of the names you have been ca
 
 You start with the following items:
 
+ * Gambling set
  * **Small Pouch of Pennies** (Treasure Ud6)
- * [Common Thieves' Cloak](../../pages/equipment/packs.md#thieves-cloak) (Pack Ud6)
+ * Thieves' tools
 
 <header>
 
@@ -55,17 +56,17 @@ You specialised in a particular criminal enterprise. Choose a speciality and gai
 
 | Level             | Features    |
 | ----------------- | - |
-| 1st               | Proficient: Thieves' Tools, Second-Story Work |
+| 1st               | Proficient: Thieves' Tools, Thieves' Stash |
 
 <header>
 
-### Second-Story Work
+### Thieves' Stash
 
 <p class="subheading">1st-level Burglar speciality feature</p>
 
 </header>
 
-You gain the ability to climb twice as fast. When you make a running jump double the distance you can cover.
+When about thieving you always seem to have the right tool hidden about your clothing (such as rope, caltrops, hooded lanterns, etc.). If you're searched, the **Difficulty** to find your **Thieves' Stash** (Pack Ud6, Common, Illegal) is **8 + your Cunning + your Proficiency**.
 
 ## Ruffian
 
