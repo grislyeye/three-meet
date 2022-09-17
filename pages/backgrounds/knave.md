@@ -10,7 +10,21 @@ Blackguard, scoundrel, outlaw: these are just some of the names you have been ca
 
 | Level             | Background Features    |
 | ----------------- | - |
-| 1st               | +1 [Cunning](pages/characters/attributes.md?id=cunning), Proficient: Sleight, Thieves' Cant, Speciality |
+| 1st               | +1 [Cunning](pages/characters/attributes.md?id=cunning), Proficient: Sleight, Criminal Trappings, Thieves' Cant, Speciality |
+
+<header>
+
+### Criminal Trappings
+
+<p class="subheading">1st-level Knave background feature</p>
+
+</header>
+
+You start with the following items:
+
+ * Gambling set
+ * **Small Pouch of Pennies** (Treasure Ud6)
+ * Thieves' tools
 
 <header>
 
@@ -30,9 +44,7 @@ You know thieves’ cant, a secret code of dialect, hand-signs, jargon, ciphers,
 
 </header>
 
-You specialised in a particular criminal enterprise. Choose a speciality and gain its features. Knave specialities include:  **Burglar** and **Ragamuffin**.
-
-<header>
+You specialised in a particular criminal enterprise. Choose a speciality and gain its features. Knave specialities include:  **Burglar** and [Ruffian](#ruffian).
 
 <header>
 
@@ -44,17 +56,17 @@ You specialised in a particular criminal enterprise. Choose a speciality and gai
 
 | Level             | Features    |
 | ----------------- | - |
-| 1st               | Proficient: Thieves' Tools, Second-Story Work |
+| 1st               | Proficient: Thieves' Tools, Thieves' Stash |
 
 <header>
 
-### Second-Story Work
+### Thieves' Stash
 
 <p class="subheading">1st-level Burglar speciality feature</p>
 
 </header>
 
-You gain the ability to climb twice as fast. When you make a running jump double the distance you can cover.
+When about thieving you always seem to have the right tool hidden about your clothing (such as rope, caltrops, hooded lanterns, etc.). If you're searched, the **Difficulty** to find your **Thieves' Stash** (Pack Ud6, Common, Illegal) is **8 + your Cunning + your Proficiency**.
 
 <header>
 
@@ -80,14 +92,14 @@ You are a pickpocket. Your prey is the unwary, your bread and butter the coins i
 
 Your hands have a mind of their own, regularly pocketing random items and stowing them. You have a **d6 Pouch** that can contain any **Small Equipment Item**. This can **Renew** your pouch when you rest in a **Settlement**.
 
-## Ragamuffin
+## Ruffian
 
-You grew up running the city streets, playing games, stealing food, dodging the watch, scrapping and generally running amok. You survived, despite the odds, through your wits and by making yourself useful to the local criminal elements.
+You're basically a thug, running enforcement, protection rackets, or acting as bodyguard to your criminal masters.
 
 | Level             | Speciality Features    |
 | ----------------- | - |
-| 1st               | Proficient: Deception, Slippery |
+| 1st               | Proficient: Intimidation, Tough |
 
-### Slippery
+### Tough
 
-You have advantage on checks to escape bonds such as manacles, or nets. Additionally, you have advantage on checks to evade being followed or tracked.
+While you are not wearing any armour, your [Defence](pages/combat/attacks?id=defence) equals **10 + [Cunning](pages/characters/attributes?id=cunning) + [Might](pages/characters/attributes?id=might)**.

@@ -6,11 +6,11 @@
 
 </header>
 
-All creatures are described by 3 **attributes** representing their physical and mental characteristics:
+All creatures are described by three **Attributes** representing their physical and mental characteristics:
 
 **Attributes** are:
 
- * Used for [checks, attacks and saves](pages/rules/rolling.md)
+ * Used for [Checks, Attacks and Saves](pages/rules/rolling.md)
  * Rated from -5 to +8
  * 0 is average
  * -2 to +4 is the range for most characters
@@ -23,7 +23,7 @@ All creatures are described by 3 **attributes** representing their physical and 
 
 Raw strength, stamina, and combat prowess.
 
-Added to [Health](pages/combat/health.md), and melee [Attacks](pages/combat/attacks.md) and [Damage](pages/combat/attacks.md) rolls.
+Added to [Stamina](pages/combat/stamina.md), and melee [Attacks](pages/combat/attacks.md) and [Damage](pages/combat/attacks.md) rolls.
 
 </section>
 
@@ -33,7 +33,7 @@ Added to [Health](pages/combat/health.md), and melee [Attacks](pages/combat/atta
 
 Wits, speed, agility, dexterousness, charm, perceptiveness, and guile.
 
-Added to [Initiative](pages/combat/order.md?id=initiative), [Defence](pages/combat/attacks.md?id=defence), and ranged [Attacks](pages/combat/attacks.md) and [Damage](pages/combat/attacks.md) rolls.
+Added to [Initiative](pages/combat/index.md#initiative), [Defence](pages/combat/attacks.md?id=defence), and ranged [Attacks](pages/combat/attacks.md) and [Damage](pages/combat/attacks.md) rolls.
 
 </section>
 

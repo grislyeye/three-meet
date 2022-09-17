@@ -6,7 +6,7 @@
 
 </header>
 
-If the GM allows you can choose a **magic speciality** instead of one of the specialities from your chosen [background](pages/backgrounds/index.md).
+If the GM allows, you can choose a **Magic Speciality** instead of one of the **Specialities** from your chosen [Background](pages/backgrounds/index.md).
 
 <header>
 
@@ -49,7 +49,7 @@ Pick a magical gift from below.
 
 #### Bracelet of Shadows
 
-This gleaming onyx bracelet cannot be removed. It allows you to hear and command the... things that linger beyond the shadows. While wearing it you have **Darkvision**.
+This gleaming onyx bracelet cannot be removed. It allows you to hear and command the... things that linger beyond the shadows. While wearing the bracelet you can see normally in low-light and darkness.
 
 </section>
 
@@ -57,8 +57,42 @@ This gleaming onyx bracelet cannot be removed. It allows you to hear and command
 
 #### Whistler's Knack
 
-You are [proficient](pages/rules/proficiency.md) in curious tune only you can whistle. Pick one [skill](pages/characters/skills.md), or [tool](pages/equipment/tools.md). Instead of using this skill or tool, you can whistle your tune instead to get the same effect.
+You are [Proficient](pages/rules/proficiency.md) in a curious tune only you can whistle. You can use its [Proficiency](pages/rules/proficiency.md) instead of a substitute [Proficiency](pages/rules/proficiency.md) of your choice.
 
 </section>
 
 </section>
+
+<header>
+
+## Immortal
+
+<p class="subheading">Magic Speciality</p>
+
+</header>
+
+You have lived for centuries, maybe aeons. You may live for centuries more.
+
+| Level             | Features    |
+| ----------------- | - |
+| 1st               | Ancient Wisdom, Memory of Ages |
+
+<header>
+
+### Ancient Wisdom
+
+<p class="subheading">1st-level Immortal speciality feature</p>
+
+</header>
+
+You come from an age of high magic. The lore of this time has been long lost, but you still possess some of this ancient wisdom. You can pick a magical archetype during character creation.
+
+<header>
+
+### Memory of Ages
+
+<p class="subheading">1st-level Immortal speciality feature</p>
+
+</header>
+
+You're forgotten more than most folk know, more than you remember yourself. You can spend 10 minute searching your memories to gain proficiency in one tool, language, or one of the following [Skill](../../pages/characters/skills.md): **Arcana**, **History**, **Medicine**, **Nature**, or **Religion**. The memory of this knowledge fades once you take a **Rest**. You must **Rest** before you can use this feature again.

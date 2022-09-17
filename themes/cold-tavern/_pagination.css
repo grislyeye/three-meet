@@ -1,0 +1,25 @@
+.content .docsify-pagination-container {
+  margin-top: 1em;
+}
+
+.content .docsify-pagination-container .pagination-item {
+  margin-top: 1em;
+}
+
+@media screen and (max-width: 768px) {
+  .content .docsify-pagination-container {
+    font-size: 0.6em;
+  }
+}
+
+@media screen and (max-width: 690px) {
+  .content .docsify-pagination-container {
+    font-size: 0.5em;
+  }
+}
+
+@media screen and (max-width: 630px) {
+  .content .docsify-pagination-container {
+    font-size: 0.6em;
+  }
+}

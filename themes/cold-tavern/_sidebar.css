@@ -1,17 +1,19 @@
-.sidebar {
+main .sidebar {
+  background-color: rgb(239, 239, 239);
   border-right: 1px solid white;
+  z-index: 10;
 }
 
 .sidebar h1.app-name {
-  font-family: 'Alegreya', serif;
+  font-family: "Alegreya", serif;
   font-weight: bold;
-  color: white;
+  color: black;
   font-size: 32pt;
 }
 
 .sidebar-nav {
-  font-family: 'Alegreya', serif;
-  color: white;
+  font-family: "Alegreya", serif;
+  color: black;
 }
 
 .sidebar li {
@@ -19,20 +21,20 @@
 }
 
 .sidebar ul > li {
-  color: grey;
+  color: black;
   font-variant-caps: normal;
-  font-weight: normal;
+  font-weight: bold;
 }
 
 .sidebar .sidebar-nav > ul > li {
-  color: white;
-  font-size: 18px;
+  color: black;
+  font-size: 16px;
   font-weight: bold;
   font-variant-caps: small-caps;
 }
 
 .sidebar ul li a {
-  color: white;
+  color: black;
   font-weight: normal;
   overflow: hidden;
   text-decoration: none;
@@ -50,7 +52,7 @@
 }
 
 .sidebar-nav > ul > li > a {
-  color: white;
+  color: black;
   font-size: 18px;
   font-weight: bold;
   font-variant-caps: small-caps;
@@ -60,15 +62,66 @@
   border-right: 2px solid;
   font-weight: 600;
   text-decoration: none;
-  color: white;
+  color: black;
 }
 
 .app-sub-sidebar li::before {
-  content: '-';
+  content: "-";
   padding-right: 4px;
   float: left;
 }
 
+body.sticky .sidebar-toggle {
+  top: 10px;
+  right: 10px;
+  left: auto;
+}
+
 .sidebar-toggle {
-  background: black;
+  width: auto;
+  margin: 3em;
+  padding: 1em;
+  background-color: lightgray;
+  border-radius: 50%;
+  height: 50px;
+  z-index: 5;
+}
+
+.sidebar-toggle-button {
+  width: 24px;
+  height: 24px;
+}
+
+.sidebar-toggle-button:before {
+  font-family: "Font Awesome 6 Free";
+  content: "\f0c9";
+  font-size: 20px;
+}
+
+.sidebar-toggle:hover {
+  background-color: white;
+}
+
+.sidebar-toggle span {
+  display: none;
+}
+
+@media screen and (max-width: 630px) {
+  body .sidebar {
+    transform: translateX(16rem);;
+  }
+
+  body.close .content {
+    transform: translateX(0rem);
+  }
+
+  body.close .sidebar-toggle {
+    background-color: rgba(255, 255, 255, 0.8);
+    transition: 1s background-color;
+    display: inline-block;
+  }
+
+  body.close .sidebar {
+    transform: none;
+  }
 }

@@ -8,20 +8,21 @@ You can [report issues](https://github.com/grislyeye/three-meet/issues/new) and 
 
 Related projects include:
 
-  + [Three Meet character sheet](https://github.com/grislyeye/three-meet-char-sheet)
-  + [Docsify](https://docsify.js.org)
+- [Three Meet character sheet](https://github.com/grislyeye/three-meet-char-sheet)
+- [Docsify](https://docsify.js.org)
 
 ## Install
 
 This project has the following requirements:
 
-  * [Node.js/NPM](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
-  * [Butler](https://itch.io/docs/butler/installing.html)
+- [Node.js/NPM](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+- [Butler](https://itch.io/docs/butler/installing.html)
 
 Execute:
 
 ```sh
-$ git clone git@github.com:grislyeye/three-meet.git
+$ git clone->
+-> git@github.com:grislyeye/three-meet.git
 $ cd three-meet
 ```
 
@@ -52,8 +53,62 @@ $ npm run itch:deploy
 
 **Note:** Three Meet uses [semantic versioning](https://semver.org/).
 
+## Style Guide
+
+### 1. Punctuation
+
+1. Introduce bulleted or numbered lists with a full sentence.
+2. Each list item begins with a capital letter.
+3. Use closing punctuation if the lists contains full sentences.
+
+### 2. Terminology
+
+  1. Key terms should be in bold and capitalised for emphasis, e.g. **Proficiency**.
+  2. Key terms should be linked, e.g. [Proficiency](pages/rules/proficiency).
+  3. Exceptions to linking include:
+     1. Where a term has been defined nearby in the text.
+  5. Avoid using too many key terms in a text block to prevent visual overload.
+  6. Dice rolls should be in bold, including modifiers.
+
+### 3. Numerals
+
+  1. Whole numbers from 0 to 101 should be spelled out.
+  2. Exceptions include:
+  3. Game traits with numerical values.
+
+### 4. Person
+
+  1. Rules should be addressed to the reader, in the first person. For example, "you roll for" rather than "the player rolls".
+
+## Rules Guide
+
+### Features
+
+  1. Good features can:
+     1. Make an exception to the rules.
+     2. Take a feature from another [Background](pages/backgrounds/index.md) or [Class](pages/classes/index.md).
+  2. Features should **not**:
+     1. Give situational [Advantage](pages/rules/advantage.md) or [Disadvantage](pages/rules/advantage.md) (they are both situational anyway).
+  3. Good [Class](pages/backgrounds/index.md) features can:
+     1. Have combat utility.
+  4. Good [Class](pages/backgrounds/index.md) features should **not**:
+     1.- Have non-combat utility.
+     2. Give permission to do something already covered by a [Skill](pages/characters/skills.md).
+  2. Good [Background](pages/backgrounds/index.md) features can:
+     1. Allow you to substitute one proficiency for another (effectively doubling the proficiency's utility).
+     2. Give metagame information not normally available to the player (opponent's [Stamina](), etc.).
+     3. Award [Resources](../../pages/rules/usage.md), such as [Retainers](../../pages/equipment/retainers.md) or [Treasure](../../pages/equipment/wealth.md).
+     4. Give a [Proficiency](../../pages/rules/proficiency.md).
+     5. Give proficiency.
+  6. [Background](pages/backgrounds/index.md) features should **not**:
+     1. Have combat utility.
+     2. Replicate the [Cunning Expertise](pages/classes/cunning.md#expertise) class feature.
+     3. Award negative or positive modifiers to [Checks](), [Saves]() and [Attacks]().
+     4. Give too many proficiencies (usually more than 1).
+     5. Duplicate a **Skill**.
+
 ## Future Work
 
 My main design goal with **Three Meet** is to keep things focussed and simple, while not losing the solid 5E core rules.
 
-There are plans to expand **Three Meet**, but I hope these will be limited so as not overly complicate the system (see the [design notes](design-notes.md)). If you'd like to see the progress or find what we need help with see the [task board](https://github.com/grislyeye/three-meet/projects/1).
+There are plans to expand **Three Meet**, but I hope these will be limited so as not overly complicate the system (see the [design notes](design-notes.md)). If you'd like to see the progress or find what we need help with, see the [task board](https://github.com/orgs/grislyeye/projects/1).
