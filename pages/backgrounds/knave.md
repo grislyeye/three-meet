@@ -44,7 +44,7 @@ You know thieves’ cant, a secret code of dialect, hand-signs, jargon, ciphers,
 
 </header>
 
-You specialised in a particular criminal enterprise. Choose a speciality and gain its features. Knave specialities include:  **Burglar** and [Ruffian](#ruffian).
+You specialised in a particular criminal enterprise. Choose a speciality and gain its features. Knave specialities include:  **Burglar**, [Cutpurse](#cutpurse) and [Ruffian](#ruffian).
 
 <header>
 
