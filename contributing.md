@@ -99,11 +99,11 @@ $ npm run itch:deploy
      2. Give metagame information not normally available to the player (opponent's [Stamina](), etc.).
      3. Award [Resources](../../pages/rules/usage.md), such as [Retainers](../../pages/equipment/retainers.md) or [Treasure](../../pages/equipment/wealth.md).
      4. Give a [Proficiency](../../pages/rules/proficiency.md).
+     5. Give proficiency.
   6. [Background](pages/backgrounds/index.md) features should **not**:
      1. Have combat utility.
      2. Replicate the [Cunning Expertise](pages/classes/cunning.md#expertise) class feature.
-     3. Give proficiency.
-     4. Award negative or positive modifiers to [Checks](), [Saves]() and [Attacks]().
+     3. Award negative or positive modifiers to [Checks](), [Saves]() and [Attacks]().
 
 ## Future Work
 
