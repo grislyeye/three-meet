@@ -6,6 +6,7 @@
   + [Guild Artisan](pages/backgrounds/guild-artisan.md)
   + [Knave](pages/backgrounds/knave.md)
   + [Noble](pages/backgrounds/noble.md)
+  + [Performer](pages/backgrounds/performer.md)
   + [Magic Specialities](pages/backgrounds/magic.md)
 + [Classes](pages/classes/index.md)
   + [The Mighty](pages/classes/mighty.md)
