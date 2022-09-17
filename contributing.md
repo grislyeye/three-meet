@@ -97,6 +97,8 @@ $ npm run itch:deploy
   2. Good [Background](pages/backgrounds/index.md) features can:
      1. Allow you to substitute one proficiency for another (effectively doubling the proficiency's utility).
      2. Give metagame information not normally available to the player (opponent's [Stamina](), etc.).
+     3. Award [Resources](../../pages/rules/usage.md), such as [Retainers](../../pages/equipment/retainers.md) or [Treasure](../../pages/equipment/wealth.md).
+     4. Give a [Proficiency](../../pages/rules/proficiency.md).
   6. [Background](pages/backgrounds/index.md) features should **not**:
      1. Have combat utility.
      2. Replicate the [Cunning Expertise](pages/classes/cunning.md#expertise) class feature.
