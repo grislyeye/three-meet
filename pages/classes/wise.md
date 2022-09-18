@@ -35,6 +35,8 @@ You start with the following items:
 
 Choose an archetype and gain its features. The Wise archetypes include: [Elementalist](pages/classes/wise.md?id=elementalist), **Leader** and **[Sorcerer](pages/classes/wise.md?id=sorcerer)**.
 
+<header>
+
 ## Elementalist
 
 <p class="subheading">Magical Wise archetype</p>
