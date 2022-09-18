@@ -77,7 +77,7 @@ Choose an archetype and gain it's features. The Mighty archetypes include: [Bers
 
 You fight with blind fury, without regard for your own safety.
 
-| Level | Archetype Features |
+| Level | Features |
 | ----  | ------------------ |
 | 1st   | Savagery, Surge: Rage, Proficient: Intimidation |
 
@@ -113,7 +113,7 @@ Your rage lasts for 1 minute.
 
 You fight to protect. Cleaving close to your allies, you intercept attacks, so they can continue to deal damage.
 
-| Level | Archetype Features |
+| Level | Features |
 | ----  | ------------------ |
 | 1st   | Defend, Surge: Bolster, Proficient: Intimidation |
 | 3rd   | Mark |
