@@ -8,7 +8,7 @@
 
 | Level | Proficiency | Stamina | Features  |
 | ----  | ----------- | ------- | - |
-| 1st   | +2          | 8       | +1 [Cunning](pages/characters/attributes.md?id=cunning) <br> Proficient: Cunning Saves <br> Proficient: Any 1 skill <br> Expert Equipment <br>
+| 1st   | +2          | 8       | +1 [Cunning](pages/characters/attributes.md?id=cunning) <br> Proficient: Cunning Saves <br> Proficient: Any 1 skill <br> Expert Equipment <br> Cunning Attack <br> Expertise <br> Archetype
 | 2nd   | +2          | +1d8    | Cunning Action |
 | 3rd   | +2          | +1d8    | Archetype Feature |
 
