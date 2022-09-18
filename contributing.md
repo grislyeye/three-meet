@@ -103,7 +103,7 @@ $ npm run itch:deploy
      1. Have combat utility.
      2. Replicate the [Cunning Expertise](pages/classes/cunning.md#expertise) class feature.
      3. Award negative or positive modifiers to [Checks](), [Saves]() and [Attacks]().
-     4. Give too many proficiencies (usually more than 1).
+     4. Give too many [Proficiencies](../../pages/rules/proficiency.md) (usually more than 1).
      5. Duplicate a **Skill**.
 
 ## Future Work
