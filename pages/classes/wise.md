@@ -194,7 +194,13 @@ You summon elemental forces from deep in the earth at a [Nearby](../../pages/rul
 
 </section>
 
+<header>
+
 ## Leader
+
+<p class="subheading">Wise archetype</p>
+
+</header>
 
 Not all need fight, some must command. You are a leader, a tactician. Issuing orders and inspiriting greatness in others.
 
