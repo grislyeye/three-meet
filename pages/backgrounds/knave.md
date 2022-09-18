@@ -44,7 +44,7 @@ You know thieves’ cant, a secret code of dialect, hand-signs, jargon, ciphers,
 
 </header>
 
-You specialised in a particular criminal enterprise. Choose a speciality and gain its features. Knave specialities include:  **Burglar** and [Ruffian](#ruffian).
+You specialised in a particular criminal enterprise. Choose a speciality and gain its features. Knave specialities include:  **Burglar**,  [Mountebank](#mountebank) and [Ruffian](#ruffian).
 
 <header>
 
@@ -67,6 +67,28 @@ You specialised in a particular criminal enterprise. Choose a speciality and gai
 </header>
 
 When about thieving you always seem to have the right tool hidden about your clothing (such as rope, caltrops, hooded lanterns, etc.). If you're searched, the **Difficulty** to find your **Thieves' Stash** (Pack Ud6, Common, Illegal) is **8 + your Cunning + your Proficiency**.
+
+<header>
+
+## Mountebank
+
+<p class="subheading">Speciality</p>
+
+</header>
+
+| Level             | Features    |
+| ----------------- | - |
+| 1st               | Proficient: Deception, False Papers |
+
+<header>
+
+### False Papers
+
+<p class="subheading">1st-level Mountebank speciality feature</p>
+
+</header>
+
+You have a stash of forged letters and stolen documents that can be used to pass as someone else: **False Papers** (Pack Ud6, Illegal).
 
 ## Ruffian
 
