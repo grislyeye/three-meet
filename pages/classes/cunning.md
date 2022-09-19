@@ -6,11 +6,11 @@
 
 </header>
 
-| Level | Proficiency | Stamina | Features  |
-| ----  | ----------- | ------- | - |
-| 1st   | +2          | 8       | +1 [Cunning](pages/characters/attributes.md?id=cunning) <br> Proficient: Cunning Saves <br> Proficient: Any 1 skill <br> Expert Equipment <br> Cunning Attack <br> Expertise <br> Archetype
-| 2nd   | +2          | +1d8    | Cunning Action |
-| 3rd   | +2          | +1d8    | Archetype Feature |
+| Level | Proficiency | Stamina | Cunning Damage | Features  |
+| ----  | ----------- | ------- | -------------- | - |
+| 1st   | +2          | 8       | 1d6            | +1 [Cunning](pages/characters/attributes.md?id=cunning) <br> Proficient: Cunning Saves <br> Proficient: Any 1 skill <br> Expert Equipment <br> Cunning Attack <br> Expertise <br> Archetype
+| 2nd   | +2          | +1d8    | 1d6            | Cunning Action |
+| 3rd   | +2          | +1d8    | 2d6            | Archetype Feature |
 
 <header>
 
@@ -35,7 +35,7 @@ You start with the following items:
 
 </header>
 
-You can deal an extra 1d6 damage to one creature you hit with an attack, if you have advantage on the attack roll. You must be making a [Light Melee](pages/combat/attacks.md?id=describing-attacks) or [Light Thrown](pages/combat/attacks.md?id=describing-attacks) attack.
+You can deal extra **Cunning Damage** damage to one creature you hit with an attack, if you have advantage on the attack roll. You must be making a [Light Melee](pages/combat/attacks.md?id=describing-attacks) or [Light Thrown](pages/combat/attacks.md?id=describing-attacks) attack.
 
 <header>
 
