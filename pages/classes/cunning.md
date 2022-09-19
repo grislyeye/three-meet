@@ -96,7 +96,7 @@ You're a flurry of blades, dodging in and out of the front lines to pick off you
 
 </header>
 
-You can use your [Cunning Attack](#cunning-attack) against a [Close](../../pages/rules/distance.md) creature if there are no other creatures [Close](../../pages/rules/distance.md) to you.
+You can use your [Cunning Attack](#cunning-attack) against a [Close](../../pages/rules/distance.md) creature if you have already [Moved](../../pages/combat/moves.md) on your [Turn](../../pages/combat/index.md).
 
 <header>
 
@@ -106,7 +106,7 @@ You can use your [Cunning Attack](#cunning-attack) against a [Close](../../pages
 
 </header>
 
-As a [Reaction](../../pages/combat/reactions) you can make a [Move](../../pages/combat/moves.md). This **Move** does not trigger an [Opportunity Attack](../../pages/combat/reactions#opportunity-attack).
+As a [Bonus Action](../../pages/combat/bonus-actions.md) you can take the [Dodge Action](../../pages/combat/actions.md#dodge).
 
 <header>
 
