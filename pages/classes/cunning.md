@@ -96,7 +96,7 @@ You're a flurry of blades, dodging in and out of the front lines to pick off you
 
 </header>
 
-You can use your [Cunning Attack](#cunning-attack) against a [Close](../../pages/rules/distance.md) creature if there are no other creatures [Close](../../pages/rules/distance.md) to you. Or against creatures that don't have [Light](../../pages/combat/attacks.md) or [Off-Hand](../../pages/combat/bonus-actions.md#off-hand-attack) **Attacks**.
+You can use your [Cunning Attack](#cunning-attack) against a [Close](../../pages/rules/distance.md) creature if there are no other creatures [Close](../../pages/rules/distance.md) to you.
 
 <header>
 
