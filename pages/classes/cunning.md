@@ -35,7 +35,7 @@ You start with the following items:
 
 </header>
 
-You can deal extra **Cunning Damage** damage to one creature you hit with an attack, if you have advantage on the attack roll. You must be making a [Light Melee](pages/combat/attacks.md?id=describing-attacks) or [Light Thrown](pages/combat/attacks.md?id=describing-attacks) attack.
+You can deal extra **Cunning Damage** damage to one creature you hit with an attack, if you have advantage on the attack roll. You must be making a [Light Melee](pages/combat/attacks.md?id=describing-attacks) or [Ranged Attacks](pages/combat/attacks.md?id=describing-attacks).
 
 <header>
 
