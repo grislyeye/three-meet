@@ -106,7 +106,7 @@ You can use your [Cunning Attack](#cunning-attack) against a [Close](../../pages
 
 </header>
 
-As a [Bonus Action](../../pages/combat/bonus-actions.md) you can take the [Dodge Action](../../pages/combat/actions.md#dodge).
+As a [Bonus Action](../../pages/combat/bonus-actions.md) you can take the [Dodge Action](../../pages/combat/actions.md#dodge). You can do this for a number of times equal to your [Proficiency](../../pages/rules/proficiency.md). You regain all uses of this feature after a [Rest](../../pages/rules/rests.md).
 
 <header>
 
