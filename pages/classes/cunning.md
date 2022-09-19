@@ -12,6 +12,8 @@
 | 2nd   | +2          | +1d8    | Cunning Action |
 | 3rd   | +2          | +1d8    | Archetype Feature |
 
+<header>
+
 ### Expert Equipment
 
 <p class="subheading">1st-level Cunning class feature</p>
