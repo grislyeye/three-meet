@@ -108,8 +108,6 @@ You can use your [Cunning Attack](#cunning-attack) against a [Close](../../pages
 
 As a [Reaction](../../pages/combat/reactions) you can make a [Move](../../pages/combat/moves.md). This **Move** does not trigger an [Opportunity Attack](../../pages/combat/reactions#opportunity-attack).
 
-You can also use your [Cunning Action](#cunning-action) to make an [Acrobatics](../../pages/characters/skills.md#acrobatics) [Check](../../pages/rules/rolling/checks.md).
-
 <header>
 
 ## Shadow
