@@ -21,8 +21,7 @@ This project has the following requirements:
 Execute:
 
 ```sh
-$ git clone->
--> git@github.com:grislyeye/three-meet.git
+$ git clone git@github.com:grislyeye/three-meet.git
 $ cd three-meet
 ```
 
@@ -92,7 +91,7 @@ $ npm run itch:deploy
   3. Good [Class](pages/backgrounds/index.md) features can:
      1. Have combat utility.
   4. Good [Class](pages/backgrounds/index.md) features should **not**:
-     1.- Have non-combat utility.
+     1. Have non-combat utility.
      2. Give permission to do something already covered by a [Skill](pages/characters/skills.md).
   2. Good [Background](pages/backgrounds/index.md) features can:
      1. Allow you to substitute one proficiency for another (effectively doubling the proficiency's utility).
