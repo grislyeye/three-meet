@@ -6,11 +6,13 @@
 
 </header>
 
-| Level | Proficiency | Stamina | Features  |
-| ----  | ----------- | ------- | - |
-| 1st   | +2          | 8       | +1 [Cunning](pages/characters/attributes.md?id=cunning) <br> Proficient: Cunning Saves <br> Proficient: Any 1 skill <br> Expert Equipment <br>
-| 2nd   | +2          | +1d8    | Cunning Action |
-| 3rd   | +2          | +1d8    | Archetype Feature |
+| Level | Proficiency | Stamina | Cunning Damage | Features  |
+| ----  | ----------- | ------- | -------------- | - |
+| 1st   | +2          | 8       | 1d6            | +1 [Cunning](pages/characters/attributes.md?id=cunning) <br> Proficient: Cunning Saves <br> Proficient: Any 1 skill <br> Expert Equipment <br> Cunning Attack <br> Expertise <br> Archetype
+| 2nd   | +2          | +1d8    | 1d6            | Cunning Action |
+| 3rd   | +2          | +1d8    | 2d6            | Archetype Feature |
+
+<header>
 
 ### Expert Equipment
 
@@ -33,7 +35,7 @@ You start with the following items:
 
 </header>
 
-You can deal an extra 1d6 damage to one creature you hit with an attack, if you have advantage on the attack roll. You must be making a [Light Melee](pages/combat/attacks.md?id=describing-attacks) or [Light Thrown](pages/combat/attacks.md?id=describing-attacks) attack.
+You can deal extra **Cunning Damage** damage to one creature you hit with an attack, if you have advantage on the attack roll. You must be making a [Light Melee](pages/combat/attacks.md?id=describing-attacks) or [Ranged Attacks](pages/combat/attacks.md?id=describing-attacks).
 
 <header>
 
@@ -53,7 +55,7 @@ Choose two of your skill or tool proficiencies. Your proficiency bonus is double
 
 </header>
 
-Choose an archetype and gain its features. **The Cunning** archetypes include: [Shadow](pages/classes/cunning.md?id=shadow) and [Swashbuckler](pages/classes/cunning.md?id=swashbuckler).
+Choose an archetype and gain its features. **The Cunning** archetypes include: [Shadow](pages/classes/cunning.md?id=shadow) and [Skirmisher](pages/classes/cunning.md?id=skirmisher).
 
 <header>
 
@@ -94,7 +96,7 @@ You're a flurry of blades, dodging in and out of the front lines to pick off you
 
 </header>
 
-You can use your [Cunning Attack](#cunning-attack) against a [Close](../../pages/rules/distance.md) creature if there are no other creatures [Close](../../pages/rules/distance.md) to you. Or against creatures that don't have [Light](../../pages/combat/attacks.md) or [Off-Hand](../../pages/combat/bonus-actions.md#off-hand-attack) **Attacks**.
+You can use your [Cunning Attack](#cunning-attack) against a [Close](../../pages/rules/distance.md) creature if you have already [Moved](../../pages/combat/moves.md) on your [Turn](../../pages/combat/index.md).
 
 <header>
 
@@ -104,9 +106,7 @@ You can use your [Cunning Attack](#cunning-attack) against a [Close](../../pages
 
 </header>
 
-As a [Reaction](../../pages/combat/reactions) you can make a [Move](../../pages/combat/moves.md). This **Move** does not trigger an [Opportunity Attack](../../pages/combat/reactions#opportunity-attack).
-
-You can also use your [Cunning Action](#cunning-action) to make a [Cunning](../../pages/characters/attributes.md#cunning) [Acrobatics](../../pages/characters/skills.md#acrobatics) [Check](../../pages/rules/rolling/checks.md).
+As a [Bonus Action](../../pages/combat/bonus-actions.md) you can take the [Dodge Action](../../pages/combat/actions.md#dodge). You can do this for a number of times equal to your [Proficiency](../../pages/rules/proficiency.md). You regain all uses of this feature after a [Rest](../../pages/rules/rests.md).
 
 <header>
 

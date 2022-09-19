@@ -63,9 +63,7 @@ Condition (optional)
 
 </header>
 
-A **Corrupted** creature has been tainted by ruinous magics. They are slowly descending into darkness as their body and mind warp.
-
-Corruption is a [Resource](../../pages/rules/usage.md) your diminishing humanity. It's **Tapped** each time you make a corrupted action, such as using ruinous magic or using a cursed magic item.
+**Corrupted** is a [Resource](../../pages/rules/usage.md) that tracks your diminishing humanity. It's **Tapped** each time you make a corrupted action, such as using ruinous magic or using a cursed magic item.
 
 Each time it is **Exhausted** you undergo an unpleasant transformation. Roll on the Corruptions table below. Your Corruption then **Replenishes** at the next lower die. It stays at Ud4 once you reach Ud4.
 

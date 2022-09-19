@@ -35,6 +35,8 @@ You start with the following items:
 
 Choose an archetype and gain its features. The Wise archetypes include: [Elementalist](pages/classes/wise.md?id=elementalist), **Leader** and **[Sorcerer](pages/classes/wise.md?id=sorcerer)**.
 
+<header>
+
 ## Elementalist
 
 <p class="subheading">Magical Wise archetype</p>
@@ -43,8 +45,8 @@ Choose an archetype and gain its features. The Wise archetypes include: [Element
 
 With raw, primordial force you fly at your enemies, bolstering you and your allies.
 
-| Level | Archetype Features         | Spell Slots |
-| ----  | -------------------------- | ----------- |
+| Level | Features | Spell Slots |
+| ----  | -------- | ----------- |
 | 1st   | Minor Elementalism, Rituals, Elementalism, Animal Form, Proficient: Nature, medium armor, shields, and martial weapons | 2  |
 | 2nd   | Primordial Form | 3 |
 
@@ -194,11 +196,17 @@ You summon elemental forces from deep in the earth at a [Nearby](../../pages/rul
 
 </section>
 
+<header>
+
 ## Leader
+
+<p class="subheading">Wise archetype</p>
+
+</header>
 
 Not all need fight, some must command. You are a leader, a tactician. Issuing orders and inspiriting greatness in others.
 
-| Level | Archetype Features | Wise Slots
+| Level | Features | Wise Slots
 | ----  | - | - |
 | 1st   | Command, Guidance, Tactics, Proficient: Persuasion, light armor, shields, and simple weapons | 2
 
@@ -314,17 +322,11 @@ You can use your [Action]() to call out a useful ploy to a [Nearby]() ally. The 
 
 You are a practitioner of forbidden, arcane arts.
 
-| Level | Archetype Features         | Spell Slots | Slot Level |
-| ----  | -------------------------- | ----------- | ---------- |
+| Level | Features | Spell Slots | Slot Level |
+| ----  | -------- | ----------- | ---------- |
 | 1st   | Minor Sorcery, Stricken, Rituals, Sorcery | 2 | 1st |
 | 2nd   | Corrupted, Improved Stricken, Insidious Whispers, Witch Sight | 3 | 1st |
 | 3rd   | Spirit Door spell, Spirit Tongue | 3 | 2nd |
-
-### Starting Stats
-
-**Starting Equipment:** Quarterstaff (Melee 1d6)
-
-**Proficiencies:** Arcana
 
 <header>
 
