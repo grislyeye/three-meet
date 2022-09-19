@@ -1,3 +1,5 @@
+# Contents
+
 + Characters
   + [Attributes](pages/characters/attributes.md)
   + [Skills](pages/characters/skills.md)
@@ -31,11 +33,11 @@
   + [Bonus Actions](pages/combat/bonus-actions.md)
   + [Reactions](pages/combat/reactions.md)
   + [Stamina](pages/combat/stamina.md)
-* Equipment
-  * [Wealth](pages/equipment/wealth.md)
-  * [Armour](pages/equipment/armour.md)
-  * [Packs](pages/equipment/packs.md)
-  * [Retainers](pages/equipment/retainers.md)
++ Equipment
+  + [Wealth](pages/equipment/wealth.md)
+  + [Armour](pages/equipment/armour.md)
+  + [Packs](pages/equipment/packs.md)
+  + [Retainers](pages/equipment/retainers.md)
 + Colophon
   + [Design Notes](design-notes.md)
   + [Contributing](contributing.md)

@@ -66,8 +66,8 @@ $ npm run itch:deploy
   2. Key terms should be linked, e.g. [Proficiency](pages/rules/proficiency).
   3. Exceptions to linking include:
      1. Where a term has been defined nearby in the text.
-  5. Avoid using too many key terms in a text block to prevent visual overload.
-  6. Dice rolls should be in bold, including modifiers.
+  4. Avoid using too many key terms in a text block to prevent visual overload.
+  5. Dice rolls should be in bold, including modifiers.
 
 ### 3. Numerals
 
@@ -93,7 +93,7 @@ $ npm run itch:deploy
   4. Good [Class](pages/backgrounds/index.md) features should **not**:
      1. Have non-combat utility.
      2. Give permission to do something already covered by a [Skill](pages/characters/skills.md).
-  2. Good [Background](pages/backgrounds/index.md) features can:
+  5. Good [Background](pages/backgrounds/index.md) features can:
      1. Allow you to substitute one proficiency for another (effectively doubling the proficiency's utility).
      2. Give metagame information not normally available to the player (opponent's [Stamina](), etc.).
      3. Award [Resources](../../pages/rules/usage.md), such as [Retainers](../../pages/equipment/retainers.md) or [Treasure](../../pages/equipment/wealth.md).

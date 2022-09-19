@@ -1,0 +1,7 @@
+{
+  "default": true,
+  "MD033": false,
+  "MD007": false,
+  "MD013": false,
+  "commands-show-output": false
+}
