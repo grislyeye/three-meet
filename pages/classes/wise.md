@@ -45,10 +45,11 @@ Choose an archetype and gain its features. The Wise archetypes include: [Element
 
 With raw, primordial force you fly at your enemies, bolstering you and your allies.
 
-| Level | Features | Spell Slots |
-| ----  | -------- | ----------- |
-| 1st   | Minor Elementalism, Rituals, Elementalism, Animal Form, Proficient: Nature, medium armor, shields, and martial weapons | 2  |
-| 2nd   | Primordial Form | 3 |
+| Level | Features | Spell Slots | Slot Level |
+| ----  | -------- | ----------- | ---------- |
+| 1st   | Minor Elementalism, Rituals, Elementalism, Animal Form, Proficient: Nature, medium armor, shields, and martial weapons | 2 | 1st |
+| 2nd   | Primordial Form | 3 | 1st |
+| 3rd   | ??? | 3 | 2nd |
 
 <header>
 
