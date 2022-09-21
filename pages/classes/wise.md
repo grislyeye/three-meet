@@ -49,7 +49,7 @@ With raw, primordial force you fly at your enemies, bolstering you and your alli
 | ----  | -------- | ----------- | ---------- |
 | 1st   | Minor Elementalism, Rituals, Elementalism, Animal Form, Proficient: Nature, medium armor, shields, and martial weapons | 2 | 1st |
 | 2nd   | Primordial Form | 3 | 1st |
-| 3rd   | ??? | 3 | 2nd |
+| 3rd   | Enhance Form, Kindred Beast | 3 | 2nd |
 
 <header>
 
@@ -195,7 +195,39 @@ You summon elemental forces from deep in the earth at a [Nearby](../../pages/rul
 
 </section>
 
+<section class="spell">
+
+<header>
+
+#### Enhance (Spell Action, 1 hour)
+
+<p class="subheading">3rd-level Elementalist spell</p>
+
+</header>
+
+When in [Animal Form](#animal-form) you gain one of the following benefits:
+
+ * ***Bear's Endurance:*** You have [Advantage]() on [Might]() [Checks](), and gain 2d6 [Stamina]() while in [Animal Form](#animal-form).
+
+ * ***Cat's Grace:*** You have [Advantage]() on [Cunning]() [Checks](), and don't take falling damage from [Nearby]() heights.
+
+ * ***Owl's Wisdom:*** You have [Advantage]() on [Wisdom]() [Checks]().
+
 </section>
+
+<section class="spell">
+
+<header>
+
+#### Kindred Beast
+
+<p class="subheading">3rd-level Elementalist ritual</p>
+
+</header>
+
+You befriend a **Kindred Beast** (Perceptive and Stealthy Creature +5/-2, Defence 14. Stamina 35, 2 Melee Attack 2d6+3). It acts independently of you, but it always obeys your commands.
+
+When you make an [Attack](), you can forgo one of your own attacks to allow your kindred beast to make one [Attack]() of its own with its [Reaction](). You can't have more than one kindred beast at a time.
 
 <header>
 
