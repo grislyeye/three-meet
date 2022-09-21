@@ -114,6 +114,8 @@ When you are unseen you can use your [Action](../../pages/combat/actions.md) to 
 
  You can use this feature twice. You regain expended uses when you finish a [Rest](../../pages/rules/rests.md).
 
+<header>
+
 ### Elementalism
 
 <p class="subheading">1st-level Elementalist archetype feature</p>
