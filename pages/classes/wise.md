@@ -47,10 +47,23 @@ With raw, primordial force you fly at your enemies, bolstering you and your alli
 
 | Level | Features | Spell Slots |
 | ----  | -------- | ----------- |
-| 1st   | Minor Elementalism, Rituals, Elementalism, Animal Form, Proficient: Nature, medium armor, shields, and martial weapons | 2  |
+| 1st   | Wild Trappings, Minor Elementalism, Rituals, Elementalism, Animal Form, Proficient: Nature, medium armor, shields, and martial weapons | 2  |
 | 2nd   | Primordial Form | 3 |
 
 <header>
+
+<header>
+
+### Wild Trappings
+
+<p class="subheading">1st-level Elementalist archetype feature</p>
+
+</header>
+
+You start with the following items:
+
+ * **Hide Armour** (Defence 11, Medium)
+ * **Maul** (Melee 2d6, Two-Handed)
 
 ### Minor Elementalism
 
