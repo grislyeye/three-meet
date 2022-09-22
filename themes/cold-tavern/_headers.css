@@ -35,39 +35,37 @@
   margin-top: 0.5em;
 }
 
-.content header {
+.content h1,
+.content h2,
+.content h3,
+.content h4 {
   margin-bottom: 0;
 }
 
-.content header h1,
-.content header h2,
-.content header h3,
-.content header h4 {
-  margin-bottom: 0;
+.content > h1:first-child {
 }
 
-.content .subheading {
-  font-family: "Alegreya Sans SC", sans-serif;
+.content h1 + p {
+  margin-bottom: 3em;
   margin-top: 0;
 }
 
-.content header h1 + p.subheading {
-  margin-bottom: 3em;
-}
-
-.content header h2 + p.subheading {
+.content h2 + p {
   font-size: 0.8em;
+  margin-top: 0;
 }
 
-.content header h3 + p.subheading {
+.content h3 + p {
   font-size: 0.7em;
+  margin-top: 0;
 }
 
-.content header h4 + p.subheading {
+.content h4 + p {
   font-size: 0.7em;
+  margin-top: 0;
 }
 
-.content header img {
+.content h1 img {
   float: right;
 }
 
