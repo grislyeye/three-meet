@@ -18,7 +18,7 @@
 .content .summaries .summary h2,
 .content .summaries .summary h4 {
   font-family: "Alegreya Sans SC", serif;
-  margin-top: 0.1em;
+  margin-top: 0.3em;
   padding: 0;
 }
 
@@ -29,11 +29,14 @@
 
 .content .summaries .summary h2 * {
   font-weight: normal;
-  font-size: 0.8em;
+  font-size: 0.9em;
   margin-bottom: 0.1em;
 }
 
-.content .summaries .summary header p {
+.content .summaries .summary h1 + p,
+.content .summaries .summary h2 + p,
+.content .summaries .summary h3 + p,
+.content .summaries .summary h4 + p {
   font-family: "Alegreya Sans SC", serif;
   font-style: italic;
   font-weight: normal;

@@ -83,7 +83,6 @@
 
   .content h1 + p {
     width: 100%;
-    font-size: 0.7em;
     margin: 0.5em 0;
   }
 
@@ -91,21 +90,11 @@
     margin-bottom: 0;
     width: 62.5%;
   }
-
-  .markdown-section > :first-child {
-    width: 62.5%;
-    font-size: 1.75em;
-  }
 }
 
 @media screen and (max-width: 690px) {
   .markdown-section > * {
     width: 57.5%;
-  }
-
-  .markdown-section > :first-child {
-    width: 57.5%;
-    font-size: 1.5em;
   }
 
   .anchor span {
@@ -115,10 +104,6 @@
 
 @media screen and (max-width: 630px) {
   .markdown-section > * {
-    width: 100%;
-  }
-
-  .markdown-section > :first-child {
     width: 100%;
   }
 
