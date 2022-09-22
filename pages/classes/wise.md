@@ -4,7 +4,7 @@ Class
 
 | Level | Proficiency | Stamina | Features  |
 | ----  | ----------- | ------- | - |
-| 1st   | +2          | 6       | +1 [Wisdom](../../pages/characters/attributes.md?id=wisdom), Proficient: Insight, Proficient: [Wisdom](../../pages/characters/attributes.md?id=wisdom) [Saves](../../pages/rules/rolling/saves.md), Learned Equipment, Archetype |
+| 1st   | +2          | 6       | +1 [Wisdom](../../pages/characters/attributes.md#wisdom), Proficient: Insight, Proficient: [Wisdom](../../pages/characters/attributes.md#wisdom) [Saves](../../pages/rules/rolling/saves.md), Learned Equipment, Archetype |
 | 2nd   | +2          | +1d6    | |
 | 3rd   | +2          | +1d6    | |
 
@@ -21,7 +21,7 @@ You start with the following items:
 
 1st-level Wise class feature
 
-Choose an archetype and gain its features. The Wise archetypes include: [Elementalist](../../pages/classes/wise.md?id=elementalist), **Leader** and **[Sorcerer](../../pages/classes/wise.md?id=sorcerer)**.
+Choose an archetype and gain its features. The Wise archetypes include: [Elementalist](../../pages/classes/wise.md#elementalist), **Leader** and **[Sorcerer](../../pages/classes/wise.md#sorcerer)**.
 
 ## Elementalist
 
@@ -264,7 +264,7 @@ You can cast the rituals below. A ritual takes 10 minutes to cast.
 
 1st-level Sorcerer ritual
 
-You make yourself, including your clothing, armour, weapons, and other belongings on your person, look different for 1 hour, or until you dismiss the disguise. A creature examining you closely can discern you are disguised on a successful [Investigation](../../pages/characters/skills.md?id=investigation) [Check](../../pages/rules/rolling/checks.md) (Difficulty 10). If they succeed your disguise vanishes.
+You make yourself, including your clothing, armour, weapons, and other belongings on your person, look different for 1 hour, or until you dismiss the disguise. A creature examining you closely can discern you are disguised on a successful [Investigation](../../pages/characters/skills.md#investigation) [Check](../../pages/rules/rolling/checks.md) (Difficulty 10). If they succeed your disguise vanishes.
 
 </section>
 
@@ -294,7 +294,7 @@ You can cast spells. To cast a spell you must expend a **Wise Slot**. Each spell
 
 1st-level Sorcerer spell
 
-You pull back the veil, revealing a glimpse of what lies beyond the mortal realm. Each creature **Close** to you must make a [Wisdom](../../pages/characters/attributes.md?id=wisdom) [Save](../../pages/rules/rolling/saves.md) against your **Spell Difficulty**. Creatures that fail their saves are [Frightened](../../pages/rules/conditions?id=frightened) by you until the end of your next turn.
+You pull back the veil, revealing a glimpse of what lies beyond the mortal realm. Each creature **Close** to you must make a [Wisdom](../../pages/characters/attributes.md#wisdom) [Save](../../pages/rules/rolling/saves.md) against your **Spell Difficulty**. Creatures that fail their saves are [Frightened](../../pages/rules/conditions#frightened) by you until the end of your next turn.
 
 </section>
 

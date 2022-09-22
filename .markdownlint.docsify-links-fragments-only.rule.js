@@ -1,6 +1,6 @@
 module.exports = {
-  "names": [ "docsify-relative-link" ],
-  "description": "Internal Docsify links should be relative",
+  "names": [ "docsify-links-fragments-only" ],
+  "description": "Internal Docsify should use URL fragments (and not '?id=')",
   "tags": [ "custom", "docsify" ],
   "function": (params, onError) => {
      params
@@ -12,7 +12,7 @@ module.exports = {
            .filter((child) => child.type === 'link_open')
            .forEach((link) => {
              for (const attr of link.attrs) {
-               if (isDocsifyLink(attr) && !isRelativeLink(attr)) {
+               if (isDocsifyLink(attr) && isRelativeLink(attr) && attr[1].includes('?id=')) {
                  onError({
                    "lineNumber": inline.lineNumber,
                    "context": attr[1]

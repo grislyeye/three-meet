@@ -6,7 +6,7 @@ Blackguard, scoundrel, outlaw: these are just some of the names you have been ca
 
 | Level             | Background Features    |
 | ----------------- | - |
-| 1st               | +1 [Cunning](../../pages/characters/attributes.md?id=cunning), Proficient: Sleight, Criminal Trappings, Thieves' Cant, Speciality |
+| 1st               | +1 [Cunning](../../pages/characters/attributes.md#cunning), Proficient: Sleight, Criminal Trappings, Thieves' Cant, Speciality |
 
 ## Criminal Trappings
 
@@ -56,4 +56,4 @@ You're basically a thug, running enforcement, protection rackets, or acting as b
 
 ### Tough
 
-While you are not wearing any armour, your [Defence](../../pages/combat/attacks?id=defence) equals **10 + [Cunning](../../pages/characters/attributes?id=cunning) + [Might](../../pages/characters/attributes?id=might)**.
+While you are not wearing any armour, your [Defence](../../pages/combat/attacks#defence) equals **10 + [Cunning](../../pages/characters/attributes#cunning) + [Might](../../pages/characters/attributes#might)**.

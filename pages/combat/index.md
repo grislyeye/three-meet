@@ -25,7 +25,7 @@ If you're surprised at the start or combat, you can't move or take an **Action**
 
 Rule
 
-**Initiative** is a [Cunning](../../pages/characters/attributes.md?id=cunning) [Check](../../pages/rules/rolling/checks.md). It determines the order of turns (highest to lowest) during combat:
+**Initiative** is a [Cunning](../../pages/characters/attributes.md#cunning) [Check](../../pages/rules/rolling/checks.md). It determines the order of turns (highest to lowest) during combat:
 
  + The GM makes one roll for an entire group of identical creatures.
  + If a tie occurs, the GM decides the order.

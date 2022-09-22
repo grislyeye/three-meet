@@ -46,7 +46,7 @@ Guide
 
 I've always found the 5E ability scores confusing and ambiguous.
 
-In **Three Meet** ability scores have been merged into three [Attributes](./pages/characters/attributes.md): [Might](./pages/characters/attributes.md?id=might) (Strength and Constitution), [Cunning](./pages/characters/attributes.md?id=cunning) (Dexterity and Charisma), and [Wisdom](./pages/characters/attributes.md?id=wisdom) (Intelligence and Wisdom).
+In **Three Meet** ability scores have been merged into three [Attributes](./pages/characters/attributes.md): [Might](./pages/characters/attributes.md#might) (Strength and Constitution), [Cunning](./pages/characters/attributes.md#cunning) (Dexterity and Charisma), and [Wisdom](./pages/characters/attributes.md#wisdom) (Intelligence and Wisdom).
 
 </section>
 

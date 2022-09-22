@@ -4,13 +4,13 @@ Class
 
 | Level | Proficiency | Stamina | Features  |
 | ----  | ----------- | ------- | - |
-| 1st   | +2          | 10      | +1 [Might](../../pages/characters/attributes.md?id=might), Martial Gear, Surge, Archetype |
+| 1st   | +2          | 10      | +1 [Might](../../pages/characters/attributes.md#might), Martial Gear, Surge, Archetype |
 | 2nd   | +2          | +1d10   | Mighty Action |
 | 3rd   | +2          | +1d10   | Archetype Feature |
 
 ## Starting Stats
 
-**Proficiencies:** Athletics, [Might](../../pages/characters/attributes.md?id=might) [Saves](../../pages/rules/rolling/saves.md), all armor, shields, simple weapons, and martial weapons
+**Proficiencies:** Athletics, [Might](../../pages/characters/attributes.md#might) [Saves](../../pages/rules/rolling/saves.md), all armor, shields, simple weapons, and martial weapons
 
 ## Martial Gear
 
@@ -45,7 +45,7 @@ Starting at 2nd level, you can push yourself beyond your normal limits. On your 
 
 1st-level Mighty class feature
 
-Choose an archetype and gain it's features. The Mighty archetypes include: [Berserker](../../pages/classes/mighty.md?id=berserker) and [Defender](../../pages/classes/mighty.md?id=defender).
+Choose an archetype and gain it's features. The Mighty archetypes include: [Berserker](../../pages/classes/mighty.md#berserker) and [Defender](../../pages/classes/mighty.md#defender).
 
 ## Berserker
 
