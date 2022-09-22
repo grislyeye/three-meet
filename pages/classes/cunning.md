@@ -120,11 +120,38 @@ You are a skilled bowman, trained in bow and arrow. With a keen eye, you rarely 
 
 | Level | Archetype Features |
 | ----  | ------------------ |
-| 1st   | Archery, Cunning Shot, Proficient: Perception |
+| 1st   | Mark, Cunning Shot, Proficient: Perception |
+| 3rd   | Fast Shot |
+
+<header>
+
+### Mark
+
+<p class="subheading">1st-level Archer archetype feature</p>
+
+</header>
+
+As an [Action]() you can mark an *enemy* you can see, for 1 minute. You can only mark one *enemy* at a time.
+
+<header>
 
 ### Cunning Shot
 
-You can use your **Cunning Attack** with **Ranged Attacks**. Also you don't need advantage on your **Cunning Attack** for against any creature that hasn't moved in the last **Turn**.
+<p class="subheading">1st-level Archer archetype feature</p>
+
+</header>
+
+You can use your **Cunning Attack** with **Ranged Attacks**. Also you don't need advantage on your **Cunning Attack** for against any creature that is *marked*.
+
+<header>
+
+### Fast Shot
+
+<p class="subheading">1st-level Archer archetype feature</p>
+
+</header>
+
+You can use your **Cunning Action** to *mark* an enemy.
 
 <header>
 
