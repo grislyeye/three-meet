@@ -76,6 +76,10 @@ You can sense and purify small amounts of [Close](../../pages/rules/distance.md)
 
 When you are unseen you can use your [Action](../../pages/combat/actions.md) to transform into an **Animal** (Common Creature, **Defence** 10 + Wisdom + Cunning, **Stamina** Wisdom + your level, **Light Melee Attack** 1d6) *or* transform back. If you lose all your **Stamina** in this form you transform back and take any left over damage.
 
+ You can use this feature twice. You regain expended uses when you finish a [Rest](../../pages/rules/rests.md).
+
+<header>
+
 ### Elementalism
 
 1st-level Elementalist archetype feature

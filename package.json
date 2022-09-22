@@ -1,6 +1,6 @@
 {
   "name": "three-meet",
-  "version": "0.23.2",
+  "version": "0.24.0",
   "description": "A low-fantasy 5E hack for dark times",
   "author": "R.G. Wood <ric@grislyeye.com> (https://grislyeye.com)",
   "homepage": "https://github.com/grislyeye/three-meet#readme",
@@ -21,6 +21,7 @@
     "test": "htmlhint 'index.html' && npx markdownlint '**/*.md' --ignore dist --ignore node_modules --rules .markdownlint.docsify-relative-links.rule.js --rules .markdownlint.docsify-links-fragments-only.rule.js && stylelint 'themes/cold-tavern/**/*.css'"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.2.0",
     "docsify": ">=4.12.2",
     "docsify-page-preview": "^0.0.3",
     "docsify-pagination": "^2.10.1",
