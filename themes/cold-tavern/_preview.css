@@ -8,10 +8,7 @@ docsify-page-preview .preview-popup {
 
 docsify-page-preview .preview-popup .summaries {
   display: block;
-  margin-top: 0;
-  margin-bottom: 0;
-  margin-left: 0;
-  margin-right: 0;
+  margin: 0;
   border: none;
 }
 
@@ -23,15 +20,11 @@ docsify-page-preview .preview-popup h1,
 docsify-page-preview .preview-popup h2,
 docsify-page-preview .preview-popup h3,
 docsify-page-preview .preview-popup h4,
-
 docsify-page-preview .preview-popup .summaries h1,
 docsify-page-preview .preview-popup .summaries h2,
 docsify-page-preview .preview-popup .summaries h3 {
-  font-family: 'Alegreya', serif;
-  margin-top: 0;
-  margin-bottom: 0;
-  margin-left: 0;
-  margin-right: 0;
+  font-family: Alegreya, serif;
+  margin: 0;
   border: none;
   font-weight: bold;
   font-size: 45px;

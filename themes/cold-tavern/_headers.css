@@ -1,12 +1,12 @@
 .content h1 {
-  font-family: "Alegreya", serif;
+  font-family: Alegreya, serif;
   color: white;
   font-size: 72px;
   margin-top: 1em;
 }
 
 .content h2 {
-  font-family: "Alegreya", serif;
+  font-family: Alegreya, serif;
   font-size: 48px;
   width: 100%;
   margin-top: 1.5em;
@@ -15,7 +15,7 @@
 }
 
 .content h3 {
-  font-family: "Alegreya", serif;
+  font-family: Alegreya, serif;
   font-size: 32px;
   margin-top: 1.5em;
   margin-bottom: 0.5em;
@@ -26,7 +26,7 @@
 }
 
 .content h4 {
-  font-family: "Alegreya", serif;
+  font-family: Alegreya, serif;
   margin-bottom: 0.5em;
   font-style: italic;
   font-variant: small-caps;
@@ -78,13 +78,13 @@
 @media screen and (max-width: 768px) {
   .content h1 {
     width: 100%;
-    margin: 0em;
+    margin: 0;
   }
 
   .content h1 + p {
     width: 100%;
     font-size: 0.7em;
-    margin: 0.5em 0em;
+    margin: 0.5em 0;
   }
 
   .markdown-section > * {
