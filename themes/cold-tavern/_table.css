@@ -1,8 +1,9 @@
- .content table th {
-  text-align: left
- }
+.content table th {
+  text-align: left;
+}
 
-.content table td, .content table th {
+.content table td,
+.content table th {
   border: none;
   border-bottom: 1px solid #ddd;
 }
@@ -12,10 +13,45 @@
 }
 
 .markdown-section table tr:nth-child(2n) {
-    background-color: black;
+  background-color: black;
+}
+
+.content table td {
+  vertical-align: top;
 }
 
 .content table th.numbers,
 .content table td.numbers {
   text-align: center;
+}
+
+@media screen and (max-width: 768px) {
+  .markdown-section table {
+    width: 62.5%;
+    margin-top: 1em;
+  }
+
+  .content header table {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 690px) {
+  .markdown-section table {
+    table-layout: fixed;
+    width: 57.5%;
+  }
+
+  .markdown-section table th {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    max-width: 50px;
+  }
+}
+
+@media screen and (max-width: 630px) {
+  .markdown-section table {
+    width: 100%;
+  }
 }
