@@ -17,6 +17,8 @@ All creatures are described by three **Attributes** representing their physical 
 
 ## Might
 
+Attribute
+
 Raw strength, stamina, and combat prowess.
 
 Added to [Stamina](../../pages/combat/stamina.md), and melee [Attacks](../../pages/combat/attacks.md) and [Damage](../../pages/combat/attacks.md) rolls.
@@ -26,6 +28,8 @@ Added to [Stamina](../../pages/combat/stamina.md), and melee [Attacks](../../pag
 <section class="summary">
 
 ## Cunning
+
+Attribute
 
 Wits, speed, agility, dexterousness, charm, perceptiveness, and guile.
 
@@ -37,9 +41,12 @@ Added to [Initiative](../../pages/combat/index.md#initiative), [Defence](../../p
 
 ## Wisdom
 
+Attribute
+
 Intelligence, intuition, knowledge, spirituality, and ingeniousness.
 
 Added to spell [Attacks](../../pages/combat/attacks.md).
 
 </section>
+
 </section>

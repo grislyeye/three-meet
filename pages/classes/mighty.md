@@ -10,6 +10,8 @@ Class
 
 ## Starting Stats
 
+1st-level Mighty class feature
+
 **Proficiencies:** Athletics, [Might](../../pages/characters/attributes.md#might) [Saves](../../pages/rules/rolling/saves.md), all armor, shields, simple weapons, and martial weapons
 
 ## Martial Gear
@@ -32,6 +34,8 @@ You have a limited well of stamina that you can draw on to fuel feats of strengt
 When you use your Surge, you choose which feat to use. You must then finish a rest to use your Surge again.
 
 ### Surge: Second Wind
+
+1st-level Mighty class feature
 
 As a [Bonus Action](../../pages/combat/bonus-actions.md) you can regain [Stamina](../../pages/combat/stamina.md) equal to **1d10 + your level**.
 

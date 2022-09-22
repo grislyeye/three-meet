@@ -56,4 +56,6 @@ You're basically a thug, running enforcement, protection rackets, or acting as b
 
 ### Tough
 
+1st-level Ruffian speciality feature
+
 While you are not wearing any armour, your [Defence](../../pages/combat/attacks#defence) equals **10 + [Cunning](../../pages/characters/attributes#cunning) + [Might](../../pages/characters/attributes#might)**.
