@@ -55,9 +55,7 @@ Choose two of your skill or tool proficiencies. Your proficiency bonus is double
 
 </header>
 
-Choose an archetype and gain its features. **The Cunning** archetypes include: [Shadow](pages/classes/cunning.md?id=shadow) and [Skirmisher](pages/classes/cunning.md?id=skirmisher).
-
-<header>
+Choose an archetype and gain its features. **The Cunning** archetypes include: [Archer](#archer), [Shadow](pages/classes/cunning.md?id=shadow) and [Skirmisher](pages/classes/cunning.md?id=skirmisher).
 
 <header>
 
@@ -107,6 +105,53 @@ You can use your [Cunning Attack](#cunning-attack) against a [Close](../../pages
 </header>
 
 As a [Bonus Action](../../pages/combat/bonus-actions.md) you can take the [Dodge Action](../../pages/combat/actions.md#dodge). You can do this for a number of times equal to your [Proficiency](../../pages/rules/proficiency.md). You regain all uses of this feature after a [Rest](../../pages/rules/rests.md).
+
+<header>
+
+<header>
+
+## Archer
+
+<p class="subheading">Cunning archetype</p>
+
+</header>
+
+You are a skilled bowman, trained in bow and arrow. With a keen eye, you rarely miss your mark.
+
+| Level | Archetype Features |
+| ----  | ------------------ |
+| 1st   | Mark, Cunning Shot, Proficient: Perception |
+| 3rd   | Fast Shot |
+
+<header>
+
+### Mark
+
+<p class="subheading">1st-level Archer archetype feature</p>
+
+</header>
+
+As an [Action]() you can mark an *enemy* you can see, for 1 minute. You can only mark one *enemy* at a time.
+
+<header>
+
+### Cunning Shot
+
+<p class="subheading">1st-level Archer archetype feature</p>
+
+</header>
+
+You can use your **Cunning Attack** with **Ranged Attacks**. Also you don't need advantage on your **Cunning Attack** for against any creature that is *marked*.
+
+<header>
+
+### Fast Shot
+
+<p class="subheading">1st-level Archer archetype feature</p>
+
+</header>
+
+You can use your **Cunning Action** to *mark* an enemy.
 
 <header>
 
