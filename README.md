@@ -1,10 +1,6 @@
-<header>
-
 # Three Meet
 
-<p class="subheading">A low-fantasy 5E hack for dark times</p>
-
-</header>
+A low-fantasy 5E hack for dark times
 
 To start playing:
 
@@ -12,7 +8,9 @@ To start playing:
 
 <section class="summary">
 
-### 1. Prepare
+## Prepare
+
+Step 1
 
   + Find somewhere to play
   + Pick a player to be game moderator (GM)
@@ -23,7 +21,9 @@ To start playing:
 
 <section class="summary">
 
-### 2. Create a character
+## Create a character
+
+Step 2
 
   + Assign one of +2, +1 and -1 to each of your [Attributes](pages/characters/attributes.md)
   + Choose a [Background](pages/backgrounds/index.md)
@@ -35,7 +35,9 @@ To start playing:
 
 <section class="summary">
 
-### 3. Learn the rules
+## Learn the rules
+
+Step 3
 
   + Read the [Basic Rules](pages/rules/rolling.md)
   + Read the [Combat Rules](pages/combat/order.md)
@@ -44,7 +46,9 @@ To start playing:
 
 <section class="summary">
 
-### 4. Play
+## Play
+
+Step 4
 
   + Make an adventure
   + Jump into the action

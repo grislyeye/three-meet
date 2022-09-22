@@ -1,4 +1,4 @@
-.content header h1 + p.subheading::after {
+.content h1 + p::after {
   color: white;
   background-color: red;
   margin: 0.5em;

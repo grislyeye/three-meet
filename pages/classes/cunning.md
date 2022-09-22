@@ -1,10 +1,6 @@
-<header>
-
 # The Cunning
 
-<p class="subheading">Class</p>
-
-</header>
+Class
 
 | Level | Proficiency | Stamina | Cunning Damage | Features  |
 | ----  | ----------- | ------- | -------------- | - |
@@ -12,13 +8,9 @@
 | 2nd   | +2          | +1d8    | 1d6            | Cunning Action |
 | 3rd   | +2          | +1d8    | 2d6            | Archetype Feature |
 
-<header>
+## Expert Equipment
 
-### Expert Equipment
-
-<p class="subheading">1st-level Cunning class feature</p>
-
-</header>
+1st-level Cunning class feature
 
 You start with the following items:
 
@@ -27,120 +19,74 @@ You start with the following items:
  * **Shortsword** (Melee 1d6, Finesse, Light) *or* **Rapier** (Melee 1d8, Finesse)
  * **Crossbow** (Ranged 1d8) *or* **Shortbow** (Ranged 1d8)
 
-<header>
+## Cunning Attack
 
-### Cunning Attack
-
-<p class="subheading">1st-level Cunning class feature</p>
-
-</header>
+1st-level Cunning class feature
 
 You can deal extra **Cunning Damage** damage to one creature you hit with an attack, if you have advantage on the attack roll. You must be making a [Light Melee](pages/combat/attacks.md?id=describing-attacks) or [Ranged Attacks](pages/combat/attacks.md?id=describing-attacks).
 
-<header>
+## Expertise
 
-### Expertise
-
-<p class="subheading">1st-level Cunning class feature</p>
-
-</header>
+1st-level Cunning class feature
 
 Choose two of your skill or tool proficiencies. Your proficiency bonus is doubled for [Checks](pages/rules/rolling/checks.md) with these proficiencies.
 
-<header>
+## Archetype
 
-### Archetype
-
-<p class="subheading">1st-level Cunning class feature</p>
-
-</header>
+1st-level Cunning class feature
 
 Choose an archetype and gain its features. **The Cunning** archetypes include: [Shadow](pages/classes/cunning.md?id=shadow) and [Skirmisher](pages/classes/cunning.md?id=skirmisher).
 
 <header>
 
-<header>
+## Cunning Action
 
-### Cunning Action
-
-<p class="subheading">2nd-level Cunning class feature</p>
-
-</header>
+2nd-level Cunning class feature
 
 Starting at 2nd level, your quick thinking and agility allow you to move and act quickly. You can take a [Bonus Action](../../pages/combat/bonus-actions.md) on each of your [Turns](../../pages/combat/index.md) in combat. This action can be used only to take the [Dash](../../pages/combat/actions.md#dash), [Disengage](../../pages/combat/actions.md#disengage), or [Hide](../../pages/combat/actions.md#hide) action.
 
-<header>
-
 ## Skirmisher
 
-<p class="subheading">Cunning archetype</p>
-
-</header>
+Cunning archetype
 
 You're a flurry of blades, dodging in and out of the front lines to pick off your foes.
 
 | Level | Features
 | ----  | -
-| 1st   | Skirmishing Attack
+| 1st   | Proficient: Perception and Acrobatics, Skirmishing Attack
 | 3rd   | Skirmishing Action
-
-### Starting Stats
-
-**Proficiencies:** Acrobatics, Perception
-
-<header>
 
 ### Skirmishing Attack
 
-<p class="subheading">1st-level Skirmisher archetypes feature</p>
-
-</header>
+1st-level Skirmisher archetypes feature
 
 You can use your [Cunning Attack](#cunning-attack) against a [Close](../../pages/rules/distance.md) creature if you have already [Moved](../../pages/combat/moves.md) on your [Turn](../../pages/combat/index.md).
 
-<header>
-
 ### Skirmishing Action
 
-<p class="subheading">3rd-level Skirmisher archetypes feature</p>
-
-</header>
+3rd-level Skirmisher archetypes feature
 
 As a [Bonus Action](../../pages/combat/bonus-actions.md) you can take the [Dodge Action](../../pages/combat/actions.md#dodge). You can do this for a number of times equal to your [Proficiency](../../pages/rules/proficiency.md). You regain all uses of this feature after a [Rest](../../pages/rules/rests.md).
 
-<header>
-
 ## Shadow
 
-<p class="subheading">Cunning archetype</p>
-
-</header>
+Cunning archetype
 
 You play fast and deadly, hiding in shadows and darting out to attack.
 
 | Level | Features |
 | ----  | - |
-| 1st   | Sneak Attack |
+| 1st   | Proficient: Perception and Stealth, Sneak Attack |
 | 3rd   | Surprise Attack |
-
-### Starting Stats
-
-**Proficiencies:** Perception, Stealth
-
-<header>
 
 ### Sneak Attack
 
-<p class="subheading">1st-level Rogue archetypes feature</p>
-
-</header>
+1st-level Rogue archetypes feature
 
 You do not need advantage to use your **Cunning Attack** on a target if it is [Close](../../pages/rules/distance.md) to an ally.
 
 ### Surprise Attack
 
-<p class="subheading">3rd-level Shadow archetypes feature</p>
+3rd-level Shadow archetypes feature
 
-</header>
-
-During your first [Turn](../pages/combat/order.md) you have [Advantage](../pages/rules/advantage.md) on [Attacks](../pages/combat/attacks.md) against any creature that hasn't taken a turn. In addition, any [Attacks](../pages/combat/attacks.md) against surprised creatures are [Critical]().
+During your first [Turn](../pages/combat/order.md) you have [Advantage](../pages/rules/advantage.md) on [Attacks](../pages/combat/attacks.md) against any creature that hasn't taken a turn. In addition, any [Attacks](../pages/combat/attacks.md) against surprised creatures are **Critical**.

@@ -1,5 +1,7 @@
 # Contributing
 
+Guide
+
 The rules here are designed to be open and anyone is free to make their own hacks. You can get involved, propose changes or copy the rules on [Github](https://github.com/grislyeye/three-meet). See the [license](license.md) for more information.
 
 Contributions should follow the high-level goals in the [design notes](design-notes.md).
@@ -12,6 +14,8 @@ Related projects include:
 - [Docsify](https://docsify.js.org)
 
 ## Install
+
+Instructions
 
 This project has the following requirements:
 
@@ -27,6 +31,8 @@ $ cd three-meet
 
 ## Run
 
+Instructions
+
 Execute:
 
 ```sh
@@ -35,6 +41,8 @@ $ npm start
 ```
 
 ## Deploy
+
+Instructions
 
 Execute:
 
@@ -53,6 +61,8 @@ $ npm run itch:deploy
 **Note:** Three Meet uses [semantic versioning](https://semver.org/).
 
 ## Style Guide
+
+Guide
 
 ### 1. Punctuation
 
@@ -95,17 +105,19 @@ $ npm run itch:deploy
      2. Give permission to do something already covered by a [Skill](pages/characters/skills.md).
   5. Good [Background](pages/backgrounds/index.md) features can:
      1. Allow you to substitute one proficiency for another (effectively doubling the proficiency's utility).
-     2. Give metagame information not normally available to the player (opponent's [Stamina](), etc.).
+     2. Give metagame information not normally available to the player (opponent's [Stamina](../../rules/combat/stamina.md), etc.).
      3. Award [Resources](../../pages/rules/usage.md), such as [Retainers](../../pages/equipment/retainers.md) or [Treasure](../../pages/equipment/wealth.md).
      4. Give a [Proficiency](../../pages/rules/proficiency.md).
   6. [Background](pages/backgrounds/index.md) features should **not**:
      1. Have combat utility.
      2. Replicate the [Cunning Expertise](pages/classes/cunning.md#expertise) class feature.
-     3. Award negative or positive modifiers to [Checks](), [Saves]() and [Attacks]().
+     3. Award negative or positive modifiers to [Checks](../../pages/rules/rolling/checks.md), [Saves](../../pages/rules/rolling/checks.md) and [Attacks](../../pages/combat/attacks.md).
      4. Give too many [Proficiencies](../../pages/rules/proficiency.md) (usually more than 1).
      5. Duplicate a **Skill**.
 
 ## Future Work
+
+Guide
 
 My main design goal with **Three Meet** is to keep things focussed and simple, while not losing the solid 5E core rules.
 

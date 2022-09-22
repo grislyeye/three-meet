@@ -1,10 +1,6 @@
-<header>
-
 # Attacks
 
-<p class="subheading">Rule</p>
-
-</header>
+Rule
 
 You can make one **Attack** per turn. When you make an **Attack**:
 
@@ -14,7 +10,9 @@ You can make one **Attack** per turn. When you make an **Attack**:
  4. The difficulty is the opponent's **Defence**
  5. If you hit, roll for damage and take that from the target's [Stamina](pages/combat/stamina)
 
-### Describing Attacks
+## Describing Attacks
+
+Rule
 
 Attacks are described by a number of **Tags** listed in parentheses after its name. For example, **Longsword (Melee 1d8, Versatile 1d10)** is a weapon that can make a versatile, melee attack.
 
@@ -29,13 +27,9 @@ Attacks are described by a number of **Tags** listed in parentheses after its na
 | Two-Handed | You require two hands to use this attack.
 | Versatile | You can use this damage if the attack is made with two hands.
 
-<header>
-
 ## Defence
 
-<p class="subheading">Rule</p>
-
-</header>
+Rule
 
 **Defence** determines how difficult you are to hit:
 

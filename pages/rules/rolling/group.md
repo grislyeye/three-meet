@@ -1,10 +1,6 @@
-<header>
-
 # Group Checks
 
-<p class="subheading">Rule</p>
-
-</header>
+Rule
 
 You can make a **Group Check** when a number of characters are trying to accomplish something as a group.
 

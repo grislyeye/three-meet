@@ -1,10 +1,6 @@
-<header>
-
 # Saves
 
-<p class="subheading">Rule</p>
-
-</header>
+Rule
 
 A **Save** represents an attempt to resist a spell, a trap, a poison, a disease, or a similar threat.
 

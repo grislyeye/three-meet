@@ -1,10 +1,6 @@
-<header>
-
 # Advantage/ Disadvantage
 
-<p class="subheading">Rule</p>
-
-</header>
+Rule
 
 Circumstances, spells and special abilities can give you **Advantage** or **Disadvantage** on [Checks](pages/rules/rolling/checks.md), [Saves](pages/rules/rolling/saves.md), or [Attacks](pages/combat/attacks.md):
 

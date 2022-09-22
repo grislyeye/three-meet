@@ -1,10 +1,6 @@
-<header>
-
 # Wealth
 
-<p class="subheading">Rule</p>
-
-</header>
+Rule
 
 Wealth is measured by abstract **Treasure** items: consumable treasures and containers for coins or jewels, such as pouches of coins or gold statues.
 
@@ -51,7 +47,9 @@ For example, you might have a d4 small pouch for of copper pieces or 6 pouches s
 
 <aside>
 
-### Variant: Large Wealth
+## Variant: Large Wealth
+
+Optional Rule
 
 You automatically buy items more than two levels down the usage die chain, without having to roll.
 

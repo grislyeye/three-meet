@@ -1,10 +1,6 @@
-<header>
-
 # Contests
 
-<p class="subheading">Rule</p>
-
-</header>
+Rule
 
 Sometimes your efforts are directly opposed by another creature. When this happens you can make a **Contest**:
 

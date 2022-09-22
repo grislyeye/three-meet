@@ -1,10 +1,6 @@
-<header>
-
 # Checks
 
-<p class="subheading">Rule</p>
-
-</header>
+Rule
 
 A **Check** tests your innate talent and training to overcome a challenge. When asked to make a **Check** the GM determines the [Difficulty](#difficulty), which [Attribute](pages/characters/attributes.md) applies, and if you are proficient.
 
@@ -40,13 +36,9 @@ He fails the roll, and isn't strong enough to lift the carriage.
   12
 </div>
 
-<header>
-
 ## Difficulty
 
-<p class="subheading">Rule</p>
-
-</header>
+Rule
 
 The **Difficulty** of task is represented by a number. The most common difficulties are as follows:
 

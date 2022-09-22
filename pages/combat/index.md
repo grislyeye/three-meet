@@ -1,10 +1,6 @@
-<header>
-
 # Combat
 
-<p class="subheading">Rule</p>
-
-</header>
+Rule
 
 **Combat** is a clash between two sides, organized in a cycle of **Round** and turns. During a **Round**, each participant takes a **Turn**
 

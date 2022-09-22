@@ -1,10 +1,6 @@
-<header>
-
 # Proficiency
 
-<p class="subheading">Rule</p>
-
-</header>
+Rule
 
 **Proficiency** is a bonus representing your expertise:
 

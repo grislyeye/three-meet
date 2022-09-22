@@ -1,10 +1,6 @@
-<header>
-
 # Distance
 
-<p class="subheading">Rule</p>
-
-</header>
+Rule
 
 Rather than track precise numbers, **Three Meet** uses 4 abstract ranges for measuring distances: **Close**, **Nearby**, **Far-Away** and **Distant**.
 

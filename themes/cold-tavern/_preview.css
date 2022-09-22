@@ -37,6 +37,10 @@ docsify-page-preview .preview-popup .summaries h3 {
   font-size: 45px;
 }
 
-docsify-page-preview .preview-popup header .subheading {
+docsify-page-preview .preview-popup h1 + p,
+docsify-page-preview .preview-popup h2 + p,
+docsify-page-preview .preview-popup h3 + p,
+docsify-page-preview .preview-popup h4 + p,
+docsify-page-preview .preview-popup h5 + p {
   display: none;
 }

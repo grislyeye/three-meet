@@ -1,10 +1,6 @@
-<header>
-
 # Attributes
 
-<p class="subheading">Rule</p>
-
-</header>
+Rule
 
 All creatures are described by three **Attributes** representing their physical and mental characteristics:
 

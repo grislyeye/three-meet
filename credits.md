@@ -1,12 +1,12 @@
 # Credits [![By Grisly Eye Games](assets/images/grisly-eye-games-logo.png)](https://grislyeye.com)
 
-Section
+Back Matter
 
 Writing, game design and layout by [R.G. Wood](https://grislyeye.com).
 
 ## Thanks
 
-Section
+Back Matter
 
 I'd like to give thanks to everyone who contributed to the 5E rules over the years (including Jeremy Crawford, Chris Perkins, Rodney Thompson, Peter Lee, James Wyatt, Robert J. Schwalb, Bruce R. Cordell, Chris Sims, Steve Townshend, E. Gary Gygax and Dave Arneson).
 

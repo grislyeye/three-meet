@@ -1,8 +1,6 @@
-<header>
-
 # Moves
 
-<p class="subheading">Rule</p>
+Rule
 
 </header>
 

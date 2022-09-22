@@ -1,10 +1,6 @@
-<header>
-
 # Bonus Actions
 
-<p class="subheading">Rule</p>
-
-</header>
+Rule
 
 Some features and spells let you take an additional **Bonus Actions** on your **Turn**:
 

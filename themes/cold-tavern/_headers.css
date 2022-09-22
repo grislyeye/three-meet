@@ -2,6 +2,7 @@
   font-family: "Alegreya", serif;
   color: white;
   font-size: 72px;
+  margin-top: 1em;
 }
 
 .content h2 {
@@ -42,7 +43,12 @@
   margin-bottom: 0;
 }
 
-.content > h1:first-child {
+.content h1 + p,
+.content h2 + p,
+.content h3 + p,
+.content h4 + p {
+  font-family: "Alegreya Sans SC", sans-serif;
+  margin-top: 0;
 }
 
 .content h1 + p {
@@ -75,7 +81,7 @@
     margin: 0em;
   }
 
-  .content header h1 + p.subheading {
+  .content h1 + p {
     width: 100%;
     font-size: 0.7em;
     margin: 0.5em 0em;
@@ -101,6 +107,7 @@
     width: 57.5%;
     font-size: 1.5em;
   }
+
   .anchor span {
     font-size: 0.75em;
   }
@@ -114,6 +121,7 @@
   .markdown-section > :first-child {
     width: 100%;
   }
+
   .anchor span {
     font-size: 1em;
   }
