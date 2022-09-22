@@ -2,7 +2,7 @@
 
 Rule
 
-On your round, you can take an [Attack](pages/combat/attacks.md), or one of the actions presented here. Some features, effects and traits give you additional **Actions**.
+On your round, you can take an [Attack](../../pages/combat/attacks.md), or one of the actions presented here. Some features, effects and traits give you additional **Actions**.
 
 <section class="small summaries">
 
@@ -12,7 +12,7 @@ On your round, you can take an [Attack](pages/combat/attacks.md), or one of the 
 
 Combat Action
 
-When you take the **Dash Action**, you gain an extra [Move](pages/combat/moves.md) for the current turn.
+When you take the **Dash Action**, you gain an extra [Move](../../pages/combat/moves.md) for the current turn.
 
 </section>
 
@@ -22,7 +22,7 @@ When you take the **Dash Action**, you gain an extra [Move](pages/combat/moves.m
 
 Combat Action
 
-You can avoid provoking an [Opportunity Attack](pages/combat/reactions.md?id=opportunity-attack) by taking the **Disengage** action.
+You can avoid provoking an [Opportunity Attack](../../pages/combat/reactions.md?id=opportunity-attack) by taking the **Disengage** action.
 
 </section>
 
@@ -62,7 +62,7 @@ At the GM's discretion, other actions can be improvised. You can also improvise 
 
 Combat Action
 
-You can ready a [Reaction]([pages/combat/reactions.md]) before the start of your next turn. Choose a trigger, and an **Action** you will take in response. You can take your readied **Reaction** right after your trigger.
+You can ready a [Reaction](../../pages/combat/reactions.md) before the start of your next turn. Choose a trigger, and an **Action** you will take in response. You can take your readied **Reaction** right after your trigger.
 
 </section>
 

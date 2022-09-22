@@ -4,13 +4,13 @@ Class
 
 | Level | Proficiency | Stamina | Features  |
 | ----  | ----------- | ------- | - |
-| 1st   | +2          | 10      | +1 [Might](pages/characters/attributes.md?id=might), Martial Gear, Surge, Archetype |
+| 1st   | +2          | 10      | +1 [Might](../../pages/characters/attributes.md?id=might), Martial Gear, Surge, Archetype |
 | 2nd   | +2          | +1d10   | Mighty Action |
 | 3rd   | +2          | +1d10   | Archetype Feature |
 
 ## Starting Stats
 
-**Proficiencies:** Athletics, [Might](pages/characters/attributes.md?id=might) [Saves](pages/rules/rolling/saves.md), all armor, shields, simple weapons, and martial weapons
+**Proficiencies:** Athletics, [Might](../../pages/characters/attributes.md?id=might) [Saves](../../pages/rules/rolling/saves.md), all armor, shields, simple weapons, and martial weapons
 
 ## Martial Gear
 
@@ -33,7 +33,7 @@ When you use your Surge, you choose which feat to use. You must then finish a re
 
 ### Surge: Second Wind
 
-As a [Bonus Action](pages/combat/bonus-actions.md) you can regain [Stamina](pages/combat/stamina.md) equal to **1d10 + your level**.
+As a [Bonus Action](../../pages/combat/bonus-actions.md) you can regain [Stamina](../../pages/combat/stamina.md) equal to **1d10 + your level**.
 
 ## Mighty Action
 
@@ -45,7 +45,7 @@ Starting at 2nd level, you can push yourself beyond your normal limits. On your 
 
 1st-level Mighty class feature
 
-Choose an archetype and gain it's features. The Mighty archetypes include: [Berserker](pages/classes/mighty.md?id=berserker) and [Defender](pages/classes/mighty.md?id=defender).
+Choose an archetype and gain it's features. The Mighty archetypes include: [Berserker](../../pages/classes/mighty.md?id=berserker) and [Defender](../../pages/classes/mighty.md?id=defender).
 
 ## Berserker
 
@@ -86,7 +86,7 @@ You fight to protect. Cleaving close to your allies, you intercept attacks, so t
 
 1st-level Defender archetype feature
 
-You can use your [Reaction](../../pages/combat/reactions.md) to impose disadvantage on an [Attack](pages/combat/attacks.md) that targets a [Close](../../pages/rules/distance.md) ally. You must be wielding a melee weapon or shield.
+You can use your [Reaction](../../pages/combat/reactions.md) to impose disadvantage on an [Attack](../../pages/combat/attacks.md) that targets a [Close](../../pages/rules/distance.md) ally. You must be wielding a melee weapon or shield.
 
 ### Surge: Bolster
 

@@ -13,4 +13,4 @@ Rule
 
 **Stamina** damage is abstract. It doesn't just represent physical harm. It can represent mental stress, off-balance, misfortune, or shock.
 
-A successful [Attack](pages/combat/attacks.md) might translate to a near miss that knocks you off-balance, a palpating fear you're outmatched, a light scratch, or temporary concussion. Or, of course, a direct hit.
+A successful [Attack](../../pages/combat/attacks.md) might translate to a near miss that knocks you off-balance, a palpating fear you're outmatched, a light scratch, or temporary concussion. Or, of course, a direct hit.

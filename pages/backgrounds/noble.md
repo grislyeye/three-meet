@@ -6,7 +6,7 @@ You are high-born, a member of the powerful second estate.
 
 | Level             | Background Features    |
 | ----------------- | - |
-| 1st               | +1 [Cunning](pages/characters/attributes.md?id=cunning), Proficient: **Persuasion**, Noble Trappings, House, Privilege, Speciality |
+| 1st               | +1 [Cunning](../../pages/characters/attributes.md?id=cunning), Proficient: **Persuasion**, Noble Trappings, House, Privilege, Speciality |
 
 ## Noble Trappings
 

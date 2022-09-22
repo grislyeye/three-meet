@@ -34,7 +34,7 @@ Magical creatures are extremely rare, and many mechanics from spells and monster
 
 Guide
 
-5E comes with a lot of obscure terminology, like HP, saving throws and AC. Three Meet uses natural language terms, such as [Stamina](pages/combat/stamina.md) or [Saves](pages/rules/rolling/saves.md).
+5E comes with a lot of obscure terminology, like HP, saving throws and AC. Three Meet uses natural language terms, such as [Stamina](./pages/combat/stamina.md) or [Saves](./pages/rules/rolling/saves.md).
 
 </section>
 
@@ -46,7 +46,7 @@ Guide
 
 I've always found the 5E ability scores confusing and ambiguous.
 
-In **Three Meet** ability scores have been merged into three [Attributes](pages/characters/attributes.md): [Might](pages/characters/attributes.md?id=might) (Strength and Constitution), [Cunning](pages/characters/attributes.md?id=cunning) (Dexterity and Charisma), and [Wisdom](pages/characters/attributes.md?id=wisdom) (Intelligence and Wisdom).
+In **Three Meet** ability scores have been merged into three [Attributes](./pages/characters/attributes.md): [Might](./pages/characters/attributes.md?id=might) (Strength and Constitution), [Cunning](./pages/characters/attributes.md?id=cunning) (Dexterity and Charisma), and [Wisdom](./pages/characters/attributes.md?id=wisdom) (Intelligence and Wisdom).
 
 </section>
 
@@ -56,7 +56,7 @@ In **Three Meet** ability scores have been merged into three [Attributes](pages/
 
 Guide
 
-Avoiding issues with traditional races, **Three Meet** does away with them. Instead, [Backgrounds](pages/backgrounds/index.md) provide the kinds of features gained through lived experience, training, or fortune.
+Avoiding issues with traditional races, **Three Meet** does away with them. Instead, [Backgrounds](./pages/backgrounds/index.md) provide the kinds of features gained through lived experience, training, or fortune.
 
 </section>
 
@@ -66,9 +66,9 @@ Avoiding issues with traditional races, **Three Meet** does away with them. Inst
 
 Guide
 
-Utility features have been removed from classes, and moved to [Backgrounds](pages/backgrounds/index.md). [Class](pages/class/index.md) features are combat-related only.
+Utility features have been removed from classes, and moved to [Backgrounds](./pages/backgrounds/index.md). [Class](./pages/class/index.md) features are combat-related only.
 
-The intention is that [Backgrounds](pages/backgrounds/index.md) provide the fictional archetypes, while [Classes](pages/classes/index.md) focus on combat-related features.
+The intention is that [Backgrounds](./pages/backgrounds/index.md) provide the fictional archetypes, while [Classes](./pages/classes/index.md) focus on combat-related features.
 
 </section>
 
@@ -92,7 +92,7 @@ Guide
 
 All classes can be specialised at 1st-level, so players can have create the character concept they want without having to level up.
 
-For this reason the classes have been consolidated into three classes: [The Mighty](pages/classes/mighty.md), [The Cunning](pages/classes/cunning.md), and [The Wise](pages/classes/wise.md).
+For this reason the classes have been consolidated into three classes: [The Mighty](./pages/classes/mighty.md), [The Cunning](./pages/classes/cunning.md), and [The Wise](./pages/classes/wise.md).
 
 </section>
 

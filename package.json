@@ -18,7 +18,7 @@
     "build": "rsync -av --progress --exclude dist/ --exclude .git --exclude .gitignore --exclude node_modules --include '.*' ./ dist/ && npm install --production  --no-optional --prefix dist && rm -rf dist/node_modules/prismjs && echo 'three-meet.grislyeye.com' > ./dist/CNAME && replace '{{VERSION}}' $npm_package_version dist/  -r --include='*.css'",
     "predeploy": "npm run test && npm run clean && npm run build",
     "deploy:itch": "butler push dist/ grislyeye/three-meet:HTML",
-    "test": "htmlhint 'index.html' && npx markdownlint '**/*.md' --ignore dist --ignore node_modules && stylelint 'themes/cold-tavern/**/*.css'"
+    "test": "htmlhint 'index.html' && npx markdownlint '**/*.md' --ignore dist --ignore node_modules --rules .markdownlint.docsify-relative-links.rule.js && stylelint 'themes/cold-tavern/**/*.css'"
   },
   "dependencies": {
     "docsify": ">=4.12.2",

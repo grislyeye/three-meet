@@ -25,11 +25,11 @@ Step 1
 
 Step 2
 
-  + Assign one of +2, +1 and -1 to each of your [Attributes](pages/characters/attributes.md)
-  + Choose a [Background](pages/backgrounds/index.md)
-  + You may choose a [Magic Speciality](pages/backgrounds/magic.md) if your GM allows
-  + Choose a [Class](pages/classes/index.md)
-  + Choose your [Allegiances](pages/characters/allegiances.md)
+  + Assign one of +2, +1 and -1 to each of your [Attributes](./pages/characters/attributes.md)
+  + Choose a [Background](./pages/backgrounds/index.md)
+  + You may choose a [Magic Speciality](./pages/backgrounds/magic.md) if your GM allows
+  + Choose a [Class](./pages/classes/index.md)
+  + Choose your [Allegiances](./pages/characters/allegiances.md)
 
 </section>
 
@@ -39,8 +39,8 @@ Step 2
 
 Step 3
 
-  + Read the [Basic Rules](pages/rules/rolling.md)
-  + Read the [Combat Rules](pages/combat/order.md)
+  + Read the [Basic Rules](./pages/rules/rolling.md)
+  + Read the [Combat Rules](./pages/combat/order.md)
 
 </section>
 

@@ -2,7 +2,7 @@
 
 Rule
 
-**Retainers** are non-player characters that support your character. Your relationship with your retainers is measured using a [Usage Die](pages/rules/usage.md).
+**Retainers** are non-player characters that support your character. Your relationship with your retainers is measured using a [Usage Die](../../pages/rules/usage.md).
 
   * You must **Tap** your **Retainer** when you test their loyalty.
   * If you **Deplete** your **Retainer** they refuse to do as you ask.
@@ -16,7 +16,7 @@ Rule
 
 Retainers are described with a standard stat block format:
 
-The sub-heading details the the retainer's [Usage Die](pages/rules/usage.md) and it's [Proficiency](../../pages/rules/proficiency.md) and base roll bonus in parenthesis.
+The sub-heading details the the retainer's [Usage Die](../../pages/rules/usage.md) and it's [Proficiency](../../pages/rules/proficiency.md) and base roll bonus in parenthesis.
 
 This might be followed by a short description of the character.
 

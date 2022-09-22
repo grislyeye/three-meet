@@ -6,7 +6,7 @@ All creatures are described by three **Attributes** representing their physical 
 
 **Attributes** are:
 
- * Used for [Checks, Attacks and Saves](pages/rules/rolling.md)
+ * Used for [Checks, Attacks and Saves](../../pages/rules/rolling.md)
  * Rated from -5 to +8
  * 0 is average
  * -2 to +4 is the range for most characters
@@ -19,7 +19,7 @@ All creatures are described by three **Attributes** representing their physical 
 
 Raw strength, stamina, and combat prowess.
 
-Added to [Stamina](pages/combat/stamina.md), and melee [Attacks](pages/combat/attacks.md) and [Damage](pages/combat/attacks.md) rolls.
+Added to [Stamina](../../pages/combat/stamina.md), and melee [Attacks](../../pages/combat/attacks.md) and [Damage](../../pages/combat/attacks.md) rolls.
 
 </section>
 
@@ -29,7 +29,7 @@ Added to [Stamina](pages/combat/stamina.md), and melee [Attacks](pages/combat/at
 
 Wits, speed, agility, dexterousness, charm, perceptiveness, and guile.
 
-Added to [Initiative](pages/combat/index.md#initiative), [Defence](pages/combat/attacks.md?id=defence), and ranged [Attacks](pages/combat/attacks.md) and [Damage](pages/combat/attacks.md) rolls.
+Added to [Initiative](../../pages/combat/index.md#initiative), [Defence](../../pages/combat/attacks.md?id=defence), and ranged [Attacks](../../pages/combat/attacks.md) and [Damage](../../pages/combat/attacks.md) rolls.
 
 </section>
 
@@ -39,7 +39,7 @@ Added to [Initiative](pages/combat/index.md#initiative), [Defence](pages/combat/
 
 Intelligence, intuition, knowledge, spirituality, and ingeniousness.
 
-Added to spell [Attacks](pages/combat/attacks.md).
+Added to spell [Attacks](../../pages/combat/attacks.md).
 
 </section>
 </section>

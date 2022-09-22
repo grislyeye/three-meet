@@ -12,7 +12,7 @@ Rule
 
 Condition
 
-Many effects can exhaust, hinder, confuse, or distract you, making you **Disadvantaged**. When **Disadvantaged** you roll with [Disadvantage](pages/rules/advantage) on all [Checks, Saves, and Attacks](../../pages/rules/rolling/checks.md).
+Many effects can exhaust, hinder, confuse, or distract you, making you **Disadvantaged**. When **Disadvantaged** you roll with [Disadvantage](../../pages/rules/advantage) on all [Checks, Saves, and Attacks](../../pages/rules/rolling/checks.md).
 
 </section>
 

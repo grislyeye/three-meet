@@ -6,7 +6,7 @@ You were a member of one of the guilds that govern the a particular skilled trad
 
 | Level             | Background Features    |
 | ----------------- | - |
-| 1st               | +1 [Wisdom](pages/characters/attributes.md?id=wisdom), Artisan's Equipment, Stipend, Proficient: any artisans' tools, Speciality |
+| 1st               | +1 [Wisdom](../../pages/characters/attributes.md?id=wisdom), Artisan's Equipment, Stipend, Proficient: any artisans' tools, Speciality |
 
 ## Artisan's Equipment
 

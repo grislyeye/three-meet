@@ -16,7 +16,7 @@ You can make the following **Reactions** by default:
 
 Reaction
 
-You can make an **Opportunity Attack** when a creature leaves an area [Close](pages/rules/distance.md) to you. You can make one melee attack against the creature.
+You can make an **Opportunity Attack** when a creature leaves an area [Close](../../pages/rules/distance.md) to you. You can make one melee attack against the creature.
 
 </section>
 

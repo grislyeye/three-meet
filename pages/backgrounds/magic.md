@@ -2,7 +2,7 @@
 
 Rule
 
-If the GM allows, you can choose a **Magic Speciality** instead of one of the **Specialities** from your chosen [Background](pages/backgrounds/index.md).
+If the GM allows, you can choose a **Magic Speciality** instead of one of the **Specialities** from your chosen [Background](../../pages/backgrounds/index.md).
 
 ## Gift Bearer
 
@@ -44,7 +44,7 @@ This gleaming onyx bracelet cannot be removed. It allows you to hear and command
 
 Gift
 
-You are [Proficient](pages/rules/proficiency.md) in a curious tune only you can whistle. You can use its [Proficiency](pages/rules/proficiency.md) instead of a substitute [Proficiency](pages/rules/proficiency.md) of your choice.
+You are [Proficient](../../pages/rules/proficiency.md) in a curious tune only you can whistle. You can use its [Proficiency](../../pages/rules/proficiency.md) instead of a substitute [Proficiency](../../pages/rules/proficiency.md) of your choice.
 
 </section>
 

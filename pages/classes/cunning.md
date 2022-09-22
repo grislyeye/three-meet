@@ -4,7 +4,7 @@ Class
 
 | Level | Proficiency | Stamina | Cunning Damage | Features  |
 | ----  | ----------- | ------- | -------------- | - |
-| 1st   | +2          | 8       | 1d6            | +1 [Cunning](pages/characters/attributes.md?id=cunning) <br> Proficient: Cunning Saves <br> Proficient: Any 1 skill <br> Expert Equipment <br> Cunning Attack <br> Expertise <br> Archetype
+| 1st   | +2          | 8       | 1d6            | +1 [Cunning](../../pages/characters/attributes.md?id=cunning) <br> Proficient: Cunning Saves <br> Proficient: Any 1 skill <br> Expert Equipment <br> Cunning Attack <br> Expertise <br> Archetype
 | 2nd   | +2          | +1d8    | 1d6            | Cunning Action |
 | 3rd   | +2          | +1d8    | 2d6            | Archetype Feature |
 
@@ -23,19 +23,19 @@ You start with the following items:
 
 1st-level Cunning class feature
 
-You can deal extra **Cunning Damage** damage to one creature you hit with an attack, if you have advantage on the attack roll. You must be making a [Light Melee](pages/combat/attacks.md?id=describing-attacks) or [Ranged Attacks](pages/combat/attacks.md?id=describing-attacks).
+You can deal extra **Cunning Damage** damage to one creature you hit with an attack, if you have advantage on the attack roll. You must be making a [Light Melee](../../pages/combat/attacks.md?id=describing-attacks) or [Ranged Attacks](../../pages/combat/attacks.md?id=describing-attacks).
 
 ## Expertise
 
 1st-level Cunning class feature
 
-Choose two of your skill or tool proficiencies. Your proficiency bonus is doubled for [Checks](pages/rules/rolling/checks.md) with these proficiencies.
+Choose two of your skill or tool proficiencies. Your proficiency bonus is doubled for [Checks](../../pages/rules/rolling/checks.md) with these proficiencies.
 
 ## Archetype
 
 1st-level Cunning class feature
 
-Choose an archetype and gain its features. **The Cunning** archetypes include: [Shadow](pages/classes/cunning.md?id=shadow) and [Skirmisher](pages/classes/cunning.md?id=skirmisher).
+Choose an archetype and gain its features. **The Cunning** archetypes include: [Shadow](../../pages/classes/cunning.md?id=shadow) and [Skirmisher](../../pages/classes/cunning.md?id=skirmisher).
 
 ## Cunning Action
 
