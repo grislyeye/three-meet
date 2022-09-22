@@ -41,6 +41,6 @@ A merchant guild nominally governs trade of goods, but many are beginning to gov
 
 ### Investment
 
-<p class="subheading">1st-level Merchant speciality feature
+1st-level Merchant speciality feature
 
 You start with an appreciating **Investment (Treasure Ud10)**, representing years of savings and carefully speculation.

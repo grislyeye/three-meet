@@ -92,8 +92,6 @@ Your **Spell Difficulty** is:
   <span class="bonus"> <span class="caption">Wisdom</span></span>
 </div>
 
-<header>
-
 <section class="spells">
 
 <section class="spell">
@@ -324,8 +322,6 @@ You gain the **[Corrupted](../../pages/rules/conditions.md#corrupted) (Ud8 Resou
 
 You can add your [Wisdom](../../pages/characters/attributes.md#wisdom) to the damage of your [Stricken Attack](#stricken).
 
-<header>
-
 <section class="spell">
 
 ### Insidious Whispers
@@ -344,8 +340,6 @@ Using an [Action](../../pages/combats/actions.md) you can sense the presence of 
 
 <section class="spell">
 
-<header>
-
 ### Spirit Door
 
 3rd-level Sorcerer spell
@@ -356,6 +350,6 @@ You can teleport to an unoccupied space [Nearby](../../pages/rules/distance.md) 
 
 ### Witch Tongue
 
-<p class="subheading">3rd-level Sorcerer archetype feature
+3rd-level Sorcerer archetype feature
 
 You can communicate telepathically with any [Nearby](../../pages/rules/distance.md) creature, or speak with beings in the spirit realm.

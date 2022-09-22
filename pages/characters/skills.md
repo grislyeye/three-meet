@@ -100,8 +100,6 @@ Empathy, social awareness, detecting lies, reading body language, and predicting
 
 <section class="summary">
 
-<header>
-
 ## Medicine
 
 Wisdom Skill

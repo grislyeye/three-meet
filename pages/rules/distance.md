@@ -12,13 +12,9 @@ The following table is a rough guide to actual distances:
 | ----- | ------ | -------- | ------- |
 | 0-5ft | 5-60ft | 60-120ft | 120ft+  |
 
-<header>
-
 ## Difficult Terrain
 
-<p class="subheading">Rule</p>
-
-</header>
+Rule
 
 Adventuring rarely takes place in bare rooms or on featureless plains. A typical environment contains difficult terrain.
 

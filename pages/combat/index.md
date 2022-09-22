@@ -15,23 +15,15 @@ The order of combat is as follows:
   4. When everyone has had a **Turn**, the **Round** ends.
   5. Repeat Step 3 until fighting stops.
 
-<header>
-
 ## Surprise
 
-<p class="subheading">Rule</p>
-
-</header>
+Rule
 
 If you're surprised at the start or combat, you can't move or take an **Action** on your first turn. The GM determines who might be surprised. Often this is resolved with a **Cunning [Stealth](pages/characters/skills.md#stealth) vs Cunning [Perception](pages/characters/skills.md#perception) [Contest](pages/rules/rolling/contests.md)**.
 
-<header>
-
 ## Initiative
 
-<p class="subheading">Rule</p>
-
-</header>
+Rule
 
 **Initiative** is a [Cunning](pages/characters/attributes.md?id=cunning) [Check](pages/rules/rolling/checks.md). It determines the order of turns (highest to lowest) during combat:
 

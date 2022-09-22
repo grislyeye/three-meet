@@ -2,8 +2,6 @@
 
 Rule
 
-</header>
-
 Movement in combat uses the abstract rules for [Distance](pages/rules/distance.md). On your **Turn**, you can:
 
  * Use your [Move](pages/combat/moves.md) to go somewhere **Nearby**
@@ -11,5 +9,3 @@ Movement in combat uses the abstract rules for [Distance](pages/rules/distance.m
  * Take 3 [Moves](pages/combat/moves.md) to go anywhere **Distant**
 
 Your movement can include jumping, climbing, and swimming.
-
-<header>

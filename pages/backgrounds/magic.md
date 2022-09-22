@@ -68,6 +68,6 @@ You come from an age of high magic. The lore of this time has been long lost, bu
 
 ### Memory of Ages
 
-<p class="subheading">1st-level Immortal speciality feature
+1st-level Immortal speciality feature
 
 You're forgotten more than most folk know, more than you remember yourself. You can spend 10 minute searching your memories to gain proficiency in one tool, language, or one of the following [Skill](../../pages/characters/skills.md): **Arcana**, **History**, **Medicine**, **Nature**, or **Religion**. The memory of this knowledge fades once you take a **Rest**. You must **Rest** before you can use this feature again.

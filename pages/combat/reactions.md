@@ -12,13 +12,9 @@ You can make the following **Reactions** by default:
 
 <section class="summary">
 
-<header>
-
 ## Opportunity Attack
 
 Reaction
-
-</header>
 
 You can make an **Opportunity Attack** when a creature leaves an area [Close](pages/rules/distance.md) to you. You can make one melee attack against the creature.
 

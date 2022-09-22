@@ -20,7 +20,7 @@ You start with the following items:
 
 ## Thieves' Cant
 
-<p class="subheading">1st-level Knave background feature
+1st-level Knave background feature
 
 You know thieves’ cant, a secret code of dialect, hand-signs, jargon, ciphers, and symbols that can hide messages in seemingly everyday locations, and conversations.
 

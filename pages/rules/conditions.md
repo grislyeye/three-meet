@@ -41,7 +41,7 @@ Condition (optional)
 
 ## Corrupted
 
-<p class="subheading">Condition</p>
+Condition
 
 **Corrupted** is a [Resource](../../pages/rules/usage.md) that tracks your diminishing humanity. It's **Tapped** each time you make a corrupted action, such as using ruinous magic or using a cursed magic item.
 

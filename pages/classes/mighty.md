@@ -82,8 +82,6 @@ You fight to protect. Cleaving close to your allies, you intercept attacks, so t
 | 1st   | Defend, Surge: Bolster, Proficient: Intimidation |
 | 3rd   | Mark |
 
-<header>
-
 ### Defend
 
 1st-level Defender archetype feature
