@@ -1,14 +1,12 @@
-<header>
-
 # Armour
 
-<p class="subheading">Rule</p>
-
-</header>
+Rule
 
 **Armour** increases your [Defence](../../pages/combat/attacks/md#defence).
 
-### Describing Armour
+## Describing Armour
+
+Rule
 
 **Armour** is described by it's **Base [Defence](../../pages/combat/attacks/md#defence)** and by a number of **Tags** listed in parentheses after its name. For example, **Leather Armour (Defence 13, Light)** is a a set of armour that gives you a [Defence](../../pages/combat/attacks/md#defence) of **13 + your Cunning**.
 

@@ -1,10 +1,6 @@
-<header>
-
 # Equipment Packs
 
-<p class="subheading">Rule</p>
-
-</header>
+Rule
 
 Rather than track every single item of inventory, many items are abstracted using **Packs**. A **Pack** is a [Resource](../../pages/rules/usage.md) that represents a container or stash of items.
 
@@ -18,13 +14,9 @@ Some example packs include:
 
 <section class="summary">
 
-<header>
+## Fine Pack
 
-### Fine Pack
-
-<p class="subheading">Pack</p>
-
-</header>
+Pack
 
 Fine packs come in a variety of sizes and designs, all made from richly decorated materials. They contain various items beyond the means of common folk, such as perfume, ink and pens, sealing wax, etc..
 
@@ -32,13 +24,9 @@ Fine packs come in a variety of sizes and designs, all made from richly decorate
 
 <section class="summary">
 
-<header>
+## Thieves' Cloak
 
-### Thieves' Cloak
-
-<p class="subheading">Pack</p>
-
-</header>
+Pack
 
 A dark cloak that conceals various illicit tools of the criminal trade, such as rope, string, lanterns, etc..
 
@@ -46,13 +34,9 @@ A dark cloak that conceals various illicit tools of the criminal trade, such as 
 
 <section class="summary">
 
-<header>
+## Traveller's Pack
 
-### Traveller's Pack
-
-<p class="subheading">Pack</p>
-
-</header>
+Pack
 
 Backpack containing items useful to travellers upon the open road. Such as bedding, a tinderbox, etc..
 
