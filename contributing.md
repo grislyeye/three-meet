@@ -73,7 +73,7 @@ Guide
 ### 2. Terminology
 
   1. Key terms should be in bold and capitalised for emphasis, e.g. **Proficiency**.
-  2. Key terms should be linked, e.g. [Proficiency](./pages/rules/proficiency).
+  2. Key terms should be linked, e.g. [Proficiency](./pages/rules/proficiency.md).
   3. Exceptions to linking include:
      1. Where a term has been defined nearby in the text.
   4. Avoid using too many key terms in a text block to prevent visual overload.

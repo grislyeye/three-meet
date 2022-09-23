@@ -138,7 +138,7 @@ When you transform you can choose one of the following for your new form:
 
 2nd-level Elementalist spell
 
-You summon elemental forces from deep in the earth at a [Nearby](../../pages/rules/distance.md) location. Stone crumbles. Soil turns into mire. The area [Close](../../pages/rules/distance.md) to this location is considered [Difficult Terrain](../../pages/rules/distance.md#difficult-terrain). A creature in the area when you cast the spell must succeed on a [Might](../../pages/characters/attributes#might) [Save](../../pages/rules/rolling/saves.md) or they cannot make a [Move](../../pages/combat/moves.md) and are [Disadvantaged](../../pages/rules/conditions.md#disadvantaged). They can use an [Action](../../pages/combat/actions.md) to make a [Might](../../pages/characters/attributes#might) [Save](../../pages/rules/rolling/saves.md) to free themselves.
+You summon elemental forces from deep in the earth at a [Nearby](../../pages/rules/distance.md) location. Stone crumbles. Soil turns into mire. The area [Close](../../pages/rules/distance.md) to this location is considered [Difficult Terrain](../../pages/rules/distance.md#difficult-terrain). A creature in the area when you cast the spell must succeed on a [Might](../../pages/characters/attributes.md#might) [Save](../../pages/rules/rolling/saves.md) or they cannot make a [Move](../../pages/combat/moves.md) and are [Disadvantaged](../../pages/rules/conditions.md#disadvantaged). They can use an [Action](../../pages/combat/actions.md) to make a [Might](../../pages/characters/attributes.md#might) [Save](../../pages/rules/rolling/saves.md) to free themselves.
 
 </section>
 
@@ -212,7 +212,7 @@ You can cast spells. To cast a spell you must expend a **Wise Slot**. Each spell
 
 1st-level Sorcerer spell
 
-You pull back the veil, revealing a glimpse of what lies beyond the mortal realm. Each creature **Close** to you must make a [Wisdom](../../pages/characters/attributes.md#wisdom) [Save](../../pages/rules/rolling/saves.md) against your **Spell Difficulty**. Creatures that fail their saves are [Frightened](../../pages/rules/conditions#frightened) by you until the end of your next turn.
+You pull back the veil, revealing a glimpse of what lies beyond the mortal realm. Each creature **Close** to you must make a [Wisdom](../../pages/characters/attributes.md#wisdom) [Save](../../pages/rules/rolling/saves.md) against your **Spell Difficulty**. Creatures that fail their saves are [Frightened](../../pages/rules/conditions.md#frightened) by you until the end of your next turn.
 
 </section>
 

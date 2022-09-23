@@ -21,7 +21,7 @@ You start with the following items:
 
 1st-level Noble background feature
 
-You must have an [Allegiances](../../pages/characters/allegiances) for your House. Work with your GM to come up with its name and purview (military, land, influence, etc.).
+You must have an [Allegiances](../../pages/characters/allegiances.md) for your House. Work with your GM to come up with its name and purview (military, land, influence, etc.).
 
 ## Privilege
 

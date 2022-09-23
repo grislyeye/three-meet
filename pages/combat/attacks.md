@@ -8,7 +8,7 @@ You can make one **Attack** per turn. When you make an **Attack**:
  2. Make a [Check](../../pages/rules/rolling/checks.md)
  3. Add your [Proficiency](../../pages/rules/proficiency.md) if you are proficient with the **Attack**
  4. The difficulty is the opponent's **Defence**
- 5. If you hit, roll for damage and take that from the target's [Stamina](../../pages/combat/stamina)
+ 5. If you hit, roll for damage and take that from the target's [Stamina](../../pages/combat/stamina.md)
 
 ## Describing Attacks
 
