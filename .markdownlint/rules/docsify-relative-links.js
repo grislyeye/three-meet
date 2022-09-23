@@ -1,3 +1,5 @@
+const common = require('./common.js')
+
 module.exports = {
   "names": [ "docsify-relative-link" ],
   "description": "Internal Docsify links should be relative",
@@ -12,7 +14,7 @@ module.exports = {
            .filter((child) => child.type === 'link_open')
            .forEach((link) => {
              for (const attr of link.attrs) {
-               if (isDocsifyLink(attr) && !isRelativeLink(attr)) {
+               if (common.isDocsifyLink(attr) && !common.isRelativeLink(attr)) {
                  onError({
                    "lineNumber": inline.lineNumber,
                    "context": attr[1]
@@ -23,18 +25,3 @@ module.exports = {
        });
   }
 };
-
-const isDocsifyLink = (link) => {
-  const href = link[1]
-  return link[0] === "href"
-    && href
-    && !href.startsWith('http')
-}
-
-
-const isRelativeLink = (link) => {
-  const href = link[1]
-  return link[0] === "href"
-    && href
-    && (href.startsWith('.') || href.startsWith('#'))
-}
