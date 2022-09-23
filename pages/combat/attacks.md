@@ -37,3 +37,9 @@ Rule
  + If you're not wearing armour it is 10
  + Shields and other equipment can improve your **Defence**
  + Add your [Cunning](../../pages/characters/attributes.md#cunning) to your **Defence**
+
+## Criticals
+
+Rule
+
+When you roll a **20** on an **Attack** you score a **Critical**. Roll all of the attack’s damage dice twice and add them together.
