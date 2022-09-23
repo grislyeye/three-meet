@@ -21,7 +21,7 @@ You start with the following items:
 
 1st-level Wise class feature
 
-Choose an archetype and gain its features. The Wise archetypes include: [Elementalist](../../pages/classes/wise.md#elementalist), **Leader** and **[Sorcerer](../../pages/classes/wise.md#sorcerer)**.
+Choose an archetype and gain its features. The Wise archetypes include: [Elementalist](../../pages/classes/wise.md#elementalist) and **[Sorcerer](../../pages/classes/wise.md#sorcerer)**.
 
 ## Elementalist
 
@@ -139,92 +139,6 @@ When you transform you can choose one of the following for your new form:
 2nd-level Elementalist spell
 
 You summon elemental forces from deep in the earth at a [Nearby](../../pages/rules/distance.md) location. Stone crumbles. Soil turns into mire. The area [Close](../../pages/rules/distance.md) to this location is considered [Difficult Terrain](../../pages/rules/distance.md#difficult-terrain). A creature in the area when you cast the spell must succeed on a [Might](../../pages/characters/attributes#might) [Save](../../pages/rules/rolling/saves.md) or they cannot make a [Move](../../pages/combat/moves.md) and are [Disadvantaged](../../pages/rules/conditions.md#disadvantaged). They can use an [Action](../../pages/combat/actions.md) to make a [Might](../../pages/characters/attributes#might) [Save](../../pages/rules/rolling/saves.md) to free themselves.
-
-</section>
-
-</section>
-
-## Leader
-
-Wise archetype
-
-Not all need fight, some must command. You are a leader, a tactician. Issuing orders and inspiriting greatness in others.
-
-| Level | Features | Wise Slots
-| ----  | - | - |
-| 1st   | Command, Guidance, Tactics, Proficient: Persuasion, light armor, shields, and simple weapons | 2
-
-### Command
-
-1st-level Leader archetype feature
-
-As an [Action](../../pages/combat/actions.md) you command an ally to attack. The ally can use their [Reaction](../../pages/combat/reactions.md) to make an [Attack](../../pages/combat/attacks.md). The ally can add your **Wisdom** to their damage roll.
-
-### Strategies
-
-1st-level Sorcerer archetype feature
-
-You can perform the strategies below. Each strategy takes 10 minutes to complete.
-
-<section class="spells">
-
-<section class="spell">
-
-### Guidance
-
-1st-level Leader strategy
-
-You can take an [Action](../../pages/combat/actions.md) to confer useful advice to a [Close](../../pages/rules/distance.md) ally. The target can roll a **d4** and add the number rolled to one **Check** of their choice.
-
-</section>
-
-<section class="spell">
-
-### Lay of the Land
-
-1st-level Leader strategy
-
-If you carefully observe your enemies or the terrain directly before a combat starts, you can make a **Wise Insight Check** instead of **Cunning Check** when you or one ally would roll for [Initiative](../../pages/combat/index.md).
-
-</section>
-
-</section>
-
-### Tactics
-
-1st-level Leader archetype feature
-
-You have a number of **Tactic Slots** which you can use to perform various tactical feats. To perform a tactic you must expend a **Tactic Slot**. You regain all expended **Tactic Slots** when you finish a rest.
-
-Your **Tactic Difficulty** is:
-
-<div class="example-roll">
-  8
-  +
-  <span class="bonus"> <span class="caption">Proficiency</span></span>
-  +
-  <span class="bonus"> <span class="caption">Wisdom</span></span>
-</div>
-
-<section class="spells">
-
-<section class="spell">
-
-#### Rally
-
-1st-level Leader tactic
-
-You can use your [Bonus Action](../../pages/combat/bonus-actions.md) to make a berating or inspiring cry to a [Nearby](../../pages/rules/distance.md) ally. The target regains [Stamina](../pages/combat/stamina.md) equal to **1d4 + your Wisdom**.
-
-</section>
-
-<section class="spell">
-
-#### Wise Command
-
-1st-level Leader tactic
-
-You can use your [Action](../../pages/combat/actions.md) to call out a useful ploy to a [Nearby](../../pages/rules/distance.md) ally. The target can roll a **d4** and add the number rolled to one [Attack](../../pages/combat/attacks.md) or [Save](../../pages/rules/rolling/saves.md).
 
 </section>
 
