@@ -19,7 +19,7 @@
     "predeploy": "npm run test && npm run clean && npm run build",
     "deploy": "gh-pages -d dist -b gh-pages -t",
     "deploy:itch": "butler push dist/ grislyeye/three-meet:HTML",
-    "test": "htmlhint 'index.html' && npx markdownlint '**/*.md' --ignore dist --ignore node_modules --rules .markdownlint.docsify-relative-links.rule.js --rules .markdownlint.docsify-links-fragments-only.rule.js && stylelint 'themes/cold-tavern/**/*.css'"
+    "test": "htmlhint 'index.html' && npx markdownlint '**/*.md' --ignore dist --ignore node_modules --rules .markdownlint/rules/docsify-relative-links.js --rules .markdownlint/rules/docsify-links-fragments-only.js && stylelint 'themes/cold-tavern/**/*.css'"
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.2.0",
