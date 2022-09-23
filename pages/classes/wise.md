@@ -216,7 +216,7 @@ Your **Tactic Difficulty** is:
 
 1st-level Leader tactic
 
-You can use your [Bonus Action]() to make a berating or inspiring cry to a [Nearby]() ally. The target regains [Stamina](../pages/combat/stamina.md) equal to **1d4 + your Wisdom**. When you use this tactic using a 2nd level **Tactic Slot** or higher, you can roll an additional **1d4** for each slot above 1st.
+You can use your [Bonus Action](../../pages/combat/bonus-actions.md) to make a berating or inspiring cry to a [Nearby](../../pages/rules/distance.md) ally. The target regains [Stamina](../pages/combat/stamina.md) equal to **1d4 + your Wisdom**. When you use this tactic using a 2nd level **Tactic Slot** or higher, you can roll an additional **1d4** for each slot above 1st.
 
 </section>
 
@@ -240,7 +240,7 @@ You can use your [Action](../../pages/combat/actions.md) to call out a useful pl
 
 </header>
 
-You are proficient in the [Persuasion]() and [Intimidation]() skills.
+You are proficient in the [Persuasion](../../pages/characters/skills.md#persuasion) and [Intimidation](../../pages/characters/skills.md#intimidation) skills.
 
 <header>
 
@@ -250,7 +250,7 @@ You are proficient in the [Persuasion]() and [Intimidation]() skills.
 
 </header>
 
-When you use your Command feature, your ally can also make a [Move](). This does not provoke an [Opportunity Attack]().
+When you use your Command feature, your ally can also make a [Move](../../pages/combat/moves.md). This does not provoke an [Opportunity Attack](../../pages/combat/reactions.md#opportunity-attack).
 
 <section class="spell">
 
@@ -262,7 +262,7 @@ When you use your Command feature, your ally can also make a [Move](). This does
 
 </header>
 
-You can use an [Action]() to dead-eye or rebuke a [Nearby]() enemy. The target must make [Wise]() [Save]() or must roll a *d4* and subtract the number rolled from the next [Attack]() or [Save]() they make. When you use this tactic using a 2nd level **Tactic Slot** or higher, you can target an additional enemy for each slot above 1st.
+You can use an [Action](../../pages/combat/actions.md) to dead-eye or rebuke a [Nearby](../../pages/rules/distance.md) enemy. The target must make [Wise Save](../../pages/rules/rolling/saves.md) or must roll a *d4* and subtract the number rolled from the next [Attack](../../pages/combat/attacks.md) or [Save](../../pages/rules/rolling/saves.md) they make. When you use this tactic using a 2nd level **Tactic Slot** or higher, you can target an additional enemy for each slot above 1st.
 
 </section>
 
