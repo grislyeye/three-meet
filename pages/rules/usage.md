@@ -1,10 +1,6 @@
-<header>
-
 # Usage Die
 
-<p class="subheading">Rule</p>
-
-</header>
+Rule
 
 **Usage Die** are used to represent consumable or limited **Resources**, such as ammo or coins. **Usage Die** can be d4s, d6s, d8s, d10s, d12s and d20s (expressed as Ud4, Ud6, etc.).
 
