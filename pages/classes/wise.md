@@ -150,9 +150,11 @@ Wise archetype
 
 Not all need fight, some must command. You are a leader, a tactician. Issuing orders and inspiriting greatness in others.
 
-| Level | Features | Wise Slots
-| ----  | - | - |
-| 1st   | Command, Guidance, Tactics, Proficient: Persuasion, light armor, shields, and simple weapons | 2
+| Level | Archetype Features | Tactic Slots | Slot Level
+| ----  | - | - | - |
+| 1st   | Command, Guidance, Tactics, Proficient: Persuasion, light armor, shields, and simple weapons | 1 | 1st
+| 2nd   | Commanding Presence, Wise Command tactic | 2 | 1st
+| 3rd   |  | 2 | 2nd
 
 ### Command
 
@@ -162,7 +164,7 @@ As an [Action](../../pages/combat/actions.md) you command an ally to attack. The
 
 ### Strategies
 
-1st-level Sorcerer archetype feature
+1st-level Leader archetype feature
 
 You can perform the strategies below. Each strategy takes 10 minutes to complete.
 
@@ -214,7 +216,7 @@ Your **Tactic Difficulty** is:
 
 1st-level Leader tactic
 
-You can use your [Bonus Action](../../pages/combat/bonus-actions.md) to make a berating or inspiring cry to a [Nearby](../../pages/rules/distance.md) ally. The target regains [Stamina](../pages/combat/stamina.md) equal to **1d4 + your Wisdom**.
+You can use your [Bonus Action]() to make a berating or inspiring cry to a [Nearby]() ally. The target regains [Stamina](../pages/combat/stamina.md) equal to **1d4 + your Wisdom**. When you use this tactic using a 2nd level **Tactic Slot** or higher, you can roll an additional **1d4** for each slot above 1st.
 
 </section>
 
@@ -227,6 +229,40 @@ You can use your [Bonus Action](../../pages/combat/bonus-actions.md) to make a b
 You can use your [Action](../../pages/combat/actions.md) to call out a useful ploy to a [Nearby](../../pages/rules/distance.md) ally. The target can roll a **d4** and add the number rolled to one [Attack](../../pages/combat/attacks.md) or [Save](../../pages/rules/rolling/saves.md).
 
 </section>
+
+</section>
+
+<header>
+
+### Commanding Presence
+
+<p class="subheading">2nd-level Leader archetype feature</p>
+
+</header>
+
+You are proficient in the [Persuasion]() and [Intimidation]() skills.
+
+<header>
+
+### Improved Command
+
+<p class="subheading">2nd-level Leader archetype feature</p>
+
+</header>
+
+When you use your Command feature, your ally can also make a [Move](). This does not provoke an [Opportunity Attack]().
+
+<section class="spell">
+
+<header>
+
+### Rebuke
+
+<p class="subheading">2nd-level Leader tactic</p>
+
+</header>
+
+You can use an [Action]() to dead-eye or rebuke a [Nearby]() enemy. The target must make [Wise]() [Save]() or must roll a *d4* and subtract the number rolled from the next [Attack]() or [Save]() they make. When you use this tactic using a 2nd level **Tactic Slot** or higher, you can target an additional enemy for each slot above 1st.
 
 </section>
 
