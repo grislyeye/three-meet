@@ -25,7 +25,6 @@
   + [Distance](./pages/rules/distance.md)
   + [Rests](./pages/rules/rests.md)
   + [Conditions](./pages/rules/conditions.md)
-  + [Usage Die](./pages/rules/usage.md)
 + [Combat](./pages/combat/index.md)
   + [Actions](./pages/combat/actions.md)
   + [Attacks](./pages/combat/attacks.md)
