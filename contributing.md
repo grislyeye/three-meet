@@ -89,6 +89,13 @@ Guide
 
   1. Rules should be addressed to the reader, in the first person. For example, "you roll for" rather than "the player rolls".
 
+### 5. Space
+
+  1. Where reasonable, attempts should be made to keep pages short enough that the text doesn't scroll on a typical desktop view.
+     1. Exclusions to this include:
+        1. Directories of items, such as lists of skill descriptions.
+        2. Large amounts of reference material that would be important to a player, such as a class or background.
+
 ## Rules Guide
 
 ### Features
