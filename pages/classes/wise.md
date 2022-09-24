@@ -232,7 +232,21 @@ You can touch a willing creature (including yourself) who isn't wearing armour, 
 
 2nd-level Sorcerer archetype feature
 
-You gain the **[Corrupted](../../pages/rules/conditions.md#corrupted) (Ud8 Resource)** condition. You must **Tap** this [Resource](../../pages/rules/usage.md) every time you use one of your class features.
+You gain a **Corrupted (Ud20 Resource)**  that tracks your diminishing humanity. You must **Tap** this [Resource](../../pages/rules/usage.md) every time you cast a spell.
+
+Each time it is **Exhausted** you take [Stress]() as corruptive forces overwhelm your body and mind. As determined by the level of the class feature you are using:
+
+| Spell Slot | Stress |
+| ---------- | ------ |
+| 1st        | 2d6    |
+| 2nd        | 4d6    |
+| 3rd        | 6d6    |
+| 4th        | 7d6    |
+| 5th        | 8d6    |
+
+[Afflictions](../../pages/combat/afflictions.md) gained by this [Stress]() involves a warping of your mind or form.
+
+</section>
 
 ### Improved Stricken
 
