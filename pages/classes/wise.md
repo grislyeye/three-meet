@@ -74,7 +74,7 @@ You can sense and purify small amounts of [Close](../../pages/rules/distance.md)
 
 1st-level Elementalist archetype feature
 
-When you are unseen you can use your [Action](../../pages/combat/actions.md) to transform into an **Animal** (Common Creature, **Defence** 10 + Wisdom + Cunning, **Stamina** Wisdom + your level, **Light Melee Attack** 1d6) *or* transform back. If you lose all your **Stamina** in this form you transform back and take any left over damage.
+When you are unseen you can use your [Action](../../pages/combat/actions.md) to transform into an **Animal** (Common Creature, **Defence** 10 + Wisdom + Cunning, **Stamina** Wisdom + your level, **Light Melee Attack** 1d6) *or* transform back. If you lose all your **Stamina** in this form you transform back and take any left over [Stress]().
 
  You can use this feature twice. You regain expended uses when you finish a [Rest](../../pages/rules/rests.md).
 
@@ -128,7 +128,7 @@ When you use your **Animal Form** feature you gain an additional **1d4 + 4 Stami
 
 When you transform you can choose one of the following for your new form:
 
- * You add your **Wisdom** to your attack damage
+ * You add your **Wisdom** to your [Stress]() with [Attacks]()
  * You can see in darkness
  * You become proficient in **Athletics** or **Stealth**
 
@@ -238,7 +238,7 @@ You gain the **[Corrupted](../../pages/rules/conditions.md#corrupted) (Ud8 Resou
 
 2nd-level Sorcerer archetype feature
 
-You can add your [Wisdom](../../pages/characters/attributes.md#wisdom) to the damage of your [Stricken Attack](#stricken).
+You can add your [Wisdom](../../pages/characters/attributes.md#wisdom) to the **Stress** of your [Stricken Attack](#stricken).
 
 <section class="spell">
 
@@ -246,7 +246,7 @@ You can add your [Wisdom](../../pages/characters/attributes.md#wisdom) to the da
 
 2nd-level Sorcerer spell
 
-You summon unseen spirits that whisper three, horrific secrets in the ears of your enemies. Each whisper deals 1d4+1 damage to one or several **Close**, **Nearby** or **Far Away** creatures. When you cast this spell using a 2nd level **Spell Slot** or higher, you can send an additional whisper each slot above 1st.
+You summon unseen spirits that whisper three, horrific secrets in the ears of your enemies. Each whisper deals 1d4+1 [Stress]() to one or several **Close**, **Nearby** or **Far Away** creatures. When you cast this spell using a 2nd level **Spell Slot** or higher, you can send an additional whisper each slot above 1st.
 
 </section>
 
