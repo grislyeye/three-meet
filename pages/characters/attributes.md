@@ -21,7 +21,7 @@ Attribute
 
 Raw strength, stamina, and combat prowess.
 
-Added to [Stamina](../../pages/combat/stamina.md), and melee [Attacks](../../pages/combat/attacks.md) and [Damage](../../pages/combat/attacks.md) rolls.
+Added to [Stamina](../../pages/combat/stamina.md), and melee [Attacks](../../pages/combat/attacks.md) and [Stress](../../pages/combat/attacks.md) rolls.
 
 </section>
 
@@ -33,7 +33,7 @@ Attribute
 
 Wits, speed, agility, dexterousness, charm, perceptiveness, and guile.
 
-Added to [Initiative](../../pages/combat/index.md#initiative), [Defence](../../pages/combat/attacks.md#defence), and ranged [Attacks](../../pages/combat/attacks.md) and [Damage](../../pages/combat/attacks.md) rolls.
+Added to [Initiative](../../pages/combat/index.md#initiative), [Defence](../../pages/combat/attacks.md#defence), and ranged [Attacks](../../pages/combat/attacks.md) and [Stress](../../pages/combat/attacks.md) rolls.
 
 </section>
 

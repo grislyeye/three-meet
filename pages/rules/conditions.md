@@ -37,20 +37,4 @@ Condition (optional)
 
 </section>
 
-<section class="summary">
-
-## Corrupted
-
-Condition
-
-**Corrupted** is a [Resource](../../pages/rules/usage.md) that tracks your diminishing humanity. It's **Tapped** each time you make a corrupted action, such as using ruinous magic or using a cursed magic item.
-
-Each time it is **Exhausted** you undergo an unpleasant transformation. Roll on the Corruptions table below. Your Corruption then **Replenishes** at the next lower die. It stays at Ud4 once you reach Ud4.
-
-| d20 | Corruption |
-| --- | ---------- |
-| 1-5 | **Withered.** Foul energies seep into your flesh, withering your body. Reduce your [Might](../../pages/characters/attributes.md#might) by 1.
-
-</section>
-
 </section>

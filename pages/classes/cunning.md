@@ -2,7 +2,7 @@
 
 Class
 
-| Level | Proficiency | Stamina | Cunning Damage | Features  |
+| Level | Proficiency | Stamina | Cunning Stress | Features  |
 | ----  | ----------- | ------- | -------------- | - |
 | 1st   | +2          | 8       | 1d6            | +1 [Cunning](../../pages/characters/attributes.md#cunning) <br> Proficient: Cunning Saves <br> Proficient: Any 1 skill <br> Expert Equipment <br> Cunning Attack <br> Expertise <br> Archetype
 | 2nd   | +2          | +1d8    | 1d6            | Cunning Action |
@@ -23,7 +23,7 @@ You start with the following items:
 
 1st-level Cunning class feature
 
-You can deal extra **Cunning Damage** damage to one creature you hit with an attack, if you have advantage on rolls with a [Light Melee Attack](../../pages/combat/attacks.md#describing-attacks).
+You can deal extra **Cunning Stress** damage to one creature you hit with an attack, if you have advantage on rolls with a [Light Melee Attack](../../pages/combat/attacks.md#describing-attacks).
 
 ## Expertise
 
