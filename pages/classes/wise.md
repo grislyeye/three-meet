@@ -150,37 +150,29 @@ You summon elemental forces from deep in the earth at a [Nearby](../../pages/rul
 
 <section class="spell">
 
-<header>
-
 #### Enhance (Spell Action, 1 hour)
 
 3rd-level Elementalist spell
 
-</header>
-
 When in [Animal Form](#animal-form) you gain one of the following benefits:
 
- * ***Bear's Endurance:*** You have [Advantage]() on [Might]() [Checks](), and gain 2d6 [Stamina]() while in [Animal Form](#animal-form).
+ * ***Bear's Endurance:*** You have [Advantage](../../pages/rules/advantage.md) on [Might](../../pages/characters/attributes.md#might) [Checks](../../pages/rules/rolling/checks.md), and gain 2d6 [Stamina](../../pages/combat/stamina.md) while in [Animal Form](#animal-form).
 
- * ***Cat's Grace:*** You have [Advantage]() on [Cunning]() [Checks](), and don't take falling damage from [Nearby]() heights.
+ * ***Cat's Grace:*** You have [Advantage](../../pages/rules/advantage.md) on [Cunning](../../pages/characters/attributes.md#cunning) [Checks](../../pages/rules/rolling/checks.md), and don't take falling damage from [Nearby](../../pages/rules/distance.md) heights.
 
- * ***Owl's Wisdom:*** You have [Advantage]() on [Wisdom]() [Checks]().
+ * ***Owl's Wisdom:*** You have [Advantage](../../pages/rules/advantage.md) on [Wisdom](../../pages/characters/attributes.md#wisdom) [Checks](../../pages/rules/rolling/checks.md).
 
 </section>
 
 <section class="spell">
 
-<header>
-
 #### Kindred Beast
 
 3rd-level Elementalist ritual
 
-</header>
-
 You befriend a **Kindred Beast** (Perceptive and Stealthy Creature +5/-2, Defence 14. Stamina 35, 2 Melee Attack 2d6+3). It acts independently of you, but it always obeys your commands.
 
-When you make an [Attack](), you can forgo one of your own attacks to allow your kindred beast to make one [Attack]() of its own with its [Reaction](). You can't have more than one kindred beast at a time.
+When you make an [Attack](../../pages/combat/attacks.md), you can forgo one of your own attacks to allow your kindred beast to make one [Attack](../../pages/combat/attacks.md) of its own with its [Reaction](../../pages/combat/reactions.md). You can't have more than one kindred beast at a time.
 
 ## Sorcerer
 
