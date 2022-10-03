@@ -176,6 +176,8 @@ You befriend a **Kindred Beast** (Perceptive and Stealthy Creature +5/-2, Defenc
 
 When you make an [Attack](../../pages/combat/attacks.md), you can forgo one of your own attacks to allow your kindred beast to make one [Attack](../../pages/combat/attacks.md) of its own with its [Reaction](../../pages/combat/reactions.md). You can't have more than one kindred beast at a time.
 
+</section>
+
 ## Sorcerer
 
 Magical Wise archetype
