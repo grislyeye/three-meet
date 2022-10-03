@@ -120,7 +120,7 @@ A [Nearby](../../pages/rules/distance.md) creature regains **1d4 + Wisdom** [Sta
 
 #### Primordial Strength [Action]
 
-1st-level Elementalist spell=
+1st-level Elementalist spell
 
 You channel a burst of raw, primordial energy through your body. You or a [Close](../../pages/rules/distance.md) creature regains **1d8 + Wisdom Stamina**. When you cast this spell using a **Spell Slot** of 2nd level or higher, add an additional **1d8** for each slot level above 1st.
 
