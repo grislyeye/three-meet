@@ -15,7 +15,7 @@ Class
 You start with the following items:
 
  * **Leather Armour** (Defence 11, Light)
- * **Quarterstaff** (Melee 1d6)
+ * **Quarterstaff** (Melee 1d6, Versatile 1d8)
 
 ## Archetype
 
