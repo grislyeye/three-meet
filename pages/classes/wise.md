@@ -32,8 +32,13 @@ With raw, primordial force you fly at your enemies, bolstering you and your alli
 | Level | Features | Spell Slots | Slot Level |
 | ----  | -------- | ----------- | ---------- |
 | 1st   | Wild Trappings, Minor Elementalism, Rituals, Elementalism, Animal Form, Proficient: Nature, medium armor, shields, and martial weapons | 2 | 1st |
-| 2nd   | Primordial Form | 3 | 1st |
+| 2nd   | Spell: Elemental Shift, Primordial Form | 3 | 1st |
 | 3rd   | Enhance Form, Kindred Beast | 3 | 2nd |
+
+<header>
+
+<header>
+>>>>>>> main
 
 ### Wild Trappings
 
