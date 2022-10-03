@@ -29,10 +29,11 @@ Magical Wise archetype
 
 With raw, primordial force you fly at your enemies, bolstering you and your allies.
 
-| Level | Features | Spell Slots |
-| ----  | -------- | ----------- |
-| 1st   | Wild Trappings, Minor Elementalism, Rituals, Elementalism, Animal Form, Proficient: Nature, medium armor, shields, and martial weapons | 2  |
-| 2nd   | Spell: Elemental Shift, Primordial Form | 3 |
+| Level | Features | Spell Slots | Slot Level |
+| ----  | -------- | ----------- | ---------- |
+| 1st   | Wild Trappings, Minor Elementalism, Rituals, Elementalism, Animal Form, Proficient: Nature, medium armor, shields, and martial weapons | 2 | 1st |
+| 2nd   | Spell: Elemental Shift, Primordial Form | 3 | 1st |
+| 3rd   | Enhance Form, Kindred Beast | 3 | 2nd |
 
 ### Wild Trappings
 
@@ -148,6 +149,32 @@ When you transform you can choose one of the following for your new form:
 You summon elemental forces from deep in the earth at a [Nearby](../../pages/rules/distance.md) location. Stone crumbles. Soil turns into mire. The area [Close](../../pages/rules/distance.md) to this location is considered [Difficult Terrain](../../pages/rules/distance.md#difficult-terrain). A creature in the area when you cast the spell must succeed on a [Might](../../pages/characters/attributes.md#might) [Save](../../pages/rules/rolling/saves.md) or they cannot make a [Move](../../pages/combat/moves.md) and are [Disadvantaged](../../pages/rules/conditions.md#disadvantaged). They can use an [Action](../../pages/combat/actions.md) to make a [Might](../../pages/characters/attributes.md#might) [Save](../../pages/rules/rolling/saves.md) to free themselves.
 
 </section>
+
+<section class="spell">
+
+#### Enhance (Spell Action, 1 hour)
+
+3rd-level Elementalist spell
+
+When in [Animal Form](#animal-form) you gain one of the following benefits:
+
+ * ***Bear's Endurance:*** You have [Advantage](../../pages/rules/advantage.md) on [Might](../../pages/characters/attributes.md#might) [Checks](../../pages/rules/rolling/checks.md), and gain 2d6 [Stamina](../../pages/combat/stamina.md) while in [Animal Form](#animal-form).
+
+ * ***Cat's Grace:*** You have [Advantage](../../pages/rules/advantage.md) on [Cunning](../../pages/characters/attributes.md#cunning) [Checks](../../pages/rules/rolling/checks.md), and don't take falling damage from [Nearby](../../pages/rules/distance.md) heights.
+
+ * ***Owl's Wisdom:*** You have [Advantage](../../pages/rules/advantage.md) on [Wisdom](../../pages/characters/attributes.md#wisdom) [Checks](../../pages/rules/rolling/checks.md).
+
+</section>
+
+<section class="spell">
+
+#### Kindred Beast
+
+3rd-level Elementalist ritual
+
+You befriend a **Kindred Beast** (Perceptive and Stealthy Creature +5/-2, Defence 14. Stamina 35, 2 Melee Attack 2d6+3). It acts independently of you, but it always obeys your commands.
+
+When you make an [Attack](../../pages/combat/attacks.md), you can forgo one of your own attacks to allow your kindred beast to make one [Attack](../../pages/combat/attacks.md) of its own with its [Reaction](../../pages/combat/reactions.md). You can't have more than one kindred beast at a time.
 
 </section>
 
