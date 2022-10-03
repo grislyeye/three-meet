@@ -1,5 +1,3 @@
-# Contents
-
 + Characters
   + [Attributes](./pages/characters/attributes.md)
   + [Skills](./pages/characters/skills.md)

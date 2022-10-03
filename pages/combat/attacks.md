@@ -8,7 +8,7 @@ You can make one **Attack** per turn. When you make an **Attack**:
  2. Make a [Check](../../pages/rules/rolling/checks.md)
  3. Add your [Proficiency](../../pages/rules/proficiency.md) if you are proficient with the **Attack**
  4. The difficulty is the opponent's **Defence**
- 5. If you hit, roll for damage and take that from the target's [Stamina](../../pages/combat/stamina)
+ 5. If you hit, roll for damage and take that from the target's [Stamina](../../pages/combat/stamina.md)
 
 ## Describing Attacks
 
@@ -37,3 +37,9 @@ Rule
  + If you're not wearing armour it is 10
  + Shields and other equipment can improve your **Defence**
  + Add your [Cunning](../../pages/characters/attributes.md#cunning) to your **Defence**
+
+## Criticals
+
+Rule
+
+When you roll a **20** on an **Attack** you score a **Critical**. Roll all of the attack’s damage dice twice and add them together.

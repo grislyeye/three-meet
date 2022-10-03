@@ -1,6 +1,6 @@
 {
   "name": "three-meet",
-  "version": "0.24.0",
+  "version": "0.25.0",
   "description": "A low-fantasy 5E hack for dark times",
   "author": "R.G. Wood <ric@grislyeye.com> (https://grislyeye.com)",
   "homepage": "https://github.com/grislyeye/three-meet#readme",
@@ -19,7 +19,7 @@
     "predeploy": "npm run test && npm run clean && npm run build",
     "deploy": "gh-pages -d dist -b gh-pages -t",
     "deploy:itch": "butler push dist/ grislyeye/three-meet:HTML",
-    "test": "htmlhint 'index.html' && npx markdownlint '**/*.md' --ignore dist --ignore node_modules --rules .markdownlint.docsify-relative-links.rule.js --rules .markdownlint.docsify-links-fragments-only.rule.js && stylelint 'themes/cold-tavern/**/*.css'"
+    "test": "htmlhint 'index.html' && npx markdownlint '**/*.md' --ignore dist --ignore _sidebar.md --ignore node_modules --rules .markdownlint/rules/docsify-relative-links.js --rules .markdownlint/rules/docsify-links-fragments-only.js --rules .markdownlint/rules/docsify-markdown-suffix.js && stylelint 'themes/cold-tavern/**/*.css'"
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.2.0",

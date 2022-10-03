@@ -1,6 +1,8 @@
+const common = require('./common.js')
+
 module.exports = {
-  "names": [ "docsify-links-fragments-only" ],
-  "description": "Internal Docsify should use URL fragments (and not '?id=')",
+  "names": [ "docsify-markdown-suffix" ],
+  "description": "Docsify links should reference full file name",
   "tags": [ "custom", "docsify" ],
   "function": (params, onError) => {
      params
@@ -12,7 +14,7 @@ module.exports = {
            .filter((child) => child.type === 'link_open')
            .forEach((link) => {
              for (const attr of link.attrs) {
-               if (isDocsifyLink(attr) && isRelativeLink(attr) && attr[1].includes('?id=')) {
+               if (common.isDocsifyLink(attr) && !attr[1].startsWith('#') && !attr[1].includes('.md')) {
                  onError({
                    "lineNumber": inline.lineNumber,
                    "context": attr[1]
@@ -23,18 +25,3 @@ module.exports = {
        });
   }
 };
-
-const isDocsifyLink = (link) => {
-  const href = link[1]
-  return link[0] === "href"
-    && href
-    && !href.startsWith('http')
-}
-
-
-const isRelativeLink = (link) => {
-  const href = link[1]
-  return link[0] === "href"
-    && href
-    && (href.startsWith('.') || href.startsWith('#'))
-}

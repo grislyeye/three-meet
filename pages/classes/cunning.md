@@ -87,4 +87,4 @@ You do not need advantage to use your **Cunning Attack** on a target if it is [C
 
 3rd-level Shadow archetypes feature
 
-During your first [Turn](../pages/combat/order.md) you have [Advantage](../pages/rules/advantage.md) on [Attacks](../pages/combat/attacks.md) against any creature that hasn't taken a turn. In addition, any [Attacks](../pages/combat/attacks.md) against surprised creatures are **Critical**.
+During your first [Turn](../pages/combat/order.md) you have [Advantage](../pages/rules/advantage.md) on [Attacks](../pages/combat/attacks.md) against any creature that hasn't taken a turn. In addition, any [Attacks](../pages/combat/attacks.md) against surprised creatures are [Critical](../pages/combat/attacks.md#criticals).

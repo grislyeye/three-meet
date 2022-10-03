@@ -27,7 +27,7 @@ The guilds look after their own, even after they part ways. You are given a mont
 
 1st-level Guild Artisan background feature
 
-You belong to a particular type of guild. Choose a speciality and gain its features. Guild Artisan specialities include: [Merchant](#guild-merchant).
+You belong to a particular type of guild. Choose a speciality and gain its features. Guild Artisan specialities include: [Guild Merchant](#guild-merchant).
 
 ## Guild Merchant
 

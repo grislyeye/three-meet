@@ -73,7 +73,7 @@ Guide
 ### 2. Terminology
 
   1. Key terms should be in bold and capitalised for emphasis, e.g. **Proficiency**.
-  2. Key terms should be linked, e.g. [Proficiency](./pages/rules/proficiency).
+  2. Key terms should be linked, e.g. [Proficiency](./pages/rules/proficiency.md).
   3. Exceptions to linking include:
      1. Where a term has been defined nearby in the text.
   4. Avoid using too many key terms in a text block to prevent visual overload.
@@ -88,6 +88,17 @@ Guide
 ### 4. Person
 
   1. Rules should be addressed to the reader, in the first person. For example, "you roll for" rather than "the player rolls".
+
+### 5. Space
+
+  1. Where reasonable, attempts should be made to keep pages short enough that the text doesn't scroll on a typical desktop view.
+     1. Exclusions to this include:
+        1. Directories of items, such as lists of skill descriptions.
+        2. Large amounts of reference material that would be important to a player, such as a class or background.
+
+### 6. Spelling
+
+  1. British English spelling should be used.
 
 ## Rules Guide
 
