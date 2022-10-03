@@ -71,7 +71,7 @@ When you roll a 1 or 2 on a damage die for an attack you make with a melee weapo
 
 1st-level Berserker archetype feature
 
-On your turn, you can use your surge to enter a rage as a [Bonus Action](../../pages/combat/bonus-actions.md). While raging, you reduce any damage you take by **1d4**.
+On your turn, you can use your surge to enter a rage as a [Bonus Action](../../pages/combat/bonus-actions.md). While raging, you reduce any [Stress](../../pages/combat/stress.md) you take by **1d4**.
 
 Your rage lasts for 1 minute.
 
