@@ -96,6 +96,10 @@ Guide
         1. Directories of items, such as lists of skill descriptions.
         2. Large amounts of reference material that would be important to a player, such as a class or background.
 
+### 6. Spelling
+
+  1. British English spelling should be used.
+
 ## Rules Guide
 
 ### Features
