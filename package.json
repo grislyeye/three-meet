@@ -1,6 +1,6 @@
 {
   "name": "three-meet",
-  "version": "0.24.0",
+  "version": "0.24.1",
   "description": "A low-fantasy 5E hack for dark times",
   "author": "R.G. Wood <ric@grislyeye.com> (https://grislyeye.com)",
   "homepage": "https://github.com/grislyeye/three-meet#readme",
@@ -16,11 +16,13 @@
     "start": "docsify serve ./",
     "clean": "rm -rf dist",
     "build": "rsync -av --progress --exclude dist/ --exclude .git --exclude .gitignore --exclude node_modules --include '.*' ./ dist/ && npm install --production  --no-optional --prefix dist && rm -rf dist/node_modules/prismjs && echo 'three-meet.grislyeye.com' > ./dist/CNAME && replace '{{VERSION}}' $npm_package_version dist/  -r --include='*.css'",
-    "predeploy": "npm run clean && npm run build",
+    "predeploy": "npm run test && npm run clean && npm run build",
     "deploy": "gh-pages -d dist -b gh-pages -t",
-    "deploy:itch": "butler push dist/ grislyeye/three-meet:HTML"
+    "deploy:itch": "butler push dist/ grislyeye/three-meet:HTML",
+    "test": "htmlhint 'index.html' && npx markdownlint '**/*.md' --ignore dist --ignore _sidebar.md --ignore node_modules --rules .markdownlint/rules/docsify-relative-links.js --rules .markdownlint/rules/docsify-links-fragments-only.js --rules .markdownlint/rules/docsify-markdown-suffix.js && stylelint 'themes/cold-tavern/**/*.css'"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.2.0",
     "docsify": ">=4.12.2",
     "docsify-page-preview": "^0.0.3",
     "docsify-pagination": "^2.10.1",
@@ -33,6 +35,10 @@
   "devDependencies": {
     "docsify-cli": "^4.4.4",
     "gh-pages": "^4.0.0",
-    "replace": "^1.2.1"
+    "htmlhint": "^1.1.4",
+    "markdownlint-cli": "^0.32.2",
+    "replace": "^1.2.1",
+    "stylelint": "^14.12.0",
+    "stylelint-config-standard": "^28.0.0"
   }
 }

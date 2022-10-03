@@ -1,16 +1,12 @@
-<header>
-
 # Wealth
 
-<p class="subheading">Rule</p>
-
-</header>
+Rule
 
 Wealth is measured by abstract **Treasure** items: consumable treasures and containers for coins or jewels, such as pouches of coins or gold statues.
 
-  * Each item of **Treasure** is a resource with a [Usage Die](pages/rules/usage.md) which you can **Tap** to buy goods, equipment, and services.
+  * Each item of **Treasure** is a resource with a [Usage Die](../../pages/rules/usage.md) which you can **Tap** to buy goods, equipment, and services.
   * Items or services have a die cost, representing its relative price.
-  * You do not have a treasure item with a [Usage Die](pages/rules/usage.md) higher than an item's cost, you cannot afford to buy it.
+  * You do not have a treasure item with a [Usage Die](../../pages/rules/usage.md) higher than an item's cost, you cannot afford to buy it.
 
 For example, you might have a d4 small pouch for of copper pieces or 6 pouches stuffed full of gold coins (**Ud6** each):
 
@@ -51,7 +47,9 @@ For example, you might have a d4 small pouch for of copper pieces or 6 pouches s
 
 <aside>
 
-### Variant: Large Wealth
+## Variant: Large Wealth
+
+Optional Rule
 
 You automatically buy items more than two levels down the usage die chain, without having to roll.
 
