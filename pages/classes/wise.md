@@ -62,7 +62,7 @@ With raw, primordial force you fly at your enemies, bolstering you and your alli
 
 You start with the following items:
 
- * **Hide Armour** (Defence 11, Medium)
+ * **Hide Armour** (Defence 12, Medium)
  * **Maul** (Melee 2d6, Two-Handed)
 
 ### Minor Elementalism
