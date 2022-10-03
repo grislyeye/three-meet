@@ -1,12 +1,12 @@
 .search {
-  font-family: 'Alegreya', sans-serif;
+  font-family: Alegreya, sans-serif;
 }
 
 .sidebar .search input {
   color: black;
-  background-color: rgb(239, 239, 239);
+  background-color: rgb(239 239 239);
   border: 1px solid darkgrey;
-  font-family: 'Alegreya Sans SC', sans-serif;
+  font-family: "Alegreya Sans SC", sans-serif;
 }
 
 .sidebar .search .matching-post {

@@ -1,23 +1,23 @@
 main .sidebar {
-  background-color: rgb(239, 239, 239);
+  background-color: rgb(239 239 239);
   border-right: 1px solid white;
   z-index: 10;
 }
 
 .sidebar h1.app-name {
-  font-family: "Alegreya", serif;
+  font-family: Alegreya, serif;
   font-weight: bold;
   color: black;
   font-size: 32pt;
 }
 
 .sidebar-nav {
-  font-family: "Alegreya", serif;
+  font-family: Alegreya, serif;
   color: black;
 }
 
 .sidebar li {
-  margin: 6px 0 6px 0;
+  margin: 6px 0;
 }
 
 .sidebar ul > li {
@@ -43,19 +43,19 @@ main .sidebar {
   font-variant-caps: normal;
 }
 
+.sidebar-nav > ul > li > a {
+  color: black;
+  font-size: 18px;
+  font-weight: bold;
+  font-variant-caps: small-caps;
+}
+
 .sidebar ul li a:hover {
   text-decoration: underline;
 }
 
 .sidebar ul li ul {
   padding: 0;
-}
-
-.sidebar-nav > ul > li > a {
-  color: black;
-  font-size: 18px;
-  font-weight: bold;
-  font-variant-caps: small-caps;
 }
 
 .sidebar ul li.active a {
@@ -71,12 +71,6 @@ main .sidebar {
   float: left;
 }
 
-body.sticky .sidebar-toggle {
-  top: 10px;
-  right: 10px;
-  left: auto;
-}
-
 .sidebar-toggle {
   width: auto;
   margin: 3em;
@@ -87,19 +81,25 @@ body.sticky .sidebar-toggle {
   z-index: 5;
 }
 
+.sidebar-toggle:hover {
+  background-color: white;
+}
+
+body.sticky .sidebar-toggle {
+  top: 10px;
+  right: 10px;
+  left: auto;
+}
+
 .sidebar-toggle-button {
   width: 24px;
   height: 24px;
 }
 
-.sidebar-toggle-button:before {
-  font-family: "Font Awesome 6 Free";
+.sidebar-toggle-button::before {
+  font-family: "Font Awesome 6 Free", sans-serif;
   content: "\f0c9";
   font-size: 20px;
-}
-
-.sidebar-toggle:hover {
-  background-color: white;
 }
 
 .sidebar-toggle span {
@@ -108,15 +108,15 @@ body.sticky .sidebar-toggle {
 
 @media screen and (max-width: 630px) {
   body .sidebar {
-    transform: translateX(16rem);;
+    transform: translateX(16rem);
   }
 
   body.close .content {
-    transform: translateX(0rem);
+    transform: translateX(0);
   }
 
   body.close .sidebar-toggle {
-    background-color: rgba(255, 255, 255, 0.8);
+    background-color: rgba(255 255 255 80%);
     transition: 1s background-color;
     display: inline-block;
   }

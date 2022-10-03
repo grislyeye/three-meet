@@ -1,5 +1,5 @@
-@import url(https://fonts.googleapis.com/css?family=Alegreya:400,400italic,700italic,700);
-@import url(https://fonts.googleapis.com/css?family=Alegreya+Sans+SC:400,400italic,700italic,700);
+@import "https://fonts.googleapis.com/css?family=Alegreya:400,400italic,700italic,700";
+@import "https://fonts.googleapis.com/css?family=Alegreya+Sans+SC:400,400italic,700italic,700";
 @import "../_core.css";
 @import "_headers.css";
 @import "_sidebar.css";
@@ -20,10 +20,10 @@
 }
 
 .content {
-  font-family: "Alegreya", serif;
+  font-family: Alegreya, serif;
   line-height: 1.15;
   font-size: 20pt;
-  color: rgb(237, 237, 237);
+  color: rgb(237 237 237);
   min-height: 100vh;
 }
 
@@ -49,14 +49,15 @@ body {
     margin-left: 30px;
   }
 }
+
 @media screen and (max-width: 768px) {
   .content {
     width: 100%;
-    margin-left: 0px;
+    margin-left: 0;
   }
+
   .lang-sh {
     width: 62.5%;
-
     font-size: 0.6em;
   }
 }
@@ -64,7 +65,6 @@ body {
 @media screen and (max-width: 690px) {
   .lang-sh {
     width: 57.5%;
-
     font-size: 0.5em;
   }
 }
