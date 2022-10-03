@@ -140,6 +140,8 @@ When you transform you can choose one of the following for your new form:
  * You can see in darkness
  * You become proficient in **Athletics** or **Stealth**
 
+<section class="spell">
+
 #### Elemental Shift [Action]
 
 2nd-level Elementalist spell
