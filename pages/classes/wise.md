@@ -35,11 +35,6 @@ With raw, primordial force you fly at your enemies, bolstering you and your alli
 | 2nd   | Spell: Elemental Shift, Primordial Form | 3 | 1st |
 | 3rd   | Enhance Form, Kindred Beast | 3 | 2nd |
 
-<header>
-
-<header>
->>>>>>> main
-
 ### Wild Trappings
 
 1st-level Elementalist archetype feature
