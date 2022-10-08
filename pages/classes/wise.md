@@ -29,11 +29,11 @@ Magical Wise archetype
 
 With raw, primordial force you fly at your enemies, bolstering you and your allies.
 
-| Level | Features | Spell Slots | Slot Level |
+| Level | Features | Spell Slots | Power      |
 | ----  | -------- | ----------- | ---------- |
-| 1st   | Wild Trappings, Minor Elementalism, Rituals, Elementalism, Animal Form, Proficient: Nature, medium armor, shields, and martial weapons | 2 | 1st |
-| 2nd   | Spell: Elemental Shift, Primordial Form | 3 | 1st |
-| 3rd   | Enhance Form, Kindred Beast | 3 | 2nd |
+| 1st   | Wild Trappings, Minor Elementalism, Rituals, Elementalism, Animal Form, Proficient: Nature, medium armor, shields, and martial weapons | 2 | 1 |
+| 2nd   | Spell: Elemental Shift, Primordial Form | 3 | 1 |
+| 3rd   | Enhance Form, Kindred Beast | 3 | 2 |
 
 ### Wild Trappings
 
@@ -94,6 +94,8 @@ You can use an [Action](../../pages/combat/actions.md) to transform into an **An
 
 You can cast spells. To cast a spell you must expend a spell slot. Each spell takes an [Action](../../pages/combat/actions.md) or  [Bonus Action](../../pages/combat/bonus-actions.md)  to cast. You regain your spell slots when you finish a [Rest](../../pages/rules/rests.md).
 
+Your **Power** determines your mystic might. Some spells cast with a higher **Power** are more effective (deal more damage, etc.).
+
 Your **Spell Difficulty** is:
 
 <div class="example-roll">
@@ -112,7 +114,7 @@ Your **Spell Difficulty** is:
 
 1st-level Elementalist spell
 
-A [Nearby](../../pages/rules/distance.md) creature regains **1d4 + Wisdom** [Stamina](../../pages/combat/stamina.md). When you cast this spell using a **Spell Slot** of 2nd level or higher, add an additional **1d4** for each slot level above 1st.
+Roll a number of **d4s** equal to your **Power**. You or a [Nearby](../../pages/rules/distance.md) creature regain [Stamina](../../pages/combat/stamina.md) equal to the roll result, plus your **Wisdom**.
 
 </section>
 
@@ -122,7 +124,7 @@ A [Nearby](../../pages/rules/distance.md) creature regains **1d4 + Wisdom** [Sta
 
 1st-level Elementalist spell
 
-You channel a burst of raw, primordial energy through your body. You or a [Close](../../pages/rules/distance.md) creature regains **1d8 + Wisdom Stamina**. When you cast this spell using a **Spell Slot** of 2nd level or higher, add an additional **1d8** for each slot level above 1st.
+You channel a burst of raw, primordial energy through your body. Roll a number of **d8s** equal to your **Power**. You or a [Close](../../pages/rules/distance.md) creature regain [Stamina](../../pages/combat/stamina.md) equal to the roll result, plus your **Wisdom**.
 
 </section>
 
@@ -184,11 +186,11 @@ Magical Wise archetype
 
 You are a practitioner of forbidden, arcane arts.
 
-| Level | Features | Spell Slots | Slot Level |
+| Level | Features | Spell Slots | Power      |
 | ----  | -------- | ----------- | ---------- |
-| 1st   | Minor Sorcery, Stricken, Sorcerous Rituals, Sorcery | 2 | 1st |
-| 2nd   | Corrupted, Improved Stricken, Insidious Whispers, Witch Sight | 3 | 1st |
-| 3rd   | Spirit Door spell, Witch Tongue | 3 | 2nd |
+| 1st   | Minor Sorcery, Stricken, Sorcerous Rituals, Sorcery | 2 | 1 |
+| 2nd   | Corrupted, Improved Stricken, Insidious Whispers, Witch Sight | 3 | 1 |
+| 3rd   | Spirit Door spell, Witch Tongue | 3 | 2 |
 
 ### Minor Sorcery
 
@@ -236,7 +238,9 @@ You summon a **Minor Spirit (1 [Stamina](../../pages/combat/stamina.md), 10 Defe
 
 1st-level Sorcerer archetype feature
 
-You can cast spells. To cast a spell you must expend a **Wise Slot**. Each spell takes an [Action](../../pages/combat/actions.md) to cast. You regain all expended **Wise Slot**s when you finish a rest.
+You can cast spells. To cast a spell you must expend a **Spell Slot**. Each spell takes an [Action](../../pages/combat/actions.md) to cast. You regain all expended **Spell Slots** when you finish a rest.
+
+Your **Power** determines your mystic might. Some spells cast with a higher **Power** are more effective (deal more damage, etc.).
 
 <section class="spells">
 
@@ -280,7 +284,7 @@ You can add your [Wisdom](../../pages/characters/attributes.md#wisdom) to the da
 
 2nd-level Sorcerer spell
 
-You summon unseen spirits that whisper three, horrific secrets in the ears of your enemies. Each whisper deals 1d4+1 damage to one or several **Close**, **Nearby** or **Far Away** creatures. When you cast this spell using a 2nd level **Spell Slot** or higher, you can send an additional whisper each slot above 1st.
+You summon unseen spirits that whisper **2 + Power** horrific secrets in the ears of your enemies. Each whisper deals **1d4+1** damage to one or several **Close**, **Nearby** or **Far Away** creatures.
 
 </section>
 
