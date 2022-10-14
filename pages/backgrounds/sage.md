@@ -12,7 +12,7 @@ While others played, prayed or trained, you had your nose in a book. You may not
 
 1st-level Sage background feature
 
-Your studies have revealed an important discovery. This is related to one of the [Proficiencies](../../pages/characters/skill.md) awarded by this **Background** or the **Speciality** you choose. Come up with a discovery, with your GM. You can spend 10 minutes studying a problem related to this discovery. When you finish you can make a [Check](../../pages/rules/rolloing/checks/md) using the chosen [Proficiency](../../pages/characters/skill.md) instead.
+Your studies have revealed an important discovery. This is related to one of the [Proficiencies](../../pages/characters/skill.md) awarded by this **Background** or the **Speciality** you choose. Come up with a discovery, with your GM. You can spend 10 minutes studying a problem related to this discovery. When you finish you can make a [Check](../../pages/rules/rolling/checks.md) using the chosen [Proficiency](../../pages/characters/skill.md) instead.
 
 ## Speciality
 
