@@ -12,7 +12,7 @@ While others played, prayed or trained, you had your nose in a book. You may not
 
 1st-level Sage background feature
 
-Once per rest you gain advantage on one [check](../../pages/rules/rolling.md#checks) using a skill you're proficient in.
+Once per rest you gain advantage on one [Check](../../pages/rules/rolling.md#checks) using a skill you're proficient in.
 
 ## Speciality
 
