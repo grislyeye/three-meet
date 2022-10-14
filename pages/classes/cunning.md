@@ -35,7 +35,7 @@ Choose two of your skill or tool proficiencies. Your proficiency bonus is double
 
 1st-level Cunning class feature
 
-Choose an archetype and gain its features. **The Cunning** archetypes include: [Shadow](../../pages/classes/cunning.md#shadow) and [Skirmisher](../../pages/classes/cunning.md#skirmisher).
+Choose an archetype and gain its features. **The Cunning** archetypes include: [Shadow](#shadow) and [Skirmisher](#skirmisher).
 
 ## Cunning Action
 
