@@ -4,13 +4,13 @@ While others played, prayed or trained, you had your nose in a book. You may not
 
 | Level             | Background Features    |
 | ----------------- | - |
-| 1st               | +1 [Wisdom](pages/characters/attributes.md?id=wisdom), Proficient: Investigation, Learned, Speciality  |
+| 1st               | +1 [Wisdom](../../pages/characters/attributes.md#wisdom), Proficient: Investigation, Learned, Speciality  |
 
-### Learned
+## Learned
 
-Once per rest you gain advantage on one [check](pages/rules/rolling.md?id=checks) using a skill you're proficient in.
+Once per rest you gain advantage on one [check](../../pages/rules/rolling.md#checks) using a skill you're proficient in.
 
-### Speciality
+## Speciality
 
 Choose a speciality and gain it's features. Sage specialities include: Occultist.
 
@@ -24,7 +24,7 @@ You have seen beyond the veil, the world beyond, the very secrets of the gods.
 
 ### Forbidden Lore
 
-Your blasphemous studies have uncovered secret and forgotten law, insights into the nature of the world and beyond. You may choose on of the following restricted archetypes: [Sorcerer](pages/classes/wise.md?id=sorcerer).
+Your blasphemous studies have uncovered secret and forgotten law, insights into the nature of the world and beyond. You may choose on of the following restricted archetypes: [Sorcerer](../../pages/classes/wise.md#sorcerer).
 
 ### Cloak Self
 
