@@ -10,7 +10,7 @@ You are high-born, a member of the powerful second estate.
 
 ## Noble Trappings
 
-1st-level Cunning class feature
+1st-level Noble background feature
 
 You start with the following items:
 
