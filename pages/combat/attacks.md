@@ -1,23 +1,45 @@
 # Attacks
 
-You cam make one melee or ranged attack per turn. When you make an attack:
+Rule
+
+You can make one **Attack** per turn. When you make an **Attack**:
 
  1. Choose a target
- 2. Determine [advantage/disadvantage](pages/rules/advantage.md) and any bonuses or penalties:
-  1. [Might](pages/characters/attributes.md?id=might) is added to your attack roll for melee attacks
-  2. [Cunning](pages/characters/attributes.md?id=cunning) is added for ranged attacks
-  2. [Wisdom](pages/characters/attributes.md?id=wisdom) is added for magic attacks
-  3. Add your [Proficiency](pages/rules/proficiency.md) if you are proficient with the weapon
- 3. Make the attack [roll](pages/rules/rolling.md?id=checks)
+ 2. Make a [Check](../../pages/rules/rolling/checks.md)
+ 3. Add your [Proficiency](../../pages/rules/proficiency.md) if you are proficient with the **Attack**
  4. The difficulty is the opponent's **Defence**
- 4. If you hit roll the damage of the weapon or effect:
-  1. Your [Cunning](pages/characters/attributes.md?id=cunning) is added to ranged damage
-  2. Your [Might](pages/characters/attributes.md?id=might) is added to melee damage
+ 5. If you hit, roll for damage and take that from the target's [Stamina](../../pages/combat/stamina.md)
+
+## Describing Attacks
+
+Rule
+
+Attacks are described by a number of **Tags** listed in parentheses after its name. For example, **Longsword (Melee 1d8, Versatile 1d10)** is a weapon that can make a versatile, melee attack.
+
+| Tag       | Description |
+| --------- | - |
+| Finesse     | You can add your [Cunning](../../pages/characters/attributes.md#cunning) instead of [Might](../../pages/characters/attributes.md#might) to melee damage, and attack rolls.
+| Light     | Can be used for [Off-hand Attacks](../../pages/combat/bonus-actions.md#off-hand-attack).
+| Melee     | Melee attack. Add your [Might](../../pages/characters/attributes.md#might) to the attack roll, and damage.
+| Ranged    | Ranged attack. Add your [Cunning](../../pages/characters/attributes.md#cunning) to the attack roll, and damage.
+| Spell     | Spell attack. Add your [Wisdom](../../pages/characters/attributes.md#wisdom) to the attack roll. Damage is unmodified. You are always [Proficient](../../pages/rules/proficiency.md).
+| Thrown    | You can throw this weapon to make a ranged attack.
+| Two-Handed | You require two hands to use this attack.
+| Versatile | You can use this damage if the attack is made with two hands.
 
 ## Defence
 
-Defence determines how difficult you are to hit. Defence is determined:
+Rule
 
- + Your armour
- + Any shields you carry, and
- + [Cunning](pages/characters/attributes.md?id=cunning) is added to your Defence
+**Defence** determines how difficult you are to hit:
+
+ + Your base **Defence** is determined by your [Armour](../../pages/equipment/armour.md)
+ + If you're not wearing armour it is 10
+ + Shields and other equipment can improve your **Defence**
+ + Add your [Cunning](../../pages/characters/attributes.md#cunning) to your **Defence**
+
+## Criticals
+
+Rule
+
+When you roll a **20** on an **Attack** you score a **Critical**. Roll all of the attack’s damage dice twice and add them together.

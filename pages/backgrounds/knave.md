@@ -1,27 +1,61 @@
 # Knave
 
+Background
+
 Blackguard, scoundrel, outlaw: these are just some of the names you have been called. You are a common criminal, part of the shadowy underworld.
 
 | Level             | Background Features    |
 | ----------------- | - |
-| 1st               | +1 [Cunning](pages/characters/attributes.md?id=cunning), Proficient: Sleight, Thieves' Cant, Speciality |
+| 1st               | +1 [Cunning](../../pages/characters/attributes.md#cunning), Proficient: Sleight, Criminal Trappings, Thieves' Cant, Speciality |
 
-### Thieves' Cant
+## Criminal Trappings
 
-You know thieves’ cant, a secret mix of dialect, jargon, and code that allows you to hide messages in seemingly normal conversation. In addition, you understand a set of secret signs and symbols used to convey short, simple messages, such as whether an area is dangerous or the territory of a thieves’ guild, whether loot is nearby, or whether the people in an area are easy marks or will provide a safe house for thieves on the run.
+1st-level Knave background feature
 
-You also gain advantage on Persuasion [checks](pages/rules/rolling.md?id=checks) when communicating with thieves' cant.
+You start with the following items:
 
-### Speciality
+ * Gambling set
+ * **Small Pouch of Pennies** (Treasure Ud6)
+ * Thieves' tools
 
-You specialised in a particular criminal enterprise. Choose a speciality and gain it's features. Knave specialities include: Burglar.
+## Thieves' Cant
+
+1st-level Knave background feature
+
+You know thieves’ cant, a secret code of dialect, hand-signs, jargon, ciphers, and symbols that can hide messages in seemingly everyday locations, and conversations.
+
+## Speciality
+
+1st-level Knave background feature
+
+You specialised in a particular criminal enterprise. Choose a speciality and gain its features. Knave specialities include:  **Burglar** and [Ruffian](#ruffian).
 
 ## Burglar
 
+Speciality
+
+| Level             | Features    |
+| ----------------- | - |
+| 1st               | Proficient: Thieves' Tools, Thieves' Stash |
+
+### Thieves' Stash
+
+1st-level Burglar speciality feature
+
+When about thieving you always seem to have the right tool hidden about your clothing (such as rope, caltrops, hooded lanterns, etc.). If you're searched, the **Difficulty** to find your **Thieves' Stash** (Pack Ud6, Common, Illegal) is **8 + your Cunning + your Proficiency**.
+
+## Ruffian
+
+Speciality
+
+You're basically a thug, running enforcement, protection rackets, or acting as bodyguard to your criminal masters.
+
 | Level             | Speciality Features    |
 | ----------------- | - |
-| 1st               | Proficient: Thieves' Tools, Second-Story Work |
+| 1st               | Proficient: Intimidation, Tough |
 
-### Second-Story Work
+### Tough
 
-You gain the ability to climb twice as fast. When you make a running jump double the distance you can cover.
+1st-level Ruffian speciality feature
+
+While you are not wearing any armour, your [Defence](../../pages/combat/attacks.md#defence) equals **10 + [Cunning](../../pages/characters/attributes.md#cunning) + [Might](../../pages/characters/attributes.md#might)**.

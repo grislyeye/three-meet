@@ -1,0 +1,39 @@
+* {
+  --docsify-page-preview-background: black;
+}
+
+docsify-page-preview .preview-popup {
+  font-size: 0.8em;
+}
+
+docsify-page-preview .preview-popup .summaries {
+  display: block;
+  margin: 0;
+  border: none;
+}
+
+docsify-page-preview .preview-popup .summaries .summary {
+  border: none;
+}
+
+docsify-page-preview .preview-popup h1,
+docsify-page-preview .preview-popup h2,
+docsify-page-preview .preview-popup h3,
+docsify-page-preview .preview-popup h4,
+docsify-page-preview .preview-popup .summaries h1,
+docsify-page-preview .preview-popup .summaries h2,
+docsify-page-preview .preview-popup .summaries h3 {
+  font-family: Alegreya, serif;
+  margin: 0;
+  border: none;
+  font-weight: bold;
+  font-size: 45px;
+}
+
+docsify-page-preview .preview-popup h1 + p,
+docsify-page-preview .preview-popup h2 + p,
+docsify-page-preview .preview-popup h3 + p,
+docsify-page-preview .preview-popup h4 + p,
+docsify-page-preview .preview-popup h5 + p {
+  display: none;
+}

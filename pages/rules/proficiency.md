@@ -1,10 +1,10 @@
 # Proficiency
 
-**Proficiency** is a bonus representing your growing expertise.
+Rule
 
-The rules for proficiency are:
+**Proficiency** is a bonus representing your expertise:
 
- * Add your proficiency to rolls you are proficient with
- * You can be proficient in rolls related to specific weapons, skills, [saves](pages/rules/rolling.md?id=saves), or tools
- * You can only add proficiency to any single die roll once
- * Your proficiency increases as your level increases
+ * Add your **Proficiency** to rolls you are proficient with.
+ * You can be proficient in rolls related to specific weapons, skills, [Saves](../../pages/rules/rolling/saves.md), or tools.
+ * You can only add **Proficiency** to any single die roll once.
+ * Your **Proficiency** increases as your level increases.

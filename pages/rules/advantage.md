@@ -1,18 +1,16 @@
 # Advantage/ Disadvantage
 
-Some spells and special abilities can give you **advantage** or **disadvantage** on [checks](pages/rules/rolling.md?id=checks), [saves](pages/rules/rolling.md?id=saves), or [attacks](pages/combat/attacks.md).
+Rule
 
-The GM may also determine if circumstances give advantage or disadvantage.
+Circumstances, spells and special abilities can give you **Advantage** or **Disadvantage** on [Checks](../../pages/rules/rolling/checks.md), [Saves](../../pages/rules/rolling/saves.md), or [Attacks](../../pages/combat/attacks.md):
 
-When you roll with advantage or disadvantage:
+  1. When you **roll with advantage** roll two d20s and use the highest.
+  2. When you **roll with disadvantage** roll two d20s and use the lowest.
+  3. **Advantage/Disadvantage**...
+    1. **Do not stack -** you either have one, or you don't.
+    2. **Cancel out** - if you have both, roll normally.
 
- 1. Roll two d20s instead of one:
-  1. If you have advantage use the higher of the rolls, or
-  2. If you have disadvantage use the lower
- 4. Advantage and disadvantage do not stack: you either have one, or you don't
- 5. Advantage and disadvantage cancel out: if you have both roll normally
-
-For example, with advantage:
+For example, with **Advantage**:
 
 <div class="example-roll">
   <div class="roll">
@@ -27,7 +25,7 @@ For example, with advantage:
   16
 </div>
 
-With disadvantage:
+With **Disadvantage**:
 
 <div class="example-roll">
   <div class="roll">
