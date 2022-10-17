@@ -52,13 +52,13 @@ You aren't complicated. You're a rogue, an adventurer. You are ready for anythin
 | Level | Features
 | ----  | -
 | 1st   | Jack of All Trades, Improvised Attack
-| 3rd   | Improvised Action
+| 3rd   | Lucky Action
 
 ### Jack of All Trades
 
 1st-level Rogue archetypes feature
 
-Yu can add half your [Proficiency](), rounded down, to any [Check]() you make that doesn’t already include your Proficiency]().
+Yu can add half your [Proficiency](), rounded down, to any [Check]() you make that doesn’t already include your [Proficiency]().
 
 ### Improvised Attack
 
@@ -66,11 +66,13 @@ Yu can add half your [Proficiency](), rounded down, to any [Check]() you make th
 
 You are [Proficient]() with [Improvised Attacks]() and can use your [Cunning Attack](#cunning-attack) with them, without [Advantage]().
 
-### Improvised Action
+### Lucky Action
 
 3rd-level Rogue archetypes feature
 
-As a [Bonus Action]() you can make an [Improvised Attack]() or take the [Improvise Action]().
+Despite your lack of obvious virtues, you often seem to land on your feet, by happenstance or coincidence.
+
+Your luck is fuelled by luck dice. You have three, d4 luck die. As a [Bonus Action]() you can spend a luck die. Roll the d4 and add the result to one [Check](), [Attack]() or [Save](). You regain all luck die when you finish a [Rest]().
 
 ## Skirmisher
 
