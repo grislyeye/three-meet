@@ -58,13 +58,13 @@ You aren't complicated. You're a rogue, an adventurer. You are ready for anythin
 
 1st-level Rogue archetypes feature
 
-Yu can add half your [Proficiency](), rounded down, to any [Check]() you make that doesn’t already include your [Proficiency]().
+Yu can add half your [Proficiency](../../pages/rules/proficiency.md), rounded down, to any [Check](../../pages/rules/rolling/checks.md) you make that doesn’t already include your [Proficiency](../../pages/rules/proficiency.md).
 
 ### Improvised Attack
 
 1st-level Rogue archetypes feature
 
-You are [Proficient]() with [Improvised Attacks]() and can use your [Cunning Attack](#cunning-attack) with them, without [Advantage]().
+You are [Proficient](../../pages/rules/proficiency.md) with [Improvised Attacks](../../pages/combat/actions.md#improvise) and can use your [Cunning Attack](#cunning-attack) with them, without [Advantage](../pages/rules/advantage.md).
 
 ### Lucky Action
 
@@ -72,7 +72,7 @@ You are [Proficient]() with [Improvised Attacks]() and can use your [Cunning Att
 
 Despite your lack of obvious virtues, you often seem to land on your feet, by happenstance or coincidence.
 
-Your luck is fuelled by luck dice. You have three, d4 luck die. As a [Bonus Action]() you can spend a luck die. Roll the d4 and add the result to one [Check](), [Attack]() or [Save](). You regain all luck die when you finish a [Rest]().
+Your luck is fuelled by luck dice. You have two, d4 luck die. As a [Bonus Action](../../pages/combat/bonus-actions.md) you can spend a luck die. Roll the luck die and add the result to one [Check](../../pages/rules/rolling/checks.md), [Attack](../../pages/combat/attacks.md) or [Save](../../pages/rules/rolling/saves.md). You regain all luck die when you finish a [Rest](../../pages/rules/rests.md).
 
 ## Skirmisher
 
