@@ -23,7 +23,7 @@ You start with the following items:
 
 1st-level Cunning class feature
 
-You can deal extra **Cunning Damage** damage to one creature you hit with an attack, if you have advantage on rolls with a [Light Melee Attack](../../pages/combat/attacks.md#describing-attacks).
+You can deal extra **Cunning Damage** damage to one creature you hit with an attack, if you have [Advantage](../pages/rules/advantage.md) on rolls with a [Light Melee Attack](../../pages/combat/attacks.md#describing-attacks).
 
 ## Expertise
 
@@ -35,7 +35,7 @@ Choose two of your skill or tool proficiencies. Your proficiency bonus is double
 
 1st-level Cunning class feature
 
-Choose an archetype and gain its features. **The Cunning** archetypes include: [Rogue](../../pages/classes/cunning.md#rogue), [Shadow](../../pages/classes/cunning.md#shadow) and [Skirmisher](../../pages/classes/cunning.md#skirmisher).
+Choose an archetype and gain its features. **The Cunning** archetypes include: [Rogue](#rogue), [Shadow](#shadow) and [Skirmisher](#skirmisher).
 
 ## Cunning Action
 
@@ -112,7 +112,7 @@ You play fast and deadly, hiding in shadows and darting out to attack.
 
 1st-level Rogue archetypes feature
 
-You do not need advantage to use your **Cunning Attack** on a target if it is [Close](../../pages/rules/distance.md) to an ally or when you roll for a [Thrown Attack](../../pages/combat/attacks.md#describing-attacks).
+You do not need [Advantage](../pages/rules/advantage.md) to use your **Cunning Attack** on a target if it is [Close](../../pages/rules/distance.md) to an ally or when you roll for a [Thrown Attack](../../pages/combat/attacks.md#describing-attacks).
 
 ### Surprise Attack
 
