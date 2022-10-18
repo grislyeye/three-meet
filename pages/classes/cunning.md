@@ -35,13 +35,44 @@ Choose two of your skill or tool proficiencies. Your proficiency bonus is double
 
 1st-level Cunning class feature
 
-Choose an archetype and gain its features. **The Cunning** archetypes include: [Shadow](#shadow) and [Skirmisher](#skirmisher).
+Choose an archetype and gain its features. **The Cunning** archetypes include: [Rogue](#rogue), [Shadow](#shadow) and [Skirmisher](#skirmisher).
 
 ## Cunning Action
 
 2nd-level Cunning class feature
 
 Starting at 2nd level, your quick thinking and agility allow you to move and act quickly. You can take a [Bonus Action](../../pages/combat/bonus-actions.md) on each of your [Turns](../../pages/combat/index.md) in combat. This action can be used only to take the [Dash](../../pages/combat/actions.md#dash), [Disengage](../../pages/combat/actions.md#disengage), or [Hide](../../pages/combat/actions.md#hide) action.
+
+## Rogue
+
+Cunning archetype
+
+You aren't complicated. You're a rogue, an adventurer. You are ready for anything, relying on your wits alone.
+
+| Level | Features
+| ----  | -
+| 1st   | Jack of All Trades, Improvised Attack
+| 3rd   | Lucky Action
+
+### Jack of All Trades
+
+1st-level Rogue archetypes feature
+
+Yu can add half your [Proficiency](../../pages/rules/proficiency.md), rounded down, to any [Check](../../pages/rules/rolling/checks.md) you make that doesn’t already include your [Proficiency](../../pages/rules/proficiency.md).
+
+### Improvised Attack
+
+1st-level Rogue archetypes feature
+
+You are [Proficient](../../pages/rules/proficiency.md) with [Improvised Attacks](../../pages/combat/actions.md#improvise) and can use your [Cunning Attack](#cunning-attack) with them, without [Advantage](../pages/rules/advantage.md).
+
+### Lucky Action
+
+3rd-level Rogue archetypes feature
+
+Despite your lack of obvious virtues, you often seem to land on your feet, by happenstance or coincidence.
+
+Your luck is fuelled by luck dice. You have two, d4 luck die. As a [Bonus Action](../../pages/combat/bonus-actions.md) you can spend a luck die. Roll the luck die and add the result to one [Check](../../pages/rules/rolling/checks.md), [Attack](../../pages/combat/attacks.md) or [Save](../../pages/rules/rolling/saves.md). You regain all luck die when you finish a [Rest](../../pages/rules/rests.md).
 
 ## Skirmisher
 
