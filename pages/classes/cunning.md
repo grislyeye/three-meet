@@ -72,7 +72,7 @@ You are [Proficient](../../pages/rules/proficiency.md) with [Improvised Attacks]
 
 Despite your lack of obvious virtues, you often seem to land on your feet, by happenstance or coincidence.
 
-Your luck is fuelled by luck dice. You have two, d4 luck die. As a [Bonus Action](../../pages/combat/bonus-actions.md) you can spend a luck die. If you fail a [Check](../../pages/rules/rolling/checks.md), [Attack](../../pages/combat/attacks.md) or [Save](../../pages/rules/rolling/saves.md) you can spend a luck die by rolling it and adding it to the result. You regain all luck die when you finish a [Rest](../../pages/rules/rests.md).
+Your luck is fuelled by luck dice. You have two, d4 luck die. If you fail a [Check](../../pages/rules/rolling/checks.md), [Attack](../../pages/combat/attacks.md) or [Save](../../pages/rules/rolling/saves.md) you can spend a luck die as a [Bonus Action](../../pages/combat/bonus-actions.md) and roll it, adding it to the result. You regain all luck die when you finish a [Rest](../../pages/rules/rests.md).
 
 ## Skirmisher
 
