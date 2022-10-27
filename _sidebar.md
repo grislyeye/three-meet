@@ -36,9 +36,6 @@
   + [Armour](./pages/equipment/armour.md)
   + [Packs](./pages/equipment/packs.md)
   + [Retainers](./pages/equipment/retainers.md)
-+ [Bestiary](pages/bestiary/index.md)
-  * [Dragons](pages/bestiary/dragons.md)
-  * [Goblins](pages/bestiary/goblins.md)
 + Colophon
   + [Design Notes](./design-notes.md)
   + [Contributing](./contributing.md)
