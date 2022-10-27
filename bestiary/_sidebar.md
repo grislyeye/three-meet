@@ -1,2 +1,2 @@
-+ [Dragons](dragons.md)
-+ [Goblins](goblins.md)
++ [Dragons](./dragons.md)
++ [Goblins](./goblins.md)
