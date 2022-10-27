@@ -1,90 +1,105 @@
-<header>
-
 # The Mighty
 
-<p class="subheading">Class</p>
+Class
 
-</header>
+| Level | Proficiency | Stamina | Features  |
+| ----  | ----------- | ------- | - |
+| 1st   | +2          | 10      | +1 [Might](../../pages/characters/attributes.md#might), Martial Gear, Surge, Archetype |
+| 2nd   | +2          | +1d10   | Mighty Action |
+| 3rd   | +2          | +1d10   | Archetype Feature |
 
-| Level | Proficiency | Features  |
-| ----  | ----------- |- |
-| 1st   | +2          | +1 [Might](pages/characters/attributes.md?id=might), Surge, Archetype |
-| 2nd   | +2          | Mighty Action |
+## Starting Stats
 
-### Starting Stats
+1st-level Mighty class feature
 
-**Starting [Stamina](pages/combat/stamina.md):** 10 + [Might](pages/characters/attributes.md?id=might)
+**Proficiencies:** Athletics, [Might](../../pages/characters/attributes.md#might) [Saves](../../pages/rules/rolling/saves.md), all armor, shields, simple weapons, and martial weapons
 
-**Proficiencies:** Athletics, [Might](pages/characters/attributes.md?id=might) [Saves](pages/rules/rolling/saves.md), all armor, shields, simple weapons, and martial weapons
+## Martial Gear
 
-**Starting Equipment:** Chain Mail (Defence 16), Shield (+2 Defence), Longsword (Melee 1d8, Versatile 1d10), and a Shortbow (Ranged 1d8)
+1st-level Mighty class feature
 
-<header>
+You start with the following items:
 
-### Surge
+ * **Chain Mail** (Defence 16, Heavy) *or* **Leather Armour** (Defence 11, Light) and a **Longbow** (Ranged 1d8, Two-Handed)
+ * **Longsword** (Melee 1d8, Versatile 1d10)
+ * **Shortsword** (Melee 1d6, Finesse, Light) *or* **Shield** (Defence +1)
+ * **Crossbow** (Ranged 1d8)
 
-<p class="subheading">1st-level Mighty class feature</p>
+## Surge
 
-</header>
+1st-level Mighty class feature
 
 You have a limited well of stamina that you can draw on to fuel feats of strength. You start with two such feats: Second Wind and a feat determined by your archetype.
 
 When you use your Surge, you choose which feat to use. You must then finish a rest to use your Surge again.
 
-#### Surge: Second Wind
+### Surge: Second Wind
 
-As a [Bonus Action](pages/combat/bonus-actions.md) you can regain [Stamina](pages/combat/stamina.md) equal to **1d10 + your level**.
+1st-level Mighty class feature
 
-<header>
+As a [Bonus Action](../../pages/combat/bonus-actions.md) you can regain [Stamina](../../pages/combat/stamina.md) equal to **1d10 + your level**.
 
-### Mighty Action
+## Mighty Action
 
-<p class="subheading">2nd-level Mighty class feature</p>
+2nd-level Mighty class feature
 
-</header>
+Starting at 2nd level, you can push yourself beyond your normal limits. On your [Turn](../../pages/combat/index.md), you can take one additional [Action](../../pages/combat/actions.md). You must [Rest](../../pages/rules/rests.md) before you can use this feature again.
 
-Starting at 2nd level, you can push yourself beyond your normal limits. On your [Turn](../../pages/combat/order.md), you can take one additional [Action](../../pages/combat/actions.md). You must [Rest](../../pages/rules/rests.md) before you can use this feature again.
+## Archetype
 
-<header>
+1st-level Mighty class feature
 
-### Archetype
+Choose an archetype and gain it's features. The Mighty archetypes include: [Berserker](../../pages/classes/mighty.md#berserker) and [Defender](../../pages/classes/mighty.md#defender).
 
-<p class="subheading">1st-level Mighty class feature</p>
+## Berserker
 
-</header>
+Mighty archetype
 
-Choose an archetype and gain its features. The Mighty archetypes include: [Defender](pages/classes/mighty.md?id=defender).
+You fight with blind fury, without regard for your own safety.
 
-<header>
+| Level | Features |
+| ----  | ------------------ |
+| 1st   | Savagery, Surge: Rage, Proficient: Intimidation |
+
+### Savagery
+
+1st-level Berserker archetype feature
+
+When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon, you can reroll the die.
+
+### Surge: Rage
+
+1st-level Berserker archetype feature
+
+On your turn, you can use your surge to enter a rage as a [Bonus Action](../../pages/combat/bonus-actions.md). While raging, you reduce any damage you take by **1d4**.
+
+Your rage lasts for 1 minute.
 
 ## Defender
 
-<p class="subheading">Mighty archetype</p>
-
-</header>
+Mighty archetype
 
 You fight to protect. Cleaving close to your allies, you intercept attacks, so they can continue to deal damage.
 
-| Level | Archetype Features |
+| Level | Features |
 | ----  | ------------------ |
-| 1st   | Block, Surge: Defend, Proficient: Intimidation |
+| 1st   | Defend, Surge: Bolster, Proficient: Intimidation |
+| 3rd   | Mark |
 
-<header>
+### Defend
 
-### Block
+1st-level Defender archetype feature
 
-<p class="subheading">1st-level Defender archetype feature</p>
+You can use your [Reaction](../../pages/combat/reactions.md) to impose disadvantage on an [Attack](../../pages/combat/attacks.md) that targets a [Close](../../pages/rules/distance.md) ally. You must be wielding a melee weapon or shield.
 
-</header>
+### Surge: Bolster
 
-You can use your [Reaction](../../pages/combat/reactions.md) to impose disadvantage on an [Attack](pages/combat/attacks.md) that targets a [Close](../pages/rules/distance.md) ally. You must be wielding a melee weapon or shield.
+1st-level Defender archetype feature
 
-<header>
+As a [Bonus Action](../../pages/combat/bonus-actions.md) you can restore [Stamina](../../pages/combat/stamina.md) equal to **1d10 + your level** to a **Close** ally.
 
-### Surge: Defend
+### Mark
 
-<p class="subheading">1st-level Defender archetype feature</p>
+3rd-level Defender archetype feature
 
-</header>
-
-When a **Close** ally is hit by a melee attack, you can use your [Reaction](../../pages/combat/reactions.md) to reduce the damage by **1d10 + your level**.
+When you hit a creature with a [Melee Attack](../../pages/combat/attacks.md) you can *mark* it for **1 minute**. *Marked* creatures have [Disadvantage](../../pages/rules/advantage.md) on [Attacks](../../pages/combat/attacks.md) against anyone except you. You can only mark one creature at a time.

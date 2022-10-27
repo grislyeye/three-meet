@@ -1,10 +1,6 @@
-<header>
-
 # Distance
 
-<p class="subheading">Rule</p>
-
-</header>
+Rule
 
 Rather than track precise numbers, **Three Meet** uses 4 abstract ranges for measuring distances: **Close**, **Nearby**, **Far-Away** and **Distant**.
 
@@ -16,13 +12,9 @@ The following table is a rough guide to actual distances:
 | ----- | ------ | -------- | ------- |
 | 0-5ft | 5-60ft | 60-120ft | 120ft+  |
 
-<header>
-
 ## Difficult Terrain
 
-<p class="subheading">Rule</p>
-
-</header>
+Rule
 
 Adventuring rarely takes place in bare rooms or on featureless plains. A typical environment contains difficult terrain.
 

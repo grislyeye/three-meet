@@ -1,10 +1,6 @@
-<header>
-
 # Allegiances
 
-<p class="subheading">Rule</p>
-
-</header>
+Rule
 
 **Allegiances** are the folks you owe loyalty to, the groups you belong to and the principles by which you live. Pick three allegiances and rank them as major, medium and minor.
 
