@@ -58,7 +58,7 @@ You aren't complicated. You're a rogue, an adventurer. You are ready for anythin
 
 1st-level Rogue archetypes feature
 
-Yu can add half your [Proficiency](../../pages/rules/proficiency.md), rounded down, to any [Check](../../pages/rules/rolling/checks.md) you make that doesn’t already include your [Proficiency](../../pages/rules/proficiency.md).
+You can add half your [Proficiency](../../pages/rules/proficiency.md), rounded down, to any [Check](../../pages/rules/rolling/checks.md) you make that doesn’t already include your [Proficiency](../../pages/rules/proficiency.md).
 
 ### Improvised Attack
 
