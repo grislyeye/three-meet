@@ -15,7 +15,7 @@
   "scripts": {
     "start": "docsify serve ./",
     "clean": "rm -rf dist",
-    "build": "rsync -av --progress --exclude dist/ --exclude .git --exclude .gitignore --exclude node_modules --include '.*' ./ dist/ && npm install --production  --no-optional --prefix dist && rm -rf dist/node_modules/prismjs && echo 'three-meet.grislyeye.com' > ./dist/CNAME && replace '{{VERSION}}' $npm_package_version dist/  -r --include='*.css'",
+    "build": "rsync -av --progress --exclude dist/ --exclude .git --exclude .gitignore --exclude node_modules --include '.*' ./ dist/ && npm install --production  --no-optional --prefix dist && rm -rf dist/node_modules/prismjs && echo 'three-meet.grislyeye.com' > ./dist/CNAME && replace '{{VERSION}}' $npm_package_version dist/  -r --include='*.css,*.md'",
     "predeploy": "npm run test && npm run clean && npm run build",
     "deploy": "gh-pages -d dist -b gh-pages -t",
     "deploy:itch": "butler push dist/ grislyeye/three-meet:HTML",
