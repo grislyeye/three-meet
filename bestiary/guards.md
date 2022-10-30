@@ -16,7 +16,7 @@ Perceptive Character (+4/+1)
 
 **Short Sword** (Melee Attack 1d6)
 
-**Countershot** (Reaction • Attacked by Ranged Attack  Short Bow Attack against attacker)
+**Countershot** (Reaction • Attacked by Ranged Attack → Short Bow Attack against attacker)
 
 </section>
 
@@ -30,13 +30,13 @@ Athletic Character (+4/+1)
 
 **Short Sword** (Melee Attack 1d8+1)
 
-**Parry** (Reaction • Targetted by an **Attack** • Pike Attack • +2 to Defence)
+**Parry** (Reaction • Targetted by an Attack → +2 to Defence)
 
 </section>
 
 <section class="summary">
 
-## Pikesman, Light
+## Pikeman, Light
 
 Athletic Character (+3/0)
 
@@ -44,7 +44,7 @@ Athletic Character (+3/0)
 
 **Pike** (Melee Attack 1d8+2)
 
-**Bar Way** (Reaction • An opponent Disengages • Pike Attack • On a hit the target cannot move for a **Round**)
+**Bar Way** (Reaction • An opponent Disengages → Pike Attack → Hit: target cannot Move for 1 Round)
 
 </section>
 
