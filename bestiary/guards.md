@@ -92,7 +92,7 @@ Encounter
 
 **Reinforcements:** Send one of their number to fetch reinforcements if outnumbered.
 
-**Corrupt (2-in-6):** Open to bribes.
+**Corrupt (2-in-6):** Open to bribes. Won't send for **Reinforcements**.
 
 </section>
 
