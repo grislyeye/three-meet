@@ -74,7 +74,7 @@ Encounter
 
 **Reinforcements:** Send one of their number to fetch reinforcements if outnumbered.
 
-**Retreat:** Move important person out of danger.
+**Extract:** Surround and move an important person out of danger.
 
 </section>
 
@@ -88,7 +88,7 @@ Encounter
 
 **Arrest:** Call for surrender, and **Ready** an **Attack** if targets attempt to resist.
 
-**Block:** **Pikemen** block exits.
+**Surround:** **Pikemen** flank opponents to restrict movement.
 
 **Reinforcements:** Send one of their number to fetch reinforcements if outnumbered.
 
