@@ -9,10 +9,24 @@ main .sidebar {
   font-weight: bold;
   color: black;
   font-size: 32pt;
+  margin: 0;
 }
 
 .sidebar-nav {
   font-family: Alegreya, serif;
+  color: black;
+}
+
+.sidebar-nav h1 {
+  font-family: Alegreya, serif;
+  font-weight: bold;
+  color: black;
+  font-size: 22pt;
+  text-align: center;
+  margin-top: 0;
+}
+
+.sidebar-nav .anchor span {
   color: black;
 }
 
