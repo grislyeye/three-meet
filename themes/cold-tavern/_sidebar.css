@@ -12,6 +12,41 @@ main .sidebar {
   margin: 0;
 }
 
+.sidebar-toggle {
+  width: auto;
+  margin: 3em;
+  padding: 1em;
+  background-color: lightgray;
+  border-radius: 50%;
+  height: 50px;
+  z-index: 5;
+}
+
+.sidebar-toggle:hover {
+  background-color: white;
+}
+
+body.sticky .sidebar-toggle {
+  top: 10px;
+  right: 10px;
+  left: auto;
+}
+
+.sidebar-toggle-button {
+  width: 24px;
+  height: 24px;
+}
+
+.sidebar-toggle-button::before {
+  font-family: "Font Awesome 6 Free", sans-serif;
+  content: "\f0c9";
+  font-size: 20px;
+}
+
+.sidebar-toggle span {
+  display: none;
+}
+
 .sidebar-nav {
   font-family: Alegreya, serif;
   color: black;
@@ -26,7 +61,7 @@ main .sidebar {
   margin-top: 0;
 }
 
-.sidebar-nav a.anchor span {
+.sidebar-nav .anchor span {
   color: black;
 }
 
@@ -83,41 +118,6 @@ main .sidebar {
   content: "-";
   padding-right: 4px;
   float: left;
-}
-
-.sidebar-toggle {
-  width: auto;
-  margin: 3em;
-  padding: 1em;
-  background-color: lightgray;
-  border-radius: 50%;
-  height: 50px;
-  z-index: 5;
-}
-
-.sidebar-toggle:hover {
-  background-color: white;
-}
-
-body.sticky .sidebar-toggle {
-  top: 10px;
-  right: 10px;
-  left: auto;
-}
-
-.sidebar-toggle-button {
-  width: 24px;
-  height: 24px;
-}
-
-.sidebar-toggle-button::before {
-  font-family: "Font Awesome 6 Free", sans-serif;
-  content: "\f0c9";
-  font-size: 20px;
-}
-
-.sidebar-toggle span {
-  display: none;
 }
 
 @media screen and (max-width: 630px) {
