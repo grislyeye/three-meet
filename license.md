@@ -51,4 +51,4 @@ as Open Game Content by the Contributor, and means any work covered by this Lice
 * The German translation of TBH and "Additional Things" is Copyright 2017, Matthias Schaffrath.
 * The Thai translation of TBH is Copyright 2021, Sumate Ngarmjitviroon.
 * The Black Hack website is Copyright 2016-2017, Bruno Bord.
-* Three Meet 0.2.0 Copyright 2020-2021, R.G Wood
+* Three Meet {{VERSION}} Copyright 2020-2022, R.G Wood

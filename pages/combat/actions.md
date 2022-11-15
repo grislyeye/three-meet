@@ -62,7 +62,7 @@ At the GM's discretion, other actions can be improvised. You can also improvise 
 
 Combat Action
 
-You can ready a [Reaction](../../pages/combat/reactions.md) before the start of your next turn. Choose a trigger, and an **Action** you will take in response. You can take your readied **Reaction** right after your trigger.
+You can ready a [Reaction](../../pages/combat/reactions.md) before the start of your next turn. Choose a trigger, and an **Action** you will take in response. You can use your **Reaction** to take you **Action** right after your trigger.
 
 </section>
 
