@@ -72,12 +72,14 @@ main .sidebar {
 }
 
 .sidebar-toggle {
-  width: auto;
   margin: 3em;
   padding: 1em;
   background-color: lightgray;
   border-radius: 50%;
   height: 50px;
+  width: 50px;
+  min-height: 50px;
+  min-width: 50px;
   z-index: 5;
 }
 
@@ -89,9 +91,16 @@ body.sticky .sidebar-toggle {
   top: 0;
 }
 
+@media screen and (max-width: 1000px) {
+  body.sticky .sidebar-toggle {
+    left: unset;
+    right: 0;
+  }
+}
+
 .sidebar-toggle-button {
-  width: 24px;
-  height: 24px;
+  min-width: 24px;
+  min-height: 24px;
 }
 
 .sidebar-toggle-button::before {
