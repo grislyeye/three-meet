@@ -7,7 +7,6 @@
   + [Knave](./pages/backgrounds/knave.md)
   + [Noble](./pages/backgrounds/noble.md)
   + [Magic Specialities](./pages/backgrounds/magic.md)
-  + [Sage](pages/backgrounds/sage.md)
 + [Classes](./pages/classes/index.md)
   + [The Mighty](./pages/classes/mighty.md)
   + [The Cunning](./pages/classes/cunning.md)
