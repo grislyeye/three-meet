@@ -19,7 +19,7 @@
     }
   }
 
-  var install = function(hook) {
+  var install = function (hook) {
     hook.doneEach(handleExternalScript);
   };
 
