@@ -48,11 +48,21 @@ You make a **Cunning Stealth Check** in an attempt to hide. While hidden you hav
 
 <section class="summary">
 
-## Improvise
+## Improvised Action
 
 Combat Action
 
-At the GM's discretion, other actions can be improvised. You can also improvise an **Improvised Attack (Melee 1d4, Ranged 1d4)**, such as with a sharp bunch or thrown chair.
+At the GM's discretion, other actions can be improvised.
+
+</section>
+
+<section class="summary">
+
+## Improvised Attack
+
+Combat Attack
+
+You can also make an **Improvised Attack (Melee 1d4, Ranged 1d4)**, such as with a sharp ??? or thrown chair.
 
 </section>
 
