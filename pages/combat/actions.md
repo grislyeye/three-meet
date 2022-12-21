@@ -52,7 +52,7 @@ You make a **Cunning Stealth Check** in an attempt to hide. While hidden you hav
 
 Combat Action
 
-At the GM's discretion, other actions can be improvised.
+At the GM's discretion, other actions can be improvised by players. Typically, these actions might involve a [Check](../../pages/rules/rolling/checks.md). For particularly powerful **Improvised Actions**, failure may result in a penalty.
 
 </section>
 
@@ -60,9 +60,9 @@ At the GM's discretion, other actions can be improvised.
 
 ## Improvised Attack
 
-Combat Attack
+Attack
 
-You can also make an **Improvised Attack (Melee 1d4, Ranged 1d4)**, such as with a sharp ??? or thrown chair.
+You can also make an **Improvised Attack (Melee 1d4, Ranged 1d4)**, such as throwing a chair or lighting a weapon on fire. At the GM's discretion, damage may be improvised (anything from 1d4 to 4d10).
 
 </section>
 
