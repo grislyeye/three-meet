@@ -10,7 +10,7 @@ On your round, you can take an [Attack](../../pages/combat/attacks.md), or one o
 
 ## Dash
 
-Combat Action
+Action
 
 When you take the **Dash Action**, you gain an extra [Move](../../pages/combat/moves.md) for the current turn.
 
@@ -20,7 +20,7 @@ When you take the **Dash Action**, you gain an extra [Move](../../pages/combat/m
 
 ## Disengage
 
-Combat Action
+Action
 
 You can avoid provoking an [Opportunity Attack](../../pages/combat/reactions.md#opportunity-attack) by taking the **Disengage** action.
 
@@ -30,7 +30,7 @@ You can avoid provoking an [Opportunity Attack](../../pages/combat/reactions.md#
 
 ## Dodge
 
-Combat Action
+Action
 
 You focus entirely on avoiding attacks. Until the start of your next **Turn**, any [Attack](../pages/combat/attacks.md) against you has [Disadvantage](../pages/rules/advantage.md) if you can see the attacker, and you make [Cunning](../pages/characters/attributes.md#cunning) [Saves](../pages/rules/rolling/saves.md) with [Advantage](../pages/rules/advantage.md).
 
@@ -40,7 +40,7 @@ You focus entirely on avoiding attacks. Until the start of your next **Turn**, a
 
 ## Hide
 
-Combat Action
+Action
 
 You make a **Cunning Stealth Check** in an attempt to hide. While hidden you have [Advantage](../../pages/rules/advantage.md) on [Attacks](../../pages/combat/attacks.md), and [Attacks](../../pages/combat/attacks.md) against you have [Disadvantage](../../pages/rules/advantage.md).
 
@@ -50,7 +50,7 @@ You make a **Cunning Stealth Check** in an attempt to hide. While hidden you hav
 
 ## Improvise
 
-Combat Action
+Attack
 
 At the GM's discretion, other actions can be improvised. You can also improvise an **Improvised Attack (Melee 1d4, Ranged 1d4)**, such as with a sharp bunch or thrown chair.
 
@@ -60,7 +60,7 @@ At the GM's discretion, other actions can be improvised. You can also improvise 
 
 ## Ready
 
-Combat Action
+Action
 
 You can ready a [Reaction](../../pages/combat/reactions.md) before the start of your next turn. Choose a trigger, and an **Action** you will take in response. You can use your **Reaction** to take you **Action** right after your trigger.
 
