@@ -1,0 +1,52 @@
+@import "https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0";
+
+header {
+  margin-bottom: 1.5em;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: "IM Fell English", serif;
+  margin: 0;
+}
+
+h1 {
+  font-size: 10rem;
+}
+
+h2 {
+  font-size: 6rem;
+  margin-top: 3em;
+}
+
+h3 {
+  font-size: 5rem;
+}
+
+h4 {
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+h5 {
+  font-family: Alegreya, serif;
+  font-size: 3rem;
+  font-weight: bold;
+  margin-bottom: 0;
+}
+
+.subheading {
+  font-family: "Alegreya Sans SC", serif;
+  font-weight: normal;
+  font-size: 1em;
+  margin: 0;
+  margin-top: -1rem;
+  margin-bottom: 1.5rem;
+}
+
+h1 + .subheading {
+  margin-top: -2.5rem;
+}
+
