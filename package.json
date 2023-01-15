@@ -4,6 +4,7 @@
   "description": "A low-fantasy Pathfinder hack for dark times",
   "author": "R.G. Wood <ric@grislyeye.com> (https://grislyeye.com)",
   "homepage": "https://github.com/grislyeye/three-meet#readme",
+  "source": "index.html",
   "repository": {
     "type": "git",
     "url": "git@github.com:grislyeye/three-meet.git"
@@ -12,6 +13,7 @@
     "url": "https://github.com/grislyeye/three-meet/issues"
   },
   "scripts": {
+    "build": "parcel build --dist-dir ./dist --public-url ./",
     "test": "stylelint main.css assets/styles/**/*.css && npx linkinator index.html -ro --recurse --skip '(.*\\.reddit\\.com)|(.*\\.twitter\\.com)|(.*\\.drivethrurpg\\.com)' --verbosity debug",
     "start": "browser-sync start --server --watch ./"
   },
@@ -24,6 +26,7 @@
     "gh-pages": "^4.0.0",
     "linkinator": "^4.0.3",
     "npm-run-all": "^4.1.5",
+    "parcel": "^2.8.2",
     "stylelint": "^14.12.0",
     "stylelint-config-standard": "^28.0.0"
   }
