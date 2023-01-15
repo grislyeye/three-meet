@@ -1,0 +1,27 @@
+ul,
+ol {
+  margin-left: 2em;
+  margin-right: 1em;
+}
+
+ul, {
+  list-style: disc;
+}
+
+dl dt {
+  display: inline;
+  font-weight: bold;
+}
+
+dl dt::after {
+  content: ":";
+}
+
+dl dd {
+  display: inline;
+  margin-left: 0;
+}
+
+dl dd::after {
+  content: "\a";
+}

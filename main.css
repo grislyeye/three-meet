@@ -1,0 +1,51 @@
+@import "https://fonts.googleapis.com/css?family=Alegreya:400,400italic,700italic,700";
+@import "https://fonts.googleapis.com/css?family=Alegreya+Sans+SC:400,400italic,700italic,700";
+@import "node_modules/skeleton-css/css/skeleton.css";
+@import "assets/styles/header.css";
+@import "assets/styles/headers.css";
+@import "assets/styles/lists.css";
+@import "assets/styles/illustrations.css";
+@import "assets/styles/links.css";
+@import "assets/styles/terms.css";
+@import "assets/styles/summaries.css";
+@import "assets/styles/examples.css";
+
+* {
+  font-family: Alegreya, serif;
+}
+
+body {
+  margin: 0;
+  padding-left: 128px;
+  padding-right: 64px;
+}
+
+@media (max-width: 950px) {
+  html {
+    font-size: 6pt;
+  }
+}
+
+@media (max-width: 650px) {
+  html {
+    font-size: 5pt;
+  }
+}
+
+@media (max-width: 500px) {
+  html {
+    font-size: 4pt;
+  }
+}
+
+section {
+  font-family: Alegreya, serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  margin: 0 auto 0 0;
+  max-width: 800px;
+}
+
+#document {
+  --sidebar-width: 20rem;
+}
