@@ -21,7 +21,7 @@ You start with the following items:
 
 1st-level Wise class feature
 
-Choose an archetype and gain its features. The Wise archetypes include: [Elementalist](../../pages/classes/wise.md#elementalist) and **[Sorcerer](../../pages/classes/wise.md#sorcerer)**.
+Choose an archetype and gain its features. The Wise archetypes include: [Elementalist](../../pages/classes/wise.md#elementalist), **Leader** and **[Sorcerer](../../pages/classes/wise.md#sorcerer)**.
 
 ## Elementalist
 
@@ -177,6 +177,128 @@ When in [Animal Form](#animal-form) you gain one of the following benefits:
 You befriend a **Kindred Beast** (Perceptive and Stealthy Creature +5/-2, Defence 14. Stamina 35, 2 Melee Attack 2d6+3). It acts independently of you, but it always obeys your commands.
 
 When you make an [Attack](../../pages/combat/attacks.md), you can forgo one of your own attacks to allow your kindred beast to make one [Attack](../../pages/combat/attacks.md) of its own with its [Reaction](../../pages/combat/reactions.md). You can't have more than one kindred beast at a time.
+
+</section>
+
+## Leader
+
+Wise archetype
+
+Not all need fight, some must command. You are a leader, a tactician. Issuing orders and inspiriting greatness in others.
+
+| Level | Archetype Features | Tactic Slots | Slot Level
+| ----  | - | - | - |
+| 1st   | Command, Guidance, Tactics, Proficient: Persuasion, light armor, shields, and simple weapons | 1 | 1st
+| 2nd   | Commanding Presence, Wise Command tactic | 2 | 1st
+| 3rd   |  | 2 | 2nd
+
+### Command
+
+1st-level Leader archetype feature
+
+As an [Action](../../pages/combat/actions.md) you command an ally to attack. The ally can use their [Reaction](../../pages/combat/reactions.md) to make an [Attack](../../pages/combat/attacks.md). The ally can add your **Wisdom** to their damage roll.
+
+### Strategies
+
+1st-level Leader archetype feature
+
+You can perform the strategies below. Each strategy takes 10 minutes to complete.
+
+<section class="spells">
+
+<section class="spell">
+
+### Guidance
+
+1st-level Leader strategy
+
+You can take an [Action](../../pages/combat/actions.md) to confer useful advice to a [Close](../../pages/rules/distance.md) ally. The target can roll a **d4** and add the number rolled to one **Check** of their choice.
+
+</section>
+
+<section class="spell">
+
+### Lay of the Land
+
+1st-level Leader strategy
+
+If you carefully observe your enemies or the terrain directly before a combat starts, you can make a **Wise Insight Check** instead of **Cunning Check** when you or one ally would roll for [Initiative](../../pages/combat/index.md).
+
+</section>
+
+</section>
+
+### Tactics
+
+1st-level Leader archetype feature
+
+You have a number of **Tactic Slots** which you can use to perform various tactical feats. To perform a tactic you must expend a **Tactic Slot**. You regain all expended **Tactic Slots** when you finish a rest.
+
+Your **Tactic Difficulty** is:
+
+<div class="example-roll">
+  8
+  +
+  <span class="bonus"> <span class="caption">Proficiency</span></span>
+  +
+  <span class="bonus"> <span class="caption">Wisdom</span></span>
+</div>
+
+<section class="spells">
+
+<section class="spell">
+
+#### Rally
+
+1st-level Leader tactic
+
+You can use your [Bonus Action](../../pages/combat/bonus-actions.md) to make a berating or inspiring cry to a [Nearby](../../pages/rules/distance.md) ally. The target regains [Stamina](../pages/combat/stamina.md) equal to **1d4 + your Wisdom**. When you use this tactic using a 2nd level **Tactic Slot** or higher, you can roll an additional **1d4** for each slot above 1st.
+
+</section>
+
+<section class="spell">
+
+#### Wise Command
+
+1st-level Leader tactic
+
+You can use your [Action](../../pages/combat/actions.md) to call out a useful ploy to a [Nearby](../../pages/rules/distance.md) ally. The target can roll a **d4** and add the number rolled to one [Attack](../../pages/combat/attacks.md) or [Save](../../pages/rules/rolling/saves.md).
+
+</section>
+
+</section>
+
+<header>
+
+### Commanding Presence
+
+<p class="subheading">2nd-level Leader archetype feature</p>
+
+</header>
+
+You are proficient in the [Persuasion](../../pages/characters/skills.md#persuasion) and [Intimidation](../../pages/characters/skills.md#intimidation) skills.
+
+<header>
+
+### Improved Command
+
+<p class="subheading">2nd-level Leader archetype feature</p>
+
+</header>
+
+When you use your Command feature, your ally can also make a [Move](../../pages/combat/moves.md). This does not provoke an [Opportunity Attack](../../pages/combat/reactions.md#opportunity-attack).
+
+<section class="spell">
+
+<header>
+
+### Rebuke
+
+<p class="subheading">2nd-level Leader tactic</p>
+
+</header>
+
+You can use an [Action](../../pages/combat/actions.md) to dead-eye or rebuke a [Nearby](../../pages/rules/distance.md) enemy. The target must make [Wise Save](../../pages/rules/rolling/saves.md) or must roll a *d4* and subtract the number rolled from the next [Attack](../../pages/combat/attacks.md) or [Save](../../pages/rules/rolling/saves.md) they make. When you use this tactic using a 2nd level **Tactic Slot** or higher, you can target an additional enemy for each slot above 1st.
 
 </section>
 
