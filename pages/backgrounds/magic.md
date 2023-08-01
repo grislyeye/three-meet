@@ -70,4 +70,26 @@ You come from an age of high magic. The lore of this time has been long lost, bu
 
 1st-level Immortal speciality feature
 
-You're forgotten more than most folk know, more than you remember yourself. You can spend 10 minute searching your memories to gain proficiency in one tool, language, or one of the following [Skill](../../pages/characters/skills.md): **Arcana**, **History**, **Medicine**, **Nature**, or **Religion**. The memory of this knowledge fades once you take a **Rest**. You must **Rest** before you can use this feature again.
+You're forgotten more than most folk know, more than you remember yourself. You can spend 10 minute searching your memories to gain proficiency in one tool, language, or one of the following [Skill](../../pages/characters/skills.md): **Arcana**, **History**, **Medicine**, **Nature**, or **Religion**. The memory of this knowledge fades once you take a **Rest**. You must **Rest** before you can use this feature again.Occultist.
+
+## Occultist
+
+Magic Speciality
+
+You have seen beyond the veil, the world beyond, the very secrets of the gods.
+
+| Level             | Speciality Features    |
+| ----------------- | - |
+| 1st               | Proficient: Deception, Forbidden Lore, Cloak Self |
+
+### Forbidden Lore
+
+1st-level Occultist speciality feature
+
+Your blasphemous studies have uncovered secret and forgotten law, insights into the nature of the world and beyond. You may choose on of the following restricted archetypes: [Sorcerer](../../pages/classes/wise.md#sorcerer).
+
+### Cloak Self
+
+1st-level Occultist speciality feature
+
+Once per rest you can use an action to make yourself appear as a different person until the next rest or until you use your action to dismiss it.
