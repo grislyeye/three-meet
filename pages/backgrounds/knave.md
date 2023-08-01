@@ -28,7 +28,7 @@ You know thieves’ cant, a secret code of dialect, hand-signs, jargon, ciphers,
 
 1st-level Knave background feature
 
-You specialised in a particular criminal enterprise. Choose a speciality and gain its features. Knave specialities include:  **Burglar** and [Ruffian](#ruffian).
+You specialised in a particular criminal enterprise. Choose a speciality and gain its features. Knave specialities include:  **Burglar**, [Cutpurse](#cutpurse) and [Ruffian](#ruffian).
 
 ## Burglar
 
@@ -43,6 +43,30 @@ Speciality
 1st-level Burglar speciality feature
 
 When about thieving you always seem to have the right tool hidden about your clothing (such as rope, caltrops, hooded lanterns, etc.). If you're searched, the **Difficulty** to find your **Thieves' Stash** (Pack Ud6, Common, Illegal) is **8 + your Cunning + your Proficiency**.
+
+<header>
+
+## Cutpurse
+
+You are a pickpocket. Your prey is the unwary, your bread and butter the coins in their purses.
+
+<p class="subheading">Speciality</p>
+
+</header>
+
+| Level             | Features    |
+| ----------------- | - |
+| 1st               | Proficient: Sleight, Pilfer |
+
+<header>
+
+### Pilfer
+
+<p class="subheading">1st-level Pickpocket speciality feature</p>
+
+</header>
+
+Your hands have a mind of their own, regularly pocketing random items and stowing them. You have a **d6 Pouch** that can contain any **Small Equipment Item**. This can **Renew** your pouch when you rest in a **Settlement**.
 
 ## Ruffian
 
