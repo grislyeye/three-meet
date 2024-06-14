@@ -1,4 +1,9 @@
-# Design Notes
+---
+index: 601
+permalink: false
+tags: pages
+---
+### Design Notes
 
 Guide
 
@@ -8,7 +13,7 @@ The rules have been been adapted from 5E for low/grimdark fantasy. Modified as f
 
 <section class="summary">
 
-## Low Powered
+#### Low Powered
 
 Guide
 
@@ -18,7 +23,7 @@ Classes aren't as powerful. You can only advance to 10th level. And the distinct
 
 <section class="summary">
 
-## Low Magic
+#### Low Magic
 
 Guide
 
@@ -30,7 +35,7 @@ Magical creatures are extremely rare, and many mechanics from spells and monster
 
 <section class="summary">
 
-## Meaningful Terms
+#### Meaningful Terms
 
 Guide
 
@@ -40,7 +45,7 @@ Guide
 
 <section class="summary">
 
-## Simplified Attributes
+#### Simplified Attributes
 
 Guide
 
@@ -52,7 +57,7 @@ In **Three Meet** ability scores have been merged into three [Attributes](./page
 
 <section class="summary">
 
-## No Races
+#### No Races
 
 Guide
 
@@ -62,7 +67,7 @@ Avoiding issues with traditional races, **Three Meet** does away with them. Inst
 
 <section class="summary">
 
-## Utility Features in Backgrounds
+#### Utility Features in Backgrounds
 
 Guide
 
@@ -74,7 +79,7 @@ The intention is that [Backgrounds](./pages/backgrounds/index.md) provide the fi
 
 <section class="summary">
 
-## Abstract Details
+#### Abstract Details
 
 Guide
 
@@ -86,7 +91,7 @@ Guide
 
 <section class="summary">
 
-## 1st-Level Sub-classes
+#### 1st-Level Sub-classes
 
 Guide
 
@@ -98,7 +103,7 @@ For this reason the classes have been consolidated into three classes: [The Migh
 
 <section class="summary">
 
-## Short and Clear
+#### Short and Clear
 
 Guide
 
@@ -110,11 +115,11 @@ As part of this we avoid hand holding and assume you are familiar with common ta
 
 <section class="summary">
 
-## 5E Core
+#### Pathfinder Second Edition Core
 
 Guide
 
-Except for the above, we try to keep to the solid core of the 5E rules.
+Except for the above, we try to keep to the solid core of the Pathfinder Second Edition rules, and to be mostly compatible.
 
 </section>
 

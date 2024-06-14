@@ -1,0 +1,113 @@
+.content h1 {
+  font-family: Alegreya, serif;
+  color: white;
+  font-size: 72px;
+  margin-top: 1em;
+}
+
+.content h2 {
+  font-family: Alegreya, serif;
+  font-size: 72px;
+  width: 100%;
+  margin-top: 1.5em;
+  line-height: 0.5em;
+  padding-bottom: 0.3em;
+}
+
+.content h3 {
+  font-family: Alegreya, serif;
+  font-size: 36px;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+.content h3 + * {
+  margin-top: 0.5em;
+}
+
+.content h4 {
+  font-family: Alegreya, serif;
+  margin-bottom: 0.5em;
+  font-style: italic;
+  font-variant: small-caps;
+}
+
+.content h4 + * {
+  margin-top: 0.5em;
+}
+
+.content h1,
+.content h2,
+.content h3,
+.content h4 {
+  margin-bottom: 0;
+}
+
+.content h1 + p,
+.content h2 + p,
+.content h3 + p,
+.content h4 + p {
+  font-family: "Alegreya Sans SC", sans-serif;
+  margin-top: 0;
+}
+
+.content h1 + p {
+  margin-bottom: 3em;
+  margin-top: 0;
+}
+
+.content h2 + p {
+  font-size: 0.8em;
+  margin-top: 0;
+}
+
+.content h3 + p {
+  font-size: 0.7em;
+  margin-top: 0;
+}
+
+.content h4 + p {
+  font-size: 0.7em;
+  margin-top: 0;
+}
+
+.content h1 img {
+  float: right;
+}
+
+@media screen and (max-width: 768px) {
+  .content h1 {
+    width: 100%;
+    margin: 0;
+  }
+
+  .content h1 + p {
+    width: 100%;
+    margin: 0.5em 0;
+  }
+
+  .markdown-section > * {
+    margin-bottom: 0;
+    width: 62.5%;
+  }
+}
+
+@media screen and (max-width: 690px) {
+  .markdown-section > * {
+    width: 57.5%;
+  }
+
+  .anchor span {
+    font-size: 0.75em;
+  }
+}
+
+@media screen and (max-width: 630px) {
+  .markdown-section > * {
+    width: 100%;
+  }
+
+  .anchor span {
+    font-size: 1em;
+  }
+}

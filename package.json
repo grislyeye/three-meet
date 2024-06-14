@@ -1,10 +1,10 @@
 {
   "name": "three-meet",
-  "version": "0.29.1",
-  "description": "A low-fantasy 5E hack for dark times",
+  "version": "0.30.0",
+  "description": "A low-fantasy Pathfinder 2E hack for dark times",
   "author": "R.G. Wood <ric@grislyeye.com> (https://grislyeye.com)",
   "homepage": "https://github.com/grislyeye/three-meet#readme",
-  "license": "OGL",
+  "license": "ORC",
   "repository": {
     "type": "git",
     "url": "git@github.com:grislyeye/three-meet.git"
@@ -13,32 +13,23 @@
     "url": "https://github.com/grislyeye/three-meet/issues"
   },
   "scripts": {
-    "start": "docsify serve ./",
-    "clean": "rm -rf dist",
-    "build": "rsync -av --progress --exclude dist/ --exclude .git --exclude .gitignore --exclude node_modules --include '.*' ./ dist/ && npm install --production  --no-optional --prefix dist && rm -rf dist/node_modules/prismjs && echo 'three-meet.grislyeye.com' > ./dist/CNAME && replace '{{VERSION}}' $npm_package_version dist/  -r --include='*.css,*.md'",
-    "predeploy": "npm run test && npm run clean && npm run build",
+    "build": "npx @11ty/eleventy",
+    "clean": "rimraf _site",
+    "start": "npx @11ty/eleventy --serve --quiet",
+    "predeploy": "npm run clean && npm run build && npm run test",
     "deploy": "gh-pages -d dist -b gh-pages -t",
-    "deploy:itch": "butler push dist/ grislyeye/three-meet:HTML",
-    "test": "htmlhint 'index.html' && npx markdownlint '**/*.md' --ignore dist --ignore _sidebar.md --ignore node_modules --rules .markdownlint/rules/docsify-relative-links.js --rules .markdownlint/rules/docsify-links-fragments-only.js --rules .markdownlint/rules/docsify-markdown-suffix.js && stylelint 'themes/cold-tavern/**/*.css'"
+    "test": "htmlhint _site/**/*.html && npx markdownlint '**/*.md' --ignore node_modules && stylelint 'assets/styles/**/*.css'"
   },
   "dependencies": {
-    "@fortawesome/fontawesome-free": "^6.2.1",
-    "docsify": "^4.13.0",
-    "docsify-page-preview": "^0.0.3",
-    "docsify-pagination": "^2.10.1",
-    "docsify-progress": "^1.0.3",
-    "docsify-themeable": "^0.9.0",
-    "itch": "^0.2.2",
-    "marked": ">=4.2.4",
-    "prismjs": ">=1.29.0"
+    "@fortawesome/fontawesome-free": "^6.5.2",
+    "vellum-doc": "^0.4.2"
   },
   "devDependencies": {
-    "docsify-cli": "^4.4.4",
-    "gh-pages": "^4.0.0",
+    "@11ty/eleventy": "^2.0.1",
+    "gh-pages": "^6.1.1",
     "htmlhint": "^1.1.4",
-    "markdownlint-cli": "^0.32.2",
-    "replace": "^1.2.2",
-    "stylelint": "^14.16.0",
-    "stylelint-config-standard": "^29.0.0"
+    "markdownlint-cli": "^0.41.0",
+    "stylelint": "^16.6.1",
+    "stylelint-config-standard": "^36.0.0"
   }
 }

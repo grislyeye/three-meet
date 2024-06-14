@@ -1,4 +1,9 @@
-# Contributing
+---
+index: 602
+permalink: false
+tags: pages
+---
+### Contributing
 
 Guide
 
@@ -13,7 +18,7 @@ Related projects include:
 - [Three Meet character sheet](https://github.com/grislyeye/three-meet-char-sheet)
 - [Docsify](https://docsify.js.org)
 
-## Install
+#### Install
 
 Instructions
 
@@ -29,7 +34,7 @@ $ git clone git@github.com:grislyeye/three-meet.git
 $ cd three-meet
 ```
 
-## Run
+#### Run
 
 Instructions
 
@@ -40,7 +45,7 @@ $ npm install
 $ npm start
 ```
 
-## Deploy
+#### Deploy
 
 Instructions
 
@@ -60,17 +65,17 @@ $ npm run itch:deploy
 
 **Note:** Three Meet uses [semantic versioning](https://semver.org/).
 
-## Style Guide
+#### Style Guide
 
 Guide
 
-### 1. Punctuation
+##### 1. Punctuation
 
 1. Introduce bulleted or numbered lists with a full sentence.
 2. Each list item begins with a capital letter.
 3. Use closing punctuation if the lists contains full sentences.
 
-### 2. Terminology
+##### 2. Terminology
 
   1. Key terms should be in bold and capitalised for emphasis, e.g. **Proficiency**.
   2. Key terms should be linked, e.g. [Proficiency](./pages/rules/proficiency.md).
@@ -79,30 +84,30 @@ Guide
   4. Avoid using too many key terms in a text block to prevent visual overload.
   5. Dice rolls should be in bold, including modifiers.
 
-### 3. Numerals
+##### 3. Numerals
 
   1. Whole numbers from 0 to 101 should be spelled out.
   2. Exceptions include:
   3. Game traits with numerical values.
 
-### 4. Person
+##### 4. Person
 
   1. Rules should be addressed to the reader, in the first person. For example, "you roll for" rather than "the player rolls".
 
-### 5. Space
+##### 5. Space
 
   1. Where reasonable, attempts should be made to keep pages short enough that the text doesn't scroll on a typical desktop view.
      1. Exclusions to this include:
         1. Directories of items, such as lists of skill descriptions.
         2. Large amounts of reference material that would be important to a player, such as a class or background.
 
-### 6. Spelling
+##### 6. Spelling
 
   1. British English spelling should be used.
 
-## Rules Guide
+#### Rules Guide
 
-### Features
+##### Features
 
   1. Good features can:
      1. Make an exception to the rules.
@@ -126,7 +131,7 @@ Guide
      4. Give too many [Proficiencies](./pages/rules/proficiency.md) (usually more than 1).
      5. Duplicate a **Skill**.
 
-## Future Work
+#### Future Work
 
 Guide
 

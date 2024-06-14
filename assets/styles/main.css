@@ -1,0 +1,81 @@
+@import url("https://fonts.googleapis.com/css?family=Alegreya:400,400italic,700italic,700");
+@import url("https://fonts.googleapis.com/css?family=Alegreya+Sans+SC:400,400italic,700italic,700");
+@import url("_headers.css");
+@import url("_sidebar.css");
+@import url("_search.css");
+@import url("_table.css");
+@import url("_links.css");
+@import url("_lists.css");
+@import url("_example-roll.css");
+@import url("_summaries.css");
+@import url("_spells.css");
+@import url("_content.css");
+@import url("_beta.css");
+@import url("_preview.css");
+
+html {
+  scroll-behavior: smooth;
+
+  --gap: 50px;
+  --theme-color: rgb(237 237 237);
+}
+
+body {
+  font-size: 18pt;
+  font-family: Alegreya, serif;
+  background-color: black;
+  color: var(--theme-color);
+  margin: 0;
+  padding: 0;
+}
+
+#document {
+  line-height: 1.15;
+  font-size: 20pt;
+  padding-left: 1em;
+  padding-right: 2em;
+}
+
+vellum-doc {
+  --index-width: 250px;
+  --index-level-1-font: bold 2.5em 'Alegreya';
+  --index-level-2-font: small-caps bold 1.15em 'Alegreya';
+  --index-level-3-font: 1em 'Alegreya';
+  --index-level-4-font: 1em 'Alegreya';
+}
+
+vellum-doc::part(index) {
+  color: black;
+  background: rgb(239 239 239);
+  font-family: Alegreya, serif;
+  font-size: 12pt;
+  padding-right: 1em;
+  padding-left: 1em;
+  border-right: none;
+}
+
+.anchor span {
+  color: white;
+}
+
+.anchor:hover {
+  text-decoration: none;
+}
+
+.content strong {
+  color: white;
+}
+
+@media screen and (max-width: 850px) {
+  .content {
+    width: 90%;
+    margin-left: 30px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .content {
+    width: 100%;
+    margin-left: 0;
+  }
+}
