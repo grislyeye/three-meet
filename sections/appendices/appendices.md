@@ -1,5 +1,5 @@
 ---
-index: 600
+index: 700
 permalink: false
 tags: pages
 ---

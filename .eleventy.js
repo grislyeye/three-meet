@@ -1,4 +1,6 @@
 const project = require('./package.json');
+const replaceLink = require('markdown-it-replace-link');
+const path = require("path")
 
 function byIndex(left, right) {
   const a = left.data.index ? Number.parseInt(left.data.index) : 0;
@@ -23,4 +25,21 @@ module.exports = function (eleventyConfig) {
   );
 
   eleventyConfig.addGlobalData("project", project);
+
+  eleventyConfig.amendLibrary("md", (mdLib) => mdLib.use(replaceLink, {
+    replaceLink: function (link) {
+      const isUrl = URL.canParse(link);
+      const file = path.parse(link);
+
+      if (!isUrl && file.ext === '.md') {
+        const anchor = file.name;
+        return `#${anchor}`;
+      } else if (!isUrl && file.ext.startsWith('.md#')) {
+        const anchor = file.ext.split('#').pop();
+        return `#${anchor}`;
+      }
+
+      return link;
+    }
+  }));
 };

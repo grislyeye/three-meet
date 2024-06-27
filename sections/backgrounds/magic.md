@@ -3,6 +3,6 @@ index: 210
 permalink: false
 tags: pages
 ---
-## Magic
+### Magic Specialties
 
 Rule
