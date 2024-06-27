@@ -1,8 +1,7 @@
 .content .summaries {
   display: grid;
   grid-template-columns: 50% 50%;
-  column-gap: 2rem;
-  row-gap: 2rem;
+  gap: 2rem;
   margin-top: 2em;
 }
 

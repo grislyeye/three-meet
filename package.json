@@ -18,7 +18,7 @@
     "start": "npx @11ty/eleventy --serve --quiet",
     "predeploy": "npm run clean && npm run build && npm run test",
     "deploy": "gh-pages -d dist -b gh-pages -t",
-    "test": "htmlhint _site/**/*.html && npx markdownlint '**/*.md' --ignore node_modules && stylelint 'assets/styles/**/*.css'"
+    "test": "htmlhint _site/**/*.html && markdownlint *.md sections/** && stylelint 'assets/styles/**/*.css'"
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.5.2",

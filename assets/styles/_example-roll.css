@@ -45,7 +45,7 @@
   text-align: center;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (width < 768px) {
   .content div.example-roll {
     display: flex;
     align-items: center;
@@ -53,7 +53,7 @@
   }
 }
 
-@media screen and (max-width: 690px) {
+@media screen and (width < 690px) {
   .content div.example-roll {
     font-size: 1em;
   }
