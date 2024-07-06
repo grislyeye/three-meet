@@ -1,4 +1,9 @@
-# Design Notes
+---
+index: 701
+permalink: false
+tags: pages
+---
+### Design Notes
 
 Guide
 
@@ -8,7 +13,7 @@ The rules have been been adapted from 5E for low/grimdark fantasy. Modified as f
 
 <section class="summary">
 
-## Low Powered
+#### Low Powered
 
 Guide
 
@@ -18,7 +23,7 @@ Classes aren't as powerful. You can only advance to 10th level. And the distinct
 
 <section class="summary">
 
-## Low Magic
+#### Low Magic
 
 Guide
 
@@ -30,51 +35,51 @@ Magical creatures are extremely rare, and many mechanics from spells and monster
 
 <section class="summary">
 
-## Meaningful Terms
+#### Meaningful Terms
 
 Guide
 
-5E comes with a lot of obscure terminology, like HP, saving throws and AC. Three Meet uses natural language terms, such as [Stamina](./pages/combat/stamina.md) or [Saves](./pages/rules/rolling/saves.md).
+5E comes with a lot of obscure terminology, like HP, saving throws and AC. Three Meet uses natural language terms, such as [Stamina](sections/combat/stamina.md) or [Saves](sections/rules/rolling/saves.md).
 
 </section>
 
 <section class="summary">
 
-## Simplified Attributes
+#### Simplified Attributes
 
 Guide
 
 I've always found the 5E ability scores confusing and ambiguous.
 
-In **Three Meet** ability scores have been merged into three [Attributes](./pages/characters/attributes.md): [Might](./pages/characters/attributes.md#might) (Strength and Constitution), [Cunning](./pages/characters/attributes.md#cunning) (Dexterity and Charisma), and [Wisdom](./pages/characters/attributes.md#wisdom) (Intelligence and Wisdom).
+In **Three Meet** ability scores have been merged into three [Attributes](sections/characters/attributes.md): [Might](sections/characters/attributes.md#might) (Strength and Constitution), [Cunning](sections/characters/attributes.md#cunning) (Dexterity and Charisma), and [Wisdom](sections/characters/attributes.md#wisdom) (Intelligence and Wisdom).
 
 </section>
 
 <section class="summary">
 
-## No Races
+#### No Races
 
 Guide
 
-Avoiding issues with traditional races, **Three Meet** does away with them. Instead, [Backgrounds](./pages/backgrounds/index.md) provide the kinds of features gained through lived experience, training, or fortune.
+Avoiding issues with traditional races, **Three Meet** does away with them. Instead, [Backgrounds](sections/backgrounds/backgrounds.md) provide the kinds of features gained through lived experience, training, or fortune.
 
 </section>
 
 <section class="summary">
 
-## Utility Features in Backgrounds
+#### Utility Features in Backgrounds
 
 Guide
 
-Utility features have been removed from classes, and moved to [Backgrounds](./pages/backgrounds/index.md). [Class](./pages/class/index.md) features are combat-related only.
+Utility features have been removed from classes, and moved to [Backgrounds](sections/backgrounds/backgrounds.md). Class features are combat-related only.
 
-The intention is that [Backgrounds](./pages/backgrounds/index.md) provide the fictional archetypes, while [Classes](./pages/classes/index.md) focus on combat-related features.
+The intention is that [Backgrounds](sections/backgrounds/backgrounds.md) provide the fictional archetypes, while [Classes](sections/classes/classes.md) focus on combat-related features.
 
 </section>
 
 <section class="summary">
 
-## Abstract Details
+#### Abstract Details
 
 Guide
 
@@ -86,19 +91,19 @@ Guide
 
 <section class="summary">
 
-## 1st-Level Sub-classes
+#### 1st-Level Sub-classes
 
 Guide
 
 All classes can be specialised at 1st-level, so players can have create the character concept they want without having to level up.
 
-For this reason the classes have been consolidated into three classes: [The Mighty](./pages/classes/mighty.md), [The Cunning](./pages/classes/cunning.md), and [The Wise](./pages/classes/wise.md).
+For this reason the classes have been consolidated into three classes: [The Mighty](sections/classes/mighty.md), [The Cunning](sections/classes/cunning.md), and [The Wise](sections/classes/wise.md).
 
 </section>
 
 <section class="summary">
 
-## Short and Clear
+#### Short and Clear
 
 Guide
 
@@ -110,11 +115,11 @@ As part of this we avoid hand holding and assume you are familiar with common ta
 
 <section class="summary">
 
-## 5E Core
+#### Pathfinder Second Edition Core
 
 Guide
 
-Except for the above, we try to keep to the solid core of the 5E rules.
+Except for the above, we try to keep to the solid core of the Pathfinder Second Edition rules, and to be mostly compatible.
 
 </section>
 

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no"/>
+
+  <title>{{ site.title }}</title>
+
+  <link href="assets/styles/main.css" rel="stylesheet" />
+
+  <script type="module">
+    import './vendor/vellum-doc/vellum-doc.js'
+  </script>
+
+  <script type="importmap">
+    {
+      "imports": {
+        "lit": "/vendor/@lit/index.js",
+        "lit/": "/vendor/@lit/"
+      }
+    }
+  </script>
+</head>
+
+<body>
+
+<vellum-doc headings="h1,h2,h3">
+<article id="document" class="content">
+
+{%- for page in collections.index -%}
+
+{{ page.content }}
+
+{%- endfor -%}
+
+</article>
+</vellum-doc>
+
+</body>
+
+</html>

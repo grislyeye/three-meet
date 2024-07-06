@@ -1,6 +1,11 @@
+---
+index: 1
+permalink: false
+tags: pages
+---
 # Three Meet
 
-A low-fantasy 5E hack for dark times
+A low-fantasy Pathfinder hack for dark times
 
 To start playing:
 
@@ -8,7 +13,7 @@ To start playing:
 
 <section class="summary">
 
-## Prepare
+#### Prepare
 
 Step 1
 
@@ -21,32 +26,32 @@ Step 1
 
 <section class="summary">
 
-## Create a character
+#### Create a character
 
 Step 2
 
-  + Assign one of +2, +1 and -1 to each of your [Attributes](./pages/characters/attributes.md)
-  + Choose a [Background](./pages/backgrounds/index.md)
-  + You may choose a [Magic Speciality](./pages/backgrounds/magic.md) if your GM allows
-  + Choose a [Class](./pages/classes/index.md)
-  + Choose your [Allegiances](./pages/characters/allegiances.md)
+  + Assign one of +2, +1 and -1 to each of your [Attributes](section/characters/attributes.md)
+  + Choose a [Background](section/backgrounds/backgrounds.md)
+  + You may choose a [Magic Speciality](section/backgrounds/magic.md) if your GM allows
+  + Choose a [Class](section/classes/classes.md)
+  + Choose your [Allegiances](section/characters/allegiances.md)
 
 </section>
 
 <section class="summary">
 
-## Learn the rules
+#### Learn the rules
 
 Step 3
 
-  + Read the [Basic Rules](./pages/rules/rolling.md)
-  + Read the [Combat Rules](./pages/combat/order.md)
+  + Read the [Basic Rules](section/rules/rules.md)
+  + Read the [Combat Rules](section/combat/combat.md)
 
 </section>
 
 <section class="summary">
 
-## Play
+#### Play
 
 Step 4
 
