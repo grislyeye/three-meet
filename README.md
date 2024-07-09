@@ -1,3 +1,5 @@
+> [!WARNING] Due to the licensing issues surrounding the OGL work has halted on this project indefinitely and this project is now archived.
+
 # Three Meet
 
 A low-fantasy 5E hack for dark times
