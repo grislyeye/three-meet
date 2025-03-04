@@ -34,7 +34,7 @@
   },
   "devDependencies": {
     "docsify-cli": "^4.4.4",
-    "gh-pages": "^4.0.0",
+    "gh-pages": "^5.0.0",
     "htmlhint": "^1.1.4",
     "markdownlint-cli": "^0.32.2",
     "replace": "^1.2.2",
